@@ -1,0 +1,89 @@
+---
+granule: CREC-2004-11-16-pt1-PgH9700-3
+date: 2004-11-16
+edition: CREC
+section: HOUSE
+page: H9700
+citation: 150 Cong. Rec. H9700
+---
+
+# IN PURSUIT OF SOCIAL AND ECONOMIC JUSTICE
+
+**Speaking:** Brown, Sherrod (B000944) [D-OH]
+
+```
+               IN PURSUIT OF SOCIAL AND ECONOMIC JUSTICE
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Ohio (Mr. Brown) is recognized for 5 minutes.
+  Mr. BROWN of Ohio. Mr. Speaker, on November 2, Ohio Democrats took 
+our moral values to the polls. For many of us, our faith guided us, 
+too, and our final vote for President was far too close to declare us 
+or assail us, as some now do, as a State full of evangelical 
+fundamentalists. For many of us, moral values are grounded in our 
+religious faith. My Lutheran upbringing instructs me, and my fellow 
+Christians, in the teachings of Jesus, to read and to follow as best we 
+can the words of the Beatitudes, to try to live our lives and practice 
+our faiths as Jesus would have wanted us to. For others of us, those 
+moral values take the form of a faith in our country's greatness to 
+solve our most pressing problems of racial inequality and inaccessible 
+health care, the poverty of millions of American children, and the war 
+in Iraq.
+  For 3 years I have worn a lapel pin depicting a canary in a cage. A 
+century ago, miners took a canary into the mines to warn them of toxic 
+gases. Miners were forced to provide for their own protection. No mine 
+safety laws. No trade unions able to help. No real support from their 
+government.
+  A baby born 100 years ago had a life expectancy of about 47 years. 
+Today, because of public health initiatives, worker safety laws, 
+Medicare and Social Security, we live decades longer. Every bit of 
+progress in the struggle for economic and social justice, often rooted 
+in our Judeo-Christian beliefs, every bit of progress prevailed over 
+the opposition of society's most privileged and most powerful.
+  Today, those struggles continue. Our fight for seniors who are forced 
+to choose between medicine and food and our fight against the large 
+pharmaceutical companies' greed is our understanding of the Holy Word. 
+Our opposition to tax cuts for America's most privileged adults and 
+Head Start cuts afflicting our least privileged children follow from 
+the teachings of Christ. Our opposition to the death penalty, George 
+Bush approved an execution of a Texan every 2 weeks as Governor, is 
+grounded in the Scriptures. And our belief that government programs 
+like Medicare and Social Security, not privatized imitations of them, 
+should serve all Americans bespeaks a faith in the greatness of our 
+country and its ability and willingness to lift up all of God's 
+children.
+
+                              {time}  1915
+
+  As we have seen over the last 4 years, Republicans campaign on their 
+religious beliefs and on their moral values, mostly opposition to 
+abortion and gay marriage; and then they govern for and with their 
+corporate allies and contributors.
+  On this floor of the House of Representatives, in the light of day, 
+we hear much talk about moral values. But in the committee rooms and 
+the cloakrooms, choices are made that run counter to the teachings of 
+Christ and Mohammed and the Jewish prophets, and fly in the face of the 
+values upon which this Nation was founded.
+  This Congress hurts families by underfunding Leave No Child Behind 
+and college student loans, while giving tax cuts to the wealthiest 
+among us. This Congress hurts the elderly by defeating legislation to 
+bring down the price of prescription drugs and then passing a Medicare 
+bill that further enriches the drug industry and insurance companies. 
+This Congress hurts God's Earth when it caves to the energy and 
+chemical companies. This Congress hurts our communities when it gives 
+tax breaks to encourage the largest corporations, most of them big 
+contributors to the Bush administration, to outsource our jobs. And 
+this Congress hurts our grandchildren when it loads huge burdens of 
+debt on future generations.
+  Tens of thousands of Ohioans worked feverishly for months to help 
+change our Nation's course because of their moral values, because of 
+their faith in God, because of their belief in our Nation's history of 
+using the Biblical term ``taking care of the least among us.''
+  In no way do I question the faith of my political opponents. But I am 
+weary of the far right's claim that they are the only ones guided by 
+the hand of God. My understanding of the teachings of Christ and my 
+religious upbringing call me to walk a different path and to express 
+and act upon my faith in the cause of social and economic justice.
+
+                          ____________________
+```

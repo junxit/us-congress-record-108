@@ -1,0 +1,29 @@
+---
+granule: CREC-2004-11-16-pt1-PgS11396-2
+date: 2004-11-16
+edition: CREC
+section: SENATE
+page: S11396
+citation: 150 Cong. Rec. S11396
+---
+
+# WITHDRAWALS
+
+```
+                              WITHDRAWALS
+
+  Executive message transmitted by the President to the Senate on 
+November 16, 2004, withdrawing from further Senate consideration the 
+following nominations:
+       ANN C. ROSENTHAL, OF IOWA, TO BE A MEMBER OF THE BOARD OF 
+     DIRECTORS OF THE NATIONAL INSTITUTE OF BUILDING SCIENCES FOR 
+     A TERM EXPIRING SEPTEMBER 7, 2003, WHICH WAS SENT TO THE 
+     SENATE ON JUNE 12, 2003.
+       ANN C. ROSENTHAL, OF IOWA, TO BE A MEMBER OF THE BOARD OF 
+     DIRECTORS OF THE NATIONAL INSTITUTE OF BUILDING SCIENCES FOR 
+     A TERM EXPIRING SEPTEMBER 7, 2006, WHICH WAS SENT TO THE 
+     SENATE ON JUNE 12, 2003.
+       LAWRENCE T. DI RITA, OF MICHIGAN, TO BE AN ASSISTANT 
+     SECRETARY OF DEFENSE, WHICH WAS SENT TO THE SENATE ON 
+     NOVEMBER 21, 2003.
+```
