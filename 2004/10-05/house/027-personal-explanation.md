@@ -1,0 +1,32 @@
+---
+granule: CREC-2004-10-05-pt1-PgH8063
+date: 2004-10-05
+edition: CREC
+section: HOUSE
+page: H8063
+citation: 150 Cong. Rec. H8063
+---
+
+# PERSONAL EXPLANATION
+
+**Speaking:** Abercrombie, Neil (A000014) [D-HI]
+
+**Measures:** S. 878
+
+```
+                          PERSONAL EXPLANATION
+
+  Mr. ABERCROMBIE. Madam Speaker, in accordance with a leave of absence 
+approved earlier today, I was unavoidably absent from the House. Had I 
+been present, I would have voted as follows:
+  Rollcall: 490, Previous Question on the rule for S. 878, ``no''; 491, 
+Rule for consideration of S. 878, ``no''; 492, Simpson Amendment to S. 
+878, ``no''; 493, Motion to recommit S. 878 with instructions, ``yes.''
+  The SPEAKER pro tempore. The question is on the passage of the bill.
+  The bill was passed.
+  The title of the bill was amended so as to read: ``A bill to create 
+additional Federal court judgeships.''.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```

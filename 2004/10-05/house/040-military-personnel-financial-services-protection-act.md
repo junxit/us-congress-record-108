@@ -1,0 +1,1050 @@
+---
+granule: CREC-2004-10-05-pt1-PgH8104
+date: 2004-10-05
+edition: CREC
+section: HOUSE
+page: H8104
+citation: 150 Cong. Rec. H8104
+---
+
+# MILITARY PERSONNEL FINANCIAL SERVICES PROTECTION ACT
+
+**Speaking:** Baker, Richard H. (B000072) [R-LA], Emanuel, Rahm (E000287) [D-IL], Burns, Max (B001249) [R-GA], Frank, Barney (F000339) [D-MA], Ryun, Jim (R000566) [R-KS], Israel, Steve (I000057) [D-NY], Carter, John R. (C001051) [R-TX], Edwards, Chet (E000063) [D-TX], Oxley, Michael G. (O000163) [R-OH], Tauscher, Ellen O. (T000057) [D-CA]
+
+**Measures:** H.R. 5011
+
+```
+          MILITARY PERSONNEL FINANCIAL SERVICES PROTECTION ACT
+
+  Mr. BAKER. Mr. Speaker, I move to suspend the rules and pass the bill 
+(H.R. 5011) to prevent the sale of abusive insurance and investment 
+products to military personnel, as amended.
+  The Clerk read as follows:
+
+                               H.R. 5011
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Military Personnel Financial 
+     Services Protection Act''.
+
+     SEC. 2. CONGRESSIONAL FINDINGS.
+
+       The Congress finds the following:
+       (1) Our military personnel perform great sacrifices in 
+     protecting our Nation in the War on Terror and promoting 
+     democracy abroad.
+       (2) Our brave men and women in uniform deserve to be 
+     offered first-rate financial products in order to provide for 
+     their families and to save and invest for retirement.
+       (3) Our military personnel are being offered high-cost 
+     securities and life insurance products by some financial 
+     services companies engaging in abusive and misleading sales 
+     practices.
+       (4) One securities product being offered to our service 
+     members, the contractual plan, has largely disappeared from 
+     the civilian market since the 1980s due to its excessive 
+     sales charges and the emergence of low-cost products. A 50-
+     percent sales commission is typically assessed against the 
+     first year of contributions made under a contractual plan, 
+     even though the average commission on other securities 
+     products such as mutual funds is less than 6 percent on each 
+     sale.
+       (5) The excessive sales charge of the contractual plan 
+     makes it susceptible to abusive and misleading sales 
+     practices.
+       (6) Certain life insurance products being offered to our 
+     service members are being improperly marketed as investment 
+     products. These products provide very low death benefits for 
+     very high premiums that are front-loaded in the first few 
+     years, making them completely inappropriate for most military 
+     personnel.
+       (7) Regulation of these securities and life insurance 
+     products and their sale on military bases has been clearly 
+     inadequate and requires Congressional legislation to address.
+
+     SEC. 3. PROHIBITION ON FUTURE SALES OF PERIODIC PAYMENT 
+                   PLANS.
+
+       (a) Amendment.--Section 27 of the Investment Company Act of 
+     1940 (15 U.S.C. 80a-27) is amended by adding at the end the 
+     following new subsection:
+       ``(j) Termination of Sales.--
+       ``(1) Termination.--Effective 30 days after the date of 
+     enactment of the Military Personnel Financial Services 
+     Protection Act, it shall be unlawful, subject to subsection 
+     (i)--
+       ``(A) for any registered investment company to issue any 
+     periodic payment plan certificate; or
+       ``(B) for such company, or any depositor of or underwriter 
+     for any such company, or any other person, to sell such a 
+     certificate.
+       ``(2) No invalidation of existing certificates.--Paragraph 
+     (1) shall not be construed to alter, invalidate, or otherwise 
+     affect any rights or obligations, including rights of 
+     redemption, under any periodic payment plan certificate 
+     issued and sold before 30 days after such date of 
+     enactment.''.
+       (b) Technical Amendment.--Section 27(i)(2)(B) of such Act 
+     is amended by striking ``section 26(e)'' each place it 
+     appears and inserting ``section 26(f)''.
+       (c) Report on Refunds, Sales Practices, and Revenues From 
+     Periodic Payment Plans.--Within 6 months after the date of 
+     enactment of this Act, the Securities and Exchange Commission 
+     shall submit to the Committee on Financial Services of the 
+     House of Representatives and the Committee on Banking, 
+     Housing, and Urban Affairs of the Senate, a report 
+     describing--
+       (1) any measures taken by a broker or dealer registered 
+     with the Securities and Exchange Commission pursuant to 
+     section 15(b) of the Securities Exchange Act of 1934 (15 
+     U.S.C. 78o(b)) to voluntarily refund payments made by 
+     military service members on any periodic payment plan 
+     certificate, and the amounts of such refunds;
+       (2) after such consultation with the Secretary of Defense 
+     as the Commission considers appropriate, the sales practices 
+     of such brokers or dealers on military installations over the 
+     past 5 years and any legislative or regulatory 
+     recommendations to improve such practices; and
+       (3) the revenues generated by such brokers or dealers in 
+     the sales of periodic payment plan certificates over the past 
+     5 years and what products such brokers or dealers market to 
+     replace the revenue generated from the sales of periodic 
+     payment plan certificates prohibited under subsection (a) of 
+     this section.
+
+     SEC. 4. METHOD OF MAINTAINING BROKER/DEALER REGISTRATION, 
+                   DISCIPLINARY, AND OTHER DATA.
+
+       Subsection (i) of section 15A of the Securities Exchange 
+     Act of 1934 (15 U.S.C. 78o-3(i)) is amended to read as 
+     follows:
+       ``(i) Obligation to Maintain Registration, Disciplinary and 
+     Other Data.--
+       ``(1) Maintenance of system to respond to inquiries.--A 
+     registered securities association shall--
+       ``(A) establish and maintain a system for collecting and 
+     retaining registration information;
+       ``(B) establish and maintain a toll-free telephone listing, 
+     and a readily accessible electronic or other process, to 
+     receive and promptly respond to inquiries regarding--
+       ``(i) registration information on its members and their 
+     associated persons; and
+       ``(ii) registration information on the members and their 
+     associated persons of any registered national securities 
+     exchange that uses the system described in subparagraph (A) 
+     for the registration of its members and their associated 
+     persons; and
+       ``(C) adopt rules governing the process for making 
+     inquiries and the type, scope, and presentation of 
+     information to be provided in response to such inquiries in 
+     consultation with any registered national securities exchange 
+     providing information pursuant to subparagraph (B)(ii).
+       ``(2) Recovery of costs.--Such an association may charge 
+     persons making inquiries, other than individual investors, 
+     reasonable fees for responses to such inquiries.
+
+[[Page H8105]]
+
+       ``(3) Process for disputed information.--Such an 
+     association shall adopt rules establishing an administrative 
+     process for disputing the accuracy of information provided in 
+     response to inquiries under this subsection in consultation 
+     with any registered national securities exchange providing 
+     information pursuant to paragraph (1)(B)(ii).
+       ``(4) Limitation of liability.--Such an association, or an 
+     exchange reporting information to such an association, shall 
+     not have any liability to any person for any actions taken or 
+     omitted in good faith under this subsection.
+       ``(5) Definition.--For purposes of this subsection, the 
+     term `registration information' means the information 
+     reported in connection with the registration or licensing of 
+     brokers and dealers and their associated persons, including 
+     disciplinary actions, regulatory, judicial, and arbitration 
+     proceedings, and other information required by law, or 
+     exchange or association rule, and the source and status of 
+     such information.''.
+
+     SEC. 5. FILING DEPOSITORIES FOR INVESTMENT ADVISERS.
+
+       (a) Amendment.--Section 204 of the Investment Advisers Act 
+     of 1940 (15 U.S.C. 80b-4) is amended--
+       (1) by striking ``Every investment'' and inserting the 
+     following:
+       ``(a) In General.--Every investment''; and
+       (2) by adding at the end the following:
+       ``(b) Filing Depositories.--The Commission may, by rule, 
+     require an investment adviser--
+       ``(1) to file with the Commission any fee, application, 
+     report, or notice required to be filed by this title or the 
+     rules issued under this title through any entity designated 
+     by the Commission for that purpose; and
+       ``(2) to pay the reasonable costs associated with such 
+     filing and the establishment and maintenance of the systems 
+     required by subsection (c).
+       ``(c) Access to Disciplinary and Other Information.--
+       ``(1) Maintenance of system to respond to inquiries.--The 
+     Commission shall require the entity designated by the 
+     Commission under subsection (b)(1) to establish and maintain 
+     a toll-free telephone listing, or a readily accessible 
+     electronic or other process, to receive and promptly respond 
+     to inquiries regarding registration information (including 
+     disciplinary actions, regulatory, judicial, and arbitration 
+     proceedings, and other information required by law or rule to 
+     be reported) involving investment advisers and persons 
+     associated with investment advisers.
+       ``(2) Recovery of costs.--An entity designated by the 
+     Commission under subsection (b)(1) may charge persons making 
+     inquiries, other than individual investors, reasonable fees 
+     for responses to inquiries made under paragraph (1).
+       ``(3) Limitation on liability.--An entity designated by the 
+     Commission under subsection (b)(1) shall not have any 
+     liability to any person for any actions taken or omitted in 
+     good faith under this subsection.''.
+       (b) Conforming Amendments.--
+       (1) Section 203A of the Investment Advisers Act of 1940 (15 
+     U.S.C. 80b-3a) is amended--
+       (A) by striking subsection (d); and
+       (B) by redesignating subsection (e) as subsection (d).
+       (2) Section 306 of the National Securities Markets 
+     Improvement Act of 1996 (15 U.S.C. 80b-10, note; P.L. 104-
+     290; 110 Stat. 3439) is repealed.
+
+     SEC. 6. STATE INSURANCE JURISDICTION ON MILITARY 
+                   INSTALLATIONS.
+
+       (a) Clarification of Jurisdiction.--Any law, regulation, or 
+     order of a State with respect to regulating the business of 
+     insurance shall apply to insurance activities conducted on 
+     Federal land or facilities in the United States and abroad, 
+     including military installations, except to the extent that 
+     such law, regulation, or order--
+       (1) directly conflicts with any applicable Federal law, 
+     regulation, or authorized directive; or
+       (2) would not apply if such activity were conducted on 
+     State land.
+       (b) Primary State Jurisdiction.--To the extent that 
+     multiple State laws would otherwise apply pursuant to 
+     subsection (a) to an insurance activity of an individual or 
+     entity on Federal land or facilities, the State having the 
+     primary duty to regulate such activity and whose laws shall 
+     apply to such activity in the case of a conflict shall be--
+       (1) the State within which the Federal land or facility is 
+     located; or
+       (2) if the Federal land or facility is located outside of 
+     the United States, the State in which--
+       (A) in the case of an individual engaged in the business of 
+     insurance, such individual has been issued a resident 
+     license; or
+       (B) in the case of an entity engaged in the business of 
+     insurance, such entity is domiciled.
+
+     SEC. 7. REQUIRED DEVELOPMENT OF MILITARY PERSONNEL PROTECTION 
+                   STANDARDS REGARDING INSURANCE SALES.
+
+       (a) State Standards.--The Congress intends that--
+       (1) the States collectively work with the Secretary of 
+     Defense to ensure implementation of appropriate standards to 
+     protect members of the Armed Forces from dishonest and 
+     predatory insurance sales practices while on a military 
+     installation of the United States (including installations 
+     located outside of the United States); and
+       (2) each State identify its role in promoting the standards 
+     described in paragraph (1) in a uniform manner within 12 
+     months after the date of the enactment of this Act.
+       (b) State Report.--It is the sense of the Congress that the 
+     NAIC should, after consultation with the Secretary of Defense 
+     and within 12 months after the date of the enactment of this 
+     Act, conduct a study to determine the extent to which the 
+     States have met the requirement of subsection (a) and report 
+     such study to the Committee on Financial Services of the 
+     House of Representatives and the Committee on Banking, 
+     Housing, and Urban Affairs of the Senate.
+
+     SEC. 8. REQUIRED DISCLOSURES REGARDING LIFE INSURANCE.
+
+       (a) Requirement.--Except as provided in subsection (d), no 
+     insurer or producer may sell or solicit, in person, any life 
+     insurance product to any member of the Armed Forces on a 
+     military installation of the United States unless a 
+     disclosure in accordance with this section is provided to 
+     such member before the sale of such insurance.
+       (b) Disclosure.--A disclosure in accordance with this 
+     section is a written disclosure that--
+       (1) states that subsidized life insurance may be available 
+     to the member of the Armed Forces from the Federal 
+     Government;
+       (2) states that the United States Government has in no way 
+     sanctioned, recommended, or encouraged the sale of the 
+     product being offered;
+       (3) is made in plain and readily understandable language 
+     and in a type font at least as large as the font used for the 
+     majority of the policy; and
+       (4) with respect to a sale or solicitation on Federal land 
+     or facilities located outside of the United States by an 
+     individual or entity engaged in the business of insurance, 
+     except to the extent otherwise specifically provided by the 
+     laws of such State in reference to this Act, lists the 
+     address and phone number where consumer complaints are 
+     received by the State insurance commissioner for the State in 
+     which the individual has been issued a resident license or 
+     the entity is domiciled, as applicable.
+       (c) Enforcement.--If it is determined by a State or Federal 
+     agency, or in a final court proceeding, that any individual 
+     or entity has intentionally failed to provide a disclosure 
+     required by this section, such individual or entity shall be 
+     prohibited from further engaging in the business of insurance 
+     with respect to employees of the Federal Government on 
+     Federal land, except--
+       (1) with respect to existing policies; and
+       (2) to the extent required by the Federal Government 
+     pursuant to previous commitments.
+       (d) Exceptions.--
+       (1) Federal and state insurance activity.--This section 
+     shall not apply to insurance activities--
+       (A) specifically contracted by or through the Federal 
+     Government or any State government; or
+       (B) specifically exempted from the applicability of this 
+     Act by a Federal or State law, regulation, or order that 
+     specifically refers to this paragraph.
+       (2) Uniform state standards.--If a majority of the States 
+     have adopted, in materially identical form, a standard 
+     setting forth the disclosures required under this section 
+     that apply to insurance solicitations and sales to military 
+     personnel on military installations of the United States, 
+     after the expiration of the 2-year period beginning on such 
+     majority adoption, such standard shall apply in lieu of the 
+     requirements of this section to all insurance solicitations 
+     and sales to military personnel on military installations, 
+     with respect to such States, to the extent that such 
+     standards do not directly conflict with any applicable 
+     authorized Federal regulation or directive.
+       (3) Materially identical form.--For purposes of this 
+     subsection, standards adopted by more than one State shall be 
+     considered to have materially identical form to the extent 
+     that such standards require or prohibit identical conduct 
+     with respect to the same activity, notwithstanding that the 
+     standards may differ with respect to conduct required or 
+     prohibited with respect to other activities.
+
+     SEC. 9. IMPROVING LIFE INSURANCE PRODUCT STANDARDS.
+
+       (a) In General.--It is the sense of the Congress that the 
+     NAIC should, after consultation with the Secretary of Defense 
+     and within 12 months after the date of the enactment of this 
+     Act, conduct a study and submit a report to the Committee on 
+     Financial Services of the House of Representatives and the 
+     Committee on Banking, Housing, and Urban Affairs of the 
+     Senate on ways of improving the quality of and sale of life 
+     insurance products sold by insurers and producers on military 
+     installations of the United States, which may include 
+     limiting sales authority to companies and producers that are 
+     certified as meeting appropriate best practices procedures or 
+     creating standards for products specifically designed for 
+     members of the Armed Forces regardless of the sales location.
+       (b) Conditional GAO Report.--If the NAIC does not submit 
+     the report to the committees as described in subsection (a), 
+     the Comptroller General of the United States shall study any 
+     proposals that have been made to improve the quality and sale 
+     of life insurance products sold by insurers and producers on 
+     military installations of the United States and report to the 
+     Committee on Financial Services of the House of 
+     Representatives and the Committee on Banking, Housing, and 
+     Urban Affairs of the Senate on such
+
+[[Page H8106]]
+
+     proposals within 6 months after the expiration of the period 
+     referred to in subsection (a).
+
+     SEC. 10. REQUIRED REPORTING OF DISCIPLINED INSURANCE AGENTS.
+
+       (a) Reporting by Insurers.--After the expiration of the 2-
+     year period beginning on the date of the enactment of this 
+     Act, no insurer may enter into or renew a contractual 
+     relationship with a producer that solicits or sells life 
+     insurance on military installations of the United States 
+     unless the insurer has implemented a system to report, to the 
+     State insurance commissioner of the State of the domicile of 
+     the insurer and the State of residence of the insurance 
+     producer, disciplinary actions taken against the producer 
+     with respect to the producer's sales or solicitation of 
+     insurance on a military installation of the United States, as 
+     follows:
+       (1) Any disciplinary action taken by any government entity 
+     that the insurer knows has been taken.
+       (2) Any significant disciplinary action taken by the 
+     insurer.
+       (b) Reporting by States.--It is the sense of the Congress 
+     that within 2 years after the date of the enactment of this 
+     Act, the States should collectively implement a system to--
+       (1) receive reports of disciplinary actions taken against 
+     insurance producers by insurers or government entities with 
+     respect to the producers' sale or solicitation of insurance 
+     on a military installation; and
+       (2) disseminate such information to all other States and to 
+     the Secretary of Defense.
+
+     SEC. 11. REPORTING BARRED PERSONS SELLING INSURANCE OR 
+                   SECURITIES.
+
+       (a) Establishment.--The Secretary of Defense shall maintain 
+     a list of the name, address, and other appropriate 
+     information of persons engaged in the business of securities 
+     or insurance that have been barred, banned, or otherwise 
+     limited in any manner that is not generally applicable to all 
+     such type of persons, from any or all military installations 
+     of the United States.
+       (b) Notice and Access.--The Secretary shall ensure that--
+       (1) the appropriate Federal and State agencies responsible 
+     for securities and insurance regulation are promptly notified 
+     upon the inclusion or removal of a person under such 
+     agencies' jurisdiction; and
+       (2) the list is kept current and easily accessible--
+       (A) for use by such agencies; and
+       (B) for purposes of enforcing or considering any such bar, 
+     ban, or limitation by the appropriate Federal personnel, 
+     including commanders of military installations.
+       (c) Regulations.--
+       (1) In general.--The Secretary shall issue regulations in 
+     accordance with this subsection to provide for the 
+     establishment and maintenance of the list under this section, 
+     including appropriate due process considerations.
+       (2) Timing.--
+       (A) Proposed regulations.--Not later than the expiration of 
+     the 60-day period beginning on the date of the enactment of 
+     this Act, the Secretary shall prepare and submit to the 
+     appropriate Committees a copy of the regulations under this 
+     subsection that are proposed to be published for comment. The 
+     Secretary may not publish such regulations for comment in the 
+     Federal Register until the expiration of the 15-day period 
+     beginning upon such submission to the appropriate Committees.
+       (B) Final regulations.--Not later than 90 days after the 
+     date of the enactment of this Act, the Secretary shall submit 
+     to the appropriate Committees a copy of the regulations under 
+     this section to be published as final.
+       (C) Effective date.--Such regulations shall become 
+     effective upon the expiration of the 30-day period beginning 
+     upon such submission to the appropriate Committees.
+       (3) Definition.--For the purposes of this section, the term 
+     ``appropriate Committees'' means--
+       (A) the Committee on Financial Services and the Committee 
+     on Armed Services of the House of Representatives; and
+       (B) the Committee on Banking, Housing, and Urban Affairs 
+     and the Committee on Armed Services of the Senate.
+
+     SEC. 11. SENSE OF CONGRESS.
+
+       It is the sense of the Congress that the Federal and State 
+     agencies responsible for insurance and securities regulation 
+     should provide advice to the appropriate Federal entities to 
+     consider--
+       (1) significantly increasing the life insurance coverage 
+     made available through the Federal Government to members of 
+     the Armed Forces;
+       (2) implementing appropriate procedures to encourage 
+     members of the Armed Forces to improve their financial 
+     literacy and obtain objective financial counseling before 
+     purchasing additional life insurance coverage or investments 
+     beyond those provided by the Federal Government; and
+       (3) improving the benefits and matching contributions 
+     provided under the Thrift Savings Plan to members of the 
+     Armed Forces.
+
+     SEC. 12. DEFINITIONS.
+
+       For purposes of this Act, the following definitions shall 
+     apply:
+       (1) Entity.--The term ``entity'' includes insurers.
+       (2) Individual.--The term ``individual'' includes insurance 
+     agents and producers.
+       (3) NAIC.--The term ``NAIC'' means the National Association 
+     of Insurance Commissioners.
+       (4) State insurance commissioner.--The term ``State 
+     insurance commissioner'' means, with respect to a State, the 
+     officer, agency, or other entity of the State that has 
+     primary regulatory authority over the business of insurance 
+     and over any person engaged in the business of insurance, to 
+     the extent of such business activities, in such State.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Louisiana (Mr. Baker) and the gentleman from Illinois (Mr. Emanuel) 
+each will control 20 minutes.
+  The Chair recognizes the gentleman from Louisiana (Mr. Baker).
+
+
+                             General Leave
+
+  Mr. BAKER. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days within which to revise and extend their remarks 
+and include extraneous material on H.R. 5011.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Louisiana?
+  There was no objection.
+  Mr. BAKER. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, the members of the House Committee on Financial Services 
+and I assume many Members of the Congress were shocked to learn of 
+practices on military installations of this Nation wherein the practice 
+of bringing in retired military officers to meet with young enlisted 
+men and women to represent to them that financial investment 
+opportunities were being made available which, in fact, were not 
+financial investments but financial misfortune.
+  Young men and women, often headed to a theater of war, thinking they 
+were buying life insurance for their dependents and their spouses, 
+would return finding that the premiums paid yielded very little benefit 
+at high cost. Mutual fund investments, which often required half of the 
+first year's investment, went into the pockets of the broker.
+  It would be years in some cases before these young men or women would 
+find a financial return on what they thought would be an investment for 
+their family's future.
+  Upon learning of these revelations, the committee began its work and 
+made serious inquiries into the manner in which these actions were 
+permitted. The bill before the House today, the result of work by the 
+gentleman from Georgia (Mr. Burns), the gentleman from Illinois (Mr. 
+Emanuel) and other Members, takes an important stride forward in that 
+it would preclude the sale of contractual mutual fund products period 
+on military installations and, secondly, would require the 
+establishment of rules and regulations by State insurance commissioners 
+to ensure that types of activities previously engaged in here would 
+heretofore be prohibited.
+  This measure is one with which I believe both sides of the aisle can 
+strongly agree. I find it highly appropriate that, as young men and 
+women are preparing to stand in defense of this country, that this 
+Congress at least stand in defense of their financial security.
+  Mr. Speaker, I reserve the balance of my time.
+
+                              {time}  1700
+
+  Mr. EMANUEL. Mr. Speaker, I yield myself such time as I may consume.
+  (Mr. EMANUEL asked and was given permission to revise and extend his 
+remarks.)
+  Mr. EMANUEL. Mr. Speaker, I rise in strong support of this 
+legislation.
+  I would like to thank the gentleman from Louisiana (Chairman Baker) 
+and the gentleman from Ohio (Chairman Oxley) and the gentleman from 
+Massachusetts (Ranking Member Frank) and the gentleman from 
+Pennsylvania (Ranking Member Kanjorski) for helping give our enlistees 
+one more line of defense against unfair financial practices and also 
+their families.
+  I requested this hearing on July 20. We held a subcommittee hearing 
+quickly thereafter in early September, September 9, after a series of 
+articles in the New York Times on the sales practices of certain 
+financial services and industries and companies on our military bases 
+throughout the country. The New York Times had cited numerous cases of 
+abusive practices, including one instance in which a Coast Guard 
+officer went $16,000 into debt after he invested $600 of his $3,600 
+salary in a contractual mutual fund.
+  Many young recruits and enlistees are of modest financial means. In 
+fact, they are forced to draw on other government programs such as food 
+stamps to make ends meet and to feed their families, and the last thing 
+they need
+
+[[Page H8107]]
+
+are unnecessary types of financial products with high fees and little 
+financial benefit for them. There is simply no reason for some of these 
+investment vehicles or life insurance vehicles to be sold to them.
+  Take the contractual mutual fund which was in the 1960s discouraged 
+in the civilian market to the point that it is almost nonexistent. The 
+SEC had recommended to Congress then to ban it, but it basically ran 
+out of its purpose in the early 1980s. Today, I think in our hearing we 
+found out that, in fact, contractual mutual funds up to north of 95 
+percent of them exist only among the military and enlistees. They do 
+not exist today, for practical purposes, inside the civilian 
+population.
+  The question we have to ask ourselves, if contractual mutual funds 
+are not good for the civilian market, in fact, the SEC discourages 
+them, why would we allow them to be sold and marketed to our troops? If 
+we want to allow access to the military bases, fine, for other types of 
+financial needs for the financial security of our enlistees, but our 
+young men and women are not to be seen as ATM fee-generating machines 
+for the financial services industry.
+  This legislation requires new disclosure for life insurance products 
+so it is crystal clear to our men and women what is being sold, instead 
+of the information being buried in the fine print. Now companies will 
+have to give plain English documents telling them of subsidized life 
+insurance that is readily available through the Armed Forces and that 
+the government does not recommend this product.
+  In fact, the Armed Forces sells a product for $16.25 a month, 
+$250,000 in coverage, one of the things we had recommended; and I am 
+hoping later on maybe we can deal with it. The gentleman from Texas 
+(Mr. Edwards) and I recommended raising the cap in the military or on 
+the government program from $250,000 to 500,000. We should deal with 
+that need, and if enlistees want more life insurance they should be 
+able to get it; but in this case some of the companies were selling 
+life insurance products for about $1,500 for about $15,000 worth of 
+value, where the government offers and 96 percent of the enlistees are 
+enrolled, a product for $16.25 a month.
+  Also, during the hearing, we learned one other issue which I promised 
+to take up next year and I said it in the full committee, that, in 
+fact, in 2000 Congress permitted members of the Armed Forces to enroll 
+in the government Thrift Savings Program. Yet Members of Congress get a 
+match, but members of the armed services do not get a match for their 
+investment in their savings program. Although this was not the right 
+vehicle to deal with it, and we have a sense of the Congress that we 
+should in this legislation, I intend next year to introduce a piece of 
+legislation to authorize and then appropriate the dollars so enlistees 
+get what Members of Congress get or Members of Congress get what 
+enlistees get, but we are not going to have the disparity between the 
+two.
+  Finally, this legislation includes important provisions encouraging 
+State and Federal authorities to implement financial literacy programs 
+for enlisted personnel. Our troops need the basic financial knowledge 
+necessary to make good decisions, and they deserve these commonsense 
+measures to protect them from financial distress.
+  We in this Chamber can make a choice today. We can restore the values 
+that have kept our military strong and that we hold for the future of 
+our troops and their families. This bill could be another small measure 
+to help make the lives of our troops a little easier, and it sends a 
+message reminding them that we are deeply grateful for their service 
+and commitment to defending our Nation.
+  I encourage my colleagues to support this legislation.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. BAKER. Mr. Speaker, I yield 5 minutes to the gentleman from 
+Georgia (Mr. Burns) who introduced legislation early in this Congress 
+and encouraged the committee to act in a timely manner.
+  Mr. BURNS. Mr. Speaker, I thank the gentleman for yielding me time.
+  I would like to thank the gentleman from Ohio (Chairman Oxley) of the 
+Committee on Financial Services and the gentleman from Louisiana (Mr. 
+Baker), the subcommittee chairman. I would like to thank my 
+distinguished colleagues and the gentleman from Illinois (Mr. Emanuel) 
+for their support and input.
+  I rise in strong support of H.R. 5011, the Military Personnel 
+Financial Services Protection Act.
+  Mr. Speaker, I introduced H.R. 5011 to halt the fiscal abuse of our 
+servicemen and -women by those in the life insurance and securities 
+industry that use devious sales practices to collect exorbitant fees 
+and sales commissions.
+  Further, H.R. 5011 is targeted at those who use our Federal military 
+installations, both at home and abroad, as a shield to evade individual 
+State insurance regulations and restrictions.
+  The 12th district of Georgia that I represent is home to many active 
+duty, Reserve, and retired military personnel. I have Fort Gordon in 
+Augusta; Fort Stewart in Savannah. I have the Naval Supply Course 
+School in Athens. Georgia is represented by all branches of the 
+military service: Army, Air Force, Coast Guard, Marines and Navy.
+  In recent months, my office had become aware of servicemen and -women 
+residing in the 12th district and throughout the State of Georgia that 
+have suffered financially as a result of dubious financial products and 
+questionable insurance policies. Unfortunately, these questionable 
+sales practices are not limited to the State of Georgia and have been 
+found to be pervasive on our military installations within the United 
+States and abroad.
+  Investigations into these practices are currently being conducted by 
+the Department of Defense, the NASD, the Securities and Exchange 
+Commission, and the State insurance commission regulators, including 
+Georgia's commissioner of insurance, John Oxendine.
+  Let me provide my colleagues with a few unfortunate examples of what 
+has happened just in Georgia.
+  Young recruits have been approached in group settings during boot 
+camp and asked to fill out savings plan allotment forms that in truth 
+turn out to be primarily payments for insurance premiums and sales 
+commissions.
+  Junior enlisted personnel have been encouraged by senior enlisted 
+personnel to participate in savings plans that are, in fact, insurance 
+products.
+  Junior enlisted personnel and their superiors have received free 
+meals at local restaurants and other gratuities as an enticement to 
+participate in these illicit plans.
+  Junior officers have been provided free drinks and food at base 
+officers clubs and then asked to participate in flawed mutual fund 
+contracts that give the appearance of being endorsed by their chain of 
+command.
+  Retired military personnel now employed by financial insurance firms 
+have used their base and command access to inappropriately influence 
+junior officers and enlisted personnel to participate in these 
+questionable products.
+  Flawed mutual fund contractual plans that are disparaged by the 
+financial and industry experts have been marketed virtually exclusively 
+to our military personnel.
+  Outrageous as these may seem, sales agents banned from military 
+installations in Georgia subsequently moved to Germany and continued 
+their illicit sales practices to soldiers living abroad.
+  I will not, and I cannot, sit by and watch innocent servicemembers 
+suffer from unscrupulous sales practices on our military installations. 
+I say shame on those companies that allowed these practices to take 
+advantage of our military personnel and shame on us for not acting 
+sooner.
+  My staff has been in discussions with the Committee on Financial 
+Services, the government regulators, corporate representatives, and 
+independent financial experts to ensure that H.R. 5011 effectively 
+addresses the illicit sales practice being encouraged by our armed 
+services personnel and to prevent any unintended consequences.
+  H.R. 5011 does not target systematic investment plans or legitimate 
+investment in insurance products, only those flawed mutual fund 
+contractual plans and insurance contracts that require the payments of 
+exorbitant fees and high front-loaded sales commissions.
+  As a bipartisan measure, H.R. 5011 has received overwhelming support 
+from the various financial, insurance, and military organizations and 
+support
+
+[[Page H8108]]
+
+groups and has been reported out of Committee on Financial Services by 
+a unanimous vote, bipartisan vote of 68 to zero.
+  Working together we can and we must act in a prudent manner to 
+protect our servicemen and -women from harm caused by dubious financial 
+products and questionable financial and insurance sales practices and 
+policies.
+  I urge my colleagues to recognize the importance of acting to protect 
+the financial interests of our armed services personnel and vote 
+``yes'' on this worthy resolution.
+  Mr. EMANUEL. Mr. Speaker, I yield 1 minute to the gentleman from 
+Massachusetts (Mr. Frank), the ranking member, who helped us on this 
+legislation in passing it.
+  Mr. FRANK of Massachusetts. Mr. Speaker, I thank the gentleman from 
+Illinois for showing great leadership on this. He was, to my knowledge, 
+the first Member of this body to decide that we ought to take some 
+action. He spoke to me early when this was first called to our 
+attention, and he has been very diligent and very thoughtful and 
+others, the gentleman from Texas, gentleman from New York, have joined 
+in.
+  So I am glad we are at this point where we are about to pass very 
+good consumer protection legislation, and this is a species of that 
+legislation; and it shows what our role ought to be, namely, to start 
+from the assumption that the market will work and we will leave things 
+to the market, but to be ready to step in when the market fails and it 
+does not include the kind of protections that it ought to include.
+  This is a very thoughtful piece of legislation, worked out in a 
+bipartisan way, under the leadership of the gentleman from Louisiana 
+(Mr. Baker), the chairman of the subcommittee; the gentleman from 
+Pennsylvania (Mr. Kanjorski), the ranking member. I am delighted to 
+join in supporting it.
+  Mr. BAKER. Mr. Speaker, I yield 2 minutes to the gentleman from 
+Kansas (Mr. Ryun).
+  Mr. RYUN of Kansas. Mr. Speaker, I thank the chairman for the time.
+  I am a strong supporter of this legislation that we are considering 
+today, and I want to thank Mr. Burns for his leadership on this issue 
+and also the gentleman from Ohio (Chairman Oxley) for his work moving 
+this bill to the floor in a very timely and expedient fashion.
+  As a member of both the Committee on Armed Services and Committee on 
+Financial Services, the issue at hand today is one that I care very 
+deeply about. Today, by passing H.R. 5011, we will be protecting our 
+men and women in uniform.
+  I have the honor of representing three military installations and 
+have seen firsthand the dedication and service of our servicemembers. 
+These military men and women deserve the protection found in H.R. 5011. 
+Congress has a responsibility to provide our servicemembers access to 
+financial services while protecting them from dishonest agents.
+  I was honored to work with the gentleman from Georgia (Mr. Burns) in 
+the committee to include language that will improve installation 
+commanders' knowledge of previous predatory offenses. This will allow 
+our commanders to keep previous offenders from soliciting on the bases.
+  I urge and encourage my colleagues to support this legislation.
+  Mr. EMANUEL. Mr. Speaker, I yield 3 minutes to the gentleman from New 
+York (Mr. Israel), a distinguished member of both the Committee on 
+Armed Services and the Committee on Financial Services, who introduced 
+earlier in the year, life insurance for American troops after an 
+unfortunate death of a constituent in the Iraqi theater.
+  Mr. ISRAEL. Mr. Speaker, I thank my friend from Illinois for the 
+time.
+  I want to thank our chairman of our subcommittee, chairman of our 
+committee and our ranking member for their bipartisan cooperation, and 
+I also want to thank the gentleman from Texas (Mr. Edwards) for keeping 
+this Congress focused on this vitally important issue.
+  I am particularly pleased with a provision of this bill that the 
+gentleman from Kansas just discussed which he and I worked together on 
+on a bipartisan basis requiring the DOD to maintain a list of all sales 
+agents who have been barred from any base and to report such barring to 
+the relevant State or Federal regulator. That database will ensure that 
+agents barred from one base cannot simply move to another base to prey 
+on personnel in different areas.
+  Simultaneously, the reporting requirement will enable the regulator 
+immediately to begin taking investigative action and appropriate 
+disciplinary action. These measures will protect our troops from those 
+who are looking to exploit them wherever, whenever they can.
+  This is an important step, but we still have a long way to go. We 
+still have a long way to go in protecting the protectors and meeting 
+the financial needs of those who are fighting for our security.
+  In that vein, Mr. Speaker, I want to share with my colleagues the 
+story of one of the families that I represent, a constituent that I 
+used to represent, Raheen Tyson Heighter, 19-years-old, grew up in Bay 
+Shore, New York, enlisted in the Army. When he enlisted, he was told he 
+had to have life insurance. He said I cannot afford life insurance; 
+they do not pay me enough to pay my premiums. They said, you have got 
+to have life insurance. He said, well, I am 19 years old. He thought, 
+like most 19-year-olds, I am invincible. He said, give me the cheapest 
+policy you can.
+  He was killed in action in Iraq. His mother received a call from a 
+casualty officer saying we regret to inform you of the death of your 
+son, and all he had was a $10,000 life insurance policy because that is 
+all Raheen Tyson Heighter could afford to pay.
+  No family in America who receives the horrible news of the death of 
+their son or daughter in war should also have to suffer the indignity 
+of being financially abused.
+  We have a bipartisan bill in this Congress, sponsored by the 
+gentleman from New York (Mr. King) and myself, called the Raheen Tyson 
+Heighter Life Insurance for America's Troops Act. If we really want to 
+protect the protectors, we ought to be providing them with the base 
+amount of $250,000, and we ought to pick up the tab for their premium. 
+If they can afford to give up their lives for us, we ought to be able 
+to afford to pay their life insurance.
+
+                              {time}  1715
+
+  This is a good bill. This is an important bill. It is a good step, 
+but we still have a ways to go in protecting our protectors.
+  I thank the committee for their bipartisan cooperation in moving this 
+forward, but we still need to go a little further.
+  Mr. BAKER. Mr. Speaker, I yield 1 minute to the gentleman from Texas 
+(Mr. Carter).
+  Mr. CARTER. Mr. Speaker, I rise today in strong support of H.R. 5011, 
+the Military Personnel Financial Services Protection Act. The military 
+has a major presence in central Texas, and I have a great interest in 
+protecting the financial well-being of our soldiers and their families.
+  I find it absolutely deplorable that our men and women in uniform are 
+being actively coerced into spending any part of their already modest 
+incomes on unnecessary, overpriced insurance policies and predatory 
+investment plans. Companies that solicit these plans knowingly exploit 
+the financial naivety of our newest soldiers through unscrupulous 
+practices, which have been described here today and recently detailed 
+in a New York Times series.
+  At a time when soldiers should be focusing their efforts and limited 
+resources on providing for their families, it is unconscionable we 
+allow our soldiers to be swindled into contractual plans that have not 
+been offered to civilian markets since the 1980s, or to be sold 
+expensive insurance policies that provide inadequate coverage.
+  Therefore, I ask my colleagues to protect those who so selflessly 
+stand on the wall and protect us and to vote in favor of H.R. 5011.
+  Mr. EMANUEL. Mr. Speaker, I yield 3 minutes to the gentleman from 
+Texas (Mr. Edwards), who represents Fort Hood, home to 40,000 soldiers, 
+most of whom have served in Iraq, including the First Cavalry Division 
+and the Fourth Infantry Division, which captured Saddam Hussein.
+  Mr. EDWARDS. Mr. Speaker, this is the way Congress should work. The
+
+[[Page H8109]]
+
+New York Times made it obvious that there were new standards that 
+needed to be set to protect our troops who were risking their lives for 
+our country. The gentleman from Georgia (Mr. Burns), the gentleman from 
+Illinois (Mr. Emanuel), and Members on a bipartisan basis came together 
+quickly to address that problem. And I want to commend all of those 
+involved in the leadership for bringing this bill to the floor.
+  As the gentleman from Illinois (Mr. Emanuel) said, for 14 years I 
+have had the privilege of representing Fort Hood, the only two-division 
+installation in the U.S. Army. During times of war and peace, I have 
+seen the incredible personal sacrifices made by our military troops and 
+their families on behalf of our Nation.
+  We can never repay the debt of gratitude we owe the young 20-year-old 
+soldier I met at Walter Reed Hospital recently, who came back from Iraq 
+with an amputated leg. We cannot repay the young widow I met at Fort 
+Hood recently with a small baby in her arms, a baby who will never gaze 
+into the eyes of its father.
+  As a small downpayment on that debt of gratitude, we in Congress must 
+continue our efforts to improve pay, health care, housing, and 
+education for military families and their children.
+  I also salute this bill for helping protect our troops against 
+misrepresentations in the sale of mutual funds and life insurance 
+policies. While our military forces should have the right to invest in 
+their family's futures, it is clear that higher standards are needed to 
+protect our servicemen and -women from unscrupulous practices.
+  This bill is a step in the right direction by prohibiting unfair 
+policies, by requiring greater regulation of insurance sales on 
+military installations, such as Fort Hood in my district, and by 
+encouraging the Department of Defense and State regulatory agencies to 
+set new and higher standards for the sale of these policies.
+  I hope this is a first step, not the last step, in protecting our 
+troops. After passing this legislation, I hope Congress will move 
+forward with legislation I and the gentleman from Illinois (Mr. 
+Emanuel) and others have authored to require the Department of Defense 
+to offer up to $500,000 in life insurance to our troops, rather than 
+the present cap of $250,000.
+  In today's world, $250,000 simply is not enough life insurance for 
+many young families with children to feed, clothe, educate, and to send 
+to college. By increasing life insurance at affordable rates up to 
+$500,000, the Department of Defense and Congress can prevent many of 
+the abuses outlined so well by the recent New York Times articles. 
+Until Congress takes that action, this bill is a very positive, solid 
+step forward toward protecting military families who are sacrificing so 
+much to protect American families.
+  Mr. Speaker, I again thank those who, working on a bipartisan basis, 
+brought this legislation so quickly to the floor of the House; and I 
+would hope that the other body would act accordingly.
+  Mr. EMANUEL. Mr. Speaker, I yield myself such time as I may consume 
+to close.
+  I want to also thank the gentleman from Louisiana (Mr. Baker), our 
+chairman, for the hearing and the way he conducted the hearing on 
+September 9, for the leadership of the gentleman from Ohio (Mr. Oxley) 
+and the ranking member, the gentleman from Massachusetts (Mr. Frank) 
+showed when we did finally pass the legislation, which passed 
+unanimously in our committee.
+  This was a quick response to what is clearly needed by everybody's 
+standard. We should not allow our enlistees to be targeted for the type 
+of financial services and products that are merely for the gain of the 
+industry representatives and not for the protection of our enlistees. 
+This was the right thing to do.
+  Hopefully, the Senate can move quickly, although there are other 
+things we would like to move, as noted by the gentleman from Texas (Mr. 
+Edwards), such as our legislation raising the cap on the life insurance 
+from $250,000 to $500,000. And there are things not in this bill that 
+we still need to do. But this is the right step; it is the right 
+action.
+  Mr. Speaker, the bipartisanship that was shown here I would hope 
+would extend to other areas. And again I want to thank the chairman of 
+the subcommittee for the hearing and also seeing through this 
+legislation to today's conclusion.
+  Mr. Speaker, I yield back the balance of my time.
+  Mr. BAKER. Mr. Speaker, I yield myself such time as I may consume.
+  I simply wish to acknowledge the good work of the gentleman from 
+Illinois (Mr. Emanuel) and his colleagues on this matter and to express 
+appreciation for the bipartisan manner in which it was considered, 
+passed and, I think this afternoon, passed on the floor of this House.
+  Clearly, when we identify a problem of such pressing urgency to the 
+young men and women of our national defense, it is highly appropriate 
+this Congress should be timely and responsive in meeting their need. I 
+think H.R. 5011 achieves that goal, and I am appreciative of the 
+opportunity to have worked with my colleague and echo the observations 
+of the gentleman from Illinois. I hope this bipartisan approach 
+continues with issues yet to come.
+  Mr. OXLEY. Mr. Speaker, I rise in support of H.R. 5011, the Military 
+Personnel Financial Services Protection Act. This legislation, 
+introduced by my good friend Max Burns of Georgia, will protect the men 
+and women who put their lives on the line each day for our Nation.
+  Mr. Speaker, since the awful day of September 11, 2001, our country 
+has been at war with radical Islamic terrorists. In the prosecution of 
+this war, our armed services have performed heroically. Indeed, many 
+have made the ultimate sacrifice for the cause of freedom.
+  Sadly, at the same time, there are a few bad actors in the securities 
+and insurance industries determined to take financial advantage of our 
+service men and women. These unscrupulous companies and salesmen gain 
+access to military installations and use aggressive, misleading, and 
+often illegal sales tactics, to sell high-cost products of dubious 
+value that are unsuitable for any investor.
+  The Pentagon has issued several directives intended to curtail these 
+abuses. But for a whole host of reasons, it is clear that the abuses 
+will not stop unless Congress passes this legislation.
+  H.R. 5011 prohibits bad products and bad sales practices, clarifies 
+regulatory jurisdiction on U.S. installations here and abroad, adds 
+strong consumer protections and disclosures, and ensures proper 
+reporting systems between our military and the financial regulators to 
+ensure that bad actors cannot continue their predatory behavior. It 
+also makes the process of selecting a broker more transparent for all 
+investors, by providing online access to background information--
+including disciplinary actions--on broker-dealers. These are tough 
+measures that will greatly enhance consumer protections for military 
+services members, and make financial transactions on base more 
+transparent and investor-friendly.
+  Our Committee reported this bill to protect our service men and women 
+on a unanimous 68-0 vote. This overwhelming bipartisan consensus is the 
+result of strong leadership by Mr. Burns, the author of this 
+legislation; by Mr. Emanuel for highlighting this issue for the 
+Committee and working with us on a bipartisan basis; the Chairman of 
+the Subcommittee on Capital Markets, Mr. Baker, who led our 
+investigation into the abusive practices and bad products; Mr. Jim Ryun 
+and Mr. Israel who worked closely together on the reporting 
+requirements of this bill; and last but not least, Congresswoman Ginny 
+Brown-Waite for ensuring appropriate SEC oversight of broker-dealer 
+sales practices on military installations. Their hard work and 
+leadership is well-reflected in this legislation.
+  Mr. Speaker, I am also including for the record an exchange of 
+letters between myself and the Chairman of the Committee on Armed 
+Services regarding their jurisdictional interest on this legislation. I 
+want to thank the distinguished Chairman for his assistance in moving 
+this legislation forward in an expeditious fashion.
+
+                                      Committee on Armed Services,
+
+
+                                     House of Representatives,
+
+                                  Washington, DC, October 4, 2004.
+     Hon. Michael G. Oxley,
+     Chairman, Committee on Financial Services,
+     Rayburn House Office Building.
+       Dear Mr. Chairman: On September 29, 2004, the Committee on 
+     Financial Services reported H.R. 5011, a bill to prevent the 
+     sale of abusive insurance and investment products to military 
+     personnel. As you know, H.R. 5011, as ordered reported, 
+     contained provisions within the jurisdiction of the Committee 
+     on Armed Services.
+       Because of your willingness to consult with this Committee, 
+     and because of your desire to move this legislation 
+     expeditiously, I will waive consideration of the bill by the 
+     Committee on Armed Services. By agreeing to waive this 
+     consideration of the bill, the Committee does not waive its 
+     jurisdiction over H.R. 5011. In addition, should a conference 
+     be convened on this legislation, the Committee reserves its 
+     authority to seek
+
+[[Page H8110]]
+
+     conferees on any provisions of the bill that are within its 
+     jurisdiction. I ask for your commitment to support any 
+     request for conferees by the Committee on H.R. 5011 or 
+     similar legislation.
+       I request that you include this letter and your response in 
+     the Congressional Record during your consideration of the 
+     legislation on the House floor. Thank you for your 
+     consideration of these matters.
+       With best wishes.
+           Sincerely,
+                                                    Duncan Hunter,
+     Chairman.
+                                  ____
+
+                                         House of Representatives,
+
+
+                              Committee on Financial Services,
+
+                                  Washington, DC, October 4, 2004.
+     Hon. Duncan Hunter,
+     Chairman, Committee on Armed Services,
+     Rayburn House Office Building, Washington, DC.
+       Dear Chairman Hunter: Thank you for your recent letter 
+     regarding your committee's jurisdictional interest in H.R. 
+     5011, the Military Personnel Financial Services Protection 
+     Act. I appreciate all of your efforts to expedite 
+     consideration of this important legislation.
+       I acknowledge your committee's jurisdictional interest in 
+     section 11 of this bill as ordered reported by the Committee 
+     on Financial Services and appreciate your cooperation in 
+     allowing speedy consideration of the legislation. I agree 
+     that your decision to forego further action on the bill will 
+     not prejudice the Committee on Armed Services with respect to 
+     its jurisdictional prerogatives on this or similar 
+     legislation. I will support your request for an appropriate 
+     number of conferees should there be a House-Senate conference 
+     on this or similar legislation.
+       Finally, I will include a copy of your letter and this 
+     response in Committee's report on the bill and the 
+     Congressional Record when the legislation is considered by 
+     the House.
+       Thank you again for your assistance.
+           Sincerely,
+                                                 Michael G. Oxley,
+                                                         Chairman.
+
+  I urge all of my colleagues in the full House to support this 
+bipartisan effort and vote ``yes'' on H.R. 5011.
+  Mrs. TAUSCHER. Mr. Speaker, I rise today in support of this bill, 
+H.R. 5011, the Military Personnel Financial Services Protection Act. 
+Every American--especially every American who suits up to protect our 
+Nation--should rest assured that their family's future is provided for 
+if the unthinkable happens. I support Representative Burns's bill 
+because basic life insurance should not be a worry on our fighting 
+force's shoulders, it should be a trusted guarantee. It is utterly 
+unconscionable for insurance agents to be peddling policies to our 
+troops that provide poor coverage and charge exorbitant fees, such as 
+these contractual plans. I recently returned from a trip to Iraq and I 
+am pleased to know that the young soldiers I met will soon be protected 
+from fraudulent or misleading sales practices with the passage of this 
+bill.
+  Mr. BAKER. Mr. Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore (Mr. Ose). The question is on the motion 
+offered by the gentleman from Louisiana (Mr. Baker) that the House 
+suspend the rules and pass the bill, H.R. 5011, as amended.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds of 
+those present have voted in the affirmative.
+  Mr. BAKER. Mr. Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+
+                          ____________________
+```
