@@ -1,0 +1,49 @@
+---
+granule: CREC-2003-01-31-pt1-PgH250-4
+date: 2003-01-31
+edition: CREC
+section: HOUSE
+page: H250
+citation: 149 Cong. Rec. H250
+---
+
+# GRANTING CERTAIN EXEMPTIONS UNDER RESOURCE CONSERVATION AND RECOVERY ACT--MESSAGE FROM THE PRESIDENT OF THE UNITED STATES
+
+```
+ GRANTING CERTAIN EXEMPTIONS UNDER RESOURCE CONSERVATION AND RECOVERY 
+          ACT--MESSAGE FROM THE PRESIDENT OF THE UNITED STATES
+
+  The SPEAKER pro tempore laid before the House the following message 
+from the President of the United States; which was read and, together 
+with the accompanying papers, without objection, referred to the 
+Committee on Energy and Commerce:
+
+To the Congress of the United States:
+  Consistent with section 6001(a) of the Resource Conservation and 
+Recovery Act (RCRA) (the ``Act''), as amended, 42 U.S.C. 6961(a), 
+notification is hereby given that on September 13, 2002, I issued 
+Presidential Determination 2002-30 (copy enclosed) and thereby 
+exercised the authority to grant certain exemptions under section 
+6001(a) of the Act.
+  Presidential Determination 2002-30 exempted the United States Air 
+Force's operating location near Groom Lake, Nevada, from any Federal, 
+State, interstate, or local hazardous or solid waste laws that might 
+require the disclosure of classified information concerning that 
+operating location to unauthorized persons. Information concerning 
+activities at the operating location near Groom Lake has been properly 
+determined to be classified, and its disclosure would be harmful to 
+national security. Continued protection of this information is, 
+therefore, in the paramount interest of the United States.
+  The determination was not intended to imply that, in the absence of a 
+Presidential exemption, RCRA or any other provision of law permits or 
+requires the disclosure of classified information to unauthorized 
+persons. The determination also was not intended to limit the 
+applicability or enforcement of any requirement of law applicable to 
+the Air Force's operating location near Groom Lake except those 
+provisions, if any, that might require the disclosure of classified 
+information.
+                                                      George W. Bush.  
+The White House, January 29, 2003.
+
+                          ____________________
+```
