@@ -1,0 +1,58 @@
+---
+granule: CRECB-2003-pt17-Pg23392-4
+date: 2003-09-25
+edition: CRECB
+section: SENATE
+page: 23392
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate September 25, 2003:
+
+
+                             THE JUDICIARY
+
+       GREGORY E. JACKSON, OF THE DISTRICT OF COLUMBIA, TO BE AN 
+     ASSOCIATE JUDGE OF THE SUPERIOR COURT OF THE DISTRICT OF 
+     COLUMBIA FOR THE TERM OF FIFTEEN YEARS, VICE MILDRED M. 
+     EDWARDS, RETIRED.
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED
+
+[[Page 23393]]
+
+     WHILE ASSIGNED TO A POSITION OF IMPORTANCE AND RESPONSIBILITY 
+     UNDER TITLE 10, U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+MAJ. GEN. JOSEPH L. YAKOVAC JR.
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE RESERVE OF THE AIR FORCE UNDER TITLE 10, 
+     U.S.C., SECTION 12203:
+
+                             To be colonel
+
+MICHAEL A. MANSUETO
+       THE FOLLOWING NAMED AIR NATIONAL GUARD OF THE UNITED STATES 
+     OFFICER TO THE GRADE INDICATED IN THE RESERVE OF THE AIR 
+     FORCE UNDER TITLE 10, U.S.C., SECTIONS 12203, 12212 AND 1552:
+
+                             To be colonel
+
+RONALD C. DANIELSON
+
+                          ____________________
+```
