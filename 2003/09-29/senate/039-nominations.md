@@ -1,0 +1,53 @@
+---
+granule: CRECB-2003-pt17-Pg23536-3
+date: 2003-09-29
+edition: CRECB
+section: SENATE
+page: 23536
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate September 29, 2003:
+
+
+                             THE JUDICIARY
+
+       RAYMOND W. GRUENDER, OF MISSOURI, TO BE UNITED STATES 
+     CIRCUIT JUDGE FOR THE EIGHTH CIRCUIT, VICE PASCO M. BOWMAN 
+     II, RETIRED.
+
+
+                           IN THE COAST GUARD
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES COAST GUARD RESERVE TO THE GRADE INDICATED UNDER TITLE 
+     10, U.S.C., SECTION 12203:
+
+                           To be rear admiral
+
+CAPT. JOHN C. ACTON
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT IN THE UNITED 
+     STATES COAST GUARD TO THE GRADE INDICATED UNDER TITLE 14, 
+     U.S.C., SECTION 271:
+
+                    To be rear admiral (lower half)
+
+CAPT. ARTHUR E. BROOKS
+CAPT. RICHARD R. KELLY
+CAPT. DAVID P. PEKOSKE
+CAPT. FRED M. ROSA
+CAPT. TIMOTHY S. SULLIVAN
+
+
+                             THE JUDICIARY
+
+       WILLIAM JAMES HAYNES II, OF VIRGINIA, TO BE UNITED STATES 
+     CIRCUIT JUDGE FOR THE FOURTH CIRCUIT, VICE H. EMORY WIDENER, 
+     JR., RETIRING.
+
+                          ____________________
+```
