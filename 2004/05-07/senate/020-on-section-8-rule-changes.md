@@ -1,0 +1,75 @@
+---
+granule: CRECB-2004-pt7-Pg8757
+date: 2004-05-07
+edition: CRECB
+section: SENATE
+page: 8757
+---
+
+# ON SECTION 8 RULE CHANGES
+
+```
+                       ON SECTION 8 RULE CHANGES
+
+  Mr. JEFFORDS. Mr. President, We have all heard of the war on poverty, 
+but I fear that 40 years after that war began, there is a new war 
+afoot, a war on people in poverty. And the latest assault in this war 
+threatens to leave thousands of people homeless. I am speaking about 
+the Bush administration's plan to make substantial changes in the way 
+our Government helps our poorest citizens secure housing.
+  It is not hyperbole, in my view, to say that this change to the 
+Section 8 voucher program could have disastrous effects. Section 8, 
+administered by the department of Housing and Urban Development, helps 
+nearly 2 million poor families and disabled citizens pay for housing 
+with vouchers that have traditionally covered the full cost of their 
+rent.
+  But under the rule change, the reimbursements will no longer cover 
+the full costs. As a result, housing authorities around the country 
+will have to cut back on the number of vouchers they offer.
+  For fiscal year 2005, the President's request shortchanges all 
+housing vouchers now in use by $1.6 billion and could result in further 
+cuts in the years ahead. This request would also remove key provisions 
+of the Section 8 program that protect families with the lowest incomes, 
+such as maintaining rent payments at 30 percent of a resident's income.
+  In my home state of Vermont, there are 6,080 authorized vouchers 
+available this year, but Vermont stands to lose 740 of these by next 
+year with the rule change. That translates to a loss of more than $4 
+million in housing assistance in Vermont. And this scenario could 
+indeed get worse: it is estimated that my state stands to lose up to 1, 
+770 housing vouchers by the year 2009.
+  It is important to remind ourselves that we're not talking about just 
+numbers here. These are families--real families--who will be at risk of 
+not having a place to live.
+  I recently read in the Washington Post that the Bush administration 
+is making thee changes in an effort to ``constrain rapid growth in the 
+program's spending.'' However, the increased demand for Section 8 
+housing arises because more people need help in our ailing economy.
+  Every day in our country, working families are forced to turn to 
+emergency shelters and food banks because they cannot afford the high 
+cost of rent, child care and transportation. I believe this change in 
+section 8 will add greatly to those numbers, while undermining our 
+deeply held premise that work leads to self-sufficiency.
+  Every day we hear the term ``working poor,'' but I'm afraid we do not 
+take the time to fully understand its meaning.
+  All of this prompts me to ask, once again, where are our nation's 
+priorities? We continue to give out tax breaks to millionaires despite 
+an ever-mounting deficit. We pour billions of dollars into fighting a 
+war in Iraq for which there is no end in sight. And we will be spending 
+billions more--there is another $25 billion request before us now--to 
+rebuild that country while our own nation's poorest citizens cannot 
+afford housing.
+  If I may borrow a line from Rita Markley, the executive director of 
+the largest homeless services program in my state, ``We've got to 
+remind people that Homeland Security starts with a home.''
+  It is unfortunate that President Bush continues to find fault with a 
+program that has demonstrated such success. As the Congress deliberates 
+the fiscal year 2005 budget, I will continue to work to protect the 
+Section 8 program.
+  Forty years ago, when President Johnson declared war on poverty, he 
+highlighted this nation's commitment ``to pursue victory over the most 
+ancient of mankind's enemies.''
+  I fear that we have lost sight of the enemy, at the expense of those 
+who needed this victory the most.
+
+                          ____________________
+```
