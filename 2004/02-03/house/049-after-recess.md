@@ -1,0 +1,19 @@
+---
+granule: CRECB-2004-pt1-Pg929
+date: 2004-02-03
+edition: CRECB
+section: HOUSE
+page: 929
+---
+
+# AFTER RECESS
+
+```
+                              {time}  2013
+                              AFTER RECESS
+
+  The recess having expired, the House was called to order by the 
+Speaker pro tempore (Mr. Carter) at 8 o'clock and 13 minutes p.m.
+
+                          ____________________
+```
