@@ -1,0 +1,77 @@
+---
+granule: CRECB-2003-pt2-Pg2595-2
+date: 2003-02-06
+edition: CRECB
+section: SENATE
+page: 2595
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate February 6, 2003:
+
+
+                             THE JUDICIARY
+
+       EDWARD C. PRADO, OF TEXAS, TO BE UNITED STATES CIRCUIT 
+     JUDGE FOR THE FIFTH CIRCUIT, VICE ROBERT M. PARKER, RETIRED.
+       ROBERT ALLEN WHERRY, JR., OF COLORADO, TO BE A JUDGE OF THE 
+     UNITED STATES TAX COURT FOR A TERM OF FIFTEEN YEARS, VICE 
+     LAURENCE J. WHALEN, TERM EXPIRED.
+
+
+                           IN THE COAST GUARD
+
+       THE FOLLOWING NAMED INDIVIDUAL FOR APPOINTMENT AS PERMANENT 
+     COMMISSIONED REGULAR OFFICER IN THE UNITED STATES COAST GUARD 
+     IN THE GRADE INDICATED UNDER SECTION 211, TITLE 14, U.S. 
+     CODE:
+
+                            To be lieutenant
+
+SCOTT ATEN
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE RESERVE 
+     OF THE ARMY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 12203:
+
+                        To be brigadier general
+
+COL. STEVEN J. HASHEM
+
+       THE FOLLOWING ARMY NATIONAL GUARD OF THE UNITED STATES 
+     OFFICER FOR APPOINTMENT IN THE RESERVE OF THE ARMY TO THE 
+     GRADE INDICATED UNDER TITLE 10, U.S.C., SECTION 12203:
+
+                        To be brigadier general
+
+COL. ALBERT A. RUBINO
+
+
+                          IN THE MARINE CORPS
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES MARINE CORPS RESERVE TO THE GRADE INDICATED UNDER 
+     TITLE 10, U.S.C., SECTION 12203:
+
+                        To be brigadier general
+
+COL. JAMES L. WILLIAMS
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                       To be lieutenant commander
+
+WAYMON J. JACKSON
+```
