@@ -1,0 +1,167 @@
+---
+granule: CREC-2004-03-22-pt1-PgS2868-4
+date: 2004-03-22
+edition: CREC
+section: SENATE
+page: S2868
+citation: 150 Cong. Rec. S2868
+---
+
+# Text of Senate Amendment 2865
+
+**Speaking:** Hatch, Orrin G. (H000338) [R-UT]
+
+```
+   SA 2865. Mr. HATCH submitted an amendment intended to be proposed by 
+him to the bill S. 1637, to amend the Internal Revenue Code of 1986 to 
+comply with the World Trade Organization rulings on the FSC/ETI benefit 
+in a manner that preserves jobs and production activities in the United 
+States, to reform and simplify the international taxation rules of the 
+United States, and for other purposes; which was ordered to lie on the 
+table; as follows:
+
+       At the appropriate place, insert the following:
+
+     SEC.   . REVISIONS TO REIT PROVISIONS.
+
+       (a) Rules of Application for Failure To Satisfy Section 
+     856(c)(4).--Section 856(c) (relating to definition of real 
+     estate investment trust), as amended by section 101, is 
+     amended by inserting after paragraph (6) the following new 
+     paragraph:
+        ``(7) Rules of application for failure to satisfy 
+     paragraph (4)--
+        ``(A) De minimus failure.--A corporation, trust, or 
+     association that fails to meet the requirements of paragraph 
+     (4)(B)(iii) for a particular quarter shall nevertheless be 
+     considered to have satisfied the requirements of such 
+     paragraph for such quarter if--
+        ``(i) such failure is due to the ownership of assets the 
+     total value of which does not exceed the lesser of--
+        ``(I) 1 percent of the total value of the trust's assets 
+     at the end of the quarter for which such measurement is done, 
+     and
+        ``(II) $10,000,000, and
+        ``(ii)(I) the corporation, trust, or association, 
+     following the identification of such failure, disposes of 
+     assets in order to meet the requirements of such paragraph 
+     within 6 months after the last day of the quarter in which 
+     the corporation, trust or association's identification of the 
+     failure to satisfy the requirements of such paragraph 
+     occurred or such other time period prescribed by the 
+     Secretary and in the manner prescribed by the Secretary, or
+        ``(II) the requirements of such paragraph are otherwise 
+     met within the time period specified in subclause (I).
+
+[[Page S2869]]
+
+        ``(B) Failures exceeding de minimis amount.--A 
+     corporation, trust, or association that fails to meet the 
+     requirements of paragraph (4) for a particular quarter shall 
+     nevertheless be considered to have satisfied the requirements 
+     of such paragraph for such quarter if--
+        ``(i) such failure involves the ownership of assets the 
+     total value of which exceeds the de minimis standard 
+     described in subparagraph (A)(i) at the end of the quarter 
+     for which such measurement is done,
+        ``(ii) following the corporation, trust, or association's 
+     identification of the failure to satisfy the requirements of 
+     such paragraph for a particular quarter, a description of 
+     each asset that causes the corporation, trust, or association 
+     to fail to satisfy the requirements of such paragraph at the 
+     close of such quarter of any taxable year is set forth in a 
+     schedule for such quarter filed in accordance with 
+     regulations prescribed by the Secretary,
+        ``(iii) the failure to meet the requirements of such 
+     paragraph for a particular quarter is due to reasonable cause 
+     and not due to willful neglect,
+        ``(iv) the corporation, trust, or association pays a tax 
+     computed under subparagraph (C), and
+       ``(v)(I) the corporation, trust, or association disposes of 
+     the assets set forth on the schedule specified in clause (ii) 
+     within 6 months after the last day of the quarter in which 
+     the corporation, trust or association's identification of the 
+     failure to satisfy the requirements of such paragraph 
+     occurred or such other time period prescribed by the 
+     Secretary and in the manner prescribed by the Secretary, or
+       ``(II) the requirements of such paragraph are otherwise met 
+     within the time period specified in subclause (I).
+       ``(C) Tax.--For purposes of subparagraph (B)(iv)--
+       ``(i) Tax imposed.--If a corporation, trust, or association 
+     elects the application of this subparagraph, there is hereby 
+     imposed a tax on the failure described in subparagraph (B) of 
+     such corporation, trust, or association. Such tax shall be 
+     paid by the corporation, trust, or association.
+       ``(ii) Tax computed.--The amount of the tax imposed by 
+     clause (i) shall be the greater of--
+       ``(I) $50,000, or
+       ``(II) the amount determined (pursuant to regulations 
+     promulgated by the Secretary) by multiplying the net income 
+     generated by the assets described in the schedule specified 
+     in subparagraph (B)(ii) for the period specified in clause 
+     (iii) by the highest rate of tax specified in section 11.
+       ``(iii) Period.--For purposes of clause (ii)(II), the 
+     period described in this clause is the period beginning on 
+     the first date that the failure to satisfy the requirements 
+     of such paragraph (4) occurs as a result of the ownership of 
+     such assets and ending on the earlier of the date on which 
+     the trust disposes of such assets or the end of the first 
+     quarter when there is no longer a failure to satisfy such 
+     paragraph (4).
+       ``(iv) Administrative provisions.--For purposes of subtitle 
+     F, the taxes imposed by this subparagraph shall be treated as 
+     excise taxes with respect to which the deficiency procedures 
+     of such subtitle apply.''.
+       ``(b) Modification of Rules of Application for Failure To 
+     Satisfy Sections 856(c)(2) or 856(c)(3).--Paragraph (6) of 
+     section 856(c) (relating to definition of real estate 
+     investment trust) is amended by striking subparagraphs (A) 
+     and (B), by redesignating subparagraph (C) as subparagraph 
+     (B), and by inserting before subparagraph (B) (as so 
+     redesignated) the following new subparagraph:
+       ``(A) following the corporation, trust, or association's 
+     identification of the failure to meet the requirements of 
+     paragraph (2) or (3), or of both such paragraphs, for any 
+     taxable year, a description of each item of its gross income 
+     described in such paragraphs is set forth in a schedule for 
+     such taxable year filed in accordance with regulations 
+     prescribed by the Secretary, and''.
+       (c) Reasonable Cause Exception to Loss of Reit Status if 
+     Failure To Satisfy Requirements.--Subsection (g) of section 
+     856 (relating to termination of election) is amended--
+       (1) in paragraph (1) by inserting before the period at the 
+     end of the first sentence the following: ``unless paragraph 
+     (5) applies'', and
+       (2) by adding at the end the following new paragraph:
+       ``(5) Entities to which paragraph applies.--This paragraph 
+     applies to a corporation, trust, or association--
+       ``(A) which is not a real estate investment trust to which 
+     the provisions of this part apply for the taxable year due to 
+     one or more failures to comply with one or more of the 
+     provisions of this part (other than subsection (c)(6) or 
+     (c)(7) of section 856),
+       ``(B) such failures are due to reasonable cause and not due 
+     to willful neglect, and
+       ``(C) if such corporation, trust, or association pays (as 
+     prescribed by the Secretary in regulations and in the same 
+     manner as tax) a penalty of $50,000 for each failure to 
+     satisfy a provision of this part due to reasonable cause and 
+     not willful neglect.''.
+       (d) Deduction of Tax Paid From Amount Required To Be 
+     Distributed.--Subparagraph (E) of section 857(b)(2) is 
+     amended by striking ``(7)'' and inserting ``(7) of this 
+     subsection, section 856(c)(7)(B)(iii), and section 
+     856(g)(1).''.
+       (e) Expansion of Deficiency Dividend Procedure.--Subsection 
+     (e) of section 860 is amended by striking ``or'' at the end 
+     of paragraph (2), by striking the period at the end of 
+     paragraph (3) and inserting ``; or,'' and by adding at the 
+     end the following new paragraph:
+       ``(4) a statement by the taxpayer attached to its amendment 
+     or supplement to a return of tax for the relevant tax 
+     year.''.
+       (f) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after date of the 
+     enactment of this Act.
+                                 ______
+```
