@@ -1,0 +1,40 @@
+---
+granule: CREC-2004-09-13-pt1-PgH7002-2
+date: 2004-09-13
+edition: CREC
+section: HOUSE
+page: H7002
+citation: 150 Cong. Rec. H7002
+---
+
+# CONTINUATION OF THE NATIONAL EMERGENCY WITH RESPECT TO CERTAIN TERRORIST ATTACKS--MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H.
+
+```
+    CONTINUATION OF THE NATIONAL EMERGENCY WITH RESPECT TO CERTAIN 
+TERRORIST ATTACKS--MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. 
+                           DOC. NO. 108-212)
+
+  The SPEAKER pro tempore laid before the House the following message 
+from the President of the United States; which was read and, together 
+with the accompanying papers, without objection, referred to the 
+Committee on International Relations and ordered to be printed:
+
+To the Congress of the United States:
+  Section 202(d) of the National Emergencies Act, 50 U.S.C. 1622(d), 
+provides for the automatic termination of a national emergency unless, 
+prior to the anniversary date of its declaration, the President 
+publishes in the Federal Register and transmits to the Congress a 
+notice stating that the emergency is to continue in effect beyond the 
+anniversary date. Consistent with this provision, I have sent to the 
+Federal Register the enclosed notice, stating that the emergency 
+declared with respect to the terrorist attacks on the United States of 
+September 11, 2001, is to continue in effect for an additional year.
+  The terrorist threat that led to the declaration on September 14, 
+2001, of a national emergency continues. For this reason, I have 
+determined that it is necessary to continue in effect after September 
+14, 2004, the national emergency with respect to the terrorist threat.
+                                                      George W. Bush.  
+The White House, September 10, 2004.
+
+                          ____________________
+```
