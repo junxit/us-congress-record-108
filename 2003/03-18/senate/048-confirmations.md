@@ -1,0 +1,25 @@
+---
+granule: CRECB-2003-pt5-Pg6454-8
+date: 2003-03-18
+edition: CRECB
+section: SENATE
+page: 6454
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate March 18, 2003:
+
+
+                      FEDERAL ELECTION COMMISSION
+
+       ELLEN L. WEINTRAUB, OF MARYLAND, TO BE A MEMBER OF THE 
+     FEDERAL ELECTION COMMISSION FOR A TERM EXPIRING APRIL 30, 
+     2007.
+       MICHAEL E. TONER, OF THE DISTRICT OF COLUMBIA, TO BE A 
+     MEMBER OF THE FEDERAL ELECTION COMMISSION FOR A TERM EXPIRING 
+     APRIL 30, 2007.
+```
