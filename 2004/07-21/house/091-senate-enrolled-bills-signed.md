@@ -1,0 +1,27 @@
+---
+granule: CRECB-2004-pt12-Pg16933-2
+date: 2004-07-21
+edition: CRECB
+section: HOUSE
+page: 16933
+---
+
+# SENATE ENROLLED BILLS SIGNED
+
+```
+                      SENATE ENROLLED BILLS SIGNED
+
+  The SPEAKER announced his signature to enrolled bills and a joint 
+resolution of the Senate of the following titles:
+
+       S. 741. An act to amend the Federal Food, Drug, and 
+     Cosmetic Act with regard to new animal drugs, and for other 
+     purposes.
+       S. 2264. An act to require a report on the conflict in 
+     Uganda, and for other purposes.
+       S.J. Res. 38. A joint resolution providing for the 
+     appointment of Eli Broad as a citizen regent of the Board of 
+     Regents of the Smithsonian Institution.
+
+                          ____________________
+```
