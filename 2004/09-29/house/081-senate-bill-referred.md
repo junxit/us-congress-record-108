@@ -1,0 +1,27 @@
+---
+granule: CREC-2004-09-29-pt1-PgH7850-3
+date: 2004-09-29
+edition: CREC
+section: HOUSE
+page: H7850
+citation: 150 Cong. Rec. H7850
+---
+
+# SENATE BILL REFERRED
+
+**Measures:** S. 2742
+
+```
+                          SENATE BILL REFERRED
+
+  A bill of the Senate of the following title was taken from the 
+Speaker's table and, under the rule, referred as follows:
+
+       S. 2742. An act to extend certain authority of the Supreme 
+     Court Police, modify the venue of prosecutions relating to 
+     the Supreme Court building and grounds, and authorize the 
+     acceptance of gifts to the United States Supreme Court; to 
+     the Committee on the Judiciary.
+
+                          ____________________
+```
