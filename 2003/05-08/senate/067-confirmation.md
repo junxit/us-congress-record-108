@@ -1,0 +1,21 @@
+---
+granule: CRECB-2003-pt8-Pg10886
+date: 2003-05-08
+edition: CRECB
+section: SENATE
+page: 10886
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  EXECUTIVE NOMINATION CONFIRMED BY THE SENATE MAY 8, 2003:
+
+
+                             THE JUDICIARY
+
+       JOHN G. ROBERTS, JR., OF MARYLAND, TO BE UNITED STATES 
+     CIRCUIT JUDGE FOR THE DISTRICT OF COLUMBIA CIRCUIT.
+```
