@@ -1,0 +1,95 @@
+---
+granule: CREC-2003-06-05-pt1-PgE1168-3
+date: 2003-06-05
+edition: CREC
+section: EXTENSIONS
+page: E1168
+citation: 149 Cong. Rec. E1168
+---
+
+# THE INCLUSIVE HOME DESIGN ACT
+
+**Speaking:** Schakowsky, Janice D. (S001145) [D-IL]
+
+```
+                     THE INCLUSIVE HOME DESIGN ACT
+
+                                 ______
+                                 
+
+                       HON. JANICE D. SCHAKOWSKY
+
+                              of illinois
+
+                    in the house of representatives
+
+                         Thursday, June 5, 2003
+
+  Ms. SCHAKOWSKY. Mr. Speaker, I am pleased to announce that today I am 
+reintroducing the Inclusive Home Design Act. I want to thank my 
+colleagues Barbara Lee and Louise Slaughter for joining me today as 
+original cosponsors of this legislation. I hope that all of my 
+colleagues on both sides of the aisle will join us. I also want to 
+thank my friend Marca Bristow of Access Living for her dedication and 
+outstanding leadership. Finally, I want to offer my gratitude to all of 
+the architects and community leaders who worked with me to craft this 
+legislation. The Inclusive Home Design Act will greatly increase the 
+number of homes that are accessible to people with disabilities. It is 
+supported by the Paralyzed Veterans of America and countless other 
+national and local disabilities rights organizations.
+  The Inclusive Home Design Act requires all newly-built single family 
+homes receiving federal funds to meet three specific standards: an 
+accessible route, or ``zero step,'' into the home, "32" clearance 
+doorways on the main level, and one wheel chair accessible bathroom. 
+These nationally mandated standards for homes built with federal 
+dollars will close a major loophole in our current housing laws.
+  Under current law, 95 percent of federally supported homes do not 
+have to meet any accessibility standard. This creates unnecessary 
+barriers for disabled veterans and other people with mobility 
+impairments. It defies logic to build new homes that block people out 
+when it's so easy and cheap to build new homes that let people in. Many 
+states and localities have already incorporated visitability standards. 
+This list includes Naperville, Bollingbrook, and Champagne, Illinois, 
+Atlanta, Vermont, Texas, Kansas, Arizona and others. Also the United 
+Kingdom passed a law in March 1998 mandating that every new home become 
+accessible. A federal law will build on the momentum that has already 
+been created here and abroad.
+  The proposed legislation is based on the concept of Visitability, an 
+affordable, sustainable and inclusive design approach for integrating 
+basic accessibility features into all newly built homes and housing. 
+Architects and builders will have latitude in how they comply with the 
+act. For example, the zero step entrance can be placed at the front, 
+side, or back of the home. The accessible route can even go through an 
+attached garage.
+  When homes are accessible, it benefits not only today's disability 
+community, but also all of us who are friends and family members of 
+people with disabilities. Often, the prohibitive cost of making an 
+existing home accessible deprives seniors of their independence and 
+pushes them into nursing homes. It generally costs thousands of dollars 
+for a homeowner to retrofit their home. However, on average experts 
+estimate that it only costs $300 to $400 to add visitability features 
+into a new home. In addition, the zero step entrance requirements can 
+be waived if the terrain makes compliance impractical.
+  By making new homes accessible, we guarantee that many seniors can 
+age at home instead of moving into expensive assisted living 
+facilities. This will save taxpayer money and it will help improve the 
+quality of life of our senior citizens. As the population becomes 
+older, this will become more important. Fifty-eight percent of people 
+over eighty years old suffer from physical impairments. In 2000, there 
+were 30.5 million people between 65-84 years old. This number will grow 
+to 47 million by 2020. Today, over 4.3 million individuals are over 85. 
+By 2020, this number is projected to grow to 6.8 million. There is no 
+question that the Inclusive Home Design Act will enable many of our 
+seniors to remain at home.
+  Homes that meet visitability standards are essential for people with 
+disabilities and sensible because 3 out of 10 people will face a 
+disability before they are 67, practical, and cost effective. I am 
+looking forward to working with my colleagues to pass this legislation, 
+the Inclusive Home Design Act, into law.
+
+[[Page E1169]]
+
+
+
+                          ____________________
+```

@@ -1,0 +1,38 @@
+---
+granule: CREC-2003-06-05-pt1-PgH4984-4
+date: 2003-06-05
+edition: CREC
+section: HOUSE
+page: H4984
+citation: 149 Cong. Rec. H4984
+---
+
+# WEAPONS OF MASS DESTRUCTION EXIST IN IRAQ
+
+**Speaking:** Kirk, Mark Steven (K000360) [R-IL]
+
+```
+               WEAPONS OF MASS DESTRUCTION EXIST IN IRAQ
+
+  (Mr. KIRK asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. KIRK. Mr. Speaker, no weapons of mass destruction in Iraq? We 
+know to a moral certitude of such weapons. How do we know? Saddam 
+Hussein told us. On December 7 of last year, he told the U.N. that he 
+owned 30,000 chemical weapons, but he forgot where he put them. We have 
+not even found the chemical weapons that Saddam admitted to the U.N. he 
+made. There are over 500 WMD sites in Iraq, and we have inspected less 
+than half of them.
+
+                              {time}  1030
+
+  Remember Dr. Hussein Kamel? The U.N. inspected Iraq for 4 years 
+between 1991 and 1995 and found no nuclear program. Dr. Kamel then told 
+us that 40,000 Iraqis worked on nuclear weapons, but our intelligence 
+missed it all.
+  WMD in Iraq, it is inevitable that a final chapter will be written in 
+this story. As Paul Harvey would say, and then we will say, ``and now 
+for the rest of the story.''
+
+                          ____________________
+```

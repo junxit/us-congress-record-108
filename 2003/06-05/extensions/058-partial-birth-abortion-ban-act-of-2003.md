@@ -1,0 +1,54 @@
+---
+granule: CREC-2003-06-05-pt1-PgE1154-3
+date: 2003-06-05
+edition: CREC
+section: EXTENSIONS
+page: E1154
+citation: 149 Cong. Rec. E1154
+---
+
+# PARTIAL-BIRTH ABORTION BAN ACT OF 2003
+
+**Speaking:** Cubin, Barbara (C000962) [R-WY]
+
+**Measures:** H.R. 760
+
+```
+                 PARTIAL-BIRTH ABORTION BAN ACT OF 2003
+
+                                 ______
+                                 
+
+                               speech of
+
+                           HON. BARBARA CUBIN
+
+                               of wyoming
+
+                    in the house of representatives
+
+                        Wednesday, June 4, 2003
+
+  Mrs. CUBIN. Mr. Speaker, I rise today in support of H.R. 760 and for 
+our voiceless unborn children, who were merely inches away from their 
+first breath, when their life was brutally ended. For them, partial-
+birth abortion is not an option--it is a death sentence.
+  It is truly shameful that we cannot protect the most innocent and 
+vulnerable in our society from this gruesome medical procedure. 
+Delivering a child up to its head and then using a syringe to suck out 
+the child's brain and discard this miracle of life is revolting.
+  Do not call that child a fetus. Do not elevate any personal freedom 
+above that child's right to life. That fetus is a human baby--call it 
+what it is.
+  I hope the mental image this conjures disturbs everyone--and that I 
+once again receive calls from those shaken by the mere description of 
+this barbaric act. Be thankful you're not on the business end of that 
+syringe.
+  We have the responsibility to do everything in our power to put an 
+end to this practice which has no place in a civilized society. We 
+cannot remain silent while a procedure such as partial-birth remains an 
+acceptable part of our society--after all, if done a short time later 
+and a few inches further, it would be considered murder.
+
+                          ____________________
+```

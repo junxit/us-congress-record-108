@@ -1,0 +1,38 @@
+---
+granule: CREC-2003-06-05-pt1-PgH5033-2
+date: 2003-06-05
+edition: CREC
+section: HOUSE
+page: H5033
+citation: 149 Cong. Rec. H5033
+---
+
+# GREATEST BOOTLEG IN HISTORY
+
+**Speaking:** Ryan, Tim (R000577) [D-OH]
+
+```
+                      GREATEST BOOTLEG IN HISTORY
+
+  (Mr. RYAN of Ohio asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. RYAN of Ohio. Mr. Speaker, we witnessed one of the greatest 
+bootlegs in the history of the tax code. We were told that every single 
+person would be able to get something back in this tax code, but there 
+are people making less than $27,000 a year who will not be getting a 
+$400 check, but worse than that, these are families that have worked.
+  This is not welfare. This is not a give away. These are people who 
+put in 40 hours a week and have children and deserve the $400 back.
+  In Youngstown, Ohio, where we have a reserve base, there will be one 
+in five military workers who will not be able to qualify for this, 
+putting their lives on the line, active duty members of the military 
+that will not qualify.
+  All we have to do is raise the top tax bracket. It has been lowered 
+from 38 percent to 35 percent. From 35 percent, raise it to 35.3 
+percent, and we would have enough money generated to take care of 
+working parents, mostly single parent homes, many military homes that 
+will not be able to utilize this tax credit.
+  The greatest bootleg in the history of the Congress.
+
+                          ____________________
+```

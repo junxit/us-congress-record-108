@@ -1,0 +1,41 @@
+---
+granule: CREC-2003-06-05-pt1-PgH4984-3
+date: 2003-06-05
+edition: CREC
+section: HOUSE
+page: H4984
+citation: 149 Cong. Rec. H4984
+---
+
+# EXTEND TAX CREDIT FOR CHILDREN TO ALL AMERICANS
+
+**Speaking:** Pallone, Frank (P000034) [D-NJ]
+
+```
+            EXTEND TAX CREDIT FOR CHILDREN TO ALL AMERICANS
+
+  (Mr. PALLONE asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PALLONE. Mr. Speaker, the Democrats feel very strongly that we 
+need to move to put back in place this tax credit for children and 
+families of children at lower income levels. These are working people. 
+The Republicans made a huge mistake, and it shows where they are coming 
+from when they eliminated giving a child tax credit to these working 
+families at the lower end of the income spectrum.
+  But now what I hear is that the Republicans in the other body say, 
+well, they are not going to do this unless we also give a child tax 
+credit to people at a little higher income level. Now we hear that here 
+in this House the Republican leadership says that they are probably not 
+going to do it anyway, because they do not want to give the tax credit 
+to the families of these lower-income working families.
+  Once again, the Republicans created this problem because they would 
+not include the child tax credit for these working families, and they 
+are still trying to stop it from becoming law and demanding that more 
+money go to higher income people in order to pay for it.
+  When is this going to stop? When are we going to wake up and realize 
+that what the Republican leadership is really all about in this tax 
+bill and this series of tax bills is just helping the elite, the 
+wealthy elite?
+
+                          ____________________
+```

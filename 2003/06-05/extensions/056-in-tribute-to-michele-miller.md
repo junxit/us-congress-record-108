@@ -1,0 +1,57 @@
+---
+granule: CREC-2003-06-05-pt1-PgE1154
+date: 2003-06-05
+edition: CREC
+section: EXTENSIONS
+page: E1154
+citation: 149 Cong. Rec. E1154
+---
+
+# IN TRIBUTE TO MICHELE MILLER
+
+**Speaking:** Engel, Eliot L. (E000179) [D-NY]
+
+```
+                      IN TRIBUTE TO MICHELE MILLER
+
+                                 ______
+                                 
+
+                          HON. ELIOT L. ENGEL
+
+                              of new york
+
+                    in the house of representatives
+
+                         Thursday, June 5, 2003
+
+  Mr. ENGEL. Mr. Speaker, I rise today to honor a woman who believes 
+that public education is the foundation of a prosperous and democratic 
+society. Michele Miller always wanted to be a teacher. As a student at 
+Spring Valley Senior High School, Michele was a member of Future 
+Teachers of America. Graduating from the State University of New York 
+at Albany, she attended Hunter College for a masters degree in 
+education with a concentration in social studies.
+  A lifelong New Yorker, Michele has spent her entire career teaching 
+the students of Pearl River, New York. She has spent 33 years teaching 
+social studies at the Pearl River School District's Middle School and 
+High School. Michele began as a student teacher in Pearl River when 
+Lyndon Johnson was the President of the United States in the fall of 
+1968. She will end her career this month, eight Presidents later and 
+after providing thousands of her students with the knowledge and 
+appreciation of the democratic values that underpin our great country.
+  Michele is the epitome of a great teacher. Although she's known 
+throughout Pearl River as one of the toughest teachers around, she's 
+also known for being caring, compassionate, and funny. She thrives on 
+being in the classroom, the students have always kept her youthful in 
+both appearance and in personality. Moreover, she constantly learns 
+from her students and hopes that they leave the classroom every day 
+knowing a bit more about the world.
+  I hope that new teachers are inspired by Michele's dedication to 
+teaching. She will be sorely missed by the Pearl River School District.
+  I would like to join the Pearl River community, her family and 
+friends in thanking Michele for her years of service and wishing her 
+congratulations on the occasion of her retirement.
+
+                          ____________________
+```

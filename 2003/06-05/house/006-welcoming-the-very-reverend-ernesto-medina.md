@@ -1,0 +1,62 @@
+---
+granule: CREC-2003-06-05-pt1-PgH4981-5
+date: 2003-06-05
+edition: CREC
+section: HOUSE
+page: H4981
+citation: 149 Cong. Rec. H4981
+---
+
+# WELCOMING THE VERY REVEREND ERNESTO MEDINA
+
+**Speaking:** Becerra, Xavier (B000287) [D-CA], Dreier, David (D000492) [R-CA]
+
+```
+               WELCOMING THE VERY REVEREND ERNESTO MEDINA
+
+  (Mr. BECERRA asked and was given permission to address the House for 
+1 minute.)
+  Mr. BECERRA. Mr. Speaker, it is an honor for me to rise today to 
+introduce our guest chaplain, the Very Reverend Ernesto R. Medina of 
+the Cathedral Center of St. Paul in Los Angeles, California. Reverend 
+Medina is an ordained minister and a graduate of the Church Divinity 
+School of the Pacific as well as the University of California at San 
+Diego.
+  Reverend Medina is more than just the pastor of the Cathedral Center 
+of St. Paul. He is neighbor, friend, and indispensable spiritual leader 
+in the community of Echo Park in Los Angeles. He is the first Latino to 
+be appointed as a provost within the Episcopalian Church in this 
+country. Reverend Medina has demonstrated a leadership style that has 
+endeared him not only to the members of his congregation and the 
+community of Echo Park but also to those throughout the community of 
+Los Angeles who have been fortunate enough to work with him.
+  Not long ago, there was a collapse of an apartment building not far 
+from the Cathedral Center where, were it not for the efforts of 
+Reverend Medina, several families would have been left homeless. But 
+quickly, Reverend Medina and the parishioners of the Cathedral Center 
+came forward and offered families with small children a place to stay 
+and a place to eat. Today the parish of Cathedral Center is much 
+blessed by the work that has been done by Reverend Medina. His 
+compassion not only for the residents of Echo Park but for all of Los 
+Angeles has exemplified the type of work that is done by the 
+Episcopalian Church. I am very proud to
+
+[[Page H4982]]
+
+say that today, the first day perhaps in more than 2 weeks when we see 
+the sun out in Washington, D.C., that Reverend Medina has come forward.
+  Mr. DREIER. Mr. Speaker, will the gentleman yield?
+  Mr. BECERRA. I yield to the gentleman from California.
+  Mr. DREIER. Mr. Speaker, I would simply like to join my friend in 
+welcoming Reverend Medina, who has just informed me that he is a 
+constituent of mine. We are very appreciative of the prayer and the 
+very kind words.
+  Mr. BECERRA. I join with my colleague from California (Mr. Dreier) in 
+recognizing that not only is he an able reverend but he is also a very 
+important constituent. I thank the Speaker for this opportunity to 
+express some thoughts for this 1 minute. I thank the reverend for 
+making the trip to Washington, D.C., and bringing the sunshine with 
+him.
+
+                          ____________________
+```

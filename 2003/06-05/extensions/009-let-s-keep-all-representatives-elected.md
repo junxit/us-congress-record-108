@@ -1,0 +1,77 @@
+---
+granule: CREC-2003-06-05-pt1-PgE1137
+date: 2003-06-05
+edition: CREC
+section: EXTENSIONS
+page: E1137
+citation: 149 Cong. Rec. E1137
+---
+
+# LET'S KEEP ALL REPRESENTATIVES ELECTED
+
+**Speaking:** Paul, Ron (P000583) [R-TX]
+
+```
+                 LET'S KEEP ALL REPRESENTATIVES ELECTED
+
+                                 ______
+                                 
+
+                             HON. RON PAUL
+
+                                of texas
+
+                    in the house of representatives
+
+                        Wednesday, June 4, 2003
+
+  Mr. PAUL. Mr. Speaker, the privately funded and privately constituted 
+``Continuity of Government Commission'' has recently proposed that, for 
+the first time in our Nation's history, we should allow the appointment 
+of members of the U.S. House of Representatives. Not only does this 
+proposal fail to comport with the intention of the founders of this 
+nation, but, even worse, it advocates a solution that has been 
+repeatedly rejected by this body.
+  The report of this so-called ``Commission'' makes clear that while 
+the Senate has, from time to time, voted to pass constitutional 
+amendments allowing for the appointment of House members, this body has 
+always jealously guarded its status as ``the people's House'' by 
+failing to pass such amendments. A brief history review may be in order 
+at this point. First, our Nation has been under attack from foreign 
+powers in the past, such as in its nascent years when the British were 
+constantly ``coming.'' In our own century, we faced an attack on Pearl 
+Harbor as well as the very real threat of nuclear annihilation. Now, 
+because we have learned that our Capitol was a potential target in a 
+terror plot, there is an outcry from some corners regarding our 
+vulnerability. Our government leaders are no more vulnerable today to 
+mass extinction than they were 20 years ago. Our top-flight military 
+makes us, in many ways, less vulnerable to attack and the assassination 
+of our leaders than we were 200 years ago.
+  Even if we were to sustain such a devastating attack, the nightmare 
+scenario painted in the first report of the ``commission'' is not only 
+far-fetched, but also admits of a plethora of potential solutions 
+already existent in our current constitutional structure. Though the 
+report endeavors to cast doubt on the legitimacy of those structures, 
+it is unsuccessful. Moreover, what could be more offensive to our 
+republican form of government and of more questionable legitimacy, than 
+to have a slew of un-elected ``representatives'' outvote elected people 
+on the floor of our U.S. House?
+  Let's face it: we can scare people and doom-say anytime we wish, but 
+it would only be in the case of a nearly complete annihilation that our 
+government would fail to function. In such an instance there is no 
+``system'' that will preserve our government. On the other hand, if we 
+surrender the right to elect people to the U.S. House of 
+Representatives, under any circumstances, we will get on a slippery 
+slope away from the few remaining vestiges and most precious principles 
+of the government left to us by our founders.
+  In the event that this ``proposal'' gets more serious and is given 
+long-term attention, I will place in the record more detailed 
+statements defending the notion of an all-elected House of 
+Representatives, and explaining the fallacies and illogic found in this 
+report. For now Mr. Speaker, I simply wish to go on record as among 
+those who would fight to the last to preserve the principle of a House 
+of Representatives consisting entirely of members elected by the 
+people.
+
+                          ____________________
+```

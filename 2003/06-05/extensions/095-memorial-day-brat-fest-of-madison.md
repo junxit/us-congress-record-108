@@ -1,0 +1,56 @@
+---
+granule: CREC-2003-06-05-pt1-PgE1166-4
+date: 2003-06-05
+edition: CREC
+section: EXTENSIONS
+page: E1166
+citation: 149 Cong. Rec. E1166
+---
+
+# MEMORIAL DAY BRAT FEST OF MADISON
+
+**Speaking:** Baldwin, Tammy (B001230) [D-WI]
+
+```
+                   MEMORIAL DAY BRAT FEST OF MADISON
+
+                                 ______
+                                 
+
+                           HON. TAMMY BALDWIN
+
+
+                              of wisconsin
+
+                    in the house of representatives
+
+                         Thursday, June 5, 2003
+
+  Ms. BALDWIN. Mr. Speaker, I rise today to recognize the annual 
+Memorial Day Brat Fest of Madison.
+  This event, run by locally owned Metcalfe's Sentry Foods, started in 
+1983 as a modest customer appreciation luncheon and grew into the huge 
+city wide charity event that it is today. Over this past Memorial Day 
+weekend, an impressive $26,252 was raised for charity. Since the 
+founding in 1983, the Brat Fest has raised over $220,000 for the local 
+charities whose members volunteer at the stands each Memorial Day.
+  This year, Brat Fest reached two amazing milestones. The first was a 
+new record high of 123,520 brats sold, setting a new world record. One 
+of these brats was the millionth brat sold for charity since the birth 
+of the festival.
+
+[[Page E1167]]
+
+  Not only is the event to be recognized for its contributions to local 
+charities, but also for its promotion of community spirit and vitality. 
+This event brings people from all backgrounds in the community together 
+in support of local organizations. Wisconsinites are given the chance 
+to interact with ``celebrity'' cashiers. Every year as a cashier I 
+truly enjoy gathering with my constituents at Brat Fest, serving up 
+brats, and making sure no one leaves hungry.
+  This form of positive community building is commendable and deserves 
+recognition. I look forward to future Memorial Day Brat Fests and the 
+service that they provide for the community.
+
+                          ____________________
+```

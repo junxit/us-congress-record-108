@@ -1,0 +1,69 @@
+---
+granule: CREC-2003-06-05-pt1-PgE1168-2
+date: 2003-06-05
+edition: CREC
+section: EXTENSIONS
+page: E1168
+citation: 149 Cong. Rec. E1168
+---
+
+# IN SUPPORT OF H.R. 2286, THE WORKING FAMILIES TAX CREDIT ACT OF 2003
+
+**Speaking:** Bell, Chris (B001241) [D-TX]
+
+**Measures:** H.R. 2286
+
+```
+  IN SUPPORT OF H.R. 2286, THE WORKING FAMILIES TAX CREDIT ACT OF 2003
+
+                                 ______
+                                 
+
+                            HON. CHRIS BELL
+
+                                of texas
+
+                    in the house of representatives
+
+                         Thursday, June 5, 2003
+
+  Mr. BELL. Mr. Speaker, my colleagues on the other side of the aisle 
+tout ``No Child Left Behind'' when in actuality they deliberately 
+choose to leave millions of children behind. Last week, President Bush 
+signed a new law that would provide tax cuts of $93,500 to the 200,000 
+taxpayers making over $1 million. Fifty three percent of all taxpayers 
+would get less than $100 under the GOP law. Here is another example of 
+the Administration choosing the wealthiest over America's working 
+families.
+  What is even more egregious is that the Administration chose not to 
+provide or increase the child tax credit to working families making 
+between $10,500 to $26,625 per year. Mr. Speaker, Republicans in the 
+Senate dropped a provision, added by Senator Lincoln, that would have 
+helped nearly 12 million children and their families get a tax credit. 
+Out of that 12 million, a staggering 8 million receive no child tax 
+credit under the GOP law.
+  Mr. Speaker, their plan in no way, shape or form protects the 
+children that need it the most. Instead, their plan deliberately 
+excludes these children. In actuality, the Republican plan should be 
+called the ``Plan to Leave Children Behind.''
+  This is why I urge my colleagues to support H.R. 2286, the Rangel-
+Davis-DeLauro bill. I am proud to be a co-sponsor of this bill. This is 
+a great start to repairing the damage inflicted by the Administration's 
+reckless and negligent tax package. H.R. 2286 would restore the child 
+tax credit to families making minimum wage by providing greater tax 
+relief to working families. Nineteen million children and their 
+families will benefit from this bill. In fact, over 2 million children 
+in my home state of Texas would benefit under Rangel plan.
+  In addition to the child tax credit, H.R. 2286 would create more 
+jobs. The provisions in this bill are key elements of the House Jobs 
+and Economic Growth package and will create more than 1 million jobs 
+without adding one penny to the deficit. Lastly, this bill has key 
+elements that would ensure our brave men and women in uniform are not 
+denied tax relief just because they are on active duty.
+  Mr. Speaker, I urge my colleagues to support H.R. 2286--this tax plan 
+is fair--it helps: America's economy, America's men and women in 
+uniform and America's working families. Most importantly, this child 
+tax credit helps America's children by leaving no child behind.
+
+                          ____________________
+```

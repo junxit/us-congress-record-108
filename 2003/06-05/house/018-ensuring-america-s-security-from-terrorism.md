@@ -1,0 +1,45 @@
+---
+granule: CREC-2003-06-05-pt1-PgH4983-6
+date: 2003-06-05
+edition: CREC
+section: HOUSE
+page: H4983
+citation: 149 Cong. Rec. H4983
+---
+
+# ENSURING AMERICA'S SECURITY FROM TERRORISM
+
+**Speaking:** Bartlett, Roscoe G. (B000208) [R-MD]
+
+```
+               ENSURING AMERICA'S SECURITY FROM TERRORISM
+
+  (Mr. BARTLETT of Maryland asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. BARTLETT of Maryland. Mr. Speaker, we have heard it said it so 
+many times that it risks becoming a cliche: Our Nation is engaged in a 
+war against terrorism. If I may be permitted one more cliche: Money is 
+the lifeblood of any terrorist organization.
+  The ability of the September 11th terrorists to move money through 
+American banks without sending up any cautionary red flags was critical 
+to their success and our national tragedy. People attempting to open 
+accounts in this country without Social Security numbers ought to be 
+seen as a giant, flashing red neon flag. That is why we must refuse to 
+allow banks to accept as legitimate identification any foreign 
+government-issued identification document in lieu of a Social Security 
+number.
+
+[[Page H4984]]
+
+  The Department of Treasury and the banks see things differently. The 
+Treasury Department has issued a final rule to allow banks to accept 
+the Mexican matricula I.D. card. But at the request of the banks, 
+Treasury went even further. Their rule does not even require banks to 
+maintain copies of the matricula cards.
+  Ignorance in this case might be good business practice, but it is 
+dangerous and foolhardy security policy. Our responsibility as Members 
+of Congress is to make sure that terrorists cannot use American banks 
+to finance attacks on our people.
+
+                          ____________________
+```

@@ -1,0 +1,61 @@
+---
+granule: CREC-2003-06-05-pt1-PgE1164
+date: 2003-06-05
+edition: CREC
+section: EXTENSIONS
+page: E1164
+citation: 149 Cong. Rec. E1164
+---
+
+# THE CHILD TAX CREDIT: SUPPORTING FAMILIES IN NEED
+
+**Speaking:** Schiff, Adam B. (S001150) [D-CA]
+
+```
+           THE CHILD TAX CREDIT: SUPPORTING FAMILIES IN NEED
+
+                                 ______
+                                 
+
+                          HON. ADAM B. SCHIFF
+
+                             of california
+
+                    in the house of representatives
+
+                         Thursday, June 5, 2003
+
+  Mr. SCHIFF. Mr. Speaker, I rise today to voice my support of 
+legislation to expand the child tax credit to working families left out 
+of the tax bill that the President recently signed.
+  Last week, the President signed a $350 billion tax cut plan, a 
+package of large tax cuts that are weighted heavily toward America's 
+wealthiest families, and that will do little to spur economic growth or 
+reduce the Nation's jobless rates. These additional cuts are likely to 
+further burden the economy's future with growing budget deficits and 
+debt--spending the Social Security Trust Fund surplus and threatening 
+essential programs such as Medicare.
+  The most disturbing aspect of this legislative effort was the 
+Majority's last-minute exclusion of a provision that would help nearly 
+12 million children and their families to get the child tax credit. In 
+their persistent efforts to cut taxes for the wealthiest Americans, the 
+Majority stripped this important provision from the final bill in order 
+to make room for a dividend tax cut and other measures benefiting only 
+those wealthiest taxpayers.
+  For some time now, the Administration has maintained that all 
+Americans deserve a tax break. However, this new law did not honor that 
+promise, and the President should not have signed legislation that 
+denies a promised child tax credit to the millions of families that 
+need it the most and are the most likely to spend it.
+  These families with children, earning between $10,500 and $26,625, 
+are already working hard to make ends meet. Our immediate priority in 
+Congress should now be to pass legislation that will correct this last-
+minute injustice and provide these moderate-income families with the 
+relief they deserve. Therefore, I support the legislation introduced by 
+House Democratic leaders to accomplish this goal and benefit almost 3 
+million children in my home State of California. I urge my colleagues 
+on the other side of the aisle to join us in helping those Americans in 
+most need.
+
+                          ____________________
+```

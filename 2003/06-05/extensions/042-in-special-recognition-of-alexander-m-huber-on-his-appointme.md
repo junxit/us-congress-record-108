@@ -1,0 +1,67 @@
+---
+granule: CREC-2003-06-05-pt1-PgE1150
+date: 2003-06-05
+edition: CREC
+section: EXTENSIONS
+page: E1150
+citation: 149 Cong. Rec. E1150
+---
+
+# IN SPECIAL RECOGNITION OF ALEXANDER M. HUBER ON HIS APPOINTMENT TO ATTEND THE UNITED STATES MERCHANT MARINE ACADEMY
+
+**Speaking:** Gillmor, Paul E. (G000210) [R-OH]
+
+```
+  IN SPECIAL RECOGNITION OF ALEXANDER M. HUBER ON HIS APPOINTMENT TO 
+            ATTEND THE UNITED STATES MERCHANT MARINE ACADEMY
+
+                                 ______
+                                 
+
+                          HON. PAUL E. GILLMOR
+
+                                of ohio
+
+                    in the house of representatives
+
+                        Wednesday, June 4, 2003
+
+  Mr. GILLMOR. Mr. Speaker, I rise today to pay special tribute to an 
+outstanding young man from Ohio's Fifth Congressional District. I am 
+happy to announce that Alexander M. Huber of Milan, Ohio, has been 
+offered an appointment to attend the United States Merchant Marine 
+Academy.
+  Mr. Speaker, Alexander's offer of appointment poises him to attend 
+the United States Merchant Marine Academy this fall with the incoming 
+cadet class of 2007. Attending one of our Nation's military academies 
+is an invaluable experience that offers a world-class education and 
+demands the very best that these young men and women have to offer. 
+Truly, it is one of the most challenging and rewarding undertakings of 
+their lives.
+  Alexander brings a special mix of leadership, service, dedication to 
+the incoming class of Merchant Marine Academy cadets. While attending 
+Edison High School, Milan, Ohio, Alexander has attained a grade point 
+average of 3.942 which places him 7th in his class of 129 students. 
+During his time at Edison High School, Alexander has received several 
+commendations for his superior scholastic efforts. Alexander's 
+accomplishments include being on the honor roll for all four years, 
+being awarded the Student of the Quarter for Business, recipient of the 
+Mathematics Award, student of the quarter award for Science, and 
+recipient of the Scholarship Pin. Aside from his accomplishments 
+Alexander also participated in the National Honor Society, the Math 
+Club, and the Spanish Club.
+  Outside the classroom, Alexander has distinguished himself as an 
+excellent student-athlete and dedicated citizen of Milan. On the fields 
+of friendly strife, Alexander has participated in Soccer, Tennis, and 
+Weight Lifting. In addition to his athletic accomplishments, Alexander 
+is an active member in his community participating in National Youth 
+Leadership Conference and Boys State.
+  Mr. Speaker, I would ask my colleagues to stand and join me in paying 
+special tribute to Alexander M. Huber. Our service academies offer the 
+finest education and military training available anywhere in the world. 
+I am sure that Alexander will do very well during his career at United 
+States Merchant Marine Academy and I wish him the very best in all of 
+his future endeavors.
+
+                          ____________________
+```

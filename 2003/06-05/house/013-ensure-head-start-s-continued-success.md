@@ -1,0 +1,39 @@
+---
+granule: CREC-2003-06-05-pt1-PgH4983
+date: 2003-06-05
+edition: CREC
+section: HOUSE
+page: H4983
+citation: 149 Cong. Rec. H4983
+---
+
+# ENSURE HEAD START'S CONTINUED SUCCESS
+
+**Speaking:** Sanchez, Loretta (S000030) [D-CA]
+
+```
+                 ENSURE HEAD START'S CONTINUED SUCCESS
+
+  (Ms. LORETTA SANCHEZ of California asked and was given permission to 
+address the House for 1 minute and to revise and extend her remarks.)
+  Ms. LORETTA SANCHEZ of California. Mr. Speaker, I rise today to 
+celebrate the 38th anniversary of the Head Start Program. As a former 
+Head Start kid, I know firsthand the valuable, comprehensive education 
+program that Head Start does for low-income families, and I celebrate 
+the program's many achievements.
+  The Republicans, on the other hand, will celebrate Head Start's 38 
+years of success by pushing forward with the School Readiness Act. This 
+legislation is not only a bad idea, it has the possibility of 
+eliminating key services to nearly 1 million students by converting the 
+Head Start Program to a block grant program. Block granting Head Start 
+is a blockheaded idea that will undoubtedly hurt this very successful 
+program.
+  One problem in particular with this plan is that States are already 
+dealing with huge budget deficits, and they may be tempted to divert 
+Head Start funds to use for other purposes. How would that improve the 
+Head Start Program?
+  I urge my colleagues to celebrate Head Start's 38th anniversary by 
+opposing this misguided legislation.
+
+                          ____________________
+```
