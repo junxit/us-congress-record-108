@@ -1,0 +1,128 @@
+---
+granule: CREC-2004-09-21-pt1-PgS9469-4
+date: 2004-09-21
+edition: CREC
+section: SENATE
+page: S9469
+citation: 150 Cong. Rec. S9469
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate September 21, 2004:
+
+
+                     Department of Veterans Affairs
+
+       WILLIAM A. MOORMAN, OF VIRGINIA, TO BE A JUDGE OF THE 
+     UNITED STATES COURT OF APPEALS FOR VETERANS CLAIMS FOR THE 
+     TERM OF FIFTEEN YEARS, VICE KENNETH B. KRAMER, TERM EXPIRED.
+
+
+                            In the Air Force
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES AIR FORCE TO THE GRADE INDICATED UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                        To be brigadier general
+
+COL. MARSHALL K. SABOL, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES AIR FORCE AND AS PERMANENT 
+     PROFESSORS, UNITED STATES AIR FORCE ACADEMY, UNDER TITLE 10, 
+     U.S.C., SECTIONS 9333 (B) AND 9336 (A):
+
+                             To be colonel
+
+KATHLEEN HARRINGTON, 0000
+PAUL E. PIROG, 0000
+
+       THE FOLLOWING NAMED OFFICER FOR REGULAR APPOINTMENT IN THE 
+     GRADE INDICATED IN THE UNITED STATES AIR FORCE UNDER TITLE 
+     10, U.S.C., SECTIONS 531 AND 1211:
+
+                        To be lieutenant colonel
+
+GEORGE J. KRAKIE, 0000
+       THE FOLLOWING NAMED OFFICERS FOR REGULAR APPOINTMENT IN THE 
+     GRADE INDICATED IN THE UNITED STATES AIR FORCE UNDER TITLE 
+     10, U.S.C., SECTIONS 531 AND 1552.
+
+                        To be lieutenant colonel
+
+DAVID A. LUJAN, 0000
+MICHAEL C. SCHRAMM, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR REGULAR APPOINTMENT IN THE 
+     GRADE INDICATED IN THE UNITED STATES AIR FORCE UNDER TITLE 
+     10, U.S.C., SECTION 531.
+
+                        To be lieutenant colonel
+
+DOUGLAS A. HABERMAN, 0000
+EDWARD H. LINCH III, 0000
+KIRBY E. W. SIMMONS, 0000
+KEVIN J. STEVENS, 0000
+MATTHEW S. WARNER, 0000
+
+       The following named officer for Regular appointment in the 
+     grade indicated in the United States Air Force under title 
+     10, U.S.C., section 531:
+
+                              To be major
+
+MARTIN J. TOWEY, 0000
+
+
+                              In the Army
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                        To be lieutenant colonel
+
+JOHN R. PELOQUIN, 0000
+
+
+                          In the Marine Corps
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES MARINE CORPS UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                              To be major
+
+RANDY O. CARTER, 0000
+
+
+                              In the Navy
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                       To be lieutenant commander
+
+DWAYNE BANKS, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                       To be lieutenant commander
+
+BILLY R. DAVIS, 0000
+BROOK DEWALT, 0000
+DOUGLAS GABOS, 0000
+MARGUERITE A. GILLILAND, 0000
+KIMBERLY S. MARKS, 0000
+PHILIP R. ROSI II, 0000
+JASON P. SALATA, 0000
+WILLIAM H. SPEAKS, 0000
+```
