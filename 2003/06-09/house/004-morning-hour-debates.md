@@ -1,0 +1,46 @@
+---
+granule: CREC-2003-06-09-pt1-PgH5047-4
+date: 2003-06-09
+edition: CREC
+section: HOUSE
+page: H5047
+citation: 149 Cong. Rec. H5047
+---
+
+# MORNING HOUR DEBATES
+
+```
+[Congressional Record: June 9, 2003 (House)]
+[Page H5047]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+[DOCID:cr09jn03-41]                         
+
+ 
+[Congressional Record: June 9, 2003 (House)]
+[Page H5047]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+[DOCID:cr09jn03-41]                         
+
+
+[Congressional Record: June 9, 2003 (House)]
+[Page H5047]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+[DOCID:cr09jn03-41]                         
+
+
+
+
+                          MORNING HOUR DEBATES
+
+  The SPEAKER pro tempore. Pursuant to the order of the House of 
+January 7, 2003, the Chair will now recognize Members from lists 
+submitted by the majority and minority leaders for morning hour 
+debates. The Chair will alternate recognition between the parties, with 
+each party limited to not to exceed 30 minutes, and each Member except 
+the majority leader, the minority leader or the minority whip limited 
+to not to exceed 5 minutes.
+  The Chair recognizes the gentleman from Florida (Mr. Stearns) for 5 
+minutes.
+
+                          ____________________
+```
