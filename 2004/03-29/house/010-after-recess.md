@@ -1,0 +1,20 @@
+---
+granule: CREC-2004-03-29-pt1-PgH1597-3
+date: 2004-03-29
+edition: CREC
+section: HOUSE
+page: H1597
+citation: 150 Cong. Rec. H1597
+---
+
+# AFTER RECESS
+
+```
+                              {time}  1400
+                              AFTER RECESS
+
+  The recess having expired, the House was called to order by the 
+Speaker pro tempore (Mr. Boozman) at 2 p.m.
+
+                          ____________________
+```
