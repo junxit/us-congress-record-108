@@ -1,0 +1,32 @@
+---
+granule: CRECB-2003-pt19-Pg26255-4
+date: 2003-10-29
+edition: CRECB
+section: SENATE
+page: 26255
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate October 29, 2003:
+
+[[Page 26256]]
+
+
+
+
+                       DEPARTMENT OF THE TREASURY
+
+       ARNOLD I. HAVENS, OF VIRGINIA, TO BE GENERAL COUNSEL FOR 
+     THE DEPARTMENT OF THE TREASURY, VICE DAVID AUFHAUSER.
+
+
+                        DEPARTMENT OF EDUCATION
+
+       SUSAN K. SCLAFANI, OF THE DISTRICT OF COLUMBIA, TO BE 
+     ASSISTANT SECRETARY FOR VOCATIONAL AND ADULT EDUCATION, 
+     DEPARTMENT OF EDUCATION, VICE CAROL D'AMICO, RESIGNED.
+```

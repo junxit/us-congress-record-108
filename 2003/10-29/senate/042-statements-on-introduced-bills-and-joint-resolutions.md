@@ -1,0 +1,665 @@
+---
+granule: CRECB-2003-pt19-Pg26238
+date: 2003-10-29
+edition: CRECB
+section: SENATE
+page: 26238
+---
+
+# STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+```
+          STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+      By Mr. COLEMAN (for himself, Mr. Graham of South Carolina, and 
+        Mr. DeWine):
+  S. 1796. A bill to revitalize rural America and rebuild main street, 
+and for other purposes; to the Committee on Finance
+  Mr. COLEMAN. Mr. President, I ask unanimous consent that the bill I 
+introduce today, the rural Renaissance Act, be printed in the Record.
+  There being no objection, the bill was ordered to be printed in the 
+Record, as follows:
+
+                                S. 1796
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Rural Renaissance Act''.
+
+     SEC. 2. RURAL RENAISSANCE CORPORATION.
+
+       Subtitle D of the Consolidated Farm and Rural Development 
+     Act (7 U.S.C. 1981 et seq.) is amended by adding at the end 
+     the following new section:
+
+     ``SEC. 379E. RURAL RENAISSANCE CORPORATION.
+
+       ``(a) Establishment and Status.--There is established a 
+     body corporate to be known as the `Rural Renaissance 
+     Corporation' (hereafter in this section referred to as the 
+     `Corporation'). The Corporation is not a department, agency, 
+     or instrumentality of the United States Government, and shall 
+     not be subject to title 31, United States Code.
+       ``(b) Principal Office; Application of Laws.--The principal 
+     office and place of
+
+[[Page 26239]]
+
+     business of the Corporation shall be in the District of 
+     Columbia, and, to the extent consistent with this section, 
+     the District of Columbia Business Corporation Act (D.C. Code 
+     29-301 et seq.) shall apply.
+       ``(c) Functions of Corporation.--The Corporation shall--
+       ``(1) issue rural renaissance bonds for the financing of 
+     qualified projects as required under section 54 of the 
+     Internal Revenue Code of 1986,
+       ``(2) establish an allocation plan as required under 
+     section 54(f)(2)(A) of such Code,
+       ``(3) establish and operate the Rural Renaissance Trust 
+     Account as required under section 54(i) of such Code,
+       ``(4) perform any other function the sole purpose of which 
+     is to carry out the financing of qualified projects through 
+     rural renaissance bonds, and
+       ``(5) not later than February 15 of each year submit a 
+     report to Congress--
+       ``(A) describing the activities of the Corporation for the 
+     preceding year, and
+       ``(B) specifying whether the amounts deposited and expected 
+     to be deposited in the Rural Renaissance Trust Account are 
+     sufficient to fully repay at maturity the principal of any 
+     outstanding rural renaissance bonds issued pursuant to such 
+     section 54.
+       ``(d) Powers of Corporation.--The Corporation--
+       ``(1) may sue and be sued, complain and defend, in its 
+     corporate name, in any court of competent jurisdiction,
+       ``(2) may adopt, alter, and use a seal, which shall be 
+     judicially noticed,
+       ``(3) may prescribe, amend, and repeal such rules and 
+     regulations as may be necessary for carrying out the 
+     functions of the Corporation,
+       ``(4) may make and perform such contracts and other 
+     agreements with any individual, corporation, or other private 
+     or public entity however designated and wherever situated, as 
+     may be necessary for carrying out the functions of the 
+     Corporation,
+       ``(5) may determine and prescribe the manner in which its 
+     obligations shall be incurred and its expenses allowed and 
+     paid,
+       ``(6) may, as necessary for carrying out the functions of 
+     the Corporation, employ and fix the compensation of employees 
+     and officers,
+       ``(7) may lease, purchase, or otherwise acquire, own, hold, 
+     improve, use, or otherwise deal in and with such property 
+     (real, personal, or mixed) or any interest therein, wherever 
+     situated, as may be necessary for carrying out the functions 
+     of the Corporation,
+       ``(8) may accept gifts or donations of services or of 
+     property (real, personal, or mixed), tangible or intangible, 
+     in furtherance of the purposes of this section, and
+       ``(9) shall have such other powers as may be necessary and 
+     incident to carrying out this section.
+       ``(e) Nonprofit Entity; Restriction on Use of Moneys; 
+     Conflict of Interests; Independent Audits.--
+       ``(1) Nonprofit entity.--The Corporation shall be a 
+     nonprofit corporation and shall have no capital stock.
+       ``(2) Restriction.--No part of the Corporation's revenue, 
+     earnings, or other income or property shall inure to the 
+     benefit of any of its directors, officers, or employees, and 
+     such revenue, earnings, or other income or property shall 
+     only be used for carrying out the purposes of this section.
+       ``(3) Conflict of interests.--No director, officer, or 
+     employee of the Corporation shall in any manner, directly or 
+     indirectly participate in the deliberation upon or the 
+     determination of any question affecting his or her personal 
+     interests or the interests of any corporation, partnership, 
+     or organization in which he or she is directly or indirectly 
+     interested.
+       ``(4) Independent audits.--An independent certified public 
+     accountant shall audit the financial statements of the 
+     Corporation each year. The audit shall be carried out at the 
+     place at which the financial statements normally are kept and 
+     under generally accepted auditing standards. A report of the 
+     audit shall be available to the public and shall be included 
+     in the report required under subsection (c)(5).
+       ``(f) Tax Exemption.--The Corporation, including its 
+     franchise and income, is exempt from taxation imposed by the 
+     United States, by any territory or possession of the United 
+     States, or by any State, county, municipality, or local 
+     taxing authority.
+       ``(g) Management of Corporation.--
+       ``(1) Board of directors; membership; designation of 
+     chairperson and vice chairperson; appointment considerations; 
+     term; vacancies.--
+       ``(A) Board of directors.--The management of the 
+     Corporation shall be vested in a board of directors composed 
+     of 7 members appointed by the President, by and with the 
+     advice and consent of the Senate.
+       ``(B) Chairperson and vice chairperson.--The President 
+     shall designate 1 member of the Board to serve as Chairperson 
+     of the Board and 1 member to serve as Vice Chairperson of the 
+     Board.
+       ``(C) Individuals from private life.--Five members of the 
+     Board shall be appointed from private life.
+       ``(D) Federal officers and employees.--Two members of the 
+     Board shall be appointed from among officers and employees of 
+     agencies of the United States concerned with rural 
+     development.
+       ``(E) Appointment considerations.--All members of the Board 
+     shall be appointed on the basis of their understanding of and 
+     sensitivity to rural development processes. Members of the 
+     Board shall be appointed so that not more than 4 members of 
+     the Board are members of any 1 political party.
+       ``(F) Terms.--Members of the Board shall be appointed for 
+     terms of 3 years, except that of the members first appointed, 
+     as designated by the President at the time of their 
+     appointment, 2 shall be appointed for terms of 1 year and 2 
+     shall be appointed for terms of 2 years.
+       ``(G) Vacancies.--A member of the Board appointed to fill a 
+     vacancy occurring before the expiration of the term for which 
+     that member's predecessor was appointed shall be appointed 
+     only for the remainder of that term. Upon the expiration of a 
+     member's term, the member shall continue to serve until a 
+     successor is appointed and is qualified.
+       ``(2) Compensation, actual, necessary, and transportation 
+     expenses.--Members of the Board shall serve without 
+     additional compensation, but may be reimbursed for actual and 
+     necessary expenses not exceeding $100 per day, and for 
+     transportation expenses, while engaged in their duties on 
+     behalf of the Corporation.
+       ``(3) Quorum.--A majority of the Board shall constitute a 
+     quorum.
+       ``(4) President of corporation.--The Board of Directors 
+     shall appoint a president of the Corporation on such terms as 
+     the Board may determine.''.
+
+     SEC. 3. CREDIT TO HOLDERS OF RURAL RENAISSANCE BONDS.
+
+       (a) In General.--Part IV of subchapter A of chapter 1 of 
+     the Internal Revenue Code of 1986 (relating to credits 
+     against tax) is amended by adding at the end the following 
+     new subpart:
+
+  ``Subpart H--Nonrefundable Credit for Holders of Rural Renaissance 
+                                 Bonds
+
+``Sec. 54. Credit to holders of rural renaissance bonds.
+
+     ``SEC. 54. CREDIT TO HOLDERS OF RURAL RENAISSANCE BONDS.
+
+       ``(a) Allowance of Credit.--In the case of a taxpayer who 
+     holds a rural renaissance bond on a credit allowance date of 
+     such bond which occurs during the taxable year, there shall 
+     be allowed as a credit against the tax imposed by this 
+     chapter for such taxable year an amount equal to the sum of 
+     the credits determined under subsection (b) with respect to 
+     credit allowance dates during such year on which the taxpayer 
+     holds such bond.
+       ``(b) Amount of Credit.--
+       ``(1) In general.--The amount of the credit determined 
+     under this subsection with respect to any credit allowance 
+     date for a rural renaissance bond is 25 percent of the annual 
+     credit determined with respect to such bond.
+       ``(2) Annual credit.--The annual credit determined with 
+     respect to any rural renaissance bond is the product of--
+       ``(A) the applicable credit rate, multiplied by
+       ``(B) the outstanding face amount of the bond.
+       ``(3) Applicable credit rate.--For purposes of paragraph 
+     (2), the applicable credit rate with respect to an issue is 
+     the rate equal to an average market yield (as of the day 
+     before the date of sale of the issue) on outstanding long-
+     term corporate debt obligations (determined in such manner as 
+     the Secretary prescribes).
+       ``(4) Credit allowance date.--For purposes of this section, 
+     the term `credit allowance date' means--
+       ``(A) March 15,
+       ``(B) June 15,
+       ``(C) September 15, and
+       ``(D) December 15.
+     Such term includes the last day on which the bond is 
+     outstanding.
+       ``(5) Special rule for issuance and redemption.--In the 
+     case of a bond which is issued during the 3-month period 
+     ending on a credit allowance date, the amount of the credit 
+     determined under this subsection with respect to such credit 
+     allowance date shall be a ratable portion of the credit 
+     otherwise determined based on the portion of the 3-month 
+     period during which the bond is outstanding. A similar rule 
+     shall apply when the bond is redeemed.
+       ``(c) Limitation Based on Amount of Tax.--
+       ``(1) In general.--The credit allowed under subsection (a) 
+     for any taxable year shall not exceed the excess of--
+       ``(A) the sum of the regular tax liability (as defined in 
+     section 26(b)) plus the tax imposed by section 55, over
+       ``(B) the sum of the credits allowable under this part 
+     (other than this subpart and subpart C).
+       ``(2) Carryover of unused credit.--If the credit allowable 
+     under subsection (a) exceeds the limitation imposed by 
+     paragraph (1) for such taxable year, such excess shall be 
+     carried to the succeeding taxable year and added to the 
+     credit allowable under subsection (a) for such taxable year.
+       ``(d) Credit Included in Gross Income.--Gross income 
+     includes the amount of the credit allowed to the taxpayer 
+     under this section (determined without regard to subsection 
+     (c)) and the amount so included shall be treated as interest 
+     income.
+
+[[Page 26240]]
+
+       ``(e) Rural Renaissance Bond.--For purposes of this part, 
+     the term `rural renaissance bond' means any bond issued as 
+     part of an issue if--
+       ``(1) 95 percent or more of the proceeds from the sale of 
+     such issue are to be used--
+       ``(A) for expenditures incurred after the date of the 
+     enactment of this section for any qualified project, or
+       ``(B) for deposit in the Rural Renaissance Trust Account 
+     for repayment of rural renaissance bonds at maturity,
+       ``(2) the bond is issued by the Rural Renaissance 
+     Corporation, is in registered form, and meets the rural 
+     renaissance bond limitation requirements under subsection 
+     (f),
+       ``(3) except for bonds issued in accordance with subsection 
+     (f)(4), the term of each bond which is part of such issue 
+     does not exceed 30 years,
+       ``(4) the payment of principal with respect to such bond is 
+     the obligation of the Rural Renaissance Corporation, and
+       ``(5) the issue meets the requirements of subsection (g) 
+     (relating to arbitrage).
+       ``(f) Limitation on Amount of Bonds Designated.--
+       ``(1) National limitation.--There is a rural renaissance 
+     bond limitation for each calendar year. Such limitation is--
+       ``(A) for 2004--
+       ``(i) with respect to bonds described in subsection 
+     (e)(1)(A), $50,000,000,000, plus
+       ``(ii) with respect to bonds described in subsection 
+     (e)(1)(B), such amount (not to exceed $15,000,000,000) as 
+     determined necessary by the Rural Renaissance Corporation to 
+     provide funds in the Rural Renaissance Trust Account for the 
+     repayment of rural renaissance bonds at maturity, and
+       ``(B) except as provided in paragraph (3), zero thereafter.
+       ``(2) Limitation allocated to qualified projects among 
+     states.--
+       ``(A) In general.--Subject to subparagraph (B), the 
+     limitation applicable under paragraph (1)(A)(i) for any 
+     calendar year shall be allocated by the Rural Renaissance 
+     Corporation for qualified projects among the States under an 
+     allocation plan established by the Corporation and submitted 
+     to Congress for consideration.
+       ``(B) Minimum allocations to states.--In establishing the 
+     allocation plan under subparagraph (A), the Rural Renaissance 
+     Corporation shall ensure that the aggregate amount allocated 
+     for qualified projects located in each State under such plan 
+     is not less than $500,000,000.
+       ``(3) Carryover of unused limitation.--If for any calendar 
+     year--
+       ``(A) the rural renaissance bond limitation amount, exceeds
+       ``(B) the amount of bonds issued during such year by the 
+     Rural Renaissance Corporation,
+
+     the rural renaissance bond limitation amount for the 
+     following calendar year shall be increased by the amount of 
+     such excess. Any carryforward of a rural renaissance bond 
+     limitation amount may be carried only to calendar year 2005 
+     or 2006.
+       ``(4) Issuance of small denomination bonds.--From the rural 
+     renaissance bond limitation for each year, the Rural 
+     Renaissance Corporation shall issue a limited quantity of 
+     rural renaissance bonds in small denominations suitable for 
+     purchase as gifts by individual investors wishing to show 
+     their support for investing in rural America.
+       ``(g) Special Rules Relating to Arbitrage.--
+       ``(1) In general.--Subject to paragraph (2), an issue shall 
+     be treated as meeting the requirements of this subsection if 
+     as of the date of issuance, the Rural Renaissance Corporation 
+     reasonably expects--
+       ``(A) to spend at least 95 percent of the proceeds from the 
+     sale of the issue for 1 or more qualified projects within the 
+     3-year period beginning on such date,
+       ``(B) to incur a binding commitment with a third party to 
+     spend at least 10 percent of the proceeds from the sale of 
+     the issue, or to commence construction, with respect to such 
+     projects within the 6-month period beginning on such date, 
+     and
+       ``(C) to proceed with due diligence to complete such 
+     projects and to spend the proceeds from the sale of the 
+     issue.
+       ``(2) Rules regarding continuing compliance after 3-year 
+     determination.--If at least 95 percent of the proceeds from 
+     the sale of the issue is not expended for 1 or more qualified 
+     projects within the 3-year period beginning on the date of 
+     issuance, but the requirements of paragraph (1) are otherwise 
+     met, an issue shall be treated as continuing to meet the 
+     requirements of this subsection if either--
+       ``(A) the Rural Renaissance Corporation uses all unspent 
+     proceeds from the sale of the issue to redeem bonds of the 
+     issue within 90 days after the end of such 3-year period, or
+       ``(B) the following requirements are met:
+       ``(i) The Rural Renaissance Corporation spends at least 75 
+     percent of the proceeds from the sale of the issue for 1 or 
+     more qualified projects within the 3-year period beginning on 
+     the date of issuance.
+       ``(ii) The Rural Renaissance Corporation spends at least 95 
+     percent of the proceeds from the sale of the issue for 1 or 
+     more qualified projects within the 4-year period beginning on 
+     the date of issuance, and uses all unspent proceeds from the 
+     sale of the issue to redeem bonds of the issue within 90 days 
+     after the end of the 4-year period beginning on the date of 
+     issuance.
+       ``(h) Recapture of Portion of Credit Where Cessation of 
+     Compliance.--
+       ``(1) In general.--If any bond which when issued purported 
+     to be a rural renaissance bond ceases to be such a qualified 
+     bond, the Rural Renaissance Corporation shall pay to the 
+     United States (at the time required by the Secretary) an 
+     amount equal to the sum of--
+       ``(A) the aggregate of the credits allowable under this 
+     section with respect to such bond (determined without regard 
+     to subsection (c)) for taxable years ending during the 
+     calendar year in which such cessation occurs and the 2 
+     preceding calendar years, and
+       ``(B) interest at the underpayment rate under section 6621 
+     on the amount determined under subparagraph (A) for each 
+     calendar year for the period beginning on the first day of 
+     such calendar year.
+       ``(2) Failure to pay.--If the Rural Renaissance Corporation 
+     fails to timely pay the amount required by paragraph (1) with 
+     respect to such bond, the tax imposed by this chapter on each 
+     holder of any such bond which is part of such issue shall be 
+     increased (for the taxable year of the holder in which such 
+     cessation occurs) by the aggregate decrease in the credits 
+     allowed under this section to such holder for taxable years 
+     beginning in such 3 calendar years which would have resulted 
+     solely from denying any credit under this section with 
+     respect to such issue for such taxable years.
+       ``(3) Special rules.--
+       ``(A) Tax benefit rule.--The tax for the taxable year shall 
+     be increased under paragraph (2) only with respect to credits 
+     allowed by reason of this section which were used to reduce 
+     tax liability. In the case of credits not so used to reduce 
+     tax liability, the carryforwards and carrybacks under section 
+     39 shall be appropriately adjusted.
+       ``(B) No credits against tax.--Any increase in tax under 
+     paragraph (2) shall not be treated as a tax imposed by this 
+     chapter for purposes of determining--
+       ``(i) the amount of any credit allowable under this part, 
+     or
+       ``(ii) the amount of the tax imposed by section 55.
+       ``(i) Rural Renaissance Trust Account.--
+       ``(1) In general.--The following amounts shall be held in a 
+     Rural Renaissance Trust Account by the Rural Renaissance 
+     Corporation:
+       ``(A) The proceeds from the sale of all bonds issued under 
+     this section.
+       ``(B) The amount of any matching contributions with respect 
+     to such bonds.
+       ``(C) The investment earnings on proceeds from the sale of 
+     such bonds.
+       ``(D) Any earnings on any amounts described in subparagraph 
+     (A), (B), or (C).
+       ``(2) Use of funds.--Amounts in the Rural Renaissance Trust 
+     Account may be used only to pay costs of qualified projects, 
+     redeem rural renaissance bonds, and fund the operations of 
+     the Rural Renaissance Corporation, except that amounts 
+     withdrawn from the Rural Renaissance Trust Account to pay 
+     costs of qualified projects may not exceed the aggregate 
+     proceeds from the sale of rural renaissance bonds described 
+     in subsection (e)(1)(A).
+       ``(3) Use of remaining funds in rural renaissance trust 
+     account.--Upon the redemption of all rural renaissance bonds 
+     issued under this section, any remaining amounts in the Rural 
+     Renaissance Trust Account shall be available to the Rural 
+     Renaissance Corporation for any qualified project.
+       ``(j) Qualified Project.--For purposes of this section--
+       ``(1) In general.--Subject to paragraph (3), the term 
+     `qualified project' means a project which--
+       ``(A) includes 1 or more of the projects described in 
+     paragraph (2),
+       ``(B) is located in a rural area, and
+       ``(C) is proposed by a State and approved by the Rural 
+     Renaissance Corporation.
+       ``(2) Projects described.--A project described in this 
+     paragraph is--
+       ``(A) a water or waste treatment project,
+       ``(B) a conservation project, including any project to 
+     protect water quality or air quality (including odor 
+     abatement), any project to prevent soil erosion, and any 
+     project to protect wildlife habitat, including any project to 
+     assist agricultural producers in complying with Federal, 
+     State, or local regulations,
+       ``(C) an affordable housing project,
+       ``(D) a community facility project, including hospitals, 
+     fire and police stations, and nursing and assisted-living 
+     facilities,
+       ``(E) a value-added agriculture or renewable energy 
+     facility project for agricultural producers or farmer-owned 
+     entities, including any project to promote the production or 
+     processing of ethanol, biodiesel, animal waste, biomass, raw 
+     commodities, or wind as a fuel,
+       ``(F) a rural venture capital project for, among others, 
+     farmer-owned entities,
+       ``(G) a distance learning or telemedicine project,
+       ``(H) a project to expand broadband technology, and
+       ``(I) a rural teleworks project.
+       ``(3) Special rules.--For purposes of this subsection--
+
+[[Page 26241]]
+
+       ``(A) any project described in subparagraph (E) or (F) of 
+     paragraph (2) for a farmer-owned entity may be considered a 
+     qualified project if such entity is located in a rural area, 
+     or in the case of a farmer-owned entity the headquarters of 
+     which are located in a nonrural area, if the project is 
+     located in a rural area, and
+       ``(B) any project for a farmer-owned entity which is a 
+     facility described in paragraph (2)(E) for agricultural 
+     producers may be considered a qualified project regardless of 
+     whether the facility is located in a rural or nonrural area.
+       ``(3) Approval guidelines and criteria.--Not later than 60 
+     days after the date of the enactment of this section, the 
+     Rural Renaissance Corporation shall consult with the 
+     appropriate committees of Congress regarding the development 
+     of guidelines and criteria for the approval by the 
+     Corporation of projects as qualified projects for inclusion 
+     in the allocation plan established under subsection (f)(2)(A) 
+     and shall submit such guidelines and criteria to such 
+     committees.
+       ``(k) Other Definitions and Special Rules.--For purposes of 
+     this section--
+       ``(1) Bond.--The term `bond' includes any obligation.
+       ``(2) Rural area.--The term `rural area' means any area 
+     other than--
+       ``(A) a city or town which has a population of greater than 
+     50,000 inhabitants, or
+       ``(B) the urbanized area contiguous and adjacent to such a 
+     city or town.
+       ``(3) Rural renaissance corporation.--The term `Rural 
+     Renaissance Corporation' means the Rural Renaissance 
+     Corporation established under section 379E of the 
+     Consolidated Farm and Rural Development Act.
+       ``(4) Treatment of changes in use.--For purposes of 
+     subsection (e)(1)(A), the proceeds from the sale of an issue 
+     shall not be treated as used for a qualified project to the 
+     extent that the Rural Renaissance Corporation takes any 
+     action within its control which causes such proceeds not to 
+     be used for a qualified project. The Secretary shall specify 
+     remedial actions that may be taken (including conditions to 
+     taking such remedial actions) to prevent an action described 
+     in the preceding sentence from causing a bond to fail to be a 
+     rural renaissance bond.
+       ``(5) Partnership; s corporation; and other pass-thru 
+     entities.--In the case of a partnership, trust, S 
+     corporation, or other pass-thru entity, rules similar to the 
+     rules of section 41(g) shall apply with respect to the credit 
+     allowable under subsection (a).
+       ``(6) Bonds held by regulated investment companies.--If any 
+     rural renaissance bond is held by a regulated investment 
+     company, the credit determined under subsection (a) shall be 
+     allowed to shareholders of such company under procedures 
+     prescribed by the Secretary.
+       ``(7) Credits may be stripped.--Under regulations 
+     prescribed by the Secretary--
+       ``(A) In general.--There may be a separation (including at 
+     issuance) of the ownership of a rural renaissance bond and 
+     the entitlement to the credit under this section with respect 
+     to such bond. In case of any such separation, the credit 
+     under this section shall be allowed to the person who on the 
+     credit allowance date holds the instrument evidencing the 
+     entitlement to the credit and not to the holder of the bond.
+       ``(B) Certain rules to apply.--In the case of a separation 
+     described in subparagraph (A), the rules of section 1286 
+     shall apply to the rural renaissance bond as if it were a 
+     stripped bond and to the credit under this section as if it 
+     were a stripped coupon.
+       ``(8) Reporting.--The Rural Renaissance Corporation shall 
+     submit reports similar to the reports required under section 
+     149(e).''.
+       (b) Amendments to Other Code Sections.--
+       (1) Reporting.--Subsection (d) of section 6049 of the 
+     Internal Revenue Code of 1986 (relating to returns regarding 
+     payments of interest) is amended by adding at the end the 
+     following new paragraph:
+       ``(8) Reporting of credit on rural renaissance bonds.--
+       ``(A) In general.--For purposes of subsection (a), the term 
+     `interest' includes amounts includible in gross income under 
+     section 54(d) and such amounts shall be treated as paid on 
+     the credit allowance date (as defined in section 54(b)(4)).
+       ``(B) Reporting to corporations, etc.--Except as otherwise 
+     provided in regulations, in the case of any interest 
+     described in subparagraph (A), subsection (b)(4) shall be 
+     applied without regard to subparagraphs (A), (H), (I), (J), 
+     (K), and (L)(i) of such subsection.
+       ``(C) Regulatory authority.--The Secretary may prescribe 
+     such regulations as are necessary or appropriate to carry out 
+     the purposes of this paragraph, including regulations which 
+     require more frequent or more detailed reporting.''.
+       (2) Treatment for estimated tax purposes.--
+       (A) Individual.--Section 6654 of such Code (relating to 
+     failure by individual to pay estimated income tax) is amended 
+     by redesignating subsection (m) as subsection (n) and by 
+     inserting after subsection (l) the following new subsection:
+       ``(m) Special Rule for Holders of Rural Renaissance 
+     Bonds.--For purposes of this section, the credit allowed by 
+     section 54 to a taxpayer by reason of holding a rural 
+     renaissance bond on a credit allowance date shall be treated 
+     as if it were a payment of estimated tax made by the taxpayer 
+     on such date.''.
+       (B) Corporate.--Subsection (g) of section 6655 of such Code 
+     (relating to failure by corporation to pay estimated income 
+     tax) is amended by adding at the end the following new 
+     paragraph:
+       ``(5) Special rule for holders of rural renaissance 
+     bonds.--For purposes of this section, the credit allowed by 
+     section 54 to a taxpayer by reason of holding a rural 
+     renaissance bond on a credit allowance date shall be treated 
+     as if it were a payment of estimated tax made by the taxpayer 
+     on such date.''.
+       (c) Clerical Amendments.--
+       (1) The table of subparts for part IV of subchapter A of 
+     chapter 1 of the Internal Revenue Code of 1986 is amended by 
+     adding at the end the following new item:
+
+``Subpart H. Nonrefundable Credit for Holders of Rural Renaissance 
+              Bonds.''.
+       (2) Section 6401(b)(1) of such Code is amended by striking 
+     ``and G'' and inserting ``G, and H''.
+       (d) Effective Date.--The amendments made by this section 
+     shall apply to obligations issued after the date of the 
+     enactment of this Act.
+                                 ______
+                                 
+      By Mr. DeWINE (for himself and Mr. Kohl):
+  S. 1797. A bill to implement antitrust enforcement enhancements and 
+cooperation incentives; to the Committee on the Judiciary.
+  Mr. KOHL. Mr. President, I rise today, with my colleague Senator 
+DeWine, to introduce the ``Antitrust Criminal Penalty Enhancement and 
+Reform Act of 2003.'' This important bipartisan antitrust reform bill 
+will strengthen the procedures under which antitrust settlements are 
+reviewed by the courts, will increase criminal penalties for the most 
+egregious antitrust violations, and will enhance the Justice 
+Department's existing leniency program to encourage more antitrust 
+criminal wrongdoers to come forward and thereby significantly assist 
+the Department in detecting and preventing antitrust conspiracies.
+  This bill will accomplish three important goals. First, it will 
+strengthen the review of the Justice Department's civil antitrust 
+settlements under the Tunney Act. The Tunney Act is an important 
+statute, passed nearly thirty years ago, that insures the public 
+interest and consumers are protected when the Justice Department 
+settles civil antitrust cases. The Tunney Act requires that, before 
+entering any proposed consent judgment proposed by the Justice 
+Department, the court must determine that the judgment is in the public 
+interest. The statute also contains strict procedures for the public 
+disclosure of proposed antitrust consent decrees and an opportunity for 
+public comment.
+  The Tunney Act was passed in 1974 in response to concerns that some 
+Justice Department settlements were motivated by inappropriate 
+political pressure and were simply inadequate to restore competition or 
+protect consumers. Congress concluded that review by the district 
+courts to be an essential safeguard to deter the Justice Department 
+from settling cases without regard for the public interest or the 
+interest of affected consumers. The Tunney Act was enacted to end the 
+then-prevalent practice of district judges ``rubber stamping'' 
+antitrust consent decrees.
+  Unfortunately, in recent years, many courts--including specifically 
+the U.S. Court of Appeals for the District of Columbia Circuit--have 
+misconstrued the plain meaning of the Tunney Act and have returned to 
+the practice of ``rubber stamp'' review of antitrust settlements. The 
+controlling precedent in the D.C. Circuit is now that trial courts must 
+enter antitrust consent decrees as long as they do not make a ``mockery 
+of the judicial power.'' This standard is contrary to the intent of the 
+Tunney Act and effectively strips the courts of the ability to engage 
+in meaningful review of antitrust settlements.
+  Our bill will restore the original intent of the Tunney Act by First, 
+providing that courts are to independently determine that antitrust 
+settlements are in the public interest, second, setting forth a 
+specific list of factors that a court must examine in the course of its 
+public interest review--rather than
+
+[[Page 26242]]
+
+may consider as the statute is currently written, and third, requiring 
+the government establish that substantial evidence and reasoned 
+analysis supports the government's belief that the consent judgment is 
+in the public interest. These provisions will make clear that the court 
+has the authority to conduct a meaningful review to ensure that 
+antitrust settlements are not contrary to the public interest, or to 
+competition.
+  Second, the bill will enhance criminal penalties for those who 
+violate our antitrust laws. It will increase the maximum corporate 
+penalty from $10 to $100 million, will increase the maximum individual 
+fine from $350,000 to $1 million, and increase the maximum jail term 
+for individuals who are convicted of criminal antitrust violations from 
+three to ten years. These changes will send the proper message that 
+criminal antitrust violations--crimes such as price fixing and bid 
+rigging--committed by business executives in a boardroom are serious 
+offense that steal from American consumers just as effectively as does 
+a street criminal with a gun. We have all learned through unfortunate 
+experience in the last few years at some of our largest at most 
+respected corporations the serious consequences of crime in the 
+boardroom, with literally tens of millions of dollars being looted from 
+shareholders. These examples of corporate malfeasance teach us that 
+criminal sanctions for white collar crime must be serious enough to 
+deter such misbehavior, and our bill will help ensure our antitrust 
+penalties are strong enough to accomplish this mission.
+  Finally, this bill will give the Justice Department significant new 
+tools under its antitrust leniency program. The leniency program 
+rewards the first member of a criminal antitrust conspiracy to admit 
+its crime to the Justice Department by granting the wrongdoer criminal 
+amnesty. This is an important tool for law enforcement officials to 
+detect and break up cartels that fix prices and limit supply in our 
+economy. This new provision will give the Justice Department the 
+ability to offer those applying for leniency the additional reward of 
+only facing actual damages in civil suits arising out of the antitrust 
+conspiracy, rather than the treble damage liability to which they would 
+otherwise be subject. This statutory change will remove a significant 
+disincentive to those who would be likely to seek criminal amnesty and 
+should result in a substantial increase in the number of antitrust 
+conspiracies being detected.
+  Each of these three reforms are important measures will significantly 
+enhance the enforcement of our nation's antitrust laws. I urge my 
+colleagues to support this important measure.
+
+                          ____________________
+```
