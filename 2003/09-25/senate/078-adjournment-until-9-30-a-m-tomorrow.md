@@ -1,0 +1,24 @@
+---
+granule: CREC-2003-09-25-pt1-PgS12026-3
+date: 2003-09-25
+edition: CREC
+section: SENATE
+page: S12026
+citation: 149 Cong. Rec. S12026
+---
+
+# ADJOURNMENT UNTIL 9:30 A.M. TOMORROW
+
+**Speaking:** DeWine, Mike (D000294) [R-OH]
+
+```
+                  ADJOURNMENT UNTIL 9:30 A.M. TOMORROW
+
+  Mr. DeWINE. Mr. President, if there is no further business to come 
+before the Senate, I ask unanimous consent that the Senate stand in 
+adjournment under the previous order.
+  There being no objection, the Senate, at 8:26 p.m., adjourned until 
+Friday, September 26, 2003, at 9:30 a.m.
+
+                          ____________________
+```
