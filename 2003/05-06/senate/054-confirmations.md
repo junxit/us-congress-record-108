@@ -1,0 +1,23 @@
+---
+granule: CRECB-2003-pt8-Pg10538-6
+date: 2003-05-06
+edition: CRECB
+section: SENATE
+page: 10538
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate May 6, 2003:
+
+
+                             THE JUDICIARY
+
+       CECILIA M. ALTONAGA, OF FLORIDA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE SOUTHERN DISTRICT OF FLORIDA.
+       PATRICIA HEAD MINALDI, OF LOUISIANA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE WESTERN DISTRICT OF LOUISIANA.
+```
