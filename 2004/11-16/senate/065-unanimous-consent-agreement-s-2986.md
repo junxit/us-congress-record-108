@@ -1,0 +1,27 @@
+---
+granule: CRECB-2004-pt17-Pg23573-3
+date: 2004-11-16
+edition: CRECB
+section: SENATE
+page: 23573
+---
+
+# UNANIMOUS-CONSENT AGREEMENT--S. 2986
+
+```
+                  UNANIMOUS-CONSENT AGREEMENT--S. 2986
+
+  Mr. FRIST. Mr. President, I ask unanimous consent that at a time 
+determined by the majority leader, in consultation with the Democratic 
+leader, the Senate proceed to consideration of S. 2986, the debt limit 
+extension bill; provided that there be 6 hours of debate only, equally 
+divided between the chairman and ranking member of the Finance 
+Committee or their designees; provided further that no amendments be in 
+order to the measure, and following the use or yielding back of the 
+time, the Senate proceed to a vote on passage, with no intervening 
+action or debate.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+
+                          ____________________
+```
