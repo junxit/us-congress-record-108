@@ -1,0 +1,55 @@
+---
+granule: CREC-2003-01-08-pt1-PgE1-4
+date: 2003-01-08
+edition: CREC
+section: EXTENSIONS
+page: E1
+citation: 149 Cong. Rec. E1
+---
+
+# SOCIAL SECURITY PRESERVATION ACT
+
+**Speaking:** Paul, Ron (P000583) [R-TX]
+
+```
+                    SOCIAL SECURITY PRESERVATION ACT
+
+                                 ______
+                                 
+
+                             HON. RON PAUL
+
+                                of texas
+
+                    in the house of representatives
+
+                        Tuesday, January 7, 2003
+
+  Mr. PAUL. Mr. Speaker, I rise to protect the integrity of the Social 
+Security trust fund by introducing the Social Security Preservation 
+Act. The Social Security Preservation Act is a rather simple bill which 
+states that all monies raised by the Social Security trust fund will be 
+spent in payments to beneficiaries, with excess receipts invested in 
+interest-bearing certificates of deposit. This will help keep Social 
+Security trust fund monies from being diverted to other programs, as 
+well as allow the fund to grow by providing for investment in interest-
+bearing instruments.
+  The Social Security Preservation Act ensures that the government will 
+keep its promises to America's seniors that taxes collected for Social 
+Security will be used for Social Security. When the government taxes 
+Americans to fund Social Security, it promises the American people that 
+the money will be there for them when they retire. Congress has a moral 
+obligation to keep that promise.
+  The return of massive federal deficits, and the accompanying pressure 
+for massive new raids on the trust fund, make it more important than 
+ever that Congress protect the trust fund from big spending, pork-
+barrel politics. I call upon all my colleagues, regardless of which 
+proposal for long-term Social Security reform they support, to stand up 
+for America's seniors by cosponsoring the Social Security Preservation 
+Act.
+
+
+
+
+                          ____________________
+```
