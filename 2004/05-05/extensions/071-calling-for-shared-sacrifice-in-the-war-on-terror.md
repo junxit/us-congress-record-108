@@ -1,0 +1,211 @@
+---
+granule: CREC-2004-05-05-pt1-PgE763-2
+date: 2004-05-05
+edition: CREC
+section: EXTENSIONS
+page: E763
+citation: 150 Cong. Rec. E763
+---
+
+# CALLING FOR SHARED SACRIFICE IN THE WAR ON TERROR
+
+**Speaking:** Rangel, Charles B. (R000053) [D-NY]
+
+```
+           CALLING FOR SHARED SACRIFICE IN THE WAR ON TERROR
+
+                                 ______
+                                 
+
+                         HON. CHARLES B. RANGEL
+
+                              of new york
+
+                    in the house of representatives
+
+                         Wednesday, May 5, 2004
+
+  Mr. RANGEL. Mr. Speaker, I rise today to call upon our nation to 
+share the sacrifice imposed upon us by our war on terrorism. I have 
+introduced a bill to reinstitute the draft for young Americans between 
+the ages of 18 and 26 and national civilian service for all those not 
+needed in the military.
+  Since I have submitted this bill in January 2003, my conviction that 
+we need a draft has risen on an almost daily basis. In March 2003 the 
+administration decided to take the nation to war against Iraq for 
+doubtful reasons. I do not think that members of this administration 
+and Congress would have been so willing to launch a war if they had 
+known that their own children might have to fight it.
+  Fact is, that we are currently a nation in which the poor fight our 
+wars while the affluent stay at home. The majority of our brave 
+servicemen and women come either from poor rural areas or poverty-
+shaken inner-city neighborhoods. About thirty-five percent of our 
+soldiers are minorities. These young people enlist in the military 
+mainly for financial and educational opportunities.
+  I believe that the burdens of war should not be shouldered solely by 
+the poor segments of our society, but must be fairly shared by all 
+racial and economic groups. I am pleased to see that during the last 
+couple of months the support for a reintroduction of the draft has 
+risen substantially among the American people. As our casualties in 
+Iraq increase daily and exhausted soldiers are kept in Iraq under stop 
+loss orders, the debate about shared sacrifice is gaining ground.
+  I submit to the Congressional Record an article by journalist and 
+Vietnam War Veteran William Broyles Jr. which was published in the New 
+York Times on May 4, 2004. Mr. Broyles' article is one of the strongest 
+pieces favoring the draft that I have read so far and it fully reflects 
+my own opinion on this subject.
+
+                 [From the New York Times, May 4, 2004]
+
+                      A War for Us, Fought by Them
+
+                        (By William Broyles Jr.)
+
+       WILSON, Wyo.--The longest love affair of my life began with 
+     a shotgun marriage. It was the height of the Vietnam War and 
+     my student deferment had run out. Desperate not to endanger 
+     myself or to interrupt my personal plans, I wanted to avoid 
+     military service altogether. I didn't have the 
+     resourcefulness of Bill Clinton, so I couldn't figure out how 
+     to dodge the draft. I tried to escape into the National 
+     Guard, where I would be guaranteed not to be sent to war, but 
+     I lacked the connections of George W. Bush, so I couldn't 
+     slip ahead of the long waiting list. My attitude was the same 
+     as Dick Cheney's: I was special, I had ``other priorities.'' 
+     Let other people do it.
+       When my draft notice came in 1968, I was relieved in a way. 
+     Although I had deep doubts about the war, I had become 
+     troubled about how I had angled to avoid military service. My 
+     classmates from high school were in the war; my classmates 
+     from college were not--exactly the dynamic that exists today. 
+     But instead of reporting for service in the Army, on a whim I 
+     joined the Marine Corps, the last place on earth I thought I 
+     belonged.
+       My sacrifice turned out to be minimal. I survived a year as 
+     an infantry lieutenant in Vietnam. I was not wounded; nor did 
+     I struggle for years with post-traumatic stress disorder. A 
+     long bout of survivor guilt was the price I paid. Others 
+     suffered far more, particularly those who had to serve after 
+     the war had lost all sense of purpose for the men fighting 
+     it. I like to think that in spite of my being so unwilling at 
+     first, I did some small service to my country and to that 
+     enduring love of mine, the United States Marine Corps.
+       To my profound surprise, the Marines did a far greater 
+     service to me. In 3 years I learned more about standards, 
+     commitment and yes, life, than I did in 6 years of 
+     university. I also learned that I had had no idea of my own 
+     limits: when I was exhausted after humping up and down jungle 
+     mountains in 100-degree heat with a 75-pound pack, terrified 
+     out of my mind, wanting only to quit, convinced I couldn't 
+     take another step, I found that in fact I could keep going 
+     for miles. And my life was put in the hands of young men I 
+     would otherwise never have met, by and large high-school 
+     dropouts, who turned out to be among the finest people I have 
+     ever known.
+       I am now the father of a young man who has far more 
+     character than I ever had. I joined the Marines because I had 
+     to; he signed up after college because he felt he ought to. 
+     He volunteered for an elite unit and has served in both 
+     Afghanistan and Iraq. When I see images of Americans in the 
+     war zones, I think of my son and his friends, many of whom I 
+     have come to know and deeply respect. When I opened this 
+     newspaper yesterday and read the front-page headline, ``9 
+     G.I.'s Killed,'' I didn't think in abstractions. I thought 
+     very personally.
+       The problem is, I don't see the images of or read about any 
+     of the young men and women who, as Dick Cheney and I did, 
+     have ``other priorities.'' There are no immediate family 
+     members of any of the prime civilian planners of this war 
+     serving in it--beginning with President Bush and extending 
+     deep into the Defense Department. Only one of the 535 
+     members of Congress, Senator Tim Johnson of South Dakota, 
+     has a child in the war--and only half a dozen others have 
+     sons and daughters in the military.
+       The memorial service yesterday for Pat Tillman, the 
+     football star killed in Afghanistan, further points out this 
+     contrast. He remains the only professional athlete of any 
+     sport who left his privileged life during this war and turned 
+     in his play uniform for a real one. With few exceptions, the 
+     only men and women in military service are the profoundly 
+     patriotic or the economically needy.
+       It was not always so. In other wars, the men and women in 
+     charge made sure their family members led the way. Since 9/
+     11, the war on terrorism has often been compared to the 
+     generational challenge of Pearl Harbor; but Franklin D. 
+     Roosevelt's sons all enlisted soon after that attack. Both of 
+     Lyndon B. Johnson's sons-in-law served in Vietnam.
+       This is less a matter of politics than privilege. The 
+     Democratic elites have not responded more nobly than have the 
+     Republican; it's just that the Democrats' hypocrisy is less 
+     acute. Our president's own family illustrates the loss of the 
+     sense of responsibility that once went with privilege. In 
+     three generations the Bushes have gone from war hero in World 
+     War II, to war evader in Vietnam, to none of the extended 
+     family showing up in Iraq and Afghanistan.
+       Pat Tillman didn't want to be singled out for having done 
+     what other patriotic Americans his age should have done. The 
+     problem is, they aren't doing it. In spite of the president's 
+     insistence that our very civilization is at stake, the 
+     privileged aren't flocking to the flag. The war is being 
+     fought by Other
+
+[[Page E764]]
+
+     People's Children. The war is impersonal for the very people 
+     to whom it should be most personal.
+       If the children of the nation's elites were facing enemy 
+     fire without body armor, riding through gantlets of bombs in 
+     unarmored Humvees, fighting desperately in an increasingly 
+     hostile environment because of arrogant and incompetent 
+     civilian leadership, then those problems might well find 
+     faster solutions.
+       The men and women on active duty today--and their 
+     companions in the National Guard and the reserves--have seen 
+     their willingness, and that of their families, to make 
+     sacrifices for their country stretched thin and finally 
+     abused. Thousands of soldiers promised a 1-year tour of duty 
+     have seen that promise turned into a lie. When Eric Shinseki, 
+     then the Army chief of staff, told the president that winning 
+     the war and peace in Iraq would take hundreds of thousands 
+     more troops, Mr. Bush ended his career. As a result of this 
+     and other ill-advised decisions, the war is in danger of 
+     being lost, and my beloved military is being run into the 
+     ground.
+       This abuse of the voluntary military cannot continue. How 
+     to ensure adequate troop levels, with a diversity of 
+     backgrounds? How to require the privileged to shoulder their 
+     fair share? In other words, how to get today's equivalents of 
+     Bill Clinton, George W. Bush, Dick Cheney--and me--into the 
+     military, where their talents could strengthen and revive our 
+     fighting forces?
+       The only solution is to bring back the draft. Not since the 
+     19th century has America fought a war that lasted longer than 
+     a week with an all-volunteer army; we can't do it now. It is 
+     simply not built for a protracted major conflict. The 
+     arguments against the draft--that a voluntary army is of 
+     higher quality, that the elites will still find a way to 
+     evade service--are bogus. In World War II we used a draft 
+     army to fight the Germans and Japanese--two of the most 
+     powerful military machines in history--and we won. The 
+     problems in the military toward the end of Vietnam were not 
+     caused by the draft; they were the result of young Americans 
+     being sent to fight and die in a war that had become a 
+     disaster.
+       One of the few good legacies of Vietnam is that after years 
+     of abuses we finally learned how to run the draft fairly. A 
+     strictly impartial lottery, with no deferments, can ensure 
+     that the draft intake matches military needs. Chance, not 
+     connections or clever manipulation, would determine who 
+     serves.
+       If this war is truly worth fighting, then the burdens of 
+     doing so should fall on all Americans. If you support this 
+     war, but assume that Pat Tillman and Other People's Children 
+     should fight it, then you are worse than a hypocrite. If it's 
+     not worth your family fighting it, then it's not worth it, 
+     period. The draft is the truest test of public support for 
+     the administration's handling of the war, which is perhaps 
+     why the administration is so dead set against bringing it 
+     back.
+
+                          ____________________
+```
