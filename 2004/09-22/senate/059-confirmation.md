@@ -1,0 +1,24 @@
+---
+granule: CRECB-2004-pt14-Pg18951-2
+date: 2004-09-22
+edition: CRECB
+section: SENATE
+page: 18951
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate September 22, 2004:
+
+
+                          CENTRAL INTELLIGENCE
+
+       PORTER J. GOSS, OF FLORIDA, TO BE DIRECTOR OF CENTRAL 
+     INTELLIGENCE.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
