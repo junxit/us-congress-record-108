@@ -1,0 +1,19 @@
+---
+granule: CREC-2003-05-15-pt1-PgH4171-8
+date: 2003-05-15
+edition: CREC
+section: HOUSE
+page: H4171
+citation: 149 Cong. Rec. H4171
+---
+
+# The SPEAKER pro tempore. Under a previous order of the House, the gentlewoman from Colorado (Mrs. Musgrave) is recognized for 5 minutes.
+
+```
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from Colorado (Mrs. Musgrave) is recognized for 5 minutes.
+  (Mrs. MUSGRAVE addressed the House. Her remarks will appear hereafter 
+in the Extensions of Remarks.)
+
+                          ____________________
+```

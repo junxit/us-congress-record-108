@@ -1,0 +1,27 @@
+---
+granule: CREC-2003-05-15-pt2-PgS6506-2
+date: 2003-05-15
+edition: CREC
+section: SENATE
+page: S6506
+citation: 149 Cong. Rec. S6506
+---
+
+# EXECUTIVE REPORTS OF COMMITTEES
+
+```
+                    EXECUTIVE REPORTS OF COMMITTEES
+
+  The following executive reports of committees were submitted:
+
+       By Mr. HATCH for the Committee on the Judiciary.
+       Mark Moki Hanohano, of Hawaii, to be United States Marshal 
+     for the District of Hawaii for the term of four years.
+       L. Scott Coogler, of Alabama, to be United States District 
+     Judge for the Northern District of Alabama.
+
+  (Nominations without an asterisk were reported with the 
+recommendation that they be confirmed.)
+
+                          ____________________
+```
