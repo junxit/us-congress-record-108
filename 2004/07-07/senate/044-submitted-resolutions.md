@@ -1,0 +1,195 @@
+---
+granule: CREC-2004-07-07-pt1-PgS7755-3
+date: 2004-07-07
+edition: CREC
+section: SENATE
+page: S7755
+citation: 150 Cong. Rec. S7755
+---
+
+# SUBMITTED RESOLUTIONS
+
+**Speaking:** Craig, Larry E. (C000858) [R-ID]
+
+**Measures:** S.Res. 399, S.Res. 400
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+SEANTE RESOLUTION 399--DESIGNATING THE WEEK OF JULY 11 THROUGH JULY 17, 
+    2004, AS ``OINKARI BASQUE DANCERS WEEK'', AND FOR OTHER PURPOSES
+
+  Mr. CRAIG (for himself and Mr. Crapo) submitted the following 
+resolution; which was referred to the Committee on the Judiciary:
+
+                              S. Res. 399
+
+       Whereas the Basques have a long, proud history in the State 
+     of Idaho and across the United States;
+       Whereas Basque Americans have become an integral part of 
+     Idaho's unique identity;
+       Whereas the Oinkari Basque Dancers have dedicated over 40 
+     years to the preservation and performance of the unique folk 
+     dances of their Basque heritage;
+       Whereas these dedicated young people have traveled 
+     nationally and internationally to perform their dances and 
+     act as good will ambassadors of the American West;
+       Whereas the Oinkari Basque Dancers have performed for 
+     countless charities, hospitals, nursing homes, and centers 
+     for the disabled to share their culture and talents with 
+     other;
+       Whereas the Oinkari Basque Dancers have shown continued 
+     dedication to promote culture, dance, music, and education; 
+     and
+       Whereas the Oinkari Basque Dancers will be sharing their 
+     unique culture and music with visitors of Washington, D.C., 
+     as part of the ``Homegrown 2004: The Music of America'' 
+     concert series, presented by the Library of Congress American 
+     Folklife Center: Now, therefore, be it
+
+[[Page S7756]]
+
+       Resolved, That the Senate--
+       (1) designates the week of July 11 through July 17, 2004, 
+     as ``Oinkari Basque Dancers Week''; and
+       (2) requests that the President issue a proclamation 
+     calling upon the people of the United States to observe the 
+     week with appropriate ceremonies and activities.
+
+  Mr. CRAIG. Mr. President. It is with great pleasure that I rise today 
+to recognize the Oinkari Basque Dancers for their dedication to the 
+arts and culture of their great heritage.
+  The Basques have a long, proud history in the State of Idaho, which 
+is home to the largest concentrated population of Basques outside of 
+their native country. The first Basques began arriving in Idaho around 
+1890, the same year Idaho achieved statehood. Since then, the Basques 
+have become an integral part of Idaho's unique identity. While citizens 
+of Basque decent exist in each of our 50 States, the presence of the 
+Basque culture is perhaps most evident in Boise, ID, a hub of Basque 
+cultural activities and home to the Basque Center, the Cenarrusa Center 
+for Basque Studies, and the Basque Museum and Culture Center. Boise 
+also hosts the Jaialdi Basque festival, which attracts visitors from 
+around the world. One of the most notable activities for young Idaho 
+Basques is the preservation of their unique music and dance. The 
+Oinkari Basque Dancers are an excellent example of this dedication to 
+dance, music and education.
+  This group of young Basque Americans was founded over 40 years ago to 
+preserve and perform the unique folk dances of their Basque heritage. 
+Their traditional dances have been taught to hundreds of young Basques 
+over the years. These dedicated young people have traveled nationally, 
+including here in our Nation's capital, and internationally to perform 
+their dances and act as good will ambassadors of the American West. 
+Their travels have included trips to the Basque country where they 
+performed alongside native Basque dancing groups. The Oinkaris also 
+perform for local charities, hospitals, nursing homes and centers for 
+the disabled to share their culture and talents with others. They have 
+entertained people from the State Fair to the World's Fair and never 
+failed to impress an audience.
+  There are many talented individuals responsible for the Oinkaris' 
+many accomplishments, but I believe there is one who deserves special 
+recognition. The dancers are led by the music of Jim Jausoro, a 
+founding member of the Oinkaris. ``Jimmy'' Jausoro has received 
+numerous cultural honors, including the National Heritage Award from 
+National Endowment for the Arts. Under his tireless leadership, the 
+Oinkaris have grown and developed into an elite dance group who 
+represent their ancestry in the true spirit of dance and music.
+  For their dedication to arts, I am pleased to call Idaho the home of 
+the Oinkari Basque Dancers, and pleased to honor them today.
+                                 ______
+                                 
+
+ SENATE RESOLUTION 400--RECOGNIZING THE 2004 CONGRESSIONAL AWARDS GOLD 
+                            MEDAL RECIPIENTS
+
+  Mr. CRAIG (for himself and Mr. Baucus) submitted the following 
+resolution; which was referred to the Committee on Governmental 
+Affairs:
+
+                              S. Res. 400
+
+       Whereas today's youth are vital to the preservation of our 
+     country and will be the future bearers of the bright torch of 
+     democracy;
+       Whereas youth need positive direction as they transition 
+     into adulthood;
+       Whereas the United States needs increased numbers of 
+     community volunteers acting as positive influences on the 
+     Nation's youth;
+       Whereas the Congressional Awards program is committed to 
+     recognizing our Nation's most valuable asset, our youth, by 
+     encouraging them to set and accomplish goals in the areas of 
+     volunteer public service, personal development, physical 
+     fitness, and expedition/exploring;
+       Whereas more than 14,000 young people have been involved in 
+     the Congressional Awards program this year;
+       Whereas through the efforts of dedicated advisors across 
+     the country this year one hundred seventy-six students earned 
+     the Congressional Award Gold Medal;
+       Whereas increased awareness of the program's existence will 
+     encourage youth throughout the nation to become involved with 
+     the Congressional Awards: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) Recognizes the 2004 Congressional Award Gold Medal 
+     recipients Kori Agin-Batten, Elsbeth Allen, Noah Anderson, 
+     Geoffrey Patrick Arai, Kristyn Amour, Stephen Asker, Benjamin 
+     Jacob Ulrich Banwart, Elizabeth Barker, Robert G. Barnett, 
+     Christopher Belcher, Regina Bennis-Hartman, Samuel B. 
+     Blumberg, Christopher Bosch, Barrett Brandon, Blair Brandon, 
+     Brooke Brandon, Lindsey Buscemi, Adam M. Cain, Daniel Campis, 
+     Tina Cannon, Kent Cheung, Alexander Chun, Madeleine Clark, 
+     Sarah Clark, Michael Clontz, Michelle Coxe, Jeremy Crump, 
+     Kimberly Dahl, Dung Dam, Quoc Dam, Tri Dam, Kaitlin Davis, 
+     Deanna M. DeGregorio, Erin J. DeGroot, Katherine D. DeGroot, 
+     John Daniel DeJarnette, Clifton Michael Der Bing, Joshua W. 
+     Detherage, Christina Dodson, Matthew Doumar, Lindsay Madison 
+     Elgart, Marisa Enrico, Elizabeth Erratt, Julia Evans, Dewan 
+     Kazi Farhana, Amanda Feldman, Sarah Finch, Justin Floyd, 
+     Amanda Flynn, Richard Zachary Freed, Rigoberto Garcia, Yaneth 
+     Garcia-Lopez, Amanda Gersch, Cory Gibson, Anna Gorin, Arielle 
+     Gorin, Gina Marie Gormley, Daniel Grad, Tabitha Grad, Rebecca 
+     Marie Green, Megan Hanson, Nicole Hanson, Ryan Headley, John 
+     Baron Hoff, Jessica Honan, Laura Honan, Lindsey Howard, Harry 
+     Kline Howell III, Dermot Sean Hoyne, Daniel Hults, Manuel 
+     Ibarra, Angeles Jacobo, Jennifer Anne Jasper, Sarah Jennings, 
+     Tabitha Jennings, Tyler Jussel, Atul Kapila, Nikolas Kappy, 
+     Megan Kavanagh, Cristina Kavendek, Abbie Klinghoffer, 
+     Alexander J. Knihnicky, Ross Kozarsky, Jeffrey David Lambin, 
+     Andrew Langfield, Heather R. Leung-Van Hassel, Grace 
+     Lichlyter, Zachary Myles Lindsay, Jessica M. Link, Katherine 
+     Victoria Lugar, Ryan MacCluen, Raul Magdaleno, Raymond 
+     Malapero, Jonathan R. Mason, Rebecca N. Massicotte, Kelly 
+     McCormick, Benjamin McDonough, Alyssa McIntyre, Richelle 
+     Milburn, Sri Hari Miskin, Sarath Mom, Eric Moulton, Kathleen 
+     Mullins, Sarah Mullins, Carolina Munoz, Christine Murray, 
+     Kathleen Murray, Samuel Nassie, Douglas Neder, Matthew Neder, 
+     Patrick Novak, Ricardo Nunez, Maria Fatima Olvera-Santana, 
+     Sona Or, Lauren Pace, Colby Patchin, Emily C. Patchin, Jamin 
+     Patel, Elizabeth Philbin, Daniel R. Philbrick, Lauren Priori, 
+     Christy Pugh, Hannah Qualls, Sarah Raymond, Brett Rendina, 
+     Kristen N. Richter, Margarete Rosenkranz, Erin Rosen-Watson, 
+     Julie Rothfarb, Sarah Ann Rudoff, Maggie Salter, Stacia 
+     Scattolon, Jessinah Schaefer, Rachel Lyn Schmidt, Lindsay 
+     Schroeder, Megan Schroeder, Loni L. Schumacher, Magan Lindsey 
+     Scott, Mallory J. Selzer, Jessica Seppi, Anupriya Singhal, 
+     Elyssa Starr Sisko, Geoffrey Morgan Smith, Kayla Smith, 
+     Michael Smyth, Eric Snyder, Karin Marie Spindler, Georgia 
+     Stegall, Charles Strong, Jared Cameron Sullivan, Danielle 
+     Sutter, Creighton Lee Taylor, Matthew M. Thies, Sarah Tipton, 
+     Erick Todd, Elaine Trahan, Landon Trost, Christine 
+     Truesdell, Georgette Tzatzalos, Staff Sergeant Cornelio 
+     Umali, Lacey VanderBoegh, Katherine Warner, Emily J. 
+     Warren, Kate V. Warren, Brian Washakowski, Crystal-Mae 
+     Waugh, Elyse Weissman, Joanna Whitten, Brent Wright, 
+     Chantelle Wright, Trevor John Wright, Christopher 
+     Zaehringer, Brian Zobel, Christopher Zobel, Matthew Zobel 
+     and
+       (2) requests that the President issue a proclamation 
+     calling upon the people of the United States and interested 
+     groups to promote awareness of and volunteer involvement in 
+     the Congressional Awards program.
+
+                          ____________________
+```
