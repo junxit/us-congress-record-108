@@ -1,0 +1,26 @@
+---
+granule: CRECB-2004-pt13-Pg17534-3
+date: 2004-09-07
+edition: CRECB
+section: SENATE
+page: 17534
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate September 7, 2004:
+
+
+                             The Judiciary
+
+       MICHAEL H. WATSON, OF OHIO, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE SOUTHERN DISTRICT OF OHIO.
+       VIRGINIA MARIA HERNANDEZ COVINGTON, OF FLORIDA, TO BE 
+     UNITED STATES DISTRICT JUDGE FOR THE MIDDLE DISTRICT OF 
+     FLORIDA.
+       MICHAEL H. SCHNEIDER, SR., OF TEXAS, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE EASTERN DISTRICT OF TEXAS.
+```
