@@ -1,0 +1,36 @@
+---
+granule: CRECB-2004-pt5-Pg6931
+date: 2004-04-08
+edition: CRECB
+section: SENATE
+page: 6931
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate April 8, 2004:
+
+
+                         department of commerce
+
+       RHONDA KEENUM, OF MISSISSIPPI, TO BE ASSISTANT SECRETARY OF 
+     COMMERCE AND DIRECTOR GENERAL OF THE UNITED STATES AND 
+     FOREIGN COMMERCIAL SERVICES.
+
+
+                       department of the treasury
+
+       BRIAN CARLTON ROSEBORO, OF NEW JERSEY, TO BE AN UNDER 
+     SECRETARY OF THE TREASURY.
+       DONALD KORB, OF OHIO, TO BE CHIEF COUNSEL FOR THE INTERNAL 
+     REVENUE SERVICE AND AN ASSISTANT GENERAL COUNSEL IN THE 
+     DEPARTMENT OF THE TREASURY.
+       THE ABOVE NOMINATIONS WERE APPROVED SUBJECT TO THE 
+     NOMINEES' COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND 
+     TESTIFY BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+
+                          ____________________
+```
