@@ -1,0 +1,392 @@
+---
+granule: CRECB-2003-pt13-Pg17678
+date: 2003-07-10
+edition: CRECB
+section: SENATE
+page: 17678
+---
+
+# IRAQ
+
+```
+                                  IRAQ
+
+  Mr. DAYTON. Madam President, I thank the senior Senator from Alaska 
+for making possible my opportunity to speak tonight on a trip to Iraq I 
+took last week with several of our colleagues as members of the Senate 
+Armed Services Committee and Senate Intelligence Committee, led by the 
+chairman of the Senate Armed Services Committee, John Warner, who is an 
+extraordinary leader of the committee. I do not know if his age is 
+classified or not, but at his age, the kind of energy, the kind of 
+determination, the kind of enthusiasm and leadership he showed was just 
+extraordinary. It was a privilege to be on this adventure with him and 
+Carl Levin, our ranking member, who celebrated a birthday as we were 
+traveling over there. The two of them set a sterling example for the 
+rest of us to follow.
+  Then we met with the real superstars who are in Iraq: the men and 
+women of our Armed Forces. I cannot say enough about the respect and 
+admiration I have for those mostly young men and women from all over 
+this country. They have performed superbly well. They have redefined 
+the words ``patriotism'' and ``courage'' for this Senator. I am truly 
+in awe of their skill and their performance under the greatest of 
+danger, and their resolve, which continues to this day.
+  They are proud of what they have accomplished, as they should be. 
+They achieved a tremendous military victory in 3 weeks' time, and now 
+they are doing their utmost to preserve that victory while these other 
+factors get resolved, and that is what I wish to address my remarks to 
+this evening.
+  Stalwart as they are, those men and women pretty much asked all of us 
+one question: ``When are we coming home?'' I did not have the answer. 
+The military command with whom we met in Iraq did not have the answer. 
+The Secretary of Defense yesterday did not have that answer. And that 
+uncertainty, as well as the demands that are placed upon them--the 
+risks, the dangers, and the pressures in this god-awful environment 
+with temperatures 115 degrees in the afternoon, sweltering heat, and 
+soldiers dressed in flack jackets, heavy helmets, patrolling, doing 
+what they must do, knowing they are now increasingly targets of Iraqi 
+resistance. It is a gruesome situation they are enduring on behalf of 
+our country and on behalf of the commitments they have undertaken. As I 
+say, they are performing them incredibly well.
+  When we met in Baghdad with U.S. Ambassador Bremer and with the 
+commanding general of the U.S. forces, General Sanchez, we asked what 
+they thought was the course that had to be followed, and they both said 
+independently the same thing: The United States had to stay the course 
+in Iraq and keep its presence there until success was achieved.
+  We asked, What constitutes success? They each said three things. 
+First, that Saddam Hussein and his sons must be found and removed 
+permanently from Iraq.
+  Second, that law and order must be restored to that country.
+  And third, that a successor government, an Iraqi government, 
+hopefully a democratically reelected Iraqi government, will be able to 
+replace the U.S. civilian command and begin to run that country 
+successfully.
+  The first objective, the elimination of Saddam Hussein and his two 
+sons, should have been accomplished already. It must be accomplished 
+very soon, and I believe it will be accomplished very soon. It is 
+impossible to overstate the terror he strikes in the souls of the 
+people of Iraq. People literally quiver when his name is even 
+mentioned. They refuse to say anything about him. They do not even want 
+to mention his name or respond to questions about him.
+  The new local leaders we met with in Kirkuk talked softly, and when 
+his name came up, they talked so softly they were barely audible. It is 
+as if they wanted to recede into the woodwork and become invisible, 
+rather than be subjected to this man's cruelty and tyranny.
+  We heard stories about unspeakable cruelty orchestrated by him or his 
+two sons, such as the soccer games played in their Olympic stadium 
+where the members of the losing team would be taken below and tortured 
+and then executed for losing a soccer game. Or even if someone scored 
+the winning goal and it cost one of the son's his bet, that player 
+could be taken down below and tortured and executed. To think of living 
+one's life under those kinds of horrific circumstances at the whim of 
+this insane, cruel, and demonic man and his sons.
+  We visited a mass grave site where a couple thousand bodies have been 
+exhumed, the ones not identified and taken away by their Iraqi brothers 
+and sisters. There are thousands of those grave sites, we are told, all 
+over the country.
+  There is reason to believe that when those three men are permanently 
+gone, unmistakably gone, identified clearly by the Iraqi people as 
+bodies that are never again to rule Iraq, that more and more of the 
+citizenry will come forward and will be willing to take that crucial 
+first step toward allegiance with the United States but, more 
+importantly, allegiance with their own future, with their own 
+autonomous Iraq that they can create and run themselves.
+  After that first goal has been achieved, the other two, bringing law 
+and order to this country and installing a successor government that is 
+going to be viable over the months that
+
+[[Page 17679]]
+
+will follow, is going to be even more challenging. Right now, U.S. 
+forces are seeking out and training, putting into place some 60,000 to 
+70,000 police officers all over Iraq.
+  This is a monumental undertaking of its own, to screen out the wrong 
+elements, those who were involved before in the Baath Party or secret 
+police, and put them now in charge of law and order all over that 
+country, law and order that is desperately needed because right now it 
+is the U.S. troops who are required to patrol to reconstruct the peace, 
+guarding public property which, we are told, if something has any value 
+at all and is not being guarded, it will be quickly stolen, looted. 
+While our troops are standing guard or patrolling, they are exposed 
+targets. Increasingly, they are the targets of murderers who are 
+seeking vengeance and trying to drive out our forces.
+  In fact, the day after we left Baghdad, a Minnesota soldier was 
+killed, PFC Edward Herrgott from Shakopee, MN. He was 20 years old. He 
+was killed, murdered really, by a sniper as he stood guarding the 
+Baghdad Museum. Some of that hostility is being orchestrated by forces, 
+some rumored to be by Saddam Hussein himself trying to retaliate 
+against the United States military for the victories that were 
+achieved, but some of it is also said to be caused by the lack of 
+improvements that have failed to be made in the basic services upon 
+which Iraqi citizens depend.
+  There is an article in yesterday's New York Times and I ask unanimous 
+consent that it be printed in the Record at the completion of my 
+remarks.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  (See exhibit 1.)
+  Mr. DAYTON. Let me read a couple of excerpts because this is really 
+the crux of where I think we have fallen behind in our effort and 
+where, until we do make up that effort and start showing some visible 
+success, our troops are going to have an increasingly difficult time 
+and increasingly become targets of hostility and reaction and where 
+they are going to be bound to that country longer than they would need 
+to be.
+  It describes the city of Abu Ghraib which is just west of Baghdad. It 
+says:
+
+       The constituents' woes came down to the essentials. They 
+     had no power, and thus no clean water. Their local elected 
+     leader was besieged with all of these requests for basic 
+     necessities of life.
+       Mr. Dari could do nothing for the man who, lacking 
+     electricity, stayed up all night fanning a sick child, 
+     nothing for the 5-year-old child who was left legless by 
+     unexploded ordnance that detonated, a sight that caused him 
+     to weep. He could do nothing for the multitudes complaining 
+     of cars, weapons or relatives taken by American forces, other 
+     than give their names to the Americans. He could do nothing 
+     for those lacking drinking water or waiting for food rations.
+       ``What do you tell the people--have more patience?'' he 
+     asked rhetorically. ``Till when?''
+
+  This local Iraqi leader went on to say:
+
+       ``Conditions have never been worse,'' he said bluntly. 
+     ``We've never been through such a long bad period.''
+
+  The city has had only 1 to 3 hours of power a day in recent weeks. 
+Drinking water cannot be pumped without electricity so people have to 
+take their water from dirty canals. As I said before, when we were 
+there, the temperatures in the afternoon were 115 degrees. I was told a 
+couple of days before we arrived it had reached 130 degrees. If there 
+is no electricity for air conditioning and other cooling, there are 
+serious problems.
+  Crime, rare under the old government, is rampant. The leader said 
+that when he first met with the Americans he told them that they did 
+not have much time to meet the expectations of the citizenry, and that 
+he believes time is almost up. Yet, as of the other day, neither he nor 
+the American colonel in charge of the troops there had ever had contact 
+with the American-led civilian administration ostensibly governing 
+Iraq, even though this man, Mr. Dari, oversees an area that is home to 
+900,000 people.
+  It is an impossible situation for our service men and women to be 
+trying to uphold civil order in a foreign country with virtually no 
+interpreters available to communicate with citizens, when they are in 
+that state of frustration and agitation.
+  We met yesterday with the Secretary of Defense in the Armed Services 
+Committee, who pointed to progress that has been made in this respect. 
+I am sure that there has been progress in certain areas, but there is 
+not enough progress being made in these nonmilitary efforts. They are 
+not occurring in enough places in the country to take hold among the 
+citizenry. And where they are occurring, at least from what we saw on 
+our trip, it is the U.S. and British troops who are performing these 
+nonmilitary services.
+  For example, in Kirkuk, which is north of Baghdad, U.S. forces 
+conduct raids at night against what are believed to be enemy cells of 
+resistance, and then by day they are hauling away thousands of tons of 
+accumulated garbage, old garbage, and repairing rundown schools. The 
+British troops with whom we met in Basra, in southern Iraq, are 
+rebuilding a hospital. They are doing wonderful work, but that is not 
+what they are there to do.
+  To ask them to be engaged in military activities, policing the 
+streets of these cities, doing repair work or hauling away old 
+accumulated garbage in their spare time, which they have done, is just 
+really senseless. It is overburdening them. It is unfair to them, and 
+it means that not enough of these nonmilitary projects, economic 
+rehabilitation, social rehabilitation programs, are underway or visible 
+anywhere in Iraq for the citizens of that country to see that they have 
+hope for a better future.
+  They expect the United States of America, which they view as 
+omnipotent because we came in and swept their military aside and 
+occupied those cities and the country, to deliver services as basic as 
+electricity or running water, and when we cannot do so and when the 
+conditions are markedly worse than they were under Saddam Hussein, we 
+have a very serious problem with the reception there. Our troops, our 
+young men and women, are literally going to pay for these failures with 
+their lives.
+  I was recently told about a story of a company in Ohio that makes 
+hospital surgical beds. They were willing to send as many of these 
+surgical tables over to Iraq as could be used--such as for the 5-year-
+old legless boy who needed surgery--to save lives and be recognized as 
+having come over from the United States of America to help dress the 
+wounds, literally and figuratively, that exist there. The company is 
+still waiting to hear back from the Deputy Secretary of Defense's 
+office regarding that offer to donate and transport, at their expense, 
+these hospital facilities.
+  If the United States can bring in, as we have because we must, tent 
+cities with electric generators, with sewage disposal systems, with 
+portable toilets, why can't electric generators be brought in that will 
+produce some of the electricity that these cities need so that they can 
+again appreciate the benefits of what we have brought to them, not only 
+the liberation of spirit and soul and body, but also the ability to 
+function as they must and move forward as they must?
+  I urge the administration that the same efforts be made, with the 
+same intensity of effort, the same--not quite the same funding but 
+considerable effort be made--to bring about this renovation.
+  Ultimately, that reconstruction is going to take decades. It is the 
+responsibility of the Iraqi people to undertake it and to pay for it, 
+but in the short run, in the immediate sense, those projects are not 
+going to occur unless the United States is the initiator, provides the 
+leadership, and provides the initial financial resources. If we do not 
+see a plethora of those kinds of improvements overall, if we do not see 
+children who are outside playing with soccer balls donated by American 
+children who sent them over there, we do not establish that basic 
+connection, then we are going to be there far longer than we should be 
+and longer than anybody over there now wants us to be. We are going to 
+suffer casualties far greater than we should.
+
+[[Page 17680]]
+
+  So I implore the President and the administration to undertake this 
+effort with the same magnitude of skill and American know-how that 
+succeeded so wonderfully militarily so we can bring our folks home.
+  I yield the floor.
+
+                               Exhibit 1
+
+                [From the New York Times, July 9, 2003]
+
+         For a Town Council in Iraq, Many Queries, Few Answers
+
+                            (By Amy Waldman)
+
+       Abu Ghraib, Iraq, July 5.--On a recent morning, the Abu 
+     Ghraib town council was hearing the usual litany of 
+     complaints, offering its usual mix of help and, mostly, 
+     impotence in return. Overhead, a fan turned, but the air did 
+     not.
+       The constituents' woes came down to the essentials. They 
+     had no power, and thus no clean water--could they get 
+     generators? They had no security--could they get weapons 
+     permits?
+       If anyone could help them, it should have been the man at 
+     the center of the scene, Dari Hamas al-Dari. In April, he was 
+     selected by the local tribes to lead Iraq's first freely 
+     formed town council after the fall of Saddam Hussein. Since 
+     then, he has sat at a desk in a white robe and headdress, in 
+     a room lined with men in tribal robes and Western dress all 
+     looking to him for answers. He has not had many.
+       Mr. Dari could do nothing for the man who, lacking 
+     electricity, stayed up all night fanning a sick child, 
+     nothing for the 5-year-old child who was left legless by 
+     unexploded ordnance that detonated, a sight that caused him 
+     to weep. He could do nothing for the multitudes complaining 
+     of cars, weapons or relatives taken by American forces, other 
+     than give their names to the Americans. He could do nothing 
+     for those lacking drinking water or waiting for food rations.
+       ``What do you tell the people--have more patience?'' he 
+     asked rhetorically. ``Till when?''
+       If America has natural allies in Iraq, they are men like 
+     Mr. Dari. He attended the American Jesuit school in Baghdad, 
+     then university in Frankfurt. He has lived in Europe and 
+     speaks excellent English. He maintained his independence 
+     throughout Mr. Hussein's rule, shunning the material 
+     blandishments with which Mr. Hussein bought the loyalty of 
+     many tribal sheiks.
+       A part-time farmer and businessman, he is a member of the 
+     sizable Zobaa tribe, which his brother leads. He welcomed the 
+     Americans and has worked closely with their military 
+     commanders in his area.
+       So the impatience creeping into his voice and the 
+     frustration lining his handsome face bode poorly for the fate 
+     of the American-led occupation here--even if American 
+     officials succeed in drawing Iraqis into a new national 
+     leadership. There is no indication that Mr. Dari, who is 64, 
+     would turn on the Americans. He is simply losing faith in 
+     them.
+       ``Conditions have never been worse,'' he said bluntly. 
+     ``We've never been through such a long bad period.''
+       Abu Ghraib--a largely agricultural area just west of 
+     Baghdad that is also home to Iraq's most notorious prison--
+     has had only one to three hours of power a day in recent 
+     weeks. Drinking water cannot be pumped without electricity, 
+     so people take water from dirty canals.
+       The food ration system that functioned smoothly under 
+     Saddam Hussein is breaking down, out here at least. Trucks 
+     leave Baghdad laden with food, but it mysteriously gets 
+     offloaded at markets along the way.
+       Crime, rare under the old government, is rampant. Mr. 
+     Dari's car was taken from him at gunpoint in Baghdad 
+     recently. Four of his council members have been the victims 
+     of carjacking attempts. And while the criminals are well-
+     armed, the Americans are disarming the victims, taking 
+     weapons while the weapons licenses they insist on are in 
+     short supply.
+       ``People here feel naked without their pistols,'' Mr. Dari 
+     said, putting his own in a holster.
+       In a time of rising discontent, Mr. Dari is the buffer 
+     between occupier and occupied. It is a role that, 
+     historically, has earned little appreciation. Recent attacks 
+     on Iraqis cooperating with the Americans suggest that this 
+     chapter will be no different.
+       ``We are stuck between the Americans and our people,'' Mr. 
+     Dari said of the council, which sits, for no salary, from 8 
+     a.m. to 2 p.m. daily. ``And there were so many promises from 
+     one side.''
+       Some people are calling the council members ``America 
+     lovers'' and traitors, he said, because they are working with 
+     the Americans.
+       ``He's caught in the middle,'' one of his American 
+     partners, Lt. Col. Jeff Ingram of the First Armored Division, 
+     acknowledged. ``He defends us a lot.''
+       These days, Mr. Dari is warning the American more than he 
+     is defending them. When he first met with them, he said, he 
+     told them that they did not have much time to meet people's 
+     expectations. That time is almost up, he believes.
+       ``I'm not threatening you with another Vietnam--God 
+     forbid,'' he said. ``I'm just trying to get help for the 
+     people before something happens.''
+       Something is already happening, of course. Out here, as 
+     across much of Iraq, the attacks on Americans are stepping 
+     up. Colonel Ingram said his company is being attacked at 
+     least once a day, fortunately by men who are not very good 
+     shots.
+       Colonel Ingram blames the Iraqis for most of the area's 
+     problems, saying it is they who have torn down the power 
+     lines he fixed, they who are robbing one another. ``The U.S. 
+     is not the problem, it's the solution,'' he said.
+       But he too wonders about the slow pace of rebuilding. ``I 
+     would have expected the U.S., the biggest country in the 
+     world, to say here's the water purification system, here's 
+     the big generator,'' he said.
+       As of the other day, neither Mr. Dari nor Colonel Ingram 
+     had ever had any contact with the American-led civilian 
+     administration ostensibly governing Iraq, although Mr. Dari 
+     oversees an area that is home to 900,000 people.
+       So they soldier on alone, often seeking progress in vain. 
+     The council tried to distribute generators found at a 
+     Republican Guard camp to villages, but found that many of the 
+     village ``representatives'' were driving out of the camp and 
+     selling the generators. Others were being set upon by angry 
+     mobs wanting the generators for themselves.
+       American soldiers were deployed to keep order, but in the 
+     heat and chaos their tempers frayed. They broke windshields 
+     and cursed at Iraqis, further shrinking the reservoir of good 
+     will.
+       Mr. Dari said he received 10 to 12 complaints a day about 
+     weapons, cars or relatives taken by the Americas. One man 
+     came to report that American soldiers had taken away his deaf 
+     relative a month ago for having a picture of Saddam Hussein 
+     in his house, and that he had not been seen since. Officials 
+     from an Islamic charity said the Americans had confiscated 
+     their car and raided their office--the left both unsecured, 
+     giving looters free rein.
+       Then there are the small problems. The woman who is 
+     illegally squatting in a government building (American 
+     soldier told Mr. Dari they could not evict her unless she 
+     threatened someone; property rights were not their 
+     ``purview.'') The two council members whom the council 
+     dismissed for corruption. The effort to find the American 
+     commander with the authority to sign a contract for garbage 
+     collection.
+       Mr. Dari is just old enough to remember when the British 
+     had an air base just west of here. They told Iraqis they had 
+     come to liberate them from the Ottomans, he recalled, and 
+     they stayed 40 years.
+       ``I hope history isn't repeating itself,'' he said, and 
+     pressed his temples as if hoping to make the impatient men at 
+     both elbows disappear.
+
+  The PRESIDING OFFICER. The Senator from Alaska.
+
+                          ____________________
+```
