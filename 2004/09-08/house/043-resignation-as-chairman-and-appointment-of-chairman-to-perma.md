@@ -1,0 +1,54 @@
+---
+granule: CRECB-2004-pt13-Pg17755
+date: 2004-09-08
+edition: CRECB
+section: HOUSE
+page: 17755
+---
+
+# RESIGNATION AS CHAIRMAN AND APPOINTMENT OF CHAIRMAN TO PERMANENT SELECT COMMITTEE ON INTELLIGENCE
+
+```
+RESIGNATION AS CHAIRMAN AND APPOINTMENT OF CHAIRMAN TO PERMANENT SELECT 
+                       COMMITTEE ON INTELLIGENCE
+
+  The SPEAKER pro tempore laid before the House the following 
+resignation as chairman of the Permanent Select Committee on 
+Intelligence:
+
+                                    U.S. House of Representatives,
+
+
+                   Permanent Select Committee on Intelligence,
+
+                                  Washington, DC, August 10, 2004.
+     Hon. J. Dennis Hastert,
+     Speaker of the House of Representatives,
+     Washington, DC.
+       Dear Mr. Speaker: As a result of the honor bestowed upon me 
+     by the President today, nominating me for the position of 
+     Director of Central Intelligence, I believe it is appropriate 
+     to relinquish my position as Chairman of the Permanent Select 
+     Committee on Intelligence during the pendency of the 
+     confirmation process of that nomination, effective 
+     immediately.
+       Therefore, I would ask that you appoint a Member to take 
+     the Chairmanship of the Committee on a temporary basis, 
+     effective immediately, until the Senate makes a final 
+     determination on the President's nomination.
+       I believe it continues to be appropriate for me to remain a 
+     Member of the Committee, however.
+       Thank you for your consideration of this request.
+           Very truly yours,
+                                                   Porter J. Goss,
+                                                         Chairman.
+
+  The SPEAKER pro tempore. The Chair announces that on August 25, 2004, 
+in consonance with the letter of resignation from the gentleman from 
+Florida and pursuant to clause 11 of rule I, the Speaker designated the 
+gentleman from Michigan (Mr. Hoekstra) as chairman of the Permanent 
+Select Committee on Intelligence, vice the gentleman from Florida (Mr. 
+Goss).
+
+                          ____________________
+```
