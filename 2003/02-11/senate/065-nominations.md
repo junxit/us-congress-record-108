@@ -1,0 +1,762 @@
+---
+granule: CREC-2003-02-11-pt1-PgS2228-4
+date: 2003-02-11
+edition: CREC
+section: SENATE
+page: S2228
+citation: 149 Cong. Rec. S2228
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate February 11, 2003:
+
+
+                      department of transportation
+
+       Jeffrey Shane, of the District of Columbia, to be Under 
+     Secretary of Transportation for Policy. (New Position)
+
+
+                          department of state
+
+       Lino Gutierrez, of Florida, a Career Member of the Senior 
+     Foreign Service, Class of Minister-Counselor, to be 
+     Ambassador Extraordinary and Plenipotentiary of the United 
+     States of America to Argentina.
+       Reno L. Harnish, of California, a Career Member of the 
+     Senior Foreign Service, Class of Minister-Counselor, to be 
+     Ambassador Extraordinary and Plenipotentiary of the United 
+     States of America to the Republic of Azerbaijan.
+       Jeffrey Lunstead, of the District of Columbia, a Career 
+     Member of the Senior Foreign Service, Class of Minister-
+     Counselor, to be Ambassador Extraordinary and Plenipotentiary 
+     of the United States of America to the Democratic Socialist 
+     Republic of Sri Lanka, and to serve concurrently and without 
+     additional compensation as Ambassador Extraordinary and 
+     Plenipotentiary of the United States of America to the 
+     Republic of Maldives.
+       John W. Snow, of Virginia, to be United States Governor of 
+     the International Monetary Fund for a term of five years; 
+     United States Governor of the International Bank for 
+     Reconstruction and Development for a term of five years; 
+     United States Governor of the Inter-American Development Bank 
+     for a term of five years; United States Governor of the 
+     African Development Bank for a term of five years; United 
+     States Governor of the Asian Development Bank; United States 
+     Governor of the African Development Fund; United States 
+     Governor of the European Bank for Reconstruction and 
+     Development, vice Paul Henry O'Neill, resigned.
+
+
+                         department of justice
+
+       Gregory A. White, of Ohio, to be United States Attorney for 
+     the Northern District of Ohio for the term of four years, 
+     vice Emily Margaret Sweeney, term expired.
+
+
+                            In the Air Force
+
+       The following named officer for appointment as the Chief of 
+     the National Guard Bureau, and for appointment to the grade 
+     indicated under title 10, U.S.C., section 10502:
+
+                        To be lieutenant general
+
+H. Steven Blum, 0000
+
+       The following named officer for appointment in the United 
+     States Air Force to the grade indicated while assigned to a 
+     position of importance and responsibility under title 10, 
+     U.S.C., section 601:
+
+                        To be lieutenant general
+
+John D.W. Corley, 0000
+
+       The following named officer for appointment to the grade 
+     indicated in the United States Air Force under title 10, 
+     U.S.C., section 624:
+
+                        To be lieutenant colonel
+
+Charles N. Davidson, 0000
+
+       The following named officer for appointment to the grade 
+     indicated in the United States Air Force under title 10, 
+     U.S.C., section 624:
+
+                        To be lieutenant colonel
+
+Thomas R. Unrath, 0000
+
+
+                              In the Army
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., 
+     SECTION 12203:
+
+                             To be colonel
+
+THOMAS W. SHEA, 0000
+RICHARD H. TAYLOR, 0000
+THOMAS W. YARBOROUGH, 0000
+
+       THE FOLLOWING NAMED ARMY NATIONAL GUARD OF THE UNITED 
+     STATES OFFICERS FOR APPOINTMENT TO THE GRADE INDICATED IN THE 
+     RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., SECTIONS 12203 
+     AND 12211:
+
+                             To be colonel
+
+ROBERT J. KINCAID, 0000
+CARLOS M. REYESROSADO, 0000
+RODNEY L. THOMAS, 0000
+
+       The following named Army National Guard of the United 
+     States officer for appointment to the grade indicated in the 
+     Reserve of the Army under title 10, U.S.C., sections 12203 
+     and 12211:
+
+                             To be colonel
+
+Bradley J. Jorgensen, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR REGULAR APPOINTMENT IN THE 
+     GRADES INDICATED IN THE UNITED STATES ARMY IN THE DENTAL 
+     CORPS (DE), UNDER TITLE 10, U.S.C., SECTIONS 531 AND 3064:
+
+                        To be lieutenant colonel
+
+THERESA S. GONZALES, 0000
+PETER M. GRONET, 0000
+AUBREY R. HOPKINS JR., 0000
+JONATHAN A. MAHAFFEY, 0000
+MARK E. PEACOCK, 0000
+ALBERT E. SCOTT JR., 0000
+
+                              To be major
+
+SIMUEL L. JAMISON, 0000
+ANTHONY S. THOMAS, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR REGULAR APPOINTMENT IN THE 
+     GRADES INDICATED IN THE UNITED STATES ARMY IN THE MEDICAL 
+     SPECIALIST CORPS (SP) UNDER TITLE 10, U.S.C., SECTIONS 531 
+     AND 3064:
+
+                              To be major
+
+RONALD E. ELLYSON, 0000
+WILLIAM C. WERLING, 0000
+
+                             To be captain
+
+JORGE L. CABALLERO, 0000
+STEVEN S. GAY, 0000
+DARREN L. HIGHTOWER, 0000
+BILL A. SOLIZ, 0000
+JEFFREY E. TRIGG, 0000
+MELVA S. TRIGG, 0000
+SHELDON WATSON, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR REGULAR APPOINTMENT IN THE 
+     GRADES INDICATED IN THE UNITED STATES ARMY IN THE MEDICAL 
+     CORPS (MC), UNDER TITLE 10, U.S.C., SECTIONS 531 AND 3064:
+
+                             To be colonel
+
+DAVID J COHEN, 0000 MC
+DANIEL G STRUM, 0000 MC
+
+                        To be lieutenant colonel
+
+ARTHUR E BROWN, 0000 MC
+JOHN N CAREY, 0000 MC
+
+                              To be major
+
+ROBERT B CARROLL, 0000 MC
+ROBERT D FORSTEN, 0000 MC
+JOHN H GARR, 0000 MC
+STEPHEN W JARRARD, 0000 MC
+SHAWN C NESSEN, 0000 MC
+MICHAEL J ZAPOR, 0000 MC
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY VETERINARY CORPS AND FOR 
+     REGULAR APPOINTMENT (IDENTIFIED BY AN ASTERISK(*)) UNDER 
+     TITLE 10, U.S.C., SECTIONS 624, 531, AND 3064:
+
+                              To be major
+
+BRAD A * BLANKENSHIP, 0000
+MICHAEL R * BONHAGE, 0000
+STEVEN T * GREINER, 0000
+SANDER O * HACKER, 0000
+KARL J * HOCHSTEIN, 0000
+JERROD W * KILLIAN, 0000
+BRIAN U * KIM, 0000
+BRIDGET S * LEWIS, 0000
+TIMOTHY P * LOONAM, 0000
+ANNE M * MACLARTY, 0000
+NANCY * MERRILL, 0000
+MARK L * RICHEY, 0000
+PATRICIA Y * RILEY, 0000
+HEATHER A * SERWON, 0000
+MARK A * SMITH, 0000
+EUGENE K * WEBSTER, 0000
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY MEDICAL SERVICE CORPS AND 
+     FOR REGULAR APPOINTMENT (IDENTIFIED BY AN ASTERISK(*)) UNDER 
+     TITLE 10, U.S.C., SECTIONS 624, 531, AND 3064:
+
+                              To be major
+
+SHEILA R * ADAMS, 0000
+CHRISTOPHER E ANSELL, 0000
+MARTINEZ W * ARIZA, 0000
+JOHN R * BAILEY, 0000
+CARMEN A * BELL, 0000
+TIMOTHY N * BERGERON, 0000
+GRAEME C * BICKNELL, 0000
+ROBERT V * BIENVENU II, 0000
+BENJAMIN S * BLACKWELL, 0000
+DANIEL G BONNICHSEN, 0000
+DANIEL C * BRANT JR., 0000
+STEPHEN M * BROCK, 0000
+KATHERINE A * BRUCH, 0000
+TRAVIS J * BURCHETT, 0000
+KYLE J * BURROW, 0000
+JOHN R CALL, 0000
+MARK C * CARDER, 0000
+EVERETT R * CARDWELL JR., 0000
+ERIC P * CARNAHAN, 0000
+KRISTEN L * CASTO, 0000
+DONALD J CHAPMAN, 0000
+RODRIGO * CHAVEZ JR., 0000
+
+[[Page S2229]]
+
+STUART J * COHEN, 0000
+ANTHONY S COOPER, 0000
+JENNIFER L * CUMMINGS, 0000
+GERALD L * DALLMANN, 0000
+THOMAS N * DAMIANI, 0000
+SOO L DAVIS, 0000
+WILLIAM E DAVIS IV, 0000
+SUELLEN D * DENNETT, 0000
+MONICA S DOUGLAS, 0000
+JAMES B * ELLEDGE, 0000
+MICHAEL A * ELLIOTT, 0000
+CRAIG R FISHER, 0000
+BERNADETTE * FULLER, 0000
+DOUGLAS H GALUSZKA, 0000
+CHRISTOPHER A * GELLASCH, 0000
+SHEPARD H GIBSON, 0000
+GUY J * GIERHART, 0000
+ROGER S * GIRAUD, 0000
+JR W * GODFREY, 0000
+STEVEN D * HANKINS, 0000
+KATHRYN B HANNA, 0000
+RONALD E * HARPER, 0000
+JONATHAN A * HEAVNER, 0000
+TIMOTHY J * HOIDEN, 0000
+MATTHEW J * HORSLEY, 0000
+NATHON O * HUCK, 0000
+THOMAS C * HUTTON, 0000
+MARK A * JAMES, 0000
+RALPH T * JENKINS, 0000
+DANIEL E * JETTON, 0000
+KIMBERLY M JOHANEK, 0000
+DAVID A JOHNSON JR., 0000
+NATHAN A * KELLER, 0000
+BURTON T * KERR, 0000
+REX K * KING, 0000
+ROSEMARIE P * KIRZNER, 0000
+TIMOTHY A * KLUCHINSKY, 0000
+TIMOTHY D * KUNDINGER, 0000
+RONALD D * LAIN, 0000
+JACK R * LEECH III, 0000
+ANDREW G * LEIENDECKER, 0000
+KENNETH A LEMONS, 0000
+JOSEPH F LINEBERRY JR., 0000
+JOHNNIE R * MANNING JR., 0000
+JEFFREY S * MARKS, 0000
+BRIAN D * MARTIN, 0000
+JOHN J MARTIN, 0000
+RICKY J * MARTINEZ, 0000
+CLIFTON R MCCREADY, 0000
+SHAWN D * MCINTOSH, 0000
+CHARLES O MCKEITHEN JR., 0000
+HUGH A * MCLEAN JR., 0000
+JOHN H * MCMAHAN, 0000
+KENNETH R * MCPHERSON, 0000
+SCOTT R * MELLING, 0000
+CALLIE J * MOLLOY, 0000
+STACY A MOSKO, 0000
+JEFFERY L MOSSO, 0000
+JEAN * MUDERHWA, 0000
+ROBERT L NACE, 0000
+RICARDO J * NANNINI, 0000
+CHAD E * NELSON, 0000
+MATTHEW P * NOVAK, 0000
+ENRIQUE ORTIZ JR., 0000
+NOEL C * PACE, 0000
+ECKART A * PAPE, 0000
+PETER L * PLATTEBORZE, 0000
+CHRISTOPHER B * POSEY, 0000
+MICHAEL R POUNCEY, 0000
+SCOTT A * PRESCOTT, 0000
+BRANDON J PRETLOW, 0000
+MARK C PROBUS, 0000
+HABY * RAMIREZ, 0000
+WILLIAM R * REDISKE, 0000
+RAVEN E * REITSTETTER, 0000
+JOSEPH C RHENEY, 0000
+JASON H * RICHARDSON, 0000
+JAMES A * ROBINSON JR., 0000
+MICHAEL C * SAUER, 0000
+ERIC R SCHMACKER, 0000
+JEFFREY D SHIELDS, 0000
+MAELIEN SHIPMAN, 0000
+DAVID L * SILVER, 0000
+ALICK E * SMITH, 0000
+RACHELE M * SMITH, 0000
+MIKAL L * STONER, 0000
+WILLIAM M STRIDER, 0000
+YOLONDA R * SUMMONS, 0000
+PATRICK A * TAVELLA, 0000
+BARBARA A * TAYLOR, 0000
+LISA A * TEEGARDEN, 0000
+GEORGE W THOMPSON III, 0000
+STEENVORT J * VAN, 0000
+JOHN D * VETTER, 0000
+JOHN D * VIA, 0000
+JAMES L WADDICK JR., 0000
+BRIAN K * WALKER, 0000
+DENNIS W WALKER, 0000
+TIMOTHY D * WALSH, 0000
+OLIVER T WALTON, 0000
+LAURA A WARD, 0000
+JEFFRY H * WARREN, 0000
+NORMAN C * WATERS, 0000
+BRIAN M * WHITE, 0000
+RALPHINE R * WHITFIELD, 0000
+MICHAEL C * WILLIAMS, 0000
+TRACY M * WILSON, 0000
+AMMON * WYNN III, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY MEDICAL SPECIALIST CORPS 
+     AND FOR REGULAR APPOINTMENT (IDENTIFIED BY AN ASTERISK(*)) 
+     UNDER TITLE 10, U.S.C., SECTIONS 624, 531, AND 3064:
+
+                              To be major
+
+MARY C * ADAMSCHALLENGER, 0000
+ROGER J * BANNON, 0000
+KENNETH R * BLANKENSHIP JR., 0000
+KAREN S * BRASFIELD, 0000
+DANIEL S * BRILEY, 0000
+TERESA L * BRININGER, 0000
+GREGORY J * BROMUND, 0000
+JEFFREY A * BROOKS, 0000
+PAUL W * CARDEN, 0000
+SHELLY L * CLYDE, 0000
+SUSAN * DAVIS, 0000
+CLAUDIA A * DRUM, 0000
+DAVID H * DUPLESSIS, 0000
+HOWARD K * HAISLIP, 0000
+MARY C * HANNAH, 0000
+WILLIAM C * HARRIS III, 0000
+VANEESH L * HOFLER, 0000
+BRUCE D * INGOLD, 0000
+PATRICIA P * INGOLD, 0000
+GEORGE O * JAMES JR., 0000
+MICHAEL R * JOHNSON, 0000
+PAGE A * KARSTETER, 0000
+JEFFERY A * KITCHENS, 0000
+FRANCIS P * KOOPMAN, 0000
+SHAWN T * LOCKETT, 0000
+THEODORE * NASIOTIS, 0000
+JEFFREY P * NELSON, 0000
+STEPHEN J * PINKERTON, 0000
+DAVID A * RIOS, 0000
+LAURENT M * ST, 0000
+DEYDRE S * TEYHEN, 0000
+AMY J * TREVINO, 0000
+WILLIAM R * UNGUREIT, 0000
+JOHNNY R * VANDIVER, 0000
+RICHARD A * VILLARREAL, 0000
+ROGER M * WILLIAMS, 0000
+DAVID A * WRIGHT, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY NURSE CORPS AND FOR 
+     REGULAR APPOINTMENT (IDENTIFIED BY AN ASTERISK(*)) UNDER 
+     TITLE 10, U.S.C., SECTIONS 624, 531, AND 3064:
+
+                              To be major
+
+TEDD S * ADAIR II, 0000
+FARRELL H ADKINS, 0000
+PAUL B * ASETRE, 0000
+VELVET D * BAKER, 0000
+ELLEN S * BARKSDALE, 0000
+THOMAS G * BAUGHAN, 0000
+ANDREW C BAXTER, 0000
+WILLIAM R * BECKER, 0000
+LINDA L * BLACKMAN, 0000
+STANLEY BORDEN III, 0000
+ANNAMAE CAMPBELL III, 0000
+CHRISTINA M * CASSIN, 0000
+JAMIE P * CHERRY, 0000
+PATRICIA A * COBURN, 0000
+JAMIE F CORNALI, 0000
+MICHAEL L * COX, 0000
+DEREK L * CURTIS, 0000
+FREDERICK L DAVIDSON, 0000
+CECILIO B * DEJESUS, 0000
+LAURA D DESNOO, 0000
+LISA A DRUMMOND, 0000
+JODY L ENNIS, 0000
+KENNETH A FERRELL, 0000
+KIRSTEN M FITCH, 0000
+HERBERT J FLACHOFSKY, 0000
+DEYOUNG V FLOOD, 0000
+LISA R * FORD, 0000
+MELISA A * GANTT, 0000
+EUGENIO GARCIA JR., 0000
+JANET D GOODART, 0000
+TAD * GOW, 0000
+PEGGY T * GUDERIAN, 0000
+KAY * HADLEY, 0000
+MICHELLE D * HAIRSTON, 0000
+JAMES G * HAMPTON, 0000
+REBECCA L * HILFIKER, 0000
+TIMOTHY L * HUDSON, 0000
+CAROL E HUNTER, 0000
+SAMUEL L JONES JR., 0000
+SHANNON M * JONES, 0000
+VALERIE A * JONES, 0000
+DOUGLAS E * KIRCHER, 0000
+LAURE A * KLINE, 0000
+KENNETH R KOVATS, 0000
+LISA * LEAZENBY, 0000
+CHARLES T LENT, 0000
+CHARLES W * LEONARDO, 0000
+TODD R LITTLE, 0000
+MICHAEL J * LOUGHREN, 0000
+MICHAEL E LUDWIG, 0000
+DARIN S * MARCHOK, 0000
+HENG M * MCCALL, 0000
+PEGGY K * MCMILLAN, 0000
+ELIZABETH M MILLER, 0000
+CHRISTOPHER * MILSTEAD, 0000
+REBECCA N * MIONE, 0000
+WESLEY A MORGAN, 0000
+DANA A * MUNARI, 0000
+DONALD L * NANCE, 0000
+ROBIN R NEUMEIER, 0000
+MELLEN P * ONEAL, 0000
+SUSAN * ORCUTT, 0000
+DAVID J PARIS, 0000
+SCOTT L PARIS, 0000
+NANCY E PARSON, 0000
+SYLVIA F PEREZ, 0000
+JOSE A PEREZVELAZQUEZ, 0000
+ANTHONY D PEVERINI, 0000
+BRIAN E * PREHN, 0000
+DELORIS S * QUATTLEBAUM, 0000
+JAMES R REED, 0000
+RICHARD T * REID, 0000
+RUTH A RING, 0000
+MILAGROS * ROSA, 0000
+MICHAEL L * SCHLICHER, 0000
+DOROTHY L SHACKLEFORD, 0000
+PAMELA M * SOLETLINDSAY, 0000
+YOUNGHEE * SONG, 0000
+BRITTANY R * SPEERS, 0000
+SONYA * STREETERCHAMBERS, 0000
+STEVEN R * STUDZINSKI, 0000
+CYNTHIA L * SVEINE, 0000
+STACY E USHER, 0000
+MARIA M VANTERPOOL, 0000
+JAMES * VOGEL, 0000
+ROBERT C * WAGNER, 0000
+ERIC H * WATSON, 0000
+KIMBERLY E * WILLIAMS, 0000
+SARAH A WILLIAMSBROWN, 0000
+JASON S WINDSOR, 0000
+JOSEPH N WINTER, 0000
+REBECCA A * YUREK, 0000
+       THE FOLLOWING NAMED OFFICERS FOR REGULAR APPOINTMENT IN THE 
+     GRADES INDICATED IN THE UNITED STATES ARMY IN THE ARMY NURSE 
+     CORPS (AN), UNDER TITLE 10, U.S.C., SECTIONS 531 AND 3064:
+
+                              To be major
+
+DAVID W GARCIA, 0000 AN
+ARLIN C GUESS, 0000 AN
+LINDA E JONES, 0000 AN
+
+                             To be captain
+
+SHERI A BURTON, 0000 AN
+JAMES E BUTERA, 0000 AN
+RENE CARDONA, 0000 AN
+JESUS FLORES, 0000 AN
+RONALD S GESAMAN, 0000 AN
+HAYONG N HIRST, 0000 AN
+JAMES R HUNLEY JR., 0000 AN
+BONNIE J JEANICE, 0000 AN
+HENG M MCCALL, 0000 AN
+PEGGY K MCMILLAN, 0000 AN
+LINDA I NOBACH, 0000 AN
+SHERRI K RIBBING, 0000 AN
+JEFFREY D RUMFIELD, 0000 AN
+JUDY A SMITH, 0000 AN
+CHARLES E TRUDO, 0000 AN
+HOPE M WILLIAMSON, 0000 AN
+
+                         To be first lieutenant
+
+TERRY E RAINES, 0000 AN
+
+       THE FOLLOWING NAMED OFFICERS FOR REGULAR APPOINTMENT IN THE 
+     GRADES INDICATED IN THE UNITED STATES ARMY IN THE MEDICAL 
+     SERVICE CORPS (MS),
+UNDER TITLE 10, U.S.C., SECTIONS 531 AND 3064:
+
+                              To be major
+
+DONOVAN G GREEN, 0000 MS
+CATHY N TROUTMAN, 0000 MS
+
+                             To be captain
+
+TIMOTHY C ACEL, 0000 MS
+SHAWN M ALDERMAN, 0000 MS
+MEAGAN M BACHARACH, 0000 MS
+NICHOLAS K BATCHELOR, 0000 MS
+SLAVA M BELENKIY, 0000 MS
+ADAM L BROWN, 0000 MS
+ARCHIE J CHAPMAN SR, 0000 MS
+SUNGHUN CHO, 0000 MS
+DANIEL V CORDARO, 0000 MS
+MARK S CRAGO, 0000 MS
+AMANDA S CUDA, 0000 MS
+SCOTT P CUDA, 0000 MS
+CORD W CUNNINGHAM, 0000 MS
+JAY M DINTAMAN, 0000 MS
+BRAD M DOLINSKY, 0000 MS
+ZACHARY E FISHER, 0000 MS
+JOANNA GARNAS, 0000 MS
+JAMES L GEE, 0000 MS
+DENA L GEORGE, 0000 MS
+ELIZABETH A GOWDY, 0000 MS
+MARK L HARSHANY, 0000 MS
+NIDAL M HASAN, 0000 MS
+WILLIAM E HERMAN, 0000 MS
+BENNIE L HUDSON, 0000 MS
+CRISTIN A KILEY, 0000 MS
+PETER KREISHMAN, 0000 MS
+JEFFREY T LACZEK, 0000 MS
+DOUGLAS R LANGFORD, 0000 MS
+ABIGAIL J LEE, 0000 MS
+JOSEPH M LURIA, 0000 MS
+CAMILLE F MCGANN, 0000 MS
+JOSEPH C MCLEAN, 0000 MS
+ETHAN A MILES, 0000 MS
+LUKE M MILLER, 0000 MS
+FOUAD J MOAWAD, 0000 MS
+SCOTT J MURCIN, 0000 MS
+JASON M NAKAMURA, 0000 MS
+JOSHUA T NAPIER, 0000 MS
+SHAHIN NASSIRKHANI, 0000 MS
+NAVEED A NAZ, 0000 MS
+ADAM S NIELSON, 0000 MS
+PETER D OCONNOR, 0000 MS
+DAVID OWSHALIMPUR, 0000 MS
+TERRIE L PITTMAN, 0000 MS
+THEODORE T REDMAN, 0000 MS
+JULIE A REID, 0000 MS
+ELIZABETH H RORICK, 0000 MS
+KEITH A SCORZA, 0000 MS
+SHAWN C SHAFFER, 0000 MS
+GERALD W SURRETT, 0000 MS
+MICHAEL P SZCZEPANSKI, 0000 MS
+SCOT A TEBO, 0000 MS
+KHOAN T THAI, 0000 MS
+JAMES Y WANG, 0000 MS
+ERIC D WEBER, 0000 MS
+
+[[Page S2230]]
+
+TIMOTHY S WELCH, 0000 MS
+DANIEL M WILLIAMS, 0000 MS
+
+
+                          In the Marine Corps
+
+       The following named limited duty officer for appointment to 
+     the grade indicated in the United States Marine Corps under 
+     title 10, U.S.C., section 624:
+
+                        To Be lieutenant colonel
+
+Karl G. Hartenstine, 0000
+
+       The following named limited duty officer for appointment to 
+     the grade indicated in the United States Marine Corps under 
+     title 10, U.S.C., section 624:
+
+                        To be lieutenant colonel
+
+Michael S. Nisley, 0000
+
+       The following named limited duty officer for appointment to 
+     the grade indicated in the United States Marine Corps under 
+     title 10, U.S.C., section 624:
+
+                        To be lieutenant colonel
+
+Kenneth O. Spittler, 0000
+
+       THE FOLLOWING NAMED LIMITED DUTY OFFICERS FOR APPOINTMENT 
+     TO THE GRADE INDICATED IN THE UNITED STATES MARINE CORPS 
+     UNDER TITLE 10, U.S.C., SECTION 624:
+
+                        To be lieutenant colonel
+
+LEONARD HALIK III, 0000
+ERNEST R. HINES, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES MARINE CORPS RESERVE UNDER 
+     TITLE 10, U.S.C., SECTION 12203:
+
+                             To be colonel
+
+THOMAS DUHS, 0000
+RUSSELL C. DUMAS, 0000
+WILLIAM M. LAKE, 0000
+
+       The following named officer for appointment to the grade 
+     indicated in the United States Marine Corps under title 10, 
+     U.S.C., section 624:
+
+                              To be major
+
+Leland W. Suttee, 0000
+
+       The following named limited duty officer for appointment to 
+     the grade indicated in the United States Marine Corps under 
+     title 10, U.S.C., section 624:
+
+                              To be major
+
+Carlos D. Sanabria, 0000
+
+       The following named limited duty officer for appointment to 
+     the grade indicated in the United States Marine Corps under 
+     title 10, U.S.C., section 624:
+
+                              To be major
+
+John W. Bradway Jr., 0000
+
+       The following named limited duty officer for appointment to 
+     the grade indicated in the United States Marine Corps under 
+     title 10, U.S.C., section 624:
+
+                              To be major
+
+Kathleen A. Hoard, 0000
+
+       The following named limited duty officer for appointment to 
+     the grade indicated in the United States Marine Corps under 
+     title 10, U.S.C., section 624:
+
+                              To be major
+
+Jeffrey A. Fultz, 0000
+
+       The following named limited duty officer for appointment to 
+     the grade indicated in the United States Marine Corps under 
+     title 10, U.S.C., section 624:
+
+                              To be major
+
+Eric R. McBee, 0000
+
+THE FOLLOWING NAMED LIMITED DUTY OFFICERS FOR APPOINTMENT TO THE GRADE 
+INDICATED IN THE UNITED STATES MARINE CORPS UNDER TITLE 10, U.S.C., 
+SECTION 624:
+
+                              To be major
+
+CHRISTOPHER J. AMBS, 0000
+RANDALL C. BAKER, 0000
+RICHARD A. BOWERS, 0000
+WILLIAM M. SIMONS, 0000
+DOUGLAS E. WEDDLE, 0000
+
+       THE FOLLOWING NAMED LIMITED DUTY OFFICERS FOR APPOINTMENT 
+     TO THE GRADE INDICATED IN THE UNITED STATES MARINE CORPS 
+     UNDER TITLE 10, U.S.C., SECTION 624:
+
+                              To be major
+
+ROBERT E. COTE, 0000
+KYLE T. DEBOER, 0000
+BRET M. MCLAUGHLIN, 0000
+FRANK L. WHITE, 0000
+
+       THE FOLLOWING NAMED LIMITED DUTY OFFICERS FOR APPOINTMENT 
+     TO THE GRADE INDICATED IN THE UNITED STATES MARINE CORPS 
+     UNDER TITLE 10, U.S.C., SECTION 624:
+
+                              To be major
+
+CHARLES W. ANDERSON, 0000
+TRACY G. BROOKS, 0000
+ROBERT D. GINGRAS, 0000
+JERRY B. SCHMIDT, 0000
+
+       THE FOLLOWING NAMED LIMITED DUTY OFFICERS FOR APPOINTMENT 
+     TO THE GRADE INDICATED IN THE UNITED STATES MARINE CORPS 
+     UNDER TITLE 10, U.S.C., SECTION 624:
+
+                              To be major
+
+PATRICK W. BURNS, 0000
+ROY E. LAWRENCE, 0000
+DANIEL S. RYMAN, 0000
+
+       THE FOLLOWING NAMED LIMITED DUTY OFFICERS FOR APPOINTMENT 
+     TO THE GRADE INDICATED IN THE UNITED STATES MARINE CORPS 
+     UNDER TITLE 10, U.S.C., SECTION 624:
+
+                              To be major
+
+DOUGLAS M. FINN, 0000
+RONALD P. HEFLIN, 0000
+
+       THE FOLLOWING NAMED LIMITED DUTY OFFICERS FOR APPOINTMENT 
+     TO THE GRADE INDICATED IN THE UNITED STATES MARINE CORPS 
+     UNDER TITLE 10, U.S.C., SECTION 624:
+
+                              To be major
+
+CALVIN L. HYNES, 0000
+CHARLES S. MORROW JR., 0000
+
+                          ____________________
+```
