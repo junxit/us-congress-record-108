@@ -1,0 +1,38 @@
+---
+granule: CREC-2004-05-18-pt1-PgS5602
+date: 2004-05-18
+edition: CREC
+section: SENATE
+page: S5602
+citation: 150 Cong. Rec. S5602
+---
+
+# VOTE EXPLANATION
+
+**Speaking:** Brownback, Sam (B000953) [R-KS]
+
+**Measures:** S. 2400
+
+```
+                            VOTE EXPLANATION
+
+  Mr. BROWNBACK. Mr. President, I regret that I was unable to vote 
+yesterday afternoon on the very significant amendment offered by my 
+colleague from Texas. As my colleagues know, yesterday marked the 50th 
+anniversary of the landmark Supreme Court decision Brown v. Topeka 
+Board of Education. We in Kansas were very pleased that President Bush 
+and Education Secretary Paige joined with us in Topeka to commemorate 
+this important date. While I intended to arrive here in time for the 
+vote following the special events of this day in Kansas, the plane I 
+was riding was, unfortunately, delayed.
+  Truly, providing for the health needs of our military's cadets and 
+midshipmen when they are placed in harm's way is a duty of this Nation. 
+I am grateful to the Senator from Texas for raising this issue, and I 
+am pleased that the Senate adopted this amendment to S. 2400, the 
+fiscal year 2005 Department of Defense Authorization bill. Mr. 
+President, I ask that the record reflect that, had I been here, I would 
+have voted in favor of Senator Hutchison's amendment No. 3152 yesterday 
+afternoon.
+
+                          ____________________
+```
