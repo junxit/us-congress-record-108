@@ -1,0 +1,20 @@
+---
+granule: CRECB-2003-pt2-Pg1998-6
+date: 2003-01-28
+edition: CRECB
+section: HOUSE
+page: 1998
+---
+
+# ANNOUNCEMENT BY THE SPEAKER
+
+```
+                      ANNOUNCEMENT BY THE SPEAKER
+
+  The SPEAKER. The Chair desires to announce that the practice of 
+reserving seats prior to the joint session by placard will not be 
+allowed. Members may reserve their seats by physical presence only 
+following the security sweep of the Chamber.
+
+                          ____________________
+```
