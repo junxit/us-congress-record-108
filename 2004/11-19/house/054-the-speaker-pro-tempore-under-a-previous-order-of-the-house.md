@@ -1,0 +1,22 @@
+---
+granule: CREC-2004-11-19-pt1-PgH10056-16
+date: 2004-11-19
+edition: CREC
+section: HOUSE
+page: H10056
+citation: 150 Cong. Rec. H10056
+---
+
+# The SPEAKER pro tempore. Under a previous order of the House, the gentlewoman from Texas (Ms. Eddie Bernice Johnson) is recognized for 5 minutes.
+
+**Speaking:** Johnson, Eddie Bernice (J000126) [D-TX]
+
+```
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from Texas (Ms. Eddie Bernice Johnson) is recognized for 5 
+minutes.
+  (Ms. EDDIE BERNICE JOHNSON of Texas. addressed the House. Her remarks 
+will appear hereafter in the Extensions of Remarks.)
+
+                          ____________________
+```
