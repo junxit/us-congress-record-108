@@ -1,0 +1,40 @@
+---
+granule: CRECB-2003-pt7-Pg8953-4
+date: 2003-04-09
+edition: CRECB
+section: SENATE
+page: 8953
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate April 9, 2003:
+
+
+                         DEPARTMENT OF COMMERCE
+
+       JAMES J. JOCHUM, OF VIRGINIA, TO BE AN ASSISTANT SECRETARY 
+     OF COMMERCE, VICE FARYAR SHIRZAD.
+
+
+                             THE JUDICIARY
+
+       WILLIAM H. PRYOR, JR., OF ALABAMA, TO BE UNITED STATES 
+     CIRCUIT JUDGE FOR THE ELEVENTH CIRCUIT, VICE EMMETT RIPLEY 
+     COX, RETIRED.
+       THOMAS M. HARDIMAN, OF PENNSYLVANIA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE WESTERN DISTRICT OF PENNSYLVANIA, VICE 
+     WILLIAM L. STANDISH, RETIRED.
+       J. RONNIE GREER, OF TENNESSEE, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE EASTERN DISTRICT OF TENNESSEE, VICE THOMAS G. 
+     HULL, RETIRED.
+
+[[Page 8954]]
+
+
+
+                          ____________________
+```
