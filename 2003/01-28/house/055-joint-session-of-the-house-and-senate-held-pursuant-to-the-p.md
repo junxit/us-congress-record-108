@@ -1,0 +1,81 @@
+---
+granule: CREC-2003-01-28-pt1-PgH211-5
+date: 2003-01-28
+edition: CREC
+section: HOUSE
+page: H211
+citation: 149 Cong. Rec. H211
+---
+
+# JOINT SESSION OF THE HOUSE AND SENATE HELD PURSUANT TO THE PROVISIONS OF HOUSE CONCURRENT RESOLUTION 12 TO HEAR AN ADDRESS BY THE PRESIDENT OF THE UNITED STATES
+
+**Measures:** H.Con.Res. 12
+
+```
+ JOINT SESSION OF THE HOUSE AND SENATE HELD PURSUANT TO THE PROVISIONS 
+ OF HOUSE CONCURRENT RESOLUTION 12 TO HEAR AN ADDRESS BY THE PRESIDENT 
+                          OF THE UNITED STATES
+
+  The Speaker of the House presided.
+  The Deputy Sergeant at Arms, Mrs. Kerri Hanley, announced the Vice 
+President and Members of the U.S. Senate, who entered the Hall of the 
+House of Representatives, the Vice President taking the chair at the 
+right of the Speaker, and the Members of the Senate the seats reserved 
+for them.
+  The SPEAKER. The Chair appoints as members of the committee on the 
+part of the House to escort the President of the United States into the 
+Chamber:
+  The gentleman from Texas (Mr. Delay);
+  The gentlewoman from Ohio (Ms. Pryce);
+  The gentleman from California (Mr. Cox);
+  The gentleman from Georgia (Mr. Kingston);
+  The gentlewoman from California (Ms. Pelosi);
+  The gentleman from Maryland (Mr. Hoyer);
+  The gentleman from New Jersey (Mr. Menendez); and
+  The gentleman from South Carolina (Mr. Clyburn).
+  The VICE PRESIDENT. The President of the Senate, at the direction of 
+that body, appoints the following Senators as members of the committee 
+on the part of the Senate to escort the President of the United States 
+into the House Chamber:
+  The Senator from Tennessee (Mr. Frist);
+  The Senator from Kentucky (Mr. McConnell);
+  The Senator from Pennsylvania (Mr. Santorum);
+  The Senator from Arizona (Mr. Kyl);
+  The Senator from Virginia (Mr. Allen);
+  The Senator from Virginia (Mr. Warner);
+  The Senator from South Dakota (Mr. Daschle);
+  The Senator from Nevada (Mr. Reid);
+  The Senator from Maryland (Ms. Mikulski); and
+  The Senator from Louisiana (Mr. Breaux).
+  The Deputy Sergeant at Arms announced the Acting Dean of the 
+Diplomatic Corps, His Excellency Roble Olhaye, Ambassador from 
+Djibouti.
+  The Acting Dean of the Diplomatic Corps entered the Hall of the House 
+of Representatives and took the seat reserved for him.
+  The Deputy Sergeant at Arms announced the Associate Justice of the 
+Supreme Court.
+  The Associate Justice of the Supreme Court entered the Hall of the 
+House of Representatives and took the seat reserved for him in front of 
+the Speaker's rostrum.
+  The Deputy Sergeant at Arms announced the Cabinet of the President of 
+the United States.
+  The members of the Cabinet of the President of the United States 
+entered the Hall of the House of Representatives and took the seats 
+reserved for them in front of the Speaker's rostrum.
+  At 9 o'clock and 3 minutes p.m., the Sergeant at Arms, the Honorable 
+Wilson Livingood, announced the President of the United States.
+  The President of the United States, escorted by the committee of 
+Senators
+
+[[Page H212]]
+
+and Representatives, entered the Hall of the House of Representatives, 
+and stood at the Clerk's desk.
+  (Applause, the Members rising.)
+  The SPEAKER. Members of the Congress, I have the high privilege and 
+the distinct honor of presenting to you the President of the United 
+States.
+  (Applause, the Members rising.)
+
+                          ____________________
+```
