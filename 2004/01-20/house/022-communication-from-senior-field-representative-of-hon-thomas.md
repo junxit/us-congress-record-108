@@ -1,0 +1,42 @@
+---
+granule: CREC-2004-01-20-pt1-PgH4-2
+date: 2004-01-20
+edition: CREC
+section: HOUSE
+page: H4
+citation: 150 Cong. Rec. H4
+---
+
+# COMMUNICATION FROM SENIOR FIELD REPRESENTATIVE OF HON. THOMAS ALLEN, MEMBER OF CONGRESS
+
+```
+ COMMUNICATION FROM SENIOR FIELD REPRESENTATIVE OF HON. THOMAS ALLEN, 
+                           MEMBER OF CONGRESS
+
+  The SPEAKER laid before the House the following communication from 
+John McLaughlin, Senior Field Representative of the Honorable Thomas 
+Allen, Member of Congress:
+
+                                    Congress of the United States,
+
+
+                                     House of Representatives,
+
+                                Washington, DC, December 11, 2003.
+     Hon. Dennis J. Hastert,
+     Speaker, U.S. House of Representatives,
+     Washington, DC.
+       Dear Mr. Speaker: This is to formally notify you, pursuant 
+     to Rule VIII of the Rules of the House of Representatives, 
+     that I have been served with a civil subpoena for deposition 
+     testimony issued by the Superior Court for Cumberland County, 
+     Maine.
+       After consulting with the Office of General Counsel, I have 
+     determined that compliance with the subpoena is consistent 
+     with the privileges and rights of the House.
+           Sincerly,
+                                                  John McLaughlin,
+     Senior Field Representative.
+
+                          ____________________
+```
