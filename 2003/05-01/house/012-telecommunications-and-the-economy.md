@@ -1,0 +1,41 @@
+---
+granule: CREC-2003-05-01-pt1-PgH3574-4
+date: 2003-05-01
+edition: CREC
+section: HOUSE
+page: H3574
+citation: 149 Cong. Rec. H3574
+---
+
+# TELECOMMUNICATIONS AND THE ECONOMY
+
+**Speaking:** Engel, Eliot L. (E000179) [D-NY]
+
+```
+                   TELECOMMUNICATIONS AND THE ECONOMY
+
+  (Mr. ENGEL asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ENGEL. Mr. Speaker, I would like to comment on telecommunications 
+and the economy. The telecommunications industry, Mr. Speaker, is in a 
+state of crisis. Telecom jobs continue to shrink and capital continues 
+to flow away from the industry.
+  When given the opportunity to help lead the telecommunications 
+industry back on the road to health and fitness, the Federal 
+Communications Commission failed miserably. I completely agree with the 
+Communication Workers of America that the FCC ``missed an opportunity 
+to set out an effective national policy that would promote facilities-
+based competition in telecommunications.''
+  Instead, the FCC left in place rules that require carriers to lease 
+their network, or pieces of it, to competitors for below-cost rates. 
+This policy has had a disastrous effect on the industry. Over half a 
+million telecom jobs have been lost and investors have lost billions of 
+dollars. The industry is in crisis, and some of that crisis can be 
+traced directly to bad policy at the FCC. It is clear to me that the 
+FCC did not adopt the right rules to promote telecommunications 
+investment.
+  I sincerely hope that the FCC fixes this mess, or Congress will have 
+to fix it.
+
+                          ____________________
+```
