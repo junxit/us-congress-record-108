@@ -1,0 +1,21 @@
+---
+granule: CRECB-2003-pt7-Pg8620
+date: 2003-04-07
+edition: CRECB
+section: SENATE
+page: 8620
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  EXECUTIVE NOMINATION CONFIRMED BY THE SENATE APRIL 7, 2003:
+
+
+                             THE JUDICIARY
+
+       CORMAC J. CARNEY, OF CALIFORNIA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE CENTRAL DISTRICT OF CALIFORNIA.
+```
