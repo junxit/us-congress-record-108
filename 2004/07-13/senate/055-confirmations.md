@@ -1,0 +1,25 @@
+---
+granule: CRECB-2004-pt11-Pg15408-3
+date: 2004-07-13
+edition: CRECB
+section: SENATE
+page: 15408
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate July 13, 2004:
+
+
+                    millennium challenge corporation
+
+       KENNETH FRANCIS HACKETT, OF MARYLAND, TO BE A MEMBER OF THE 
+     BOARD OF DIRECTORS OF THE MILLENNIUM CHALLENGE CORPORATION 
+     FOR A TERM OF THREE YEARS.
+       CHRISTINE TODD WHITMAN, OF NEW JERSEY, TO BE A MEMBER OF 
+     THE BOARD OF DIRECTORS OF THE MILLENNIUM CHALLENGE 
+     CORPORATION FOR A TERM OF THREE YEARS.
+```
