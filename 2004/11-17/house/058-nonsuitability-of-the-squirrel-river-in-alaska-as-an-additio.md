@@ -1,0 +1,47 @@
+---
+granule: CREC-2004-11-17-pt1-PgH9873-3
+date: 2004-11-17
+edition: CREC
+section: HOUSE
+page: H9873
+citation: 150 Cong. Rec. H9873
+---
+
+# NONSUITABILITY OF THE SQUIRREL RIVER IN ALASKA AS AN ADDITION TO THE NATIONAL WILD AND SCENIC RIVERS SYSTEM--MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO. 108-235)
+
+```
+ NONSUITABILITY OF THE SQUIRREL RIVER IN ALASKA AS AN ADDITION TO THE 
+ NATIONAL WILD AND SCENIC RIVERS SYSTEM--MESSAGE FROM THE PRESIDENT OF 
+                THE UNITED STATES (H. DOC. NO. 108-235)
+
+  The SPEAKER pro tempore laid before the House the following message 
+from the President of the United States; which was read and, together 
+with the accompanying papers, without objection, referred to the 
+Committee on Resources and ordered to be printed:
+
+To The Congress of the United States:
+  I transmit herewith the enclosed study, findings, and report for the 
+Squirrel River in Alaska. The report and my recommendations are 
+submitted pursuant to my authority under Article II, section 3, of the 
+Constitution of the United States, and consistent with section 5(a) of 
+the Wild and Scenic Rivers (WSR) Act, Public
+
+[[Page H9874]]
+
+Law 90-542, as amended. The Squirrel River suitability study was 
+authorized by Public Law 96-487 (Alaska National Interest Lands 
+Conservation Act).
+  The study conducted by the Bureau of Land Management determined that 
+all 100 miles of the river are nonsuitable for inclusion in the 
+National WSR System. Consistent with the study, I recommend that the 
+Congress take no action to designate the river. The withdrawal provided 
+by section 5(a) of the WSR Act would expire within 3 years of the date 
+of this message (unless other action is taken by the Congress). 
+Approximately 81,501 acres of State-selected lands would be opened to 
+mineral entry although mineral potential has been assessed as very low 
+and there are no past or active mining claims.
+                                                      George W. Bush.  
+The White House, November 17, 2004.
+
+                          ____________________
+```
