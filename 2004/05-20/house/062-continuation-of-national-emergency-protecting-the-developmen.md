@@ -1,0 +1,56 @@
+---
+granule: CREC-2004-05-20-pt2-PgH3475-6
+date: 2004-05-20
+edition: CREC
+section: HOUSE
+page: H3475
+citation: 150 Cong. Rec. H3475
+---
+
+# CONTINUATION OF NATIONAL EMERGENCY PROTECTING THE DEVELOPMENT FUND FOR IRAQ AND CERTAIN OTHER PROPERTY IN WHICH IRAQ HAS AN INTEREST--MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO...
+
+```
+CONTINUATION OF NATIONAL EMERGENCY PROTECTING THE DEVELOPMENT FUND FOR 
+IRAQ AND CERTAIN OTHER PROPERTY IN WHICH IRAQ HAS AN INTEREST--MESSAGE 
+     FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO. 108-187)
+
+  The SPEAKER pro tempore laid before the House the following message 
+from the President of the United States; which was read and, together 
+with the accompanying papers, without objection, referred to the 
+Committee on International Relations and ordered to be printed:
+
+To the Congress of the United States:
+  Section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)) 
+provides for the automatic termination of a national emergency unless, 
+prior to the anniversary date of its declaration, the President 
+publishes in the Federal Register and transmits to the Congress a 
+notice stating that the emergency is to continue in effect beyond the 
+anniversary date. In accordance with this provision, I have sent the 
+enclosed notice, stating that the national emergency declared in 
+Executive Order 13303 of May 22, 2003, as expanded in scope by 
+Executive Order 13315 of August 28, 2003, protecting the Development 
+Fund for Iraq and certain other property in which Iraq has an interest, 
+is to continue in effect beyond May 22, 2004, to the Federal Register 
+for publication.
+
+[[Page H3476]]
+
+  The obstacles to the orderly reconstruction of Iraq, the restoration 
+and maintenance of peace and security in the country, and the 
+development of political, administrative, and economic institutions in 
+Iraq constituted by the threat of attachment or other judicial process 
+against the Development Fund for Iraq, Iraqi petroleum and petroleum 
+products, and interests therein, and proceeds, obligations, or any 
+financial instruments of any nature whatsoever arising from or related 
+to the sale or marketing thereof, pose a continuing unusual and 
+extraordinary threat to the national security and foreign policy of the 
+United States. For these reasons, I have determined that it is 
+necessary to continue the national emergency protecting the Development 
+Fund for Iraq, and certain other property in which Iraq has an 
+interest, and to maintain in force the sanctions to respond to this 
+threat.
+                                                      George W. Bush.  
+The White House, May 20, 2004.
+
+                          ____________________
+```
