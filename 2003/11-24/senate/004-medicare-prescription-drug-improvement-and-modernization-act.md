@@ -1,0 +1,14951 @@
+---
+granule: CREC-2003-11-24-pt1-PgS15670-2
+date: 2003-11-24
+edition: CREC
+section: SENATE
+page: S15670
+citation: 149 Cong. Rec. S15670
+---
+
+# MEDICARE PRESCRIPTION DRUG, IMPROVEMENT, AND MODERNIZATION ACT OF 2003--CONFERENCE REPORT
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA], Reid, Harry (R000146) [D-NV], Frist, William H. (F000439) [R-TN], Gregg, Judd (G000445) [R-NH], Pryor, Mark L. (P000590) [D-AR], Thomas, Craig (T000162) [R-WY], Kerry, John F. (K000148) [D-MA], Baucus, Max (B000243) [D-MT], Lautenberg, Frank R. (L000123) [D-NJ], Akaka, Daniel K. (A000069) [D-HI], Snowe, Olympia J. (S000663) [R-ME], Dodd, Christopher J. (D000388) [D-CT], Lincoln, Blanche L. (L000035) [D-AR], Lieberman, Joseph I. (L000304) [D-CT], Feingold, Russell D. (F000061) [D-WI], Breaux, John B. (B000780) [D-LA], Mikulski, Barbara A. (M000702) [D-MD], Santorum, Rick (S000059) [R-PA], Clinton, Hillary Rodham (C001041) [D-NY], McCain, John (M000303) [R-AZ], Hutchison, Kay Bailey (H001016) [R-TX], Stabenow, Debbie (S000770) [D-MI], Hatch, Orrin G. (H000338) [R-UT], McConnell, Mitch (M000355) [R-KY], Kennedy, Edward M. (K000105) [D-MA], Jeffords, James M. (J000072) [I-VT], Edwards, John (E000286) [D-NC], Daschle, Thomas A. (D000064) [D-SD], Domenici, Pete V. (D000407) [R-NM], Nickles, Don (N000102) [R-OK], Graham, Bob (G000352) [D-FL], Boxer, Barbara (B000711) [D-CA], Corzine, Jon S. (C001042) [D-NJ], Durbin, Richard J. (D000563) [D-IL], Dayton, Mark (D000596) [D-MN], Smith, Gordon H. (S001142) [R-OR], Ensign, John (E000194) [R-NV], Levin, Carl (L000261) [D-MI], Harkin, Tom (H000206) [D-IA], Nelson, Bill (N000032) [D-FL], Warner, John (W000154) [R-VA], Cantwell, Maria (C000127) [D-WA], Conrad, Kent (C000705) [D-ND], Murray, Patty (M001111) [D-WA], Hollings, Ernest F. (H000725) [D-SC], Enzi, Michael B. (E000285) [R-WY], Inouye, Daniel K. (I000025) [D-HI], Schumer, Charles E. (S000148) [D-NY], Rockefeller, John D., IV (R000361) [D-WV], Coleman, Norm (C001057) [R-MN], Byrd, Robert C. (B001210) [D-WV], Chambliss, Saxby (C000286) [R-GA], Kohl, Herb (K000305) [D-WI], Nelson, Ben (N000180) [D-NE], Kyl, Jon (K000352) [R-AZ], Voinovich, George V. (V000126) [R-OH], Specter, Arlen (S000709) [R-PA]
+
+**Measures:** H.R. 1, S. 1, S. 812, S. 1369, S. 1402, S. 1839, H.R. 2631
+
+```
+   MEDICARE PRESCRIPTION DRUG, IMPROVEMENT, AND MODERNIZATION ACT OF 
+                        2003--CONFERENCE REPORT
+
+  The PRESIDENT pro tempore. Under the previous order, the Senate will 
+resume consideration of the conference report to accompany H.R. 1, 
+which the clerk will report.
+  The assistant legislative clerk read as follows:
+
+       Conference report to accompany H.R. 1, an act to amend 
+     Title XVIII of the Social Security Act to provide for a 
+     voluntary prescription drug benefit under the Medicare 
+     Program and to strengthen and improve the Medicare Program, 
+     and for other purposes.
+
+  The PRESIDENT pro tempore. Under the previous order, the time until 
+12:30 shall be equally divided between the chairman of the Finance 
+Committee or his designee and the Democratic leader or his designee, 
+with the last 10 minutes prior to the vote to be allocated between the 
+Democratic leader for 5 minutes to be followed by the majority leader 
+for the final 5 minutes.
+  The Senator from Iowa.
+
+
+                                Schedule
+
+  Mr. GRASSLEY. Mr. President, I would like to state the plan for 
+today. Under the previous order, the cloture vote will occur today at 
+12:30. The debate time until that vote is limited, and Members will 
+only be allocated short debate times. The cloture vote on the 
+conference report will be the first vote of the day. It is the leader's 
+hope and expectation that cloture will be successful. Once cloture is 
+invoked, the leader hopes we will be able to proceed to a vote on the 
+passage of the Medicare prescription drug bill in very short order 
+after that.
+  On our side, we are obviously going to start with the Senator from 
+New Hampshire. But since the time is very tight, probably most Members 
+would be limited to 5 minutes or less, beyond that of Senator Gregg. I 
+would like to make sure people are very orderly as they come over here 
+and ask me for time. I cannot speak for the Democratic side, but for 
+the Republican side, it is very essential for people to be here and be 
+ready to speak.
+  Does the Democratic whip wish to be recognized?
+  Mr. REID. Yes, if my distinguished friend will yield.
+  The PRESIDENT pro tempore. The Senator from Nevada.
+  Mr. REID. Mr. President, we have, on this side, a number of people 
+who wish to speak. It is my understanding, to make this debate fair, 
+that on this side the time will be given to those who are opposed to 
+cloture being invoked. So the people who speak on this side will be 
+opposed to cloture. I want all the people who have asked for time on 
+this side to understand that. And we are--this is just for Democrats--
+we are going to give 9 minutes to the following Senators, and in no 
+necessary order. Whoever is here can speak. They should all be alerted 
+that if there are quorum calls, they are going to lose time. So, Mr. 
+President, I would, on our side, grant 9 minutes to Senators Akaka, 
+Lautenberg, Kerry, Lieberman, Dodd, Clinton, Mikulski, Pryor, Kennedy, 
+with Kennedy to have the last time before the Democratic leader speaks, 
+closing the debate.
+  Now, again, I want to tell those listening, this side is for those 
+who oppose cloture.
+  Mr. GRASSLEY. Mr. President, could I make an inquiry?
+  Mr. REID. Yes. And I think it would be better if we alternated back 
+and forth until 12:30.
+  Mr. GRASSLEY. That is the point I wanted to make.
+  Mr. FRIST. Mr. President, today we stand on the threshold of a truly 
+historic moment. Not for Republicans. Not for Democrats. Or for the 
+House of Representatives. Or the United States Senate. But, for over 40 
+million American seniors and individuals with disabilities, who may 
+finally be getting prescription drug coverage under Medicare.
+  Saturday morning, the House of Representatives passed H.R. 1, the 
+``Medicare Prescription Drug, Improvement, and Modernization Act of 
+2003.''
+  Also Saturday, President Bush called upon the Senate, once again, to 
+finish the job. He urged us to send him legislation that will provide 
+badly needed prescription drugs to seniors.
+  For years, Congress has debated whether, and how, to provide 
+prescription drug coverage to seniors and to strengthen and improve the 
+Medicare program. Now, it is time for us to Act.
+  Mr. President, this generation of seniors survived the depression, 
+fought World War II, and helped make the United States into a 
+prosperous and thriving Nation. Time and again, they stepped forward to 
+serve. Now, is the time to fulfill our duty to that great generation. 
+Now is the time to answer their call.
+  What President Lyndon Johnson said in 1965 still stands:
+
+     . . . No longer will this Nation refuse the hand of justice 
+     to those who have given a lifetime of service and wisdom and 
+     labor to the progress of this . . . country.
+
+  Let us not stay that hand of justice now. Let us not turn our back on 
+America's seniors and individuals with disabilities.
+  There are nearly one quarter of a million seniors in my home State of 
+Tennessee who have no prescription drug coverage. There are millions 
+more across the Nation for whom this legislation, literally, means the 
+difference between life and death. They cannot afford to wait any 
+longer. I have treated thousands of Medicare patients. And I know 
+firsthand that, without Medicare, millions of seniors would not have 
+received needed medical services. Millions more would have faced 
+financial ruin. Medicare has helped save and heal lives.
+  But this cherished program has failed to keep pace with medical and 
+scientific progress. Prescription drugs are an integral part of modern 
+medicine. They are as important as the surgeon's knife. Yet, they are 
+not part of the Medicare program.
+  In the nearly four decades since the Medicare program was created, 
+the American medical system has transformed from one focused on 
+treating episodic illness in hospitals to one characterized by an 
+increasing emphasis on managing and preventing chronic disease in 
+outpatient settings with advanced medical technologies and prescription 
+drugs. Life expectancy has increased by nearly ten years. Death rates 
+associated with heart disease have been cut in half, and new treatments 
+and diagnostic tools have improved survival rates for prostate, colon, 
+and breast cancer. Our medical and scientific knowledge and, along with 
+it, our ability to treat illness and disease has improved dramatically 
+over the past four decades. Yet, Medicare itself has not kept pace with 
+these dramatic changes. It has been too inflexible and bureaucratic. 
+Designed for the 1960s health care system, it has been unable to adapt 
+to changing medical practice. Medicare does not provide true preventive 
+coverage, disease management, or protection against catastrophic health 
+care costs.
+  As a result, we have today glaring and unacceptable gaps in the 
+coverage that is available to seniors and individuals with 
+disabilities--the most obvious of which is the lack of prescription 
+drug coverage.
+  Over the past three decades, for example, the death rate from 
+atherosclerosis has declined by over 70 percent and deaths from 
+ischemic heart disease have declined more than 6 percent, largely due 
+to the advent of beta blockers and ACE inhibitors. During the same 
+period, death rates from emphysema have dropped nearly 60 percent due 
+to new treatments involving anti-inflammatory medications and 
+bronchodilators.
+
+[[Page S15671]]
+
+  Today, over 600 medicines are under development to treat or prevent 
+diabetes, cancer, heart disease, stroke, neurological diseases, and 
+other debilitating illness. Nearly 400 drugs have been produced during 
+the past decade alone.
+  But, under today's Medicare, these drugs simply are not available to 
+seniors.
+  We must act to ensure that this generation of seniors, and the next, 
+has access to the healing miracles of modern medicine. And we must act 
+to provide our seniors, and the next generation of seniors, with true 
+health care security: quality preventive care, affordable prescription 
+drugs, protection from catastrophic health care costs, better 
+coordinated care, disease management, and access to modern technology.
+  As voluntary prescription drug coverage the bipartisan bill we are 
+debating today takes a major step in that direction. It devotes $400 
+billion over the next decade to adding a new, voluntary prescription 
+drug benefit to the Medicare program. And it takes concrete steps to 
+speed less expensive generic drugs to the market to help make 
+prescription drugs more affordable for all Americans.
+  Within months after this legislation is signed into law, seniors will 
+be able to get a voluntary Medicare-approved prescription drug discount 
+card that will reduce the costs of their drugs by an estimated 10-25 
+percent. Lower income seniors will get an additional subsidy of $600 on 
+top of these discounts to help them purchase needed medicines. Thus, 
+seniors will get immediate relief even before the comprehensive drug 
+benefit is fully implemented, with additional help for those who need 
+it the most.
+  Beginning in 2006, seniors will have access to the new drug benefit. 
+Those who wish to add the new prescription drug benefit to their 
+traditional Medicare coverage will have that choice. The new drug 
+benefit is completely voluntary and available to all seniors. 
+Appropriately, it provides the most generous help to lower income 
+seniors and those with catastrophic drug costs.
+
+
+            substantial assistance for lower income seniors
+
+  Seniors with incomes below 135 percent of the Federal poverty line 
+($11,648 for individuals and $14,965 for couples) will pay no premiums, 
+no deductibles, and only a modest co-payment for their comprehensive 
+coverage. Beneficiaries with incomes below 150 percent of poverty 
+($12,942 for individuals and $16,327 for couples) will pay only a 
+portion of the premium and a $50 deductible. After that, the government 
+will subsidize 85 percent of their drug costs.
+  In my home State, over 430,000 low income Medicare beneficiaries--
+nearly half of all beneficiaries in Tennessee--will have exceptional 
+prescription drug coverage under this bipartisan plan. One quarter of a 
+million Tennessee seniors who today have no prescription drug coverage 
+at all will gain access under this proposal, along with millions more 
+across the Nation.
+
+
+                  improvements to traditional medicare
+
+  The legislation also strengthens and improves the traditional 
+Medicare Fee for Service program. It adds new preventive coverage for 
+diabetes and cardiovascular disease. For the first time, Medicare will 
+cover initial preventive physical examinations. And this agreement 
+responds to the six percent of seniors with chronic disease who account 
+for about 50 percent of all Medicare spending. The legislation will 
+launch a series of major pilot programs on disease management and 
+quality payment incentives that could result in dramatic improvements 
+in the care of the most ill and the most needy. This will help us 
+better target health care resources to those who require it most.
+  The legislation also puts in place national standards for electronic 
+prescribing, along with incentives for doctors to fill prescriptions 
+electronically. These reforms should dramatically improve medication 
+therapy management, reduce medical errors, and improve patient safety.
+  As the Senator from Montana, the Ranking Member of the Senate Finance 
+Committee, has said so eloquently during these past several days, this 
+bill does nothing to destroy the existing Medicare program. In fact, it 
+immensely strenghtnes the traditional Medicare program.
+  As my colleagues know, this legislation has received broad support 
+from well over 350 organizations, including from the AARP--which 
+represents 35 million seniors. In its letter of endorsement last week, 
+the AARP also makes clear that, at a result of this legislation, 
+``millions of older Americans and their families will be helped by this 
+legislation.'' In addition, AARP writes: ``The integrity of Medicare 
+will be protected.''
+
+
+                        new health care choices
+
+  Today, most seniors choose to enroll in the traditional Medicare Fee 
+for Service program. But this may not be the best choice for all 
+seniors, and it may not be the choice of all seniors in the future.
+  There are about five million seniors who are covered by private 
+health plans under the Medicare program today. Beginning immediately, 
+the legislation will strengthen Medicare's local HMO coverage. It will 
+help stabilize and improve the coverage of those five million seniors 
+in the current Medicare+Choice program. As a result, Medicare+Choice 
+will become a more stable, secure, and strong option for those seniors 
+who have already chosen to enroll in coordinated care plans.
+  This bipartisan plan also provides seniors with even more choices--
+the choice to enroll in regional preferred provider organizations--or 
+PPOs. The majority of Americans under age 65 get health coverage 
+through PPOs. Most members of Congress, Federal employees, and Federal 
+retirees also get coverage through PPOs. Employees covered by PPOs 
+report high levels of satisfaction with their coverage. PPOs typically 
+provide coverage for preventive care, chronic care management, disease 
+management, and access to a broad range of doctors and hospitals.
+  Under the bipartisan agreement, seniors will have the opportunity to 
+participate in these innovative plans if they choose.
+  Moreover, beginning in 2010, we will test on a limited basis whether 
+these private health plans provide higher quality than traditional 
+Medicare. We will also test whether Medicare private health plans are 
+most cost effective than traditional Medicare. All beneficiaries will 
+be protected during this test. And the demonstration cannot be expanded 
+or extended unless Congress acts to do so.
+  Throughout, seniors will always be able to stay in the traditional 
+Medicare program. And they will have the option of adding prescription 
+drug coverage. Meanwhile, tomorrow's seniors, many of whom are covered 
+through PPOs now, may choose to continue private coverage when they 
+retire. We are looking down the road to prepare for the baby boom 
+population. We need to be ready now, not scrambling when it is too 
+late.
+
+
+               strengthening health care in rural america
+
+  This bill contains the most sweeping and strong rural provisions ever 
+in a Medicare bill to come before this Congress. It also makes 
+improvements to payments for graduate medical education and takes 
+concrete measures to protect seniors' access to physicians.
+  For example, hospitals in my home State of Tennessee will receive 
+$655 million under this legislation. Physicians, who otherwise would 
+face real cuts next year of 4.4 percent, would instead see a 1.5 
+percent payment increase in both 2004 and 2005. I am very proud that 
+the American Hospital Association, the Tennessee Medical Association, 
+the American Hospital Association, the Tennessee Hospital Association, 
+the American Association of Medical Colleges, and the Alliance for 
+Specialty Medicine strongly support this legislation. The bill has also 
+received strong support from the Rural Health Care Association, the 
+Rural Hospital Coalition and the Coalition for Geographic Equity in 
+Medicare.
+
+
+                  controlling prescription drug costs
+
+  Some of my colleagues have said that this legislation does nothing to 
+control prescription drug costs. I respectfully disagree.
+  First of all, under this bill, seniors will be able to get a drug 
+discount card right away. They will be able to present their Medicare 
+discount card to their pharmacist and receive a 10 to 25 percent cut 
+right off of the top.
+  This bill also works to contain drug costs before the drugs get to 
+the pharmacist's shelf. It does so in a number of ways. The bill speeds 
+generic drugs to the market. It encourages competition
+
+[[Page S15672]]
+
+to lower prices, and it gives the Medicare recipient new power to 
+comparison shop.
+  Let's start with the generic drug provisions. In 1984, Congress 
+passed the Hatch-Waxman law to encourage cheaper generic drugs to come 
+onto the market. Under that law, generic competition has flourished. 
+When the law was passed, generics drugs were less than 20 percent of 
+the market. Today, generic drugs represent nearly 50 percent of the 
+entire market.
+   The Hatch-Waxman Act has been incredibly successful in allowing 
+consumers to get low cost alternatives. But there have been some 
+abuses. Therefore, we are moving to close loopholes in the system 
+through this bill. And the core of the provisions build on the work of 
+Senator Gregg and Senator Schumer.
+   Under the new system, a new drug applicant will receive only one 30-
+month stay of approval of a generic drug's application. This is a major 
+change. Under the old system, drug companies could receive multiple 
+stays of approval for generic rivals. Now, they will get one stay only.
+   The agreement takes additional steps to get generic drugs to the 
+market faster--through which patients will get safe, effective, low 
+cost generic drug alternatives to brand name medicines.
+   That is why this bill is supported by the Generic Pharmaceutical 
+Association and the Coalition for a Competitive Pharmaceutical Market.
+   the bipartisan Medicare agreement also empowers drug plans to 
+negotiate discounts from drug companies. The Congressional Budget 
+Office says that this approach will enable drug plans to significantly 
+control drug costs for their beneficiaries.
+   Moreover, the savings they negotiate will not be subject to Federal 
+limits. They will be able to get the lowest prices possible, even if 
+those prices are lower than those negotiated under Medicaid. The 
+Congressional Budget Office has estimated that this provision alone 
+will save $18 billion dollars.
+   Not only will the Medicare agreement help lower prices, it will help 
+give consumers more information about their medical options. This bill 
+expands Federal research into the comparative effects of different 
+drugs and treatments.
+   With this new information, seniors will be able to comparison-shop 
+in the medical marketplace, just like they would for any other product 
+or service. Patients and their doctors will be able to compare 
+treatment options and choose the course of action that best addresses 
+their medical needs. And Medicare and health consumers will get better 
+value for their money.
+
+
+                        Health Savings Accounts
+
+   I am also very pleased that this legislation will make tax-preferred 
+Health Savings Accounts available to all Americans. HSAs will help 
+control costs over time, and give individuals the ability to better 
+control their health care dollars and health care decisions.
+   I wish we could have gone even father. I wish we could have added 
+provisions from the House bill that would have allowed individuals to 
+roll over some funds each year from their flexible spending accounts. I 
+also believe we must do more in the coming years to allow individuals 
+to invest funds on a tax-free basis to meet their health care needs in 
+retirement, just as we do with 401(k) plans and Individual Retirement 
+Accounts. I am committed to coming back and addressing these issues in 
+the years ahead.
+
+
+                 Demographic and Structural Challenges
+
+   Our first priority must be to provide seniors with health security. 
+But, at the same time, we know that Medicare also faces serious 
+financial and demographic pressures in the coming years. Between now 
+and 2030 the number of seniors will nearly double from 40 million to 77 
+million; the program's costs will more than double to nearly $450 
+billion annually, even before we add prescription drug coverage or 
+improve other benefits; the number of taxpayers paying into the system 
+to finance health coverage for seniors will drop from 4 today, to 2.4 
+by 2030; seniors, who represent 12 percent of the population today, 
+will represent 22 percent of the population in 2030; and one last fact: 
+each senior will be in the Medicare program longer. Life expectancy at 
+age 65 will increase approximately 10 percent over the next 30 years.
+   The demographic underpinning has been defined: more seniors; each 
+senior living longer; and fewer workers to support each senior.
+   So, while we need to act to provide prescription drug coverage to 
+seniors, we also need to do so responsibly. This legislation takes an 
+important first step in linking Medicare payments to quality. It also 
+relies on competitive market forces to help control health care 
+spending.
+  Moreover, for the first time in Medicare's history, we will ask those 
+seniors who can afford to pay more for their coverage, to do so. And we 
+will put in place more accurate and more transparent measurements of 
+Medicare's fiscal strength--as well as special procedures for 
+attempting to better control Medicare spending growth in the future.
+  These reforms do not go far enough for some of my colleagues. At the 
+same time, they go too far for others. Overall, however, I believe this 
+is a balanced, bipartisan bill that is worthy of the support of the 
+United States Senate.
+  It is not a perfect bill. But, it is a meaningful step in the right 
+direction. It will provide substantial relief from high prescription 
+drug costs for millions of seniors. It will help rectify payment 
+inequities for rural health care providers. And it will begin to inject 
+into the Medicare program new health care choices and much needed 
+flexibility so that seniors will have the option to choose the kind of 
+health care coverage that best suits their needs.
+  Today, America is one step closer to being a more caring society for 
+millions of seniors and individuals with disabilities struggling with 
+high prescription drug costs and outdated, often inadequate medical 
+care. Today, we are one step closer to providing real health security 
+to seniors all across the Nation.
+  As a physician, I have written thousands of prescriptions that I knew 
+would go unfilled because patients could not afford them. With this 
+bill, that will change. As a senator, I have watched as a decades-old 
+Medicare program has operated without flexibility, and without 
+comprehensive and coordinated preventive care, disease management and 
+catastrophic protection against high out-of-pocket medical costs. With 
+this bill, that will change also.
+  This legislation is historic. By dramatically expanding opportunities 
+for private sector innovation, it offers the possibility of genuine 
+reform that can dramatically improve the quality of care available to 
+seniors. At the same time, the legislation preserves traditional 
+Medicare for those who choose it. It combines the best of the public 
+and private sectors and gives today's seniors innovative health care 
+options and positions Medicare to serve tomorrow's seniors as well.
+  This legislation is possible because of the work and dedication of 
+every Member. I would like to take a moment to thank those whose 
+commitment was critical to this effort. First and foremost, Chairman 
+Charles Grassley and Ranking Member Max Baucus deserve credit. As does 
+Senator John Breaux who joined me six years ago on the Bipartisan 
+Commission on Medicare and again on this Conference Committee. All 
+Members of the Conference Committee showed a degree of dedication and 
+resolve seldom seen in either Chamber, especially Senators Hatch, 
+Nickles, and Kyl. But we wouldn't have reached this point without 
+building on the strong foundation laid by Members over the last several 
+years, especially Senators Snowe, Jeffords, Gregg, Hagel, Ensign and 
+Wyden. Finally, the Senate could not have done this alone. The House 
+Leadership, Speaker Hastert and Leader DeLay, deserve special 
+recognition, as does the Chairman of the Conference, Chairman Bill 
+Thomas, and the Chairman of the House Energy and Commerce Committee, 
+Chairman Billy Tauzin.
+  In closing, I would like to thank again every member of this body who 
+has worked so hard on this legislation--not just in this year, but in 
+the previous six years of our most recent effort to strengthen and 
+improve Medicare. I urge every Senator to support this bill. I implore 
+every Senator to avoid filibusters and other partisan political 
+maneuvers that threaten the prescription drug coverage, and health
+
+[[Page S15673]]
+
+care security, our seniors need and deserve.
+  I yield the floor.
+  Mr. GRASSLEY. Mr. President, I yield 15 minutes to the Senator from 
+New Hampshire.
+  The PRESIDENT pro tempore. The Senator from New Hampshire is 
+recognized for 15 minutes.
+  Mr. GREGG. I thank the Senator from Iowa.
+  Mr. President, I rise today to express my concerns about the proposal 
+before us. I think it has to be put in the proper context. This is a 
+$400 billion subsidy over the 10 years that it exists, but over the 
+actuarial life of this program, it is a $7 trillion subsidy--$7 
+trillion. It is not paid for.
+  Now, I have heard a number of speakers come to this floor and say 
+this drug benefit is paid for by the senior citizens. Well, unlike the 
+past, where seniors paid into their HI accounts, their health insurance 
+accounts, and paid for their Medicare, that is not the case with this 
+drug benefit. This drug benefit will be paid for essentially by working 
+Americans who are working at the time that the seniors who benefit from 
+the drug benefit receive that benefit.
+  The real concern arises when the baby boom generation, which is my 
+generation, retires, because at that point we are going to have a 
+massive influx of seniors into our system, and the cost that we--my 
+generation--is going to put on the system is going to be dramatic.
+  It is so dramatic, in fact, that any child born today in the United 
+States immediately arrives with a debt of $44,000, which is what that 
+child will owe during their working life in order to pay for my and my 
+contemporaries'--baby boomers'--benefits under Medicare, and we are 
+going to take that $44,000 debt, which a child who is born today has, 
+and we are going to add, with this bill, an additional $15,000--an 
+additional $15,000--on top of the $44,000. That is why I have concerns 
+about this bill.
+  I believe we need a drug benefit for seniors, for low-income seniors 
+who cannot afford the drugs which they are presently receiving. I 
+believe we need a drug benefit which addresses the problem of a senior 
+who ends up, because of their drug costs, being wiped out of all their 
+basic assets; a catastrophic drug benefit, in other words.
+  But while we move down the road toward that type of a drug benefit, 
+we have to, at the same time, reform the underlying Medicare system so 
+that it is affordable, so that my children and the children of other 
+Members of the baby boom generation do not end up paying so much to 
+support health care for us, the retired, that their lives are 
+depredated, that their quality of life is reduced.
+  Under the bill before us, unfortunately, although it has an attempt 
+to address the low-income issue, and although it has an attempt to 
+address the catastrophic issue, there is no significant attempt to 
+address the reform issue. So the practical effect of this bill is that 
+it puts in place a massive new benefit without any control over the 
+costs of the underlying Medicare system. And the effect of that is that 
+the children of the seniors of tomorrow--basically, my children and my 
+grandchildren and the children of anybody who was born after 1940--will 
+end up paying a huge amount in order to support us in our retirement.
+  This bill, put quite simply, is the largest intergenerational tax 
+increase in the history of this country, and it should not be 
+sugarcoated. It is a massive tax increase being placed on working, 
+young Americans and Americans who have not yet been born in order to 
+support a drug benefit for retired Americans and Americans who are 
+about to retire, without any underlying reform to try to control the 
+cost so that tax is not so high that it overwhelms the ability of our 
+children and our children's children to live the quality of life that 
+we have lived.
+  It seems incredibly unfair for one generation to do this to another 
+generation, for us to use our political clout because we are in office 
+to benefit our generation at the expense of our children and our 
+children's children. Yet that is what, essentially, this bill does. It 
+attempts reform, but it does not accomplish reform. It claims to have, 
+in the year 2010, some sort of competitive model, but the competitive 
+model is PPOs. It says it has cost containment, but it really does not 
+have cost containment at all.
+
+  Then, in one of the true ironies of the bill, it takes people who 
+already have private plans which are paid for by the private sector and 
+moves those people into public plans, so we end up paying almost $100 
+billion to subsidize private plans to stay private. What an outrageous 
+approach. First we produce a plan that is going to cost our children $7 
+trillion over the next 10 years, and then we say we are going to pay 
+$100 billion to the private sector to keep in place plans which they 
+already plan to keep in place. They call that ``reform.'' Very hard to 
+understand.
+  The way the drug benefit is structured, utilization is obviously 
+going to go through the roof because there is no incentive for people 
+to be conscientious purchasers; there is simply an incentive to go out 
+and purchase. I suppose that is because this is some sort of drug 
+initiative that makes it more likely drugs will be purchased. But to 
+have no cost incentives in place to control the rate of growth of the 
+drug plan through control utilization is foolish.
+  There are good parts to the bill. There is the savings account, but 
+that is $6 billion. There is a physician increase payment. That is $6 
+billion. That is $12 billion over the 10 years. We could have afforded 
+that. There is the rural initiative, $25 billion. That gets you up to 
+$40 billion. That is still only one-tenth of the cost of the whole 
+program. We are spending $400 billion over 10 years to do what the plan 
+has valued at $40 billion of quality.
+  We could have gotten where we wanted to go if we had put in place a 
+reasonable plan for low-income seniors, put in place a catastrophic 
+plan so seniors would not have their income wiped out, assets wiped out 
+by the cost of drugs, and at the same time put in place significant 
+Medicare reform so that at the end of the day our children would know 
+that, yes, they were going to have to pay more for their parents' drug 
+costs but their parents were going to have to be more conscientious 
+purchasers of health care and the health care system that was 
+delivering those drug benefits to their parents was going to be more 
+efficient and of a higher quality.
+  But that was not the process developed. The process developed, 
+unfortunately, was developed to get us through the next election, to be 
+able to say in the next election, we put in place a drug benefit at the 
+expense of the children of tomorrow who will find during their working 
+lives they are going to have to now pay $7 trillion of unfunded 
+liability to support a program which has essentially no reform and no 
+cost containment in it and, as a result, as I mentioned before, 
+reflects the single largest tax increase in this country that one 
+generation has put on another generation, a grossly unfair act and one 
+that should embarrass us as a Congress and certainly does not fulfill 
+the obligations we have as parents moving toward retirement.
+  This bill may well be well intentioned. I happen to think it is 
+politically driven. But in the end, the results will be the same, 
+whether it is well intentioned or politically driven. We will have put 
+on the books a program which is going to cause our children and our 
+children's children to have a lower quality of life than we have had. 
+And we, as the people taking advantage of that program, will have 
+been asked to take no actions that are responsible in the area of 
+containing the costs of our health care delivery system.
+
+  As Republicans, we should be affronted by this. It goes against 
+everything our party has always stood for, which is that government 
+should be delivered in a responsible and efficient way--not in a way 
+that simply throws money at an issue for the purposes of political 
+gain. Unfortunately, we have chosen that second path in this bill and 
+in the process we will be passing a tax increase that will cause our 
+children and our children's children to have less of a quality of life 
+than we have had.
+  I yield back the remainder of my time.
+  The PRESIDENT pro tempore. The Senator from Nevada.
+  Mr. REID. Mr. President, I make an announcement to Democrat Senators. 
+I have spoken and said this time will be set aside for those who are 
+opposed to cloture, but I think that is too restrictive. We want to 
+make sure there is good debate this morning. Some people
+
+[[Page S15674]]
+
+have not had an opportunity to speak, so our time will be for those who 
+are opposed to the legislation, the bill itself. They can make up their 
+mind whatever they want to do on cloture.
+  I ask unanimous consent that the names I read before--Senators Akaka, 
+Lautenberg, Dodd, Kerry, Lieberman, Clinton, Mikulski, Pryor, and 
+Kennedy--all be allotted 9 minutes, the amount of time on the 
+Democratic side that they would be entitled to, and no more. I ask 
+consent that that order be entered.
+  The PRESIDENT pro tempore. Without objection, it is so ordered.
+  The Senator from Arkansas.
+  Mr. PRYOR. Mr. President, I rise today to express my opposition to 
+this bill, a Medicare prescription drug benefit in name only that has 
+very few benefits for the seniors in my State. In June of this year, I 
+voted for a bipartisan Senate bill which, while not perfect, was a good 
+step toward providing our seniors with the prescription drug help they 
+need.
+  Let us be clear. This legislation does nothing to lower the cost of 
+prescription drugs. The Congressional Budget Office says this 
+legislation will actually cause prescription drug prices to increase by 
+3.5 percent. Under this legislation, Arkansans will not be able to 
+reimport cheap FDA-approved drugs from other industrialized countries, 
+and this legislation expressly prohibits the Federal Government from 
+negotiating with drug companies to bring down the high cost of 
+prescription drugs.
+  This means that our seniors will continue to pay more for their 
+prescription drugs than anybody else in the world. It means they will 
+continue to pay much more for their drugs than do our neighbors in 
+Canada.
+  This means that a woman in America suffering from breast cancer will 
+continue to be charged over $90 a month to take tamoxifen, while the 
+same drug, made by the same company, can be bought in Canada for $22 
+for a month.
+  This means that people in my State will continue to pay: 37 percent 
+more for cholesterol controlling Lipitor; 50 percent more for the anti-
+depressant Paxil, and 58 percent more for the arthritis drug Vioxx.
+  For the last decade drug spending has been driving up the cost of 
+health care and placing affordable coverage out of reach for many 
+Americans. We finally got our chance to help these seniors by lowering 
+the cost of prescription drugs, but this bill wastes that opportunity.
+  It is bad enough our seniors are getting gouged by artificially high 
+prices in the United States. I strongly believe we need to fix that. 
+But now, with the passage of this bill, if indeed it passes, we are 
+talking about taxpayers' dollars. Not only is it the right thing to fix 
+it, it is our duty that we fix it.
+  Under this legislation, thousands of Arkansans will be worse off than 
+when they started. According to the CBO, 2.7 million Americans are 
+expected to lose their retiree health care benefits as a result of this 
+legislation. That includes 19,000 Arkansas seniors. In addition, under 
+this bill, 109,100 Arkansas Medicaid beneficiaries will receive worse 
+coverage than what they get now and they will face considerable new 
+restrictions on the drugs they can take.
+  Mr. President, 40,750 fewer seniors in Arkansas will qualify for low-
+income protections against the assets test and lower qualifying income 
+levels. I, for one, do not believe that rural Americans living on a 
+farm should be penalized because they own a tractor or other farm 
+equipment. And 11,020 Medicare beneficiaries will pay more for Part B 
+premiums because of income.
+  This bill also starts us down the treacherous path to dismantling 
+Medicare as we know it. It takes $12 billion away from Medicare and 
+gives it to private insurers and then forces Medicare to compete with 
+heavily subsidized HMOs.
+  This allows private insurers to cherry-pick the healthiest and 
+wealthiest people to their plans while leaving the poorest and the 
+sickest in Medicare to pay more in premiums. People need to know that 
+this bill was written to accommodate 400 corporate lobbyists, many of 
+whom work for the pharmaceutical industry. It amazes me that we would 
+seek permission from the pharmaceutical lobby before we would do the 
+right thing for the people we represent. It amazes me even more that 
+400 lobbyists have more influence over Congress than the 40 million 
+people who are currently enrolled in Medicare.
+  People need to know that the pharmaceutical industry is going to be 
+handed a taxpayer-subsidized windfall with the passage of this bill. 
+Analysts at Goldman Sachs project the new Medicare benefit could 
+increase industry revenue by 9 percent or about $13 billion a year. And 
+it is no coincidence that as details of this legislation began leaking 
+out, pharmaceutical stock prices have risen steadily. In the last week 
+alone, the value of Pfizer's stock increased by $19 billion.
+  I direct my colleagues to this bar graph behind me. The large bar 
+represents Pfizer and the $19 billion they have increased in worth over 
+the last week. Now look at the other bar, this little bitty bar, this 
+small bar that you may have to squint and look closely to see because 
+there isn't much there. This bar represents the entirety of the cost 
+savings provisions related to generic drugs and reimportation. Seniors 
+will save over the next 10 years $.06 billion. To reiterate, we have a 
+$19 billion increase in the value of a company over 1 week, and a $.06 
+billion savings for seniors in the Medicare system over 10 years.
+  It is very easy to figure out who are the real winners and who are 
+the real losers in this bill. Let me say in conclusion, there are some 
+people in this body who believe we need this bill right now because the 
+seniors have been waiting such a long time. They have. But from the 
+seniors I have talked to personally when I was home in Little Rock over 
+the weekend, to the hundreds who have called my office in the last 
+week, they don't just want to get it done. They want us to get it done 
+right. There is a big difference in just getting this bill done and 
+getting it done right.
+  They want more than hollow promises that this legislation offers. My 
+plea is simple: Let's get it right so that our seniors can finally have 
+a real benefit. The bill we are voting on today will wind up doing more 
+harm than good.
+  I yield the floor.
+  The PRESIDENT pro tempore. The Senator from Iowa.
+  Mr. GRASSLEY. Mr. President, I yield 5 minutes to the Senator from 
+Wyoming. I urge people who are proponents of this bill and want me to 
+yield them time to be here. When there is not anybody here, I will use 
+some of that time, but I am very glad to quit and put my statements in 
+the Record to accommodate my colleagues. It is just a case of if we 
+don't want to waste any of this valuable time, get over here.
+  Mr. REID. Mr. President, if the Senator will yield, I would say the 
+same thing. We have a long list of people who have said they want to 
+come. When our time is called and we are not here, that time will run 
+off of our time. So the 9 minutes people have, that time will be 
+limited. If people come and want extra time, I would have to object to 
+protect other Senators.
+  The PRESIDENT pro tempore. The Senator from Wyoming is recognized for 
+5 minutes.
+  Mr. THOMAS. Mr. President, first let me thank the chairman of the 
+committee who has worked so hard in bringing this proposal to the 
+Senate floor. Not only has this been a part of his activity lately, but 
+also the Energy bill. The Senator from Iowa deserves a great deal of 
+support for what he has done.
+  I am very pleased to support this first real opportunity that we have 
+had to modernize and strengthen Medicare, the first time in over 30 
+years. I am a little surprised at how negative some of our friends are 
+in terms of being able to take this opportunity. Nobody suggests 
+everything is perfect in this bill, but there is a lot of good in this 
+bill. It is our opportunity to move forward and put in a program for 
+the future.
+  Congress has no greater domestic challenge than strengthening and 
+modernizing the Medicare Program and providing seniors with access to 
+prescription drugs. Remember that the House and the Senate both passed 
+a Medicare prescription drug bill earlier this year. It has taken 
+Congress years to get to this point. This bill is not perfect, but I 
+don't think we should miss this opportunity to take some good steps in 
+bringing Medicare into line with modern medical practices. We can't 
+allow the opportunity to pass
+
+[[Page S15675]]
+
+that will give us a chance to provide seniors with prescription drug 
+access. We can't let that slip through our fingers because of partisan 
+politics. Access to new technologies in Medicare currently takes an act 
+of Congress. That is no way to run a program that cares for our 
+elderly. We need to have a modern program in place. We need to improve 
+the quality of care for our sickest seniors and ensure they have access 
+to appropriate medications.
+  The current Medicare Program is outdated and inefficient. There is 
+absolutely no effort to coordinate care for seniors with chronic 
+illnesses with the most expensive prescription drug needs. Over 90 
+percent of Medicare dollars are spent caring for folks who have already 
+gotten sick, the most expensive type of care. We only spend 10 percent 
+of Medicare dollars on preventive medicine. We need to focus on those 
+folks as 6 percent of the seniors account for 55 percent of Medicare 
+costs.
+  Private plans are already making progress in implementing coordinated 
+care programs. Medicare needs to catch up. This is our opportunity to 
+not only allow for that but to provide for that.
+  It doesn't make sense that Medicare today will pay for extended 
+hospital stays for ulcer surgery at a cost of about $28,000 per patient 
+but will not pay for drugs that eliminate the cause of ulcers, drugs 
+that cost about $500 a year. Another example how out of step with 
+modern medicine Medicare has become is that it will pay many of the 
+costs to treat a stroke which can be as high as $100,000. Yet Medicare 
+does not cover blood thinning drugs that could prevent strokes that 
+cost less than $1,000 a year.
+  We need to strengthen the Medicare Program and provide seniors with 
+the ability to choose the type of health care plan that fits their 
+individual needs, protections against catastrophic health costs, and 
+assistance in purchasing necessary prescription drugs. We also have to 
+ensure rural seniors have access to the same choices as urban seniors. 
+The Federal Employees Health Benefits Plan has proven to be a good 
+model for giving folks the same health plan choices no matter where 
+they live. I plan to monitor the implementation of the new Medicare 
+Advantage plans, PPOs, to ensure that rural seniors have access to the 
+same type of choices as urban seniors. While it is true this bill 
+currently fits within the $400 billion that has been set aside in the 
+budget for Medicare, we all have concerns that it will cost more money 
+than we anticipate.
+  It is important that we monitor spending carefully or we will be 
+placing a huge burden on our children and grandchildren. There are 
+specific cost containment provisions that do the following: Trustees 
+are required to notify Congress when general revenues are used to fund 
+45 percent of the Medicare Program. If this situation is reported 2 
+years in a row, it is called Medicare funding warning. After a Medicare 
+funding warning is issued, the President must submit a proposal to 
+respond within 15 days of submitting his budget. An expedited 
+legislative process is then laid out.
+  So it has taken years for Congress to agree to spend this $400 
+billion in Medicare. It could easily take another decade for Congress 
+to learn how to control Medicare spending.
+  The PRESIDENT pro tempore. The time of the Senator has expired.
+  Mr. GRASSLEY. Mr. President, I yield the Senator 3 more minutes.
+  The PRESIDENT pro tempore. The Senator is recognized for 3 more 
+minutes.
+  Mr. THOMAS. Mr. President, I thank the chairman. As I said, I happen 
+to be cochair of the Senate rural health caucus. We have worked on 
+provider equity issues for a very long time. We have introduced over 
+time several pieces of legislation with our rural colleagues that 
+comprehensively address the payment disparity in the Medicare Program 
+for rural providers, hospitals, physicians, ambulances, home health 
+agencies, and rural health clinics.
+  The majority of our health care plan has been incorporated into this 
+Medicare prescription drug plan that is now before us, thanks very much 
+to the chairman and ranking member. I am extremely pleased with the 
+rural health provisions and thank Senator Grassley and Senator Baucus 
+for their work. The rural hospital provisions in the Senate Medicare 
+bill will make the equalization of the standardized amount permanent to 
+hospitals; it will equalize Medicare disproportionate share payments. 
+These payments assist hospitals where a large number of uninsured 
+patients show up; it will lower the labor-related share from 71 to 62 
+percent.
+  Hospitals with fewer than 800 annual discharges will receive a 25-
+percent increase. It strengthens the Critical Access Hospital Program. 
+In my State, for instance, many of the small towns cannot afford full-
+service hospitals, and we are moving toward critical access. This does 
+a great deal with that issue.
+  The bill provides flexibility within the 25-bed limit for acute care 
+and swing beds.
+  Not only is this a general movement forward with regard to Medicare 
+and pharmaceuticals, but it does level the playing field for urban and 
+rural areas.
+  I ask my colleagues to keep the big picture in mind as we debate this 
+legislation. Seniors need assistance with prescription drugs now. Also, 
+our rural health care delivery system cannot afford to wait for 
+Congress any longer.
+  This bill is not perfect. No one said it is. We have concerns about 
+the cost, but as I stated, we have plans to monitor the PPOs, to 
+monitor the costs, to ensure seniors in rural areas have choices.
+  I do not believe we can walk away from the opportunity that is now on 
+the table and its importance to seniors and providers. For these 
+reasons, I strongly support the proposal before us.
+  I yield the floor.
+  The PRESIDING OFFICER (Mr. Ensign). The Senator from Massachusetts.
+  Mr. KERRY. I thank the Chair.
+  Mr. President, the real test of this bill, in the final analysis, is 
+what it is really going to do for the senior population of the country. 
+I know the arguments have been made forcefully that it is going to take 
+$400 billion and give seniors something. But the test is not whether we 
+are going to give them something, the test is whether or not we are 
+going to do more harm than good.
+  I believe when we measure the overall impact of this legislation on 
+seniors and on the overall Medicare system, the bottom line is this 
+does more harm than good. That is why I believe the Senate should stop 
+the bill where it is.
+  Obviously, we would like to pass a prescription drug benefit. All of 
+us want that. This bill could be better. It could be better by being 
+closer to what was sent out of the Senate which had the support of my 
+colleague, Senator Kennedy, and others because it did more good than 
+harm. But this bill moves in the wrong direction because while it was 
+in the conference with the House, it was loaded up with major giveaways 
+to the drug companies, insurance companies, and has put some measures 
+in such as the restraint on the ability of the Federal Government to 
+even negotiate for bulk purchases and thereby lower costs, which is an 
+extraordinary reduction in the ability of the Government to try to 
+constrain the costs overall of prescription drugs.
+  These are the reasons I think this bill does more harm than good:
+
+       No. 1, the prescription drug benefit for many is not 
+     affordable, it is not comprehensive, and it is not 
+     guaranteed. There are holes in coverage and complex rules. 
+     The coverage gaps remain too high, and seniors are still 
+     charged premiums even after their benefits shut down in the 
+     so-called donut hole.
+
+  Seniors are not assured a Government fallback plan with a set 
+national premium. So if there are places where you don't have HMOs or 
+there are other problems, they are going to have increases in their 
+premiums under Medicare. It seems we ought to have a fallback with some 
+sort of fixed price that will be affordable. At least 3 million seniors 
+are projected to lose their gold-plated retiree prescription drug plan 
+and be forced into a lesser benefit under the Medicare plan.
+  The bill fails to adequately fix protections for low-income seniors 
+and people with disabilities who currently rely on both Medicare and 
+Medicaid for their coverage. That could cause as many as 6 million 
+people to pay more money for fewer benefits.
+  For seniors who think this bill is only designed to give them new 
+benefits, they are going to be shocked to
+
+[[Page S15676]]
+
+find that this legislation actually raises $25 billion in new revenue 
+directly out of the pockets of senior citizens by increasing the costs 
+for traditional Medicare coverage of doctor and hospital visits.
+  They will also be surprised to find out that while we are in such a 
+rush to pass this bill, the benefit is not actually going to come to 
+them until 2006. In the meantime, seniors get a disingenuous discount 
+card. Most of them have four or five of the cards today anyway with the 
+same amount of reduction, and it will give them no more discount than 
+any of those handful of cards available to them in the marketplace now.
+  The question ought to be asked: Why are we not beginning a Medicare 
+prescription drug benefit until 2006? It took 11 months to put the 
+entire Medicare Program in place. Are we telling seniors we can't, in 
+the age of computers, put a prescription drug benefit in place in a 
+matter of months? Why 2006?
+  We all understand why. It has to do with the private companies and 
+their taking time to ramp up, the amount of money they are going to 
+get, and the unaffordability today.
+  One of the biggest failures of this bill is its silence on 
+controlling the rising prices of prescription drugs. Without an 
+effective means to restrain double-digit drug price increases, this 
+bill does nothing to protect seniors from ever-growing out-of-pocket 
+costs. When they are pushed off Medicare into HMOs and the HMOs raise 
+the prices, seniors are going to be screaming about the increased cost 
+of prescription drugs.
+  This bill prohibits the Government, as I mentioned earlier, from 
+using its bulk purchasing power to negotiate volume discounts for 
+Medicare prescription drugs. That doesn't make sense. In the State of 
+Maine, they have done that with good results. It is interesting, they 
+were taken to the Supreme Court and challenged in their right to do 
+that, and the Supreme Court upheld their right to do that. As a 
+consequence, they are able to provide more affordable prescription 
+drugs to their citizens.
+  This bill is more about shifting medical costs to beneficiaries than 
+actually reining in prescription drug costs.
+  In the name of private competition and to prevent the Federal 
+Government from running the program, the Republicans came up with an 
+unprecedented $12 billion slush fund to entice private plans to 
+participate in this risky market. On top of giving them extra payments 
+to participate, the bill does nothing to require that those private 
+plans operate efficiently.
+  The Medicare Program in its entirety now spends only 2 percent of its 
+total expenditures on administration. By contrast, many of the health 
+plans in the private market often commit as much as 15 to 20 percent of 
+their expenditures to administration. So every dollar that goes to 
+administrative costs is a dollar not available to improve benefits for 
+Medicare beneficiaries. Smart stewards of taxpayer funds ought to 
+demand that private plans be more efficient if they want to 
+participate.
+  So this bill is not just about adding a prescription drug benefit to 
+Medicare, it is also a bill that represents an ideological excess by 
+some who want to force the traditional Medicare Program down the path 
+to privatization.
+  Under this bill, 7 million seniors will be given this choice: pay 
+more for Medicare and get forced into an HMO, give up on choosing your 
+own doctor and hospital or watch your bills skyrocket. This so-called 
+premium support provision is, in my judgment, irresponsible and unfair.
+  The so-called cost containment provisions add insult to injury. By 
+essentially placing a cap on future Medicare spending, this bill is 
+going to attempt to force future Congresses to reconcile Medicare 
+spending growth by cutting benefits, raising premiums, or increasing 
+the payroll tax. I think that is unacceptable.
+  In addition, this bill squanders another $6 billion on tax breaks for 
+wealthy people, and that is going to have an impact in harming 
+Medicare. The reason is that when a tax-free, high-deductible, 
+catastrophic health policy, known as a health savings account, is 
+created, it is principally going to be used by those who have the money 
+who can afford it. The result is it is going to undermine traditional 
+Medicare by cherry-picking the healthiest people and the wealthiest 
+seniors out of the risk pool, thereby raising premiums by as much as 60 
+percent for those who are left behind.
+  In the end, we have to ask ourselves who wins and who loses in this 
+bill. I think I have shown how seniors lose. So who wins? Well, 
+insurance companies, pharmaceutical companies, lobbyists, and special 
+interests of every stripe: A $125 billion to $139 billion bonanza, and 
+the stock market confirms it. My hope is we will go back to the table 
+and come up with a measure closer to what the Senate originally did.
+  The PRESIDING OFFICER. The Senator's time has expired.
+  The Senator from Iowa.
+  Mr. GRASSLEY. Mr. President, it is my privilege to give 5 minutes to 
+the Senator from Montana, Mr. Baucus, whose cooperation with me and, 
+hopefully, my cooperation with him has made this bipartisan agreement 
+on Medicare possible to bring about what we need to do for seniors.
+  The PRESIDING OFFICER. The Senator is recognized for 5 minutes.
+  Mr. BAUCUS. Mr. President, with all due respect, while listening to 
+some speakers, including the previous speaker, I would ask what bill 
+they have been reading. It seems that they are referring to a bill 
+which is not the conference report before us today. They are discussing 
+problems that might occur in the future. But the problems described are 
+based on some other bill, not the bill before us, not the conference 
+report.
+  The fact is that this legislation provides $400 billion for seniors. 
+That is a $400 billion entitlement for U.S. seniors that they do not 
+have today. I think we owe it to our American seniors to give them this 
+$400 billion new entitlement for drug benefits. We are on the brink. We 
+are close to passing it.
+  In each of the last several years, we have come close but we were not 
+able to finish the job. I do not think we are going to have this 
+opportunity again. I do not think the Budget Committee is going to set 
+aside $400 billion again, particularly with the increasing budget 
+deficits and current account deficits. We will not have this 
+opportunity again.
+  This is a good bill. No bill is perfect. We are 535 Members of 
+Congress. There are 535 people who have to work together to get 
+something passed. This product before us today reflect this reality. It 
+is $400 billion for seniors.
+  It is also much closer to the Senate bill than the House bill. I hear 
+complaints that the conference report is not nearly as good as the 
+Senate bill. These critics have not read the conference report. The 
+conference report is better than the Senate bill in many respects. For 
+example, dual eligibles. The conference report covers low-income dual 
+eligibles through Medicare. I think most Senators agree this is a 
+better policy than what was in the Senate bill.
+
+  We also have a solid fallback. It is wrong when Senators say there is 
+no guaranteed prescription drug benefit to seniors. It is guaranteed in 
+this bill. Fee for service is held harmless in this bill in all 
+respects. So a senior can always get a standard prescription drug 
+benefit under this bill. Whether one takes it from a PDP, a private 
+drug plan, a PPO, or the fallback, this benefit is guaranteed for all 
+seniors. Seniors will get their prescription drug benefits in this 
+bill. It is guaranteed.
+  As I mentioned earlier, this benefit is an entitlement. It is a $400 
+billion entitlement expansion we have tried to pass in past years but 
+are only able to get passed now.
+  I have heard some Senators claim that this is not the Senate bill 
+because it contains something called premium support, and it has a so-
+called slush fund. Let me remind Senators, the so-called premium 
+support is extremely watered down from what was in the House bill. It 
+is time limited to 6 years. Only six cities will be demonstration 
+projects. Low-income seniors in each of those six cities will be held 
+harmless. They get full protection. In addition, the premiums for those 
+who are not low income are limited to a 5 percent change. Fee for 
+service Medicare is held harmless in all respects in those six cities 
+where there may be a demonstration project. They are held harmless in 
+all respects, except the
+
+[[Page S15677]]
+
+Part B premium may go up by no more than 5 percent. Any other change in 
+these demonstration areas has to be enacted by Congress--enacted by to 
+Congress to extend, enacted by Congress to expand, enacted by Congress 
+to change.
+  What has happened in the past when we have had these demos? They have 
+been repealed. They have not been extended. In 1997, Congress set up 
+premium support demonstration projects. Congress then rushed in to 
+repeal them as quickly as they possibly could. They were gone. The same 
+will happen here. Do my colleagues know why? Because the dollars 
+provided to private plans in the premium support demonstration areas 
+will be much less than in other parts in the country. The private plans 
+will not be able to survive.
+  Mark my word, those plans, those physicians, and those providers in 
+the demonstration MSAs are going to come to Congress and ask us to 
+repeal it.
+  Regarding this so-called $14 billion slush fund, $12 billion was in 
+the Senate bill, which seventy-six Senators voted for. This is just $2 
+million more, and it does not come out of the $400 billion for drug 
+benefits. That $400 billion for drug benefits is still there, but the 
+conference report does have $2 billion more than the Senate bill, for 
+which 76 Senators voted.
+  To close, I will return to my main point. This is a very good bill. 
+We have the opportunity now to provide prescription drug benefits for 
+seniors. We are not going to have this opportunity in the future. 
+Beneficiaries have waited a long time for this benefit. This bill is 
+much closer to the Senate bill than it is to the House bill. If we do 
+not pass this now, I must ask you, what are we going to tell our 
+seniors when they say to us, Mr. Senator, Ms. Senator, you told us you 
+were going to give us prescription drug benefits but you found some 
+reason to say no and you voted against it and did not give it to us; 
+why did you give us the help you promised?
+  We have an obligation to help our seniors pass this legislation.
+  The PRESIDING OFFICER. The Senator from New Jersey.
+  Mr. LAUTENBERG. Mr. President, I rise to talk about the bill before 
+us.
+  When the Senate first voted on a prescription drug benefit for 
+seniors back in June I offered an amendment. My amendment was simple. I 
+proposed that we give seniors a prescription drug benefit sooner rather 
+than later. But that amendment was voted down by the Republican 
+majority.
+  So now, under this conference report, the drug coverage doesn't start 
+until January 2006 23 months from now. Yes, 2006.
+  So why so long? One clue is illustrated on this chart. Notice that 
+Election Day is 11 months from now. And notice that the prolonged 
+effective date for the drug benefit is conveniently well past election 
+day.
+  I would like to remind my colleagues that the original Medicare plan 
+was signed into law by President Johnson on July 30, 1965 and 11 months 
+later July 1, 1966--all the people who were eligible for the program 
+were enrolled in the program.
+  The entire system was created from scratch in 11 months.
+  I know the President is desperate to take credit for passing a 
+prescription drug bill when he faces voters next year. But he does not 
+want the many shortcomings in this plan to be fully evident to seniors 
+until well after the election. My Republican friends are hoping that 
+seniors won't find out what they don't get from this legislation until 
+it is too late. It is almost a cruel joke.
+  When a prescription drug benefit is signed into law, all of our 
+offices will be flooded with calls by seniors asking a simple question: 
+``How can I sign up for this benefit?'' They will have seen President 
+Bush sign a bill with great fanfare, and they will have seen many 
+Members of Congress crowding the stage with him, and everyone will say 
+``we have put a prescription drug benefit in place.''
+  And when seniors call to find out how soon they can receive the 
+benefit, we will have to tell them ``2006.'' Sorry, President Bush's 
+2003 Medicare Prescription Drug plan will not start until 2006.
+  No one wants to provide a real Medicare prescription drug benefit to 
+seniors more than the Democrats. After all, Democrats created Medicare, 
+and we have protected it for decades.
+  Everyone knows that Republicans resisted the creation of Medicare and 
+have opposed it ever since. It wasn't too long ago that former House 
+Speaker Newt Gingrich expressed his desire to see Medicare ``wither on 
+the vine.''
+  Well, the bill before us today is the first major step toward the 
+disintegration of Medicare as we know it.
+  In reality, this bill isn't as much a benefit for seniors as it is a 
+big benefit for HMOs and other private sector special interests who 
+want to tear the Medicare program to pieces.
+  So, what is it specifically that the President is afraid seniors will 
+find out before 2006?
+  Is the President afraid that seniors will realize they are going to 
+pay at least $810 before they break even and get any benefit from this 
+plan?
+  For many seniors that is more money than they spend on prescription 
+drugs right now. Up to 30 percent of beneficiaries would pay more for 
+enrolling in the plan than they would receive in actual benefits.
+  Is the President worried that seniors are going to discover that 
+there is a huge gap in coverage?
+  Under this plan, a senior will pay a premium estimated at $35 a 
+month, a $250 deductible, and 25 percent coinsurance payments until 
+reaching $2,250 in drug expenses. What happens then? Seniors get no 
+coverage. You heard me correctly nothing, zero.
+  That is right. At that point, seniors will continue to pay their 
+premiums but they will also pay 100 percent of their drug costs. Only 
+until they have reached the catastrophic limit of $5,100 in drug costs 
+does any benefit return. And by that time, seniors will have incurred 
+$3,600 in out-of-pocket spending. This is called the ``hole in the 
+doughnut'' and it sure doesn't sound like such a good deal to me.
+  And remember that nowhere in this bill does it say that the premium 
+is only $35. It could be significantly higher. The $35 figure is an 
+estimate. We all know how good this administration has been at making 
+estimates.
+  Is the President afraid that seniors will figure all this out? You 
+bet he is.
+  Seniors deserve a much better program than what the Senate is 
+considering right now, and they certainly deserve it before 2006.
+  There are some who will say we must have this gap in coverage because 
+we only have $400 billion to work with. Well, I say if there are 
+insufficient funds in the budget to give seniors real drug coverage, 
+then it is the result of choices made by the President and his party. 
+They chose to provide a massive tax cut to the wealthy the people who 
+need it least and they chose it at the expense of Medicare.
+  What else is in this bill that the Republican's don't want seniors to 
+find out about until 2006?
+  This bill will effectively destroy the Medicare program that has 
+worked for almost 40 years. That is right. Say goodbye to Medicare as 
+we know it.
+  This bill does not expand Medicare; it opens the door for HMOs to 
+take over the program. And that means that seniors will be at the mercy 
+of these HMOs. And as everyone knows, HMOs will not pay for all 
+prescription drugs.
+  Under this bill, seniors will be limited to the prescription drugs 
+covered by their drug plan or HMO. In order to keep costs down, these 
+drug plans and HMOs will use something called a ``formulary.'' A 
+formulary is a list of drugs that are covered under the health plan. If 
+a particular drug is not on the formulary then it is not covered.
+  That means that after a senior has paid her premium and her 
+deductible if she needs a certain medication not on the list used by 
+her drug plan or HMO, then she will pay 100 percent of the cost of that 
+medication.
+  Where is the benefit in that?
+  Mr. President, this bill goes to great lengths to prop up and protect 
+HMOs at the expense of seniors. Included in this bill is something 
+called the ``Stabilization Fund.'' It should be called the ``HMO Slush 
+Fund.'' This fund is designed to ensure that HMOs succeed by offering 
+artificially lower premiums and better benefits than traditional 
+Medicare. This bill hands over $12 billion of taxpayer money for this 
+effort.
+  This is $12 billion that could be used to close the coverage gap or 
+lower the deductible but our Republican friends have made a choice to 
+create a $12 billion slush fund for the insurance industry.
+
+[[Page S15678]]
+
+  I want to spend a few minutes talking about the overall impact of 
+this bill on seniors in the State I represent--New Jersey.
+  The most important reason why I am voting against this bill is 
+because I am convinced that more seniors in my State will be hurt by 
+this legislation than helped.
+  There are approximately 1.1 million seniors in New Jersey.
+  Currently 430,000 New Jersey retirees receive prescription drug 
+coverage from their former employers. Because this bill provides a 
+disincentive to employers to continue offering coverage to retirees, 
+over 90,000 seniors in New Jersey will lose their existing drug 
+coverage, which often offers more generous benefits.
+  This bill is also going to make poor seniors in my State worse off. 
+In New Jersey, Medicaid covers the drug costs for seniors up to 100 
+percent of the federal poverty level. That is an income of 
+approximately $9,000 a year for an individual or $12,000 a year for a 
+couple.
+  In New Jersey, low-income seniors currently on Medicaid have access 
+to whatever drugs they need and they don't have any co-pay for their 
+prescriptions. Under this bill, however, they will now pay $1 per 
+prescription for generic drugs and $3 per prescription for brand name 
+drugs.
+  Low-income seniors tend to be in worse health and, as a result, they 
+have higher annual drug spending. A senior with an annual income of 
+$7,000 or $8,000 simply doesn't have the discretionary income to shell 
+out $15 or $20 or $25 for the prescriptions that he or she may need.
+  That may not sound like a lot of money to my colleagues, but for low-
+income Americans, it can force them to choose between buying medication 
+and buying food or buying medication and keeping the heat turned on in 
+the winter.
+  Mr. President, this bill represents an enormous opportunity 
+squandered. We had a real chance to do something right here. We had 
+$400 billion to improve the lives of 34 million seniors, 14 million of 
+whom don't have any prescription drug coverage right now. Frankly, we 
+blew it.
+  When I look at this bill, I see a bill that makes seniors in New 
+Jersey worse off.
+  I see a bill that makes poor seniors worse off.
+  I see a bill that takes away choices from seniors.
+  I see a bill that wastes taxpayer money on a slush fund for HMOs.
+  I see a bill that ``hides the ball'' until 2006.
+  And I see a bill that I cannot, in good conscience, support.
+  I yield the floor.
+  Mr. GRASSLEY. Mr. President, let me inquire of the Democrats. Could 
+we have a Democrat speak?
+  Mr. REID. Senator Akaka is here and raring to go.
+  Mr. GRASSLEY. Thank you very much.
+  The PRESIDING OFFICER. The Senator from Hawaii is recognized.
+  Mr. AKAKA. Mr. President, I rise today to express my opposition to 
+the conference report for H.R. 1, the Medicare Prescription Drug and 
+Modernization Act of 2003.
+  For far too long Medicare has lacked a prescription drug benefit. The 
+lack of this benefit has been the gaping hole in the Medicare safety 
+net. I have consistently supported efforts to establish a meaningful 
+Medicare prescription drug benefit. I supported S. 1, the Prescription 
+Drug and Medicare Improvement Act of 2003, because it would have been 
+an important step forward in meeting the prescription drug needs of 
+seniors. I am extremely disappointed that instead of making 
+improvements in the Senate-passed bill, the conference report is now a 
+false promise to our seniors. Mr. President, the conference report 
+contains too many flaws to warrant passage. The conference report lacks 
+appropriate prescription drug coverage for seniors. Indeed, many 
+seniors will be worse off under this proposal. The conference report 
+also weakens the existing Medicare entitlement program.
+  The prescription drug coverage in this legislation is simply not 
+comprehensive enough. Too small an allowance is provided within the 
+legislation to establish a meaningful prescription drug benefit for 
+seniors. Instead of reducing the size of the coverage gap, the 
+conference report would require that seniors pay for all of their drug 
+costs after their total drug spending reaches $2,250. Despite 
+continuing to pay their premiums, they will not receive any additional 
+support until they spend about $5,000. This gap is about twice as large 
+as the gap that was contained in the Senate-passed bill. Why should 
+seniors have to continue to pay premiums when they do not receive any 
+benefits if they are in the gap? This coverage gap must be filled.
+  Mr. President, for too many seniors in Hawaii and across the nation, 
+prescription drug coverage will be worse under the provisions in the 
+conference report. Seniors who are currently provided prescription 
+drugs through their state's Medicaid programs will have federally 
+mandated copayments imposed on them. For example, Hawaii's seniors who 
+have incomes of less than 100 percent of the poverty level and obtain 
+their medications through Hawaii's Medicaid program will be worse off 
+under this plan. They will now have to pay copayments to get their 
+prescription medication. Hawaii's seniors are not alone. The Center for 
+Budget and Policy Priorities believes that most of the 6.4 million 
+individuals that have dual eligibility for Medicare and Medicaid will 
+be charged more under the conference agreement for medication than 
+under existing law.
+  I am afraid that too many low-income seniors will not be able to 
+afford even these meager copayments. Those who cannot meet these 
+copayments will be denied access to the medications they are currently 
+being provided. Again, they will go without the treatment they need. In 
+addition, the financial burden that the conference report places on 
+states may lead to a reduction in other Medicaid services that states 
+will no longer be able to afford, because of the substantial share of 
+prescription drug costs that states will have to pay the federal 
+government for seniors who are eligible for Medicare and Medicaid.
+  Mr. President, I am also concerned about the millions of retirees 
+that will lose their existing coverage. We have seen over the past few 
+years that there has been a disturbing trend of reducing benefits for 
+retirees. Creating this voluntary benefit will only accelerate this 
+trend. The intent of the legislation is to expand prescription drug 
+coverage for seniors, not merely to shift the financial burden of 
+existing coverage to the federal government. Many seniors will be 
+forced to rely on Medicare, which will provide a less generous benefit 
+than what they currently enjoy. It is estimated that 17,850 Medicare 
+beneficiaries in my home state of Hawaii will lose their retiree health 
+benefits as a result of the enactment of this legislation. If Medicare 
+beneficiaries lose their employer-based coverage, they may have to pay 
+more for a Medicare drug benefit that provides less comprehensive 
+coverage. Despite the subsidies included in the conference report to 
+encourage the continuation of existing coverage, it is estimated that 
+approximately 2.5 million people will lose their coverage.
+
+  Mr. President, I along with Senators Warner, Allen, Mikulski, 
+Sarbanes, Johnson, and Corzine requested that the conferees include our 
+bill, S. 1369, in the conference report to ensure that present and 
+future federal retirees receive the same level of prescription drug 
+coverage. The government's Federal Employee Health Benefit (FEHBP) 
+program for its employees and retirees stands as a model for all 
+employer-sponsored health care plans. Our legislation would protect 
+prescription drug benefits for federal retirees by ensuring parity for 
+these benefits with other FEHBP subscribers. The other body approved 
+companion legislation, H.R. 2631, on July 8, 2003. While the Medicare 
+reform bill includes subsidies and tax credits to employers who retain 
+existing drug benefits for their retirees, such incentives provide no 
+guarantee of the FEHBP drug benefit for the government's own 
+annuitants. If FEHBP is the model for this reform, the federal 
+government must not drop or reduce drug benefits for retired FEHBP 
+enrollees. Our legislation sends a message to other employer-sponsored 
+plans that the federal government stands behind its commitment to 
+retired workers. I will continue to work to bring about the enactment 
+of this bill.
+  Mr. President, the cost containment provisions in the legislation 
+provide a fast-track legislative process to cut Medicare benefits if 
+general revenue funding for the entire Medicare program exceeds 45 
+percent. This arbitrary process is included while more meaningful 
+provisions to control the costs of prescription drugs were left out. 
+The conference report prevents the federal government from using the 
+bargaining power of 40 million senior citizens to
+
+[[Page S15679]]
+
+bring down the cost of prescription drugs for the Medicare program.
+  Mr. President, the conference report weakens Medicare. It imposes 
+means tests for Medicare Part B premiums and for low-income subsidies 
+for the prescription drug benefit. This is the beginning of the end of 
+Medicare being as a universal benefit. This is the first step towards 
+means testing other parts of the existing Medicare program. Means tests 
+place greater burdens on seniors. They also create administrative 
+difficulties for the Centers for Medicare and Medicaid Services.
+  Even more objectionable is the assets test used to determine the low-
+income subsidies for the prescription drug benefit. The assets test is 
+completely unrealistic. According to Families USA, the assets test will 
+deny subsidies to 2.8 million very low-income seniors if they have even 
+a small amount of assets. For example, the assets test disqualifies 
+people who have household goods and personal effects worth more than 
+$2,000. Medicare is an entitlement and participants should not be 
+subjected to these demeaning means tests. Additional assistance should 
+not be denied because they happen to have set money aside for future 
+expenses.
+  Mr. President, this legislation also threatens existing Medicare 
+benefits because it includes billions of dollars for subsidies for 
+private plans. This increases premiums for seniors, raises government 
+costs for health care, and damages the solvency of the Medicare trust 
+fund.
+  Mr. President, I also want to express my disappointment that language 
+similar to an amendment that I had offered, which was accepted as part 
+of the manager's package for S. 1, was not included in the conference 
+report. While I thank Chairman Grassley and ranking member Baucus for 
+their assistance with this provision, it was not included in the 
+conference report. My amendment would have allowed my home state of 
+Hawaii to benefit from the increase in Medicaid disproportionate share 
+hospital (DSH) payments included in the bill. Medicaid DSH payments are 
+designed to provide additional support to hospitals that treat large 
+numbers of Medicaid and uninsured patients. The Balanced Budget Act of 
+1997 (BBA) created specific DSH allotments for each state based on 
+their actual DSH expenditures for fiscal year 1995. In 1994, the State 
+of Hawaii implemented the QUEST demonstration program that was designed 
+to reduce the number of uninsured and improve access to health care. 
+The prior Medicaid DSH program was incorporated into QUEST. As a result 
+of the demonstration program, Hawaii did not have DSH expenditures in 
+1995 and was not provided a DSH allotment.
+
+  The Medicare, Medicaid, and SCHIP Benefits Improvement and Protection 
+Act of 2000 made further changes to the DSH program, which included the 
+establishment of a floor for DSH allotments. However, states without 
+allotments were again left out. Other states that have obtained waivers 
+similar to Hawaii's waiver have retained their DSH allotments. Only two 
+states, Hawaii and Tennessee, do not have DSH allotments.
+  The conference report provides that states without DSH allotments 
+could receive additional assistance if their waiver was terminated or 
+removed. While this may possibly benefit Tennessee, this language will 
+prevent Hawaii from obtaining any additional Medicaid DSH support that 
+is included in this bill. The conference report includes an additional 
+$6.35 billion in Medicaid DSH relief to the states. Hawaii does not 
+receive any of these funds. Hawaii's hospitals are struggling to meet 
+the healthcare needs of the uninsured. Hawaii cannot continue to be 
+left out. Additional DSH payments would help Hawaii hospitals to meet 
+the rising health care needs of our communities and reinforce our 
+health care safety net. All fifty states need to have access to this 
+additional Medicaid DSH support. I will continue to work to correct 
+this inequity.
+  Mr. President, as I said at the start of my remarks, this legislation 
+is a false promise. Even if this conference report is enacted, we will 
+need to enact follow up legislation to address the flaws in the bill. 
+We will also have to repeal several of the provisions that weaken the 
+existing Medicare program. Many have said this is an important step 
+forward in the Medicare program. I disagree. This conference report 
+takes too many elderly Americans backwards in terms of their benefits 
+to constitute forward progress or forward thinking. Many people, 
+particularly seniors, will eventually come to the conclusion that I 
+have reached on the legislation and Congress will regret this rush to 
+judgment. After reviewing the provisions in this legislation, I am 
+disappointed that this bill is a false promise that undermines the 
+existing Medicare program. Thank you, Mr. President.
+  Mr. GRASSLEY. I yield myself 30 seconds, before I yield to the 
+Senator from Maine 7 minutes, for just a little bit of history and to 
+applaud the Senator from Maine.
+  She was active in this issue of Medicare prescription drugs a long 
+time before I was. But on July 25, 2001, we held our first meeting of 
+what was called the tripartisan group. She was obviously part of that 
+tripartisan group along with Senators Hatch, Jeffords, Breaux, and 
+Grassley.
+  I remember that meeting we had. The AARP sent us a birthday cake with 
+a pie-shaped piece cut out of it. Their admonition to the tripartisan 
+group was: Fill in the missing piece. The missing piece of Medicare was 
+prescription drugs.
+  The Senator from Maine has been very aggressive since July 25 in 
+various ways, helping us fill in that piece of the pie. On August 1 of 
+that year, we held a news conference, all five of us, announcing our 
+plans for doing that. We have not exactly come out where we were a year 
+ago. We probably have come out a lot better with the legislation we 
+have before us. But regardless, the Senator from Maine was in on the 
+ground floor, a long time before I was, on that issue.
+  I yield to the Senator from Maine 7 minutes.
+  Ms. SNOWE. Mr. President, I thank the chairman for his most gracious 
+remarks. As I said on Saturday, without his considerable efforts, 
+determination, leadership, and willingness to work across party lines, 
+we would not be where we are today. I want to congratulate him and 
+commend him for the enormous leadership and support he has given to 
+this issue as the chairman of the committee and throughout this process 
+that has obviously been a difficult one.
+  I had the opportunity on Saturday to elaborate on my views with 
+respect to this conference report. I think we are on a precipice of 
+opportunity and ushering in a new era in the Medicare Program. While 
+this conference report does not rise to the level of everyone's 
+aspirations and expectations when it comes to prescription drugs, I 
+think we have to understand that this report was melding some very 
+disparate views in very disparate bills. We must, in the final 
+analysis, measure these results for the millions of seniors who will 
+benefit against the benchmark of the stagnation of the status quo.
+  The question is whether the status quo was preferable. Someone said 
+you may have to fight a battle more than once to win it. We know how 
+many battles we have fought on this issue over the last 5 or 6 years. 
+How many more battles and how many more years will have to go by and at 
+whose expense? I think we know at whose expense. It will be at the 
+expense of the 10 million seniors who do not have prescription drug 
+coverage currently. It will be at the expense of the 14 million seniors 
+who are under the 150 percent of poverty level, who will now get a very 
+generous level of support and subsidy to finance this most vital drug 
+coverage.
+  This conference report embraces many of the critical benchmarks that 
+we had established previously, the ones to which Chairman Grassley was 
+referring with respect to the tripartisan bill that should have passed 
+last year, a year ago. I was urging the Senate to pass that 
+legislation. We lamented the loss of that opportunity, but that time 
+has passed.
+  The Senate-passed bill was something we all preferred; there is no 
+question about it. But I think we also understand the nature of 
+conference committees. The key point to remember about this conference 
+report is that it embraces the critical benchmarks and principles that 
+we all championed: The prescription drug benefit would be universal, it 
+would be voluntary, it would be permanent, it would be comprehensive, 
+it would be affordable, there would be equal benefits across all
+
+[[Page S15680]]
+
+plans, there would be a Government fallback to ensure that every 
+senior, regardless of where they live in America, would have access to 
+affordable drug coverage, and we would target the most assistance to 
+those most in need.
+  While this is not everything it could be or should be, we have to 
+measure the results against the status quo.
+  I would like to focus for a few moments on one of the issues that has 
+been talked about consistently and understandably so, the privatization 
+of Medicare. There is no question that I certainly would not support 
+anything that would lead to the privatization of Medicare. In fact, the 
+Senate-passed bill had nothing in the feature of a premium support 
+proposal. Now we have to discuss what is before the conference and what 
+has actually changed from what was in the House-passed legislation. I 
+think it is critical that we understand the differences in what is 
+included in this conference report. The House-passed bill sought to 
+provide for an open-ended, permanent nationwide privatization of 
+Medicare through an untested and untried approach known as the premium 
+support proposal. It is certainly no secret that I was totally opposed 
+to that approach, as well as many of us here in the Senate. But it is 
+also critical to know what is now being applied in this conference 
+report, and there should be no mistake that this conference report puts 
+an end to that proposal. It puts an end to that effort to privatize.
+  I certainly would have said the privatization approach in the House 
+bill could have led us down the path of what the program of health care 
+looked like prior to 1965 when Medicare was created, which was a 
+patchwork delivery of health care to seniors in America. We don't want 
+to go back to that; that would be a retreat. The House approach would 
+have wild fluctuations in premiums, as we saw in the charts that were 
+issued by CMS within the Department of Health and Human Services. There 
+would be wild fluctuations not only between States but within States 
+and even within congressional districts.
+  In response to that concern, I and 43 of my colleagues wrote a letter 
+saying that it would be totally unacceptable--not only the open-ended, 
+permanent nationwide system that the House-passed bill included but 
+also even the narrowed-down version of a demonstration program that 
+would have captured 10 million seniors. That was unacceptable.
+  I want to make clear where we are today. We have eliminated the whole 
+approach of the House. Now, what is in this conference report as shown 
+in this chart here today is one Federal demonstration program. That is 
+what it is all about. Where the effort once centered on an open-ended 
+national program that would have ultimately ended up in the wholesale 
+undermining and destabilization of the Medicare Program, we now have a 
+pared back demonstration project that would be limited to 46 
+metropolitan statistical areas; that certain criteria will be included 
+which will determine those areas; but according to the Congressional 
+Budget Office, based on that criteria that, in fact, it would not 
+include more than 650,000 to 1 million seniors.
+  What we were talking about originally in the House-passed bill was a 
+nationwide program, but we are now back to a pared-down demonstration 
+project, and we include criteria that would limit the size of the 
+demonstration project to 650,000 to 1 million, according to the 
+Congressional Budget Office.
+  Also, there is protection for low income. Where the original proposal 
+by the House had no protection for low income under 150 percent of 
+poverty level, now they are protected as well. They will not be 
+included in this demonstration project.
+  It is very important to understand some of those changes.
+  In addition, this program sunsets in 2016. It doesn't start until 
+2010. We obviously have time between now and then after passage of the 
+legislation to address any further concerns. But we move the date from 
+2008 to 2010. There is an ending date--a sunset of 2016. No extensions 
+are allowed without new legislative action.
+
+  There are six MSAs with criteria that I mentioned earlier. Now we are 
+not talking about open-ended, nationwide; we are not talking about even 
+10 million seniors. We are talking about 650,000 to 1 million.
+  As far as any premium fluctuations, it is limited to 5 percent. 
+Without the compounding, that would have had the net effect of having a 
+30-percent increase over 6 years. Now that would be phased in.
+  I should also mention that this demonstration project is phased in 
+starting in 2010. It is not totally in place until 2015 and 2016. In 
+2016, it ends. Even with the 5 percent, it will be phased in over 4 
+years. It represents 5 percent each year. We have made substantial 
+changes. It is a wholesale change of what was in the House proposal.
+  This is a limited Federal demonstration program that allows for the 
+testing of perhaps new ideas. But nothing can be implemented--nothing 
+can be done--until the Congress would want to address those issues 
+based on the results from that demonstration project.
+  That is very important for Members of this Senate to understand in 
+terms of the differences in scope, size, implementation effect, and 
+what it would do to the underlying program.
+  Finally, one other additional point with respect to this 
+demonstration project:
+  Also in this legislation we terminated the financial incentives that 
+are offered to private plans participating in the demonstration when it 
+begins in 2010. I think we have to understand what the true facts are.
+  This demonstration project will not undermine the underlying 
+traditional Medicare Program as we know it. Obviously, it would be 
+preferable not to have it in this legislation, but this is the essence 
+of a compromise that is before us, and it is very limited in terms of 
+size and scope.
+  I think it is important for Members of the Senate to realize that.
+  In the final analysis, I think we cannot lose this opportunity. This 
+is an idea whose time has not only come, but it is long overdue.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Connecticut.
+  Mr. DODD. Mr. President, I yield myself 9 minutes.
+  Mr. President, let me commend the Senator from Iowa, the Senator from 
+Louisiana, the Senator from Montana, and others who have worked on this 
+so very hard. I want to express my gratitude to them for spending so 
+much time on this issue.
+  Let me also briefly thank my own staff. I am not a member of the 
+Finance Committee. But this issue transcends committees. This is 
+legislation that all of us have a deep interest in. I thank Jim Fenton 
+and Ben Berwick of my staff for the tremendous effort and time they 
+have put in.
+  I spoke at some length on Friday about this issue. Let me divide the 
+issue very quickly.
+  A prescription drugs benefit, I think, would pass 100 to 0. If we had 
+a vote on the prescription drug benefit--you would hear speeches that 
+it didn't go far enough and concerns about the donut hole and whether 
+or not 150 percent of poverty was the right margin to be drawn--but I 
+suspect all Members in the final analysis would support the initiation 
+of a prescription drug benefit on the assumption that we would work to 
+improve it in the years ahead.
+  If I were voting on that issue alone, I would stand here and raise 
+concerns about matters included in that provision, but it would have my 
+wholehearted support as a long overdue proposition. I won't dwell on 
+that aspect of the legislation here this morning.
+  The second piece of this bill, however, is one that causes me 
+concern. This second piece is more difficult to understand, it is less 
+clear than just $400 billion for prescription drugs. The second part of 
+this bill is a major change in Medicare. The program has been around 
+for 38 years and is currently serving 41 million Americans. It is 
+probably the most successful and the most wildly supported Federal 
+program of the 20th century. I can't think of any program, except 
+Social Security, which has been so widely supported. We are about to 
+take that program which has worked so tremendously well, and I think 
+disadvantage it significantly. Let me explain briefly why.
+  The sponsors of the legislation say they are not forcing seniors out 
+of traditional Medicare. They claim they are simply creating 
+competition as a result of offering seniors a choice. Let us talk about 
+this so-called ``competition.''
+
+[[Page S15681]]
+
+  Private plans under this bill will be reimbursed at a higher rate 
+than traditional Medicare--9 percent higher. On top of that, this bill 
+also makes available $12 billion in a slush fund to be used to lure 
+private plans into the market on a corporate subsidy. You get a 9 
+percent differential and $12 billion. That is what you get to compete 
+with Medicare. You do not have to have a Ph.D. in math or a Ph.D. in 
+business law to understand that kind of an advantage certainly is not 
+what I call a level playing field. It is not competition, it is a 
+rigged game. The bill stacks the deck against traditional Medicaid and 
+the effects are self-perpetuating. Traditional Medicare grows weaker, 
+private plans grow stronger, forcing more beneficiaries out of the 
+traditional programs and into the open arms of HMOs.
+
+  It is easy to get bogged down in the complexities of this bill. Let 
+me state it simply: The weakening of the traditional Medicare Program 
+caused by this bill will force seniors to pay more and face the 
+prospect of fewer benefits.
+  Remember, Medicare initially said whether you are wealthier and 
+healthier or poorer and sicker, we all work together. Now we are 
+splitting off the wealthier and healthier and leaving the sicker and 
+poorer on the side.
+  This bill will actually mean less choice, in many ways, for seniors. 
+Seniors like the traditional Medicare Program precisely because it 
+offers choice, the very thing the supporters of this bill claim to be 
+providing. Under the current system, seniors have a choice of doctors. 
+But that choice would soon disappear with a rise in private managed 
+care plans.
+  I hope this prediction is wrong but I am fearful it is right. If this 
+prediction is wrong, it most likely means seniors have elected not to 
+move into private plans and HMOs will leave the market in many areas, 
+as we have seen in the past with the Medicare+Choice plan, taking $12 
+billion with them that might have been used to reduce the cost of 
+prescription drugs rather than provide a subsidy for the private plans 
+to compete with Medicare.
+  Even more ironic is that this highly unfair system is being 
+championed by self-proclaimed champions of free enterprise. This bill 
+gives $12 billion to HMOs to unfairly compete and it does nothing to 
+control drug prices. In fact, it actually prevents the Medicare Program 
+from negotiating lower drug prices. Under law, Medicare is prevented 
+from using its purchasing power to negotiate with drug companies for 
+lower prices. What is wrong with letting free enterprise work here in 
+order to lower drug prices?
+  If Medicare is so in need of reform, why in this bill are we 
+subsidizing private companies and not allowing the Medicare 
+beneficiaries to compete for lower drug prices? The reason is simple: 
+The champions of free enterprise know that private plans cannot compete 
+with traditional Medicare on a level playing field. The subsidies are 
+necessary because Medicare is actually more efficient. Medicare 
+delivers services at a lower cost.
+  In 2010, a provision included in this bill will go into effect that 
+begins an experiment with our Nation's seniors. Why we are taking our 
+seniors, the most vulnerable, and turning them into guinea pigs for an 
+experiment is beyond me. That is what we are beginning to do. Given the 
+unlevel playing field I have described, such a competition would 
+further disadvantage the traditional Medicare Program.
+  The bill writes into it right now a cap of 5 percent premium 
+increases for each year in regions effected by this premium support 
+experiment. The bill anticipates premium increases even before we have 
+tried the program, and they are going to take 6 million seniors and 
+throw them into an experiment, a pilot program, the outcome of which 
+has already been determined by the bill's authors when they talk of a 
+cap at a 5 percent premium increase. How is Medicare going to compete 
+then? The outcome is predetermined, forcing those seniors into a 
+disadvantaged program. The weaker and the poorer and the sicker seniors 
+will end up paying more or having benefits cut.
+  I am afraid we can only conclude one thing: The architects of the 
+bill, with all due respect, spend billions of dollars not to reform 
+Medicare, but to dismantle it. It puts patients out there to wither on 
+the vine, as Newt Gingrich said 8 years ago. If the man who wanted that 
+embraces this legislation, that could mean one of two things: Either 
+his opinion has changed or this legislation really is intended to end 
+Medicare. I submit that I see no evidence his opinion has changed.
+
+  We set out to add a prescription drug benefit to Medicare. I applaud 
+that. We could have had a bipartisan bill that did just that. It could 
+have been approved by this Chamber overwhelmingly. But instead, we are 
+being asked to vote on a wolf in sheep's clothing.
+  The second part of the bill, the changes in Medicare that will effect 
+41 million seniors, two-thirds of whom make less than $80,000 and above 
+$13,470, for those in that category, this bill offers disturbing 
+alternatives.
+  For those reasons, I urge that when the cloture vote occurs, Members 
+vote against it. We can do better. I applaud the efforts made, but we 
+can do better on this legislation than we have done.
+  I don't believe I used all 9 minutes, but others have gone over 9 
+minute. I yield back my time for those on the Democratic side who would 
+like to be heard on the legislation.
+  Mr. GRASSLEY. I yield 5 minutes to the Senator from Arkansas. If 
+there is no one on the other side to speak, I can give the Senator a 
+little bit more.
+  The PRESIDING OFFICER. The Senator is recognized for 5 minutes.
+  Mrs. LINCOLN. Mr. President, I rise to speak about the Medicare 
+prescription drug coverage conference report before the Senate today.
+  I do strongly believe this is a historic opportunity. I believe we 
+should not let it pass by. This proposal represents a $400 billion 
+expansion of the Medicare Program, the largest expansion of Medicare 
+since it was created nearly 40 years ago.
+  While I intend to support this measure, I think what is most 
+important at this juncture is to be honest with the American people. 
+For me, it means being honest particularly with the people of Arkansas 
+and the Arkansas seniors. This bill cannot be and will not be all 
+things to all people. The bill will not provide free drugs for 
+everyone. Some seniors, because we have talked about this for so long, 
+have come to their own conclusion that what we were trying to get was 
+free drugs for all seniors in this country.
+  I have to remind people we are in debt in our country up to our 
+eyeballs, as far as the eye can see. We did not have an opportunity to 
+provide free prescription drugs to all seniors in this country. 
+Therefore, we have to do the best we can do right now with what we 
+have. I am not pleased about the debt. I didn't support the last tax 
+bill and I am scared to death of the debt we are creating for my twin 
+boys who are 7 years old right now.
+  The fact is, in this year's budget we have $400 billion dedicated to 
+American seniors. We have to do the best job we can to make that 
+productive for them in this current circumstance because next year and 
+the year after that, it will not be there; we will still be in debt up 
+to our eyeballs.
+
+  We have a tremendous amount to do. This bill starts that. It is 
+unfortunate the issue of adding a prescription drug benefit to Medicare 
+has become so politicized. Several Democratic conferees, many of them 
+experts on this issue in their very own right, were not permitted the 
+opportunity to negotiate the final bill. They were conferees in name 
+only. I join them in their frustration and how they feel. They have a 
+right to be angry. It was wrong and unjust. They were prohibited from 
+being part of this very important conference. This bill would have been 
+better had they been involved.
+  Despite the flaws in this legislation and the partisan process we 
+witnessed over the last few months, Democrats and seniors should be 
+pleased that many of the principles we fought for are contained in this 
+bill.
+  Is this the bill I would have written? Absolutely not. But there are 
+components in this bill that are productive and move us forward. On 
+behalf of our seniors, we must seize that opportunity.
+  The bill before the Senate today will provide all of the 453,438 
+Medicare beneficiaries in Arkansas with access to a Medicare 
+prescription drug benefit for the first time in the history of the 
+Medicare Program. Every senior will have access to a drug benefit to 
+help them with the extraordinary cost of prescription drugs. 
+Extraordinary.
+
+[[Page S15682]]
+
+  Again, it is not all things to all people. If you find yourself in a 
+position where you are well off and you do not have a lot of 
+prescription drug costs, there may not be in here the most advantageous 
+drug program for you, but for the sickest and the neediest of this 
+country we have come a long way in this bill.
+  While the benefit is somewhat meager, I am confident we will improve 
+on it in the future for those who maybe do not get the best return from 
+this package. But this bill targets the sickest and the neediest of 
+seniors, those with the highest drug costs and those who are in the 
+lowest income category.
+  Because of the $400 billion limitation, that is where we have gone. 
+When fiscal times improve, we should eliminate the gap in coverage. I 
+am concerned about those seniors who will be hit with the gap in 
+coverage and have to continue to pay their premiums. But the point is, 
+every senior in Medicare in Arkansas will be able to choose to enroll 
+in a new voluntary drug benefit while staying in the traditional 
+Medicare Program. This is a huge victory. Seniors will not have to 
+leave the Medicare they love to get a prescription drug benefit.
+  That is because the bill contains a fallback plan--a Government 
+guaranteed plan or safety net--that will provide drug coverage should 
+private, drug-only plans not come into their area.
+  We in Arkansas know a lot about that. We have seen what happens when 
+Medicare+Choice comes in.
+  I am concerned that the fallback provision in this bill is not as 
+strong as that which was passed in the Senate bill because it allows 
+one prescription plan and one integrated plan to provide the drug 
+benefit instead of two prescription plans.
+  I intend to work with my colleagues to fix this flaw before the drug 
+benefit is enacted. I am glad that the conference agreement requires a 
+national fallback contract, so that the Government fallback will always 
+be there when necessary.
+  The PRESIDING OFFICER. The Senator's time has expired.
+  Mr. GRASSLEY. I yield the Senator 1 additional minute.
+  The PRESIDING OFFICER. The Senator is recognized for 1 additional 
+minute.
+  Mrs. LINCOLN. I thank the Senator from Iowa.
+  Mr. President, I have a lot more to say, and I hope I will have an 
+opportunity to do it at some point.
+  I think the most important point to be made today is to talk about 
+those who will be served. Over 170,700 beneficiaries in Arkansas will 
+pay no premium for their prescription drug coverage and a nominal copay 
+of no more than $2 for generic drugs and $5 for brand name drugs. They 
+also will not have a gap in their drug coverage.
+  We are addressing some of the neediest individuals in our country at 
+this juncture. Over 40,200 additional seniors in Arkansas will qualify 
+for reduced premiums, lower deductibles and coinsurance, and no gaps in 
+their drug coverage. All told, over 40 percent--over 40 percent--of 
+Medicare beneficiaries in Arkansas will receive the much-needed special 
+help.
+  This low-income assistance is of special importance to Arkansas' 
+older women. Medicare seniors are disproportionately women and 
+disproportionately poor, and will be served well by this special 
+assistance.
+  There is much I would have done to strengthen the low-income 
+provisions, such as not having an assets test for everyone and ensuring 
+that Medicare could wrap around the cost-sharing requirements in the 
+Medicare bill and that Medicaid could pay for prescription drugs not on 
+the private plan's formulary.
+  I fought to include a new benefit providing screening for diabetes. 
+The new diabetes screening benefit will help with the fact that 
+approximately one third of the 7 million seniors with diabetes--or 2.3 
+million people--are undiagnosed.
+  They simply do not know that they have this very serious condition--a 
+condition whose complications include heart disease, stroke, vision 
+loss and blindness, amputations, and kidney disease.
+  This bill takes a number of steps to protect seniors' access to 
+community pharmacies.
+  I worked hard to ensure that private PBMs must disclose any price 
+concessions made available by manufacturers, that the Secretary of 
+Health and Human Services has the authority to audit the financial 
+statements and records of plans to ensure that they are complying with 
+these disclosure requirements, and that the Federal Trade Commission 
+study whether the PBMs that own their own mail order pharmacies have 
+created higher drug prices for consumers.
+  In addition, private plans must allow any willing pharmacist to be a 
+provider under its plan. And for the first time, local pharmacists will 
+be allowed to offer 90-day prescriptions just like mail-order 
+pharmacists.
+  These provisions are vital to rural hospitals, physicians, ambulance 
+providers, home health providers, and rural health clinics in Arkansas. 
+I have worked with my colleagues for a number of years on these 
+provisions, and long-sought rural equity is finally achieved.
+  This bill also contains several good additions to the traditional 
+Medicare Program that seeks to improve the health and well-being of 
+seniors.
+  Among the provisions that I fought to include is my demonstration 
+program on chronic care management that will help determine the healthy 
+outcomes that result when a geriatrician is paid appropriately for 
+caring for a patient with multiple chronic conditions.
+  I also fought to include coverage for insulin syringes. Roughly 40 
+percent of the senior population with diabetes--or 1.8 million 
+seniors--use syringes to inject insulin into their bodies to control 
+their diabetes every day.
+  Without coverage, syringe purchases--which can be especially 
+expensive for seniors on fixed incomes--would not count towards cost-
+sharing and yearly maximum out-of-pocket expenses.
+  The low-income assistance in the Senate bill was much more generous. 
+It helped 3 million more seniors. And I pledge to these seniors that I 
+will continue to work on strengthening these provisions in the future.
+  I am pleased that the conference agreement provides financial 
+incentives for employers to continue offering prescription drug 
+coverage for their retirees.
+  I have received many calls this week from constituents who want to 
+ensure they don't lose the health coverage they worked for their entire 
+lives. It is frustrating that employers are already dropping retiree 
+health coverage.
+  So I am glad this bill provides tax incentives to employers and 
+unions so they don't drop drug coverage. Employer groups have told me 
+that this bill will actually encourage them to retain rather than drop 
+coverage in the future.
+  This bill also creates the most comprehensive rural package we've 
+seen in years. By significantly decreasing or eliminating the 
+disparities in Medicare payments that exist between rural and urban 
+health care providers, seniors in rural areas will have better access 
+to the care they need.
+  To conclude, we must seize this opportunity before it is too late. 
+This is not the bill I would have written, but it is a step forward.
+  Yesterday, I talked with Cecil Malone, the president of the Arkansas 
+AARP. We both agree that this moment must not be wasted. We must act 
+now to get a benefit started. Once it is there, it can only get better.
+  I promise the seniors of Arkansas that I will work day in and day out 
+to make this prescription drug plan better.
+  I will also work to preserve and protect the Medicare Program so it 
+can continue to be a safety net for all those who are uninsurable in 
+the private market--millions of seniors, individuals with disabilities, 
+and people with kidney failure.
+  The Medicare Program has prevented these most vulnerable individuals 
+from being uninsured. We must remember the Medicare Program's origins 
+and mission as we proceed--and do no harm to it.
+  Finally, Mr. President, I thank Finance Chairman Grassley, Ranking 
+Member Baucus, Senator Breaux, and the members of their staffs who 
+worked so hard over the last several months to bring us to this 
+historical moment.
+  This bill also ensures that seniors have convenient access to 
+pharmacies
+
+[[Page S15683]]
+
+by adopting the same standard that TRICARE uses to determine access.
+  The bill also includes my provision to waive temporarily the late 
+enrollment penalty for military retirees and their spouses who sign up 
+for Medicare Part B and to permit year-round enrollment so that 
+retirees can access the new benefits immediately.
+  I am glad that this bill takes some steps to contain the skyrocketing 
+price of prescription drugs. One provision in the bill would help bring 
+generic drugs to the market faster, and another provision would give 
+the Government authority to create a system for the importation of 
+drugs from Canada by pharmacists, wholesalers, and individuals once 
+safety standards are met.
+  I have long supported drug reimportation but both the Clinton and 
+Bush administrations have refused to implement drug reimportation 
+authorized by Congress, citing concerns about drug safety.
+  I am glad this bill directs the Secretary of Health and Human 
+Services to conduct a comprehensive study that identifies current 
+problems with implementing the current reimportation law we already 
+have on the books so Congress can enact a law that will allow 
+reimportation to go forward.
+  Mr. President, there is a lot to be talked about here. I hope we will 
+continue to work together to improve upon the shortcomings in this 
+legislation as we work to see it implemented to make it a better 
+program for current and future beneficiaries of the Medicare Program.
+  The PRESIDING OFFICER. The Senator from Connecticut.
+  Mr. LIEBERMAN. I thank the Chair.
+  Mr. President, this could and should be a day of common purpose, a 
+day in which we are united, not divided, behind a vital and big goal; 
+that is, giving senior Americans, who have worked their whole lives, 
+access to the prescription drugs they need to stay alive and well. This 
+is a promise that Presidents and Members of Congress of both parties 
+have made and failed to keep for years and years and years.
+  Since the vast majority of us agree on the outlines of a solution, we 
+had the opportunity, and I believe the responsibility, to finally make 
+good on those years of rhetoric and deliver a solid and sensible 
+prescription drug benefit plan under Medicare.
+  Instead, this President and this Congress have rushed into this 
+opening and have stuffed what was once a decent bill--the one that 
+passed the Senate overwhelmingly earlier in the year--with 
+irresponsible and hurtful ideas that, rather than strengthening 
+Medicare, weaken it and that, rather than just offering prescription 
+drug benefits to millions of seniors who need it, reduce the benefits 
+that millions of seniors have today. It has given with one hand and 
+taken with another.
+  So instead of being a day of common purpose, which we had here on the 
+Senate floor when we passed a prescription drug benefit bill just a few 
+months ago, this is a day of all too common partisan politics, 
+ideological politics that has divided this Congress, diminished this 
+Government, degraded our democracy, and, ultimately, disserves our 
+people. It did not need to be this way.
+  Everybody knows what the problem is, and just about everybody agrees 
+that it is serious. We live in the wealthiest and most advanced country 
+in the world. Yet millions of our seniors have a health care plan that 
+excludes what is now an essential component of modern medical 
+treatment; that is, prescription drug benefits. It is a little like 
+having a car warranty that covers everything but the engine.
+  America can do better. That is why I supported the landmark bill that 
+overwhelmingly passed the Senate in July. Thanks to bipartisan 
+leadership, we crafted a compromise that could have made a good 
+downpayment for America's elderly. It was not perfect, but it was a 
+good head start, a good start forward. Not everyone in my party 
+supported that agreement. But I believed, despite its flaws, it was a 
+necessary and worthy first step.
+  But a funny thing--or, rather, a bad thing--happened to that bill on 
+the way to the conference. That solid, bipartisan bill was taken over 
+by ideologues and others determined to stuff it full of pet, partisan 
+projects that really end up hurting millions of seniors, lessening the 
+coverage they have now, and threatening Medicare.
+  Unfortunately, the special interests were in the room and too many of 
+our Democratic colleagues were out of the room. They used this bill as 
+a vehicle for pushing into law a long list of things that had nothing 
+to do with the basic goal, which was to provide prescription drug 
+benefits under Medicare. In fact, this bill takes us two steps back for 
+every one step forward. That is why I am opposing it.
+  Has the tone in Washington changed? Well, it has. It is more bitter 
+than ever, more self-serving than ever, less constructive than ever. 
+And I am afraid no simple prescription can cure the tone I am talking 
+about; only real bipartisan leadership can.
+
+  As one who supported the original Senate version of the bill, I am 
+not only disappointed at this outcome, I must say I am furious at it, 
+furious because millions of seniors, desperate for the relief, have 
+found their plight exploited, not alleviated.
+  I did not rush to this judgment. I wanted to support a solution. When 
+the outlines of the bill began to emerge last week, I saw some 
+provisions that I liked and some that troubled me. I wanted to fix 
+them. I spoke to people on both sides. I made suggestions to the 
+conferees about changes that might be made. But no changes were made. 
+So, ultimately, I have no choice but to oppose this bill.
+  Let me just cite briefly some of the most significant provisions that 
+I believe are wrong with the bill.
+  First, it would make millions of low-income seniors pay more for the 
+drugs they are currently getting under Medicaid and give them a more 
+narrow choice of drugs that will be covered. So it takes billions, in 
+the so-called wraparound coverage that Medicaid would provide, from 
+seniors for their drug benefits and gives those billions to HMOs to 
+subsidize them as they move toward privatization of Medicare.
+  Second, it includes up to $16 billion in cuts for cancer care. Let me 
+repeat that: $16 billion in cuts for cancer care. I have been hearing 
+for months now from cancer patients and oncologists, cancer doctors, 
+worried that this exactly might happen.
+  Third, it will spend billions of dollars by expressly prohibiting the 
+Federal Government from negotiating the best possible price for 
+prescription drugs.
+  Fourth, driven only--I would say primarily--by ideology, but because 
+it is against all the evidence of what works, this bill will commit us 
+to an overpriced version of privatized Medicare that would actually 
+drive up costs for taxpayers, not lower them, and jeopardize the 
+stability of the Medicare Program, which is one of the best programs 
+the Government has provided seniors in America in the last century.
+  The fact is, Medicare as we know it is more efficient, more 
+affordable, than the privatized version that is part of this bill.
+  In recent years, here are the facts: Costs per covered person have 
+risen almost 10 percent for private insurers providing Medicare 
+coverage or the Medicare substitute while Medicare has been able to 
+limit those increases in costs to just over 4 percent. That means 
+Medicare has been twice as good at holding down costs as the private 
+insurance substitute. So why are we subsidizing, at greater cost, that 
+alternative?
+  The array of people opposing this bill is broad. One group is the 
+Democratic Leadership Council, sort of ``mother church'' of the 
+moderate Democrats. The DLC referred to this bill as ``Medimess.''
+  Two points I want to make briefly. It says the bill misses a chance 
+to reform the medical payment system to focus it on paying for quality 
+care, not just care for our seniors. And, second, given limited funds, 
+the DLC argues that the bill should have targeted and exclusively done 
+this for the lowest income seniors and those seniors with the highest 
+drug costs. Unfortunately, it did a lot more than that.
+  I have been moved in recent days by the complaints from cancer 
+patients and AIDS patients and their families and advocates and 
+psychiatric patients and their families and advocates who are convinced 
+that the restricted list of drugs covered by Medicare, the so-called 
+formulary--restricted as compared to what they are receiving now under 
+Medicaid or under their retirement plans--will limit, ultimately, the 
+lifespan of themselves or their loved ones.
+
+[[Page S15684]]
+
+  The American people know, as I have heard their calls, that something 
+is wrong with the bill that promises instant relief but does not help a 
+single senior really until 2006.
+  Would you buy a drug with that kind of lag time? In fairness, there 
+is at least one good thing to say about that delay. It means that when 
+another President comes to occupy the Oval Office early in 2005, he can 
+set about fixing the bill, if it passes before it goes into effect.
+  The proponents of this Medicare prescription drug bill have, in my 
+opinion, tampered with America's seniors.
+  The PRESIDING OFFICER. The Senator's time has expired.
+  Mr. LIEBERMAN. I ask unanimous consent for the 1 minute that Senator 
+Dodd did not use. He delegated me to have that minute.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. LIEBERMAN. Proponents of this prescription drug bill have 
+tampered with America's seniors. They have broken the seal on the 
+compromise we had reached over the summer, emptied the contents of the 
+legislative bottle, slipped in what I believe are a couple of poison 
+pills, and put it back on the shelf for us to buy. America's seniors 
+are not buying it. They know what is in the bottle. We shouldn't buy it 
+either. I cannot and will not vote for this bill. I urge my colleagues 
+to do the same.
+  I yield the floor.
+
+
+               The Medicare Prescription Drug Legislation
+
+  Mr. FEINGOLD. Mr. President, I cannot, in good conscience, vote for 
+cloture and I intend to vote against this bill. With reservation, I 
+voted in the favor of the Senate Medicare prescription drug bill. I 
+felt the Senate bill, though flawed, brought us closer to offering 
+seniors the universal prescription drug benefit that they needed and 
+deserved. My hope was that the problems in the bill could be fixed in 
+conference. The bill that has emerged from the House-Senate conference, 
+however, does too much harm to the overall Medicare program.
+  We need to modernize Medicare by providing beneficiaries with a 
+prescription drug benefit. But just because we need a bill creating a 
+Medicare prescription drug benefit, does not mean we need this bill. I 
+believe that this bill provides little help for Medicare beneficiaries 
+and takes too many risks with the overall Medicare program, and I am 
+not willing to take those risks.
+  One of the things that I am most concerned about with respect to this 
+bill is the lack of true cost containment. If we are to ensure that 
+Medicare remains solvent in the years to come, especially after adding 
+a new $400 billion prescription drug benefit, we need to make sure that 
+we take strong measures to keep the cost of Medicare down. This is 
+especially important given the number of baby-boomers who will soon be 
+enrolling in Medicare. Although this bill came in under the budgeted 
+$400 billion, because it fails to make any real effort to bring down 
+the skyrocketing prices of prescription drugs, the true cost of this 
+bill is likely to surpass what has been budgeted for it. This is 
+fiscally irresponsible, and we cannot put Medicare in financial 
+jeopardy by ignoring the impact of rising health care costs on the 
+overall Medicare program.
+  I am also greatly concerned by the efforts included in this bill to 
+make Medicare a private, managed care program. This bill includes $12 
+billion in additional subsidies to encourage private insurance 
+companies to offer managed care plans under Medicare. The bill also 
+includes a demonstration project, which could affect up to 25 percent 
+of Medicare beneficiaries, that may cause them to pay more in premiums, 
+should they decide to stay in traditional Medicare. Those who cannot 
+afford these higher premiums will be forced to choose a private plan, 
+which may limit their access and choice of doctors and other providers. 
+Seniors should not be forced to enroll in private plans simply because 
+they cannot pay more to stay in traditional Medicare.
+  One of my greatest concerns is how this bill will impact 
+Wisconsinites. While providing, at best, a minimal prescription drug 
+benefit for some, the bill will make others worse off than they 
+currently are. It is estimated that, because of this bill, 60,000 
+retirees in Wisconsin will lose the health insurance they currently 
+have from their employers. Over 110,000 of poor, disabled or elderly 
+Wisconsinites who currently pay nothing for their prescription drugs 
+will now face increased payments for their prescription drugs because 
+of this bill. This bill will also drive up costs for the State, in a 
+time of fiscal crisis, because Wisconsin will lose its ability to 
+negotiate drug costs and will face increased administrative costs.
+  There are some who will benefit because of this bill. Due to 
+subsidies, the tilted playing field toward private insurance plans, and 
+the lack of any cost containment on prescription drug prices, this bill 
+will be a windfall for pharmaceutical and insurance companies. All we 
+have to do is take a look at how the stocks of pharmaceutical companies 
+and insurance companies soared recently in response to this bill. While 
+these selected industries will profit, however, retirees and many low-
+income Medicare beneficiaries will suffer.
+  I am truly disappointed that I cannot support this bill, because 
+there are some good things about it. I am pleased that the provisions 
+that will bring us closer to having fairness in the Medicare 
+reimbursement system were included in the final conference report. I 
+have fought for a fairer share of Medicare dollars for states like 
+Wisconsin for years. I am proud to have authored the amendment that 
+passed in the Budget Committee earlier this year, which helped make the 
+inclusion of Medicare fairness provisions in this bill possible. These 
+particular provisions will help reduce the gross inequity in the 
+division of Medicare dollars across the country.
+  But, on balance, I cannot vote for this bill because of the negative 
+impact it will have on the Medicare program. The harm this bill does to 
+Medicare and those who depend on it outweighs the benefits. Instead of 
+working to privatize Medicare, Congress needs to go back to the drawing 
+board and create a real Medicare prescription drug benefit without 
+undermining the Medicare system itself.
+  The PRESIDING OFFICER. The Senator from Iowa.
+  Mr. GRASSLEY. Mr. President, I yield 6 minutes to Senator Breaux.
+  The PRESIDING OFFICER. The Senator is recognized for 6 minutes.
+  Mr. BREAUX. Mr. President, I thank the chairman of the committee.
+  We have now come to the time of decision with regard to whether we 
+are going to have the capacity to, in fact, reach a compromise on one 
+of the great issues of the day; that is, whether the Congress has the 
+political courage and political will to set aside partisan differences 
+and to allow both sides to come together and reach agreement. We can 
+argue about which party benefits from a Medicare reform bill and which 
+party will suffer, but the real issue is not whether the Democratic 
+Party or the Republican Party wins or whether the President gets to 
+sign a bill that reforms Medicare in the Rose Garden. The real question 
+before this institution on both sides of the aisle should be whether 
+for once we can come together and craft a piece of legislation that 
+creates a program that is substantially better than the 40 million 
+seniors currently have under Medicare.
+  When Medicare was created in 1965, it was bipartisan. It was a 
+change. Some say we should not change Medicare. I would argue that 
+Democrats have never feared change. In 1935, when we wrote the Social 
+Security Program under Franklin Roosevelt's leadership, Democrats 
+changed the status quo. When we led in 1965 the effort to provide 
+medical assistance for our Nation's seniors, we challenged the status 
+quo. We stood up for change and created a new program. Today, over 38 
+years later, we have the opportunity to once again change a program 
+which has served seniors well but not nearly as well as they deserve. 
+Democrats should not fear that type of change.
+  Medicare today, on average, does not cover 47 percent of the average 
+senior's health care costs in this country. Not one of us in this 
+institution--our employees, Members of Congress--has health care 
+insurance that is that deficient in what it does not cover. Forty-seven 
+percent of those costs have to be borne by the senior citizen 
+individually or, if they do not have enough money, by their children or 
+their grandchildren or, if they become so poor,
+
+[[Page S15685]]
+
+they are put into the State Medicare Program for the poorest of the 
+poor. That is unacceptable. That is not in keeping with the greatness 
+of this Nation, to have a health care program for seniors that is that 
+deficient.
+  This institution cannot let the perfect be the enemy of the good. 
+This bill is not perfect, but this bill is good. We cannot let 
+political pundits on both sides of the aisle who try to dictate what 
+our choices are say, well, let's pass a Republican-only bill so that we 
+can blame the failure of its passing on the Democrats. Neither can we 
+allow Democratic political pundits to say to us we should not pass this 
+bill for the reason that it would allow the President of the United 
+States to sign it in the Rose Garden and that would be a political 
+benefit for him.
+  If we cannot take good legislation and pass it and both claim credit 
+for it, then, quite frankly, we should be doing something else. Good 
+government is good politics. This is good government. This is a good 
+bill.
+  There are two different approaches to solving health care. Some of my 
+friends on the Republican side would say: The Government should have 
+nothing to do with it. The private sector should do everything, keep 
+the Government out of it, and we can design a program with the free 
+enterprise system that will work just fine.
+  Unfortunately, there are some on my side who would say: No, the 
+Government has to do everything. Government would have to do it all. 
+The private sector cannot be involved at all.
+
+  Both of those approaches are incorrect. The best way to solve health 
+care problems is to do what this bill does; that is, to combine the 
+best of what government can do with the best of what the private sector 
+can do and come up with legislation that says: Yes, the Federal 
+Government can supervise it but not micromanage it. Yes, the Federal 
+Government can help pay for it through the tax system--and this bill 
+does that--but the private sector needs to be involved as well. The 
+private sector can bring about innovation. They can come up with new 
+ideas and new concepts faster than we can in the Congress and in the 
+Federal bureaucracies here in Washington. The private sector can bring 
+about a degree of competition which is sorely lacking under the current 
+micromanaged system with 133,000 pages of rules and regulations. That 
+does not allow innovation or competition. That is one of the reasons 
+the program as we know it today, as good as it is, can be made a lot 
+better.
+  The issue for our Nation's seniors is not just living longer lives; 
+it is also about living better lives. For the first time, seniors will 
+know that when they need prescription drugs, they will be available. 
+Four hundred billion dollars will set up a structure where they will 
+have insurance that covers prescription drugs, just as in 1965 when we 
+made changes that said the Federal Government will help provide 
+insurance to cover hospitalization, we said that for the first time the 
+Federal Government will help with a program that will provide insurance 
+coverage for doctors.
+  This is a good program. We should not fear change. This is a major 
+step in the right direction.
+  The PRESIDING OFFICER. The Senator's time has expired.
+  The Senator from Maryland.
+  Ms. MIKULSKI. Good morning, Mr. President. I ask unanimous consent to 
+use such time as necessary to complete my statement.
+  The PRESIDING OFFICER. The Senator is recognized for up to 9 minutes.
+  Ms. MIKULSKI. Mr. President, this was a day I had always looked 
+forward to, a day where the Senate would be voting on a prescription 
+drug benefit. I have devoted my life to the advocacy of senior citizens 
+and to standing up for ordinary people to make sure they could make 
+sure that government was on their side when they needed it, when they 
+were at risk. But today I come to this vote with indeed a heavy heart.
+  The bill the Senate is voting on today is a hollow promise for a 
+prescription drug benefit for seniors. This bill talks big but delivers 
+small. It promises prescription drugs to seniors yet it will create a 
+skimpy benefit for the middle class, cause 2.7 million seniors who 
+already have drug coverage from their employer to lose their coverage, 
+set up the stage to force seniors into HMOs which means seniors could 
+lose the doctors of their own choosing, provides lavish subsidies to 
+insurance companies, creates tax dodges for those making over $250,000, 
+while doing absolutely nothing to stop the soaring cost of prescription 
+drugs.
+  When I voted for a bill in June, it was a modest but genuine 
+bipartisan effort. I believed it was a start. For years Congress had 
+talked about Medicare. But talk, talk, talk; when all was said and 
+done, more got said than got done. And you can't talk your way out of 
+diabetes; you need insulin. You can't talk your way out of high 
+cholesterol; you need Lipitor. So I thought Congress should move on. 
+But when I voted for the bill, I said that was as far as I would go. I 
+said when the plan came back, if it helped the insurance companies 
+instead of seniors, goodbye to my vote. I said if it increases costs 
+for seniors, say goodbye to my vote. And if it limits benefits, say 
+goodbye to my vote. On all three of these points, this bill falls and 
+fails.
+  I am going to say that people who say this is a first step--well, it 
+is a step in the wrong direction. If you take the wrong step, you can 
+fall flat on your face. Some believe it is the best we can do. I don't 
+believe that. I believe we can do better, we can do better now, and we 
+can do better next week. We are 45 weeks away from adjourning from this 
+Congress. We have 45 weeks to do a bill that will benefit seniors, 
+protect seniors, protect the integrity of the Federal budget and be 
+able to get the job done.
+  Seniors don't do better under this bill. It is skimpy. You have a 
+premium of $420 a year, a deductible of $250. You pay $670 a year. When 
+I sat and figured it out, you have to spend $1,000 to get $1,000 worth 
+of drugs. Let me tell you what bothers me also. When you spend up to a 
+drug cost of $2,250, then the Government says the gap between $2,250 
+and $5,100--your Government says we cannot afford to help you. That is 
+a $2,850 coverage gap. This is while you are going to continue to pay 
+your premiums. You keep on buying your drugs. Your Government says it 
+cannot help you. While you are paying that premium and paying for your 
+drugs, the Government will keep paying those HMOs. This bill leaves too 
+many seniors in the coverage gap.
+  In my home State, 200,000 people will fall in this coverage gap. Some 
+call it a donut. I call it a poison pill.
+  I have looked at what it means for those who already have 
+prescription drug benefits. I truly believe that 400,000 Marylanders 
+will be at risk from losing their private plans--whether it is from a 
+Government employer or a private sector employer. I am talking about 
+factory workers and teachers. I am talking about secretaries and 
+firefighters. This bill could dilute or even destroy these benefits 
+over a lifetime.
+  Often, workers took these benefits instead of pay raises. They chose 
+the promise of a secure health retirement instead of increased pay. I 
+am very concerned that they could lose their benefit. Employers are 
+already being crushed under the weight of health care costs.
+  In 1998, 48 percent had prescription drug benefits, and now only 28 
+percent have those employer-sponsored health care coverage. Now, why is 
+this a problem also?
+  The other very troubling provision in this bill is it has an absolute 
+prohibition on allowing the Government to use its buying power to 
+negotiate lower prices. This bill does nothing to save money on drug 
+costs. In fact, it does the opposite. This bill prohibits the 
+Government from negotiating lower prices. Page 54 of this bill--read 
+it.
+  But, we already do it. I am the ranking member on the VA-HUD 
+Appropriations Committee. I know what the VA does. The VA uses its 
+buying power to negotiate with drug companies for lower prices. That 
+means we get a 25-percent reduction. It is not price control. It 
+doesn't shackle innovation. It is good management. By the VA 
+negotiating those prices, it is good for the VA to be able to afford to 
+provide drugs, and it is good for the veteran to be able to afford to 
+buy their drugs. Why can't we do this everywhere?
+  I will tell you, while we give these subsidies, while we have the 
+skimpy benefit, it provides lavish benefits to insurance companies and 
+HMOs; $12 billion in subsidies to private insurance plans to subsidize 
+their participation, forcing them into HMOs in the future--$12 billion. 
+What is the consequence? It
+
+[[Page S15686]]
+
+means if you are forced into an HMO, you are going to lose your doctor. 
+You will get the doctor that a bureaucrat tells you you should have 
+rather than the doctor you want to have.
+  It also creates tax dodges for those making over $250,000, the so-
+called health savings account--another $6 billion, which they should be 
+paying taxes on. But oh, no, it is one more gimmick, a tax dodge. If 
+you take that $12 billion plus the $6 billion, it would give us $18 
+billion to close the coverage gap. Instead, we have tax dodges and 
+bonuses to insurance companies rather than a better benefit for the 
+seniors.
+  I know what some seniors are asking: Barb, why are you going to vote 
+against this bill? I need help now. I need a prescription drug coverage 
+now.
+  Senior citizens in Maryland have told me that they don't even buy 
+green bananas. They don't want to wait. I want to ease your worry about 
+prescription drug costs. I want to give you something real. For the 
+next 2 years, all you are going to get is a 15-percent discount card, 
+while insurance companies and HMOs are going to get $12 billion from 
+the Government, and there will be this tax dodge for those making over 
+$250,000.
+  To the seniors of Maryland, I am going to vote against this bill. I 
+am not voting against you. I am voting for you so that you have the 
+benefit that you need. We have an affordable program for the U.S. 
+Government. We can hold our heads up high, but know that when my name 
+is called, I am going to vote no on this bill and, yes, that we can do 
+it better, and we can do it better tomorrow.
+  The PRESIDING OFFICER. The Senator from Nevada is recognized.
+  Mr. REID. Mr. President, on our side, I think the time we have 
+allocated--we have a little time left, is that true?
+  The PRESIDING OFFICER. Forty minutes.
+  Mr. REID. I have allocated a lot of that time. I ask unanimous 
+consent that Senator Edwards be given 3 minutes under our control.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Who yields time?
+  The Senator from Wyoming.
+  Mr. THOMAS. I yield 5 minutes to the Senator from Pennsylvania.
+  Mr. SANTORUM. Mr. President, I rise in support of this conference 
+report. I congratulate all those who have worked hard on it. It is a 
+bill on which, I have to admit, I have mixed emotions. There are a lot 
+of things in the bill I like and some things that I don't like.
+  One of the criticisms I have heard leveled against this bill is that 
+it does harm to those who are in the Medicaid population, the very low-
+income, under 100 percent of poverty. The interesting thing is that 
+some suggested it does harm because we have made people eligible for 
+Medicaid now eligible for Medicare. Those are the dual eligibles.
+  One of the reasons we are doing so is because there are many on the 
+other side of the aisle who wanted dual eligibles to be covered under 
+Medicare. The copayment for those dual eligibles is the same as under 
+Medicaid. It is $1 for generics and $3 for name brand drugs. That is 
+hardly a very high cost for prescription drugs. And there are waivers 
+of those copayments for people who are in nursing homes and have other 
+sources of coverage. So what we have done is something that many on the 
+other side wanted us to do, which is take people out of Medicare and 
+put everyone over 65 in one program. That makes some sense, but it is 
+an enormous cost to the Federal Government. We are picking up more of 
+the cost of Medicaid now and that money out of the drug benefit had to 
+come from somewhere.
+  So I argue that to accomplish one policy goal, we had to give up some 
+subsidies to other seniors. But, clearly, it was a win by many of the 
+Democrats who argued--Senator Baucus and others--that they had to have 
+all dual eligibles covered. It is something they wanted. We have done 
+that. I hope we will understand that the reason some of the money has 
+been shifted to lower income was to accomplish what the other side 
+wanted to accomplish.
+  I also say that, yes, I agree the standard benefit is not the most 
+generous benefit out there. But what everybody here agreed to last year 
+was $350 billion. This year it was $400 billion. I think everybody 
+agreed that $100 billion should be targeted at two groups of people--
+lower income individuals and high users of drugs. When you do that, and 
+you provide $1 and $3 copays for people over 100 percent of poverty, 
+and up to 150 percent of poverty $3 and $5 copays, what you are talking 
+about is a very expensive program for low-income individuals.
+  Then, at the other end, you have the catastrophic program that picks 
+up 95 percent of the cost of drugs after $3,600 is spent out of 
+pocket--high users, sick people. We should be helping them with drug 
+costs. When you throw those two pots in, there isn't a lot left for the 
+standard benefit.
+  It was the idea, I think, that everybody here agrees that we need to 
+focus the $400 billion on those in most need, whether it is need 
+because of sickness or need because of financial condition. This bill 
+does that. I would argue, sure, I think all of us would like to provide 
+a more generous benefit. You have to remember, the rest of the people 
+we are talking about--about 80 percent of them--have prescription drug 
+coverage already. What we are allowing is for a lot of those people to 
+have the drug coverage they have in addition to this being wrapped 
+together to provide a much healthier benefit than just the basic 
+benefit provided under this bill.
+  Seniors are not going to be just with this plan. In fact, the average 
+senior in this country is going to have a much more enhanced plan 
+available to them than what they have today as a result of this 
+coverage.
+  I say to my conservative friends who are expressing concern about 
+this bill, the most important thing in this bill, from my perspective, 
+for conservatives is this plan allows for health savings accounts. 
+Fundamentally, what health savings accounts will do is eventually 
+change Medicare--not today, not even 5 or 10 years from now, but over 
+the long term, once health savings accounts become what I believe they 
+will become, which is the method of choice that the vast majority of 
+people in this country will do in the private sector. Health savings 
+accounts affect people under 65, the non-Medicare population. This will 
+be a very popular plan in which millions of Americans will participate, 
+and it will fundamentally change the insurance market in this country.
+  One thing we have seen from Medicare reform--if you want to call what 
+we have done over the past 40 years Medicare reform--is it follows the 
+private sector. A 1965 Blue Cross plan was the original Medicare bill 
+because that was the standard state of the art in 1965. In the 
+nineties, we changed Medicare to allow for HMOs. Why? Because the 
+private sector adopted HMOs. Now we are doing PPOs. Why? Because the 
+private sector moved from HMOs to PPOs, and in the future we will move 
+to PPOs and health savings accounts in Medicare, and that, I believe, 
+will be the long-term salvation of that program.
+  The PRESIDING OFFICER (Mr. Enzi). The Senator from Wyoming.
+  Mr. THOMAS. Mr. President, my understanding is that the Senator from 
+New York will be next. Following that, because we have taken shorter 
+times, we will have two speakers in a row--the Senator from Arizona and 
+the Senator from Texas.
+  Mr. REID. Mr. President, if I may speak briefly, I say through the 
+Chair to the senior Senator from New York, we have been taking 
+significantly longer than the majority on speeches. They should get two 
+speakers to make up for what we have been taking on our side. Senator 
+Clinton is next in the order.
+  The PRESIDING OFFICER. The Senator from New York.
+  Mrs. CLINTON. Mr. President, there are a number of significant issues 
+that have been raised in this debate over the last 48 hours. I remind 
+our colleagues and our seniors who may be following this debate with 
+some interest that we have had this bill--this gigantic bill--for 4 
+days.
+  This is one of the most significant pieces of legislation that will 
+come before this Congress certainly this year, but I would argue for 
+many years to come. It is a wolf in sheep's clothing. We remember the 
+old fairy tale about the wolf that couldn't get into the hen house or 
+into the shepherd's enclosure to try to go after the hens and go after 
+the sheep and kept trying and trying.
+  Finally, the wolf figured out that a frontal assault was just not 
+going to work. People would see the wolf sneaking up on the hen house, 
+sneaking up
+
+[[Page S15687]]
+
+behind the sheep, and they would scare them off and try to get him 
+before he got the hens and the sheep.
+  The wolf got really smart. The wolf found some poor old sheep that 
+hadn't quite made it back from the hills and, unfortunately, killed 
+that sheep, got that sheepskin, and snuck in. When people saw it moving 
+across the ground, they thought: That's just an old sheep.
+  Lo and behold, the wolf got to the hen house and the sheep, and that 
+poor old farmer didn't have any hens or sheep left by the time the wolf 
+got done.
+  Make no mistake, that is what is going on here. You can dress it up, 
+you can talk about how significant a benefit it is going to turn out to 
+be, how we are modernizing and changing Medicare for the 21st century, 
+but remember that fairy tale. Fairy tales are rooted in ancient folk 
+wisdom and experience, and what we have here is just a classic wolf in 
+sheep's clothing.
+  There are many reasons to oppose this bill, and my colleagues have 
+been going through them one after another. I think the bottom line is, 
+No. 1, this bill does very little of what it actually advertises doing. 
+It advertises it is going to be a sea change--a positive sea change--
+for seniors, and that is not the case.
+  We have been fighting over prescription drug benefits for seniors for 
+years. A decade ago, when I was working on behalf of the Clinton 
+administration with respect to health care, we included a drug benefit. 
+Some of you may remember that debate. That debate went down, and it 
+went down for many reasons, but one was that it was a 1,300-page bill--
+a bill that would guarantee health insurance to every American, a bill 
+that would control prices so that we could actually afford health care 
+for every American, and people said: Oh, my goodness, that is such a 
+long bill; why, look at what the Clintons are trying to do. They are 
+trying to change health care with that gigantic bill.
+  Remember, we produced that bill with a thousand people involved in 
+the process. We vetted it with everybody. We brought it to the Capitol. 
+It was done in the light of day. We produced a bill and then, of 
+course, all the special interests got everybody confused about what was 
+in the bill, and the bill went down even though, as it was going down, 
+public opinion surveys were asking Americans: What is it you want in a 
+bill?
+  They said: We want guaranteed affordable health care coverage and the 
+ability to pick our doctor--all of which was in the bill.
+  It didn't do me any good to keep saying it because $300 million had 
+been spent by the special interests for TV ads, radio ads, and 
+newspaper ads--the whole 9 yards. Oh, my goodness, the bill was so big 
+and so confusing and all these terrible things were going to happen.
+  Four days ago--4 days ago--we got this bill. I am looking through 
+this bill trying to figure out, my goodness, how long it is. I know it 
+is awfully heavy. I think it is about 1,200 pages. That is just to do 
+something to Medicare. It is not to guarantee health insurance for 
+children and working people. It is not to guarantee health insurance 
+for people 55 to 65, who retired and who start, as you do when you get 
+to 55, to have health kinks and problems and are not eligible for 
+Medicare. It doesn't do anything for that.
+  It is a 1,200-page bill which we received 4 days ago, and I can 
+guarantee you there are disputes on the floor of the Senate as to what 
+is in it and what it means. Why is that? Because we haven't had a 
+chance to examine and analyze it, and if we haven't, with our staff and 
+our efforts over the last 4 days, I know the American people, 
+particularly our seniors, haven't either.
+  There are many provisions in this bill that really need to be brought 
+into the light of day. I will be voting against cloture, which is a 
+parliamentary term to try to cut off debate, because I don't think we 
+have had enough debate yet. I don't want anybody being surprised about 
+what is really in this bill because there are going to be a lot of 
+surprises.
+  The promise of reimporting drugs from Canada--which is really 
+important in a place such as New York because we border Canada. A lot 
+of my seniors from Watertown, Massena, or Plattsburgh go across the 
+border and get those cheaper drugs. In this bill, that is going to 
+continue to be a problem and a prohibition in reality, if not legally, 
+because drug companies are going to be given the go-ahead to basically 
+violate antitrust rules so they can cut back on the amount of drugs 
+they send to Canada.
+  I don't blame the drug companies. They have a captive market in our 
+country. Our tax dollars do the research at our great universities and 
+research labs. Our tax dollars support the National Institutes of 
+Health. Our tax dollars create the conditions in which drugs are given 
+clinical trials to determine whether they help or hurt. We do all the 
+work for the entire world for determining the efficacy of drugs, 
+quality, and safety, and then other countries, such as Canada, Europe, 
+and other places, bargain with the drug companies.
+  They say, OK, we have a big market. We have millions of people. It is 
+kind of like Sam's Club, only think of it as the Canadian club or the 
+European Union club. They bargain with these drug companies and they 
+drive the prices down because they are going to buy in volume.
+  Should we not have an Uncle Sam's Club? Should not Uncle Sam be able 
+to bargain with these drug companies? Apparently that is not what the 
+backroom negotiators and writers of this legislation wanted because in 
+the most wonderful example of Orwellian language, on page 53 of this 
+bill, under a title called noninterference--I love that--it says in 
+order to promote competition--there are magic words around here. It is 
+said that competition is going to be promoted, while they create a 
+monopoly, while they end antitrust, because they are setting up all 
+kinds of special privileges for special interests. Nevertheless, we 
+just hope nobody notices that.
+  So in order to promote competition under this part and in carrying 
+out this part, the Secretary, No. 1, may not interfere with the 
+negotiations between drug manufacturers and pharmacies and PDP 
+sponsors--those are drug plans--and may not require a particular 
+formulary--that is the list of the drugs one can get--or institute a 
+price structure for the reimbursement of covered drugs.
+  Basically, what this means is the lid is off. Not only can we not get 
+the drugs from Canada anymore because our drug companies will say to 
+the poor Canadians, keep letting your pharmacists send them across the 
+border and we are going to not send the drugs for the Canadian people. 
+But we cannot even bargain. We cannot have an Uncle Sam's Club. We 
+cannot get the volume discounts.
+  We have to look at who is doing what in this debate to figure out 
+where the sheep are, where the hens are, and where the wolves are. One 
+of the biggest wolves who has been after Medicare for as long as he has 
+been in public life is our old friend, Newt Gingrich, former Speaker of 
+the House, when he called for Medicare to wither on the vine.
+  Well, guess who showed up to try to whip those House Republicans in 
+line to vote for this bill, which is why they had to leave the vote 
+open for more than 3 hours, the longest time they had ever had to leave 
+a vote open because basically, there was the wolf in sheep's clothing 
+going up to the House Republicans and saying: Do not worry, we are 
+going to say all of these good things about this bill, but just wait 
+until we get our hands on it; just wait until we get into that hen 
+house.
+  I do not blame them if that is what they believe. Nevertheless, we 
+are the ones who are going to be paying the price.
+  I ask unanimous consent for an additional 2 minutes.
+  The PRESIDING OFFICER. That will be 2 minutes off the Democratic 
+side. Since there is no one from the Democratic side objecting, it is 
+so ordered.
+  Mrs. CLINTON. I will put a chart up that gives a short summary for 
+any American, and particularly for any senior citizen, watching. This 
+bill sacrifices seniors' interest to special interests.
+  Seniors need lower drug prices. Forget it. The drug industry wants 
+higher profits.
+  Seniors need predictable premiums. Forget it. Managed care wants the 
+flexibility to raise their rates even in the middle of the year.
+
+[[Page S15688]]
+
+  Seniors need a choice of drugs. Forget it. The drug industry wants a 
+restrictive formulary that pushes their brands.
+  Seniors need to keep their retirement benefits. Forget it. The 
+private plans want a $12 billion slush fund so we are going to lose 
+retiree health care.
+  Seniors want to stay in Medicare. Forget it because what is going to 
+happen is that Medicare is going to get increasingly the health care 
+plan for the sickest and the oldest of our seniors, which will make it 
+more expensive. In this bill we are going to even see a constriction on 
+the nondrug benefits for Medicare.
+  So one has to really watch what goes on around here. They have to 
+follow it carefully. This is a bill that is bad for seniors, bad for 
+America, and I hope my colleagues will stand against it.
+  The PRESIDING OFFICER. The Senator from Wyoming.
+  Mr. THOMAS. I yield 5 minutes to the Senator from Arizona.
+  The PRESIDING OFFICER. The Senator from Arizona.
+  Mr. McCAIN. Mr. President, we have before us a conference report that 
+represents one of the biggest expansions of the Medicare entitlement 
+program and offers enormous profits and protections for a few of the 
+country's most powerful interest groups, paid for with the borrowed 
+money of American taxpayers for generations and generations to come.
+  This legislation reminds me of the ancient medieval practice of 
+leeching. Every special interest in Washington is attaching itself to 
+this legislation and sucking Medicare dry.
+  We do not need leeching. What we need is reform. On top of the 
+existing $7 trillion accumulated deficit, which translates into $24,000 
+for every man, woman, and child in the United States, this year's 
+current deficit is quickly approaching a half trillion dollars. Adding 
+a new unfunded entitlement to a system that is already financially 
+insolvent is so grossly irresponsible that it ought to outrage every 
+fiscal conservative.
+  According to the Congressional Budget Office, this package is 
+estimated to cost just over $400 billion over 10 years. If one believes 
+that is the maximum we will spend over 10 years, I have some beach 
+front property in Gila Bend to sell you. Four hundred billion dollars 
+is merely a down payment.
+  One important number not frequently mentioned is the estimated 
+increase this new package will add to existing liabilities. The Office 
+of Management and Budget estimated that current unfunded liabilities of 
+Medicare and Social Security are $18 trillion. That is the current 
+unfunded liabilities. What is absolutely astounding is that this new 
+benefit will add an estimated $7 trillion in additional unfunded 
+liabilities. By the year 2020 Social Security and Medicare, with a 
+prescription drug benefit, will consume an estimated 21 percent of 
+income taxes for every working American.
+  I think we ought to be honest with the American people. Passing this 
+package without implementing the necessary reforms to ensure that the 
+Medicare system is solvent over the long term is rearranging the deck 
+chairs on the Titanic. There is no one in America who is reliable who 
+will not say that the Medicare system is going to go broke. The 
+question is not if. The question is when, not what.
+  To save this system we should enact true free market reforms and 
+bring Medicare into the 21st century. Unfortunately, the minor reforms 
+in this bill do not even begin to offset the burden added by the new 
+drug benefit. With future generations of American taxpayers funding the 
+purchase of prescription drugs under Medicare, we have an obligation to 
+ensure some amount of cost containment against the skyrocketing costs 
+of prescription drugs. Unfortunately, however, this package explicitly 
+prohibits Medicare from using purchasing power to negotiate lower 
+prices with manufacturers.
+  How is that possible? The Veterans' Administration, the VA, and State 
+Medicaid Programs use market share to negotiate substantial discounts. 
+It is prohibited in this bill. The taxpayers should be able to expect 
+Medicare, as a large purchaser of prescription drugs, to be able to 
+derive some discount from its new market share. Instead, taxpayers will 
+provide an estimated $9 billion a year in increased profits to the 
+pharmaceutical industry.
+
+  Prescription drug importation is another lost opportunity for cost 
+containment. American consumers pay some of the highest prices in the 
+developed world for prescription drugs and, as a result, millions of 
+our citizens travel across our borders each year to purchase these 
+prescriptions. In all, Americans spend hundreds of millions of dollars 
+on imported pharmaceuticals, not because they do not want to buy 
+American but because they cannot afford to.
+  This conference report contains language on drug importation. 
+However, it has been successfully weakened to the point of guaranteeing 
+that implementation will never take place.
+  There is a good provision as far as generic drugs are concerned, but 
+this package is not only a bad deal for American taxpayers, I believe 
+seniors will also find it not worth the price.
+  Although this conference report allocates close to $80 billion in 
+subsidies to corporations to encourage them not to drop or reduce 
+benefits, the CBO estimates that approximately 20 percent of seniors 
+will lose their current employer-sponsored coverage.
+  I am concerned we are about to repeat an enormous mistake. I was here 
+when we enacted Medicare catastrophic in 1988, and I was here 1 year 
+later fighting to repeal it. We cannot let political shortsightedness 
+blind us from the long-term fiscal implications of this package.
+  The PRESIDING OFFICER. The Senator from Wyoming.
+  Mr. THOMAS. I yield 5 minutes to the Senator from Texas.
+  Mrs. HUTCHISON. Mr. President, I ask unanimous consent that I be told 
+in 3 minutes because I intend to leave 2 extra minutes to the Senator 
+from Utah.
+  The PRESIDING OFFICER. Three minutes remaining or use 3 minutes?
+  Mrs. HUTCHISON. After I use 3 minutes. Thank you.
+  Mr. President, while the medical community has ridden the 
+technological wave of the future, pushing the envelope in research into 
+new pharmaceuticals, treatments and life-saving measures, Medicare has 
+been stuck floundering in the 20th century. The venerable program, 
+designed to provide healthcare for the elderly and the disabled, has 
+failed to meet all of the needs of those it set out to serve.
+  After years of talk, Congress is poised to enact the most sweeping 
+change for America's seniors in nearly 40 years. We have the 
+opportunity to bring Medicare up-to-date and take advantage of the 
+incredible advances in prescription drugs.
+  Pharmaceuticals are one of the miracles of modern medicine. Ailments 
+that traditionally required an expensive in-patient hospital stay and 
+invasion surgery can now be treated with medication. But most Medicare 
+recipients wouldn't know it. While the government pays for costly heart 
+surgery, it currently will not pay for the preventative drugs that may 
+have precluded the need for an operate in the first place.
+  An estimated 9.9 million Medicare beneficiaries do not have private 
+prescription drug coverage, almost 600,000 in Texas alone. Some seniors 
+who could lower their cholesterol by ingesting a simple pill like 
+Lipitor have to pay out their pockets for the drug which retails at 
+$108 per bottle, placing this simple solution out of their reach.
+  The bill before Congress would give America's seniors access to a 
+prescription drug benefit for the first time. Beneficiaries would pay a 
+$35 monthly premium and a $250 deductible, after which they would pay 
+25 percent of drug costs between $275 and $2,250 and 100 percent 
+between $2,250 and $3,600. Costs over that threshold would require an 
+average copay of $2 for generic drugs and $5 for brand name drugs, or 5 
+percent of the total drug cost depending on the plan.
+  Until these reforms are in place, a prescription drug discount card 
+offering savings of up to 25 percent will be available in 2004, 
+providing some relief immediately.
+  This measure also offers additional and unprecedented assistance to 
+those with low incomes. Medicare beneficiaries at the poverty level and 
+below will pay no premiums or deductibles and will have nominal cost 
+sharing responsibility, with copays of $1 for generic drugs and $3 for 
+other pharmaceuticals. Those at 135 percent of the poverty level, or 
+$12,123 annually for
+
+[[Page S15689]]
+
+individuals, will not pay premiums or deductibles and will have co-
+payments of no more than $5. Beneficiaries at 150 percent of the 
+poverty level, or $13,470 annually, will have a sliding scale subsidy 
+for premiums, a $50 deductible and $2 and $5 co-pays. These changes 
+will mean more than 680,000 low-income Texans will pay no more than $5 
+per prescription. Furthermore, with the Federal Government providing 
+drug coverage for those individuals who qualify for both Medicare and 
+Medicaid, my State will save $1.7 billion over an eight-year period.
+  Though much of the attention surrounding Medicare reform has focused 
+on the prescription drug benefit, there are a number of other elements 
+that are important. In the end, the legislation is a good compromise 
+and addresses the fundamental problems.
+   One significant element is choice. This plan provides access to a 
+broad array of healthcare options, similar to what most working 
+Americans already enjoy. Seniors can stay in traditional Medicare, add 
+a prescription drug plan or choose an HMO or PPO that includes a 
+prescription drug plan. Unlike the current Medicare+Choice plans, which 
+have been pulling out of communities, the bill guarantees all seniors 
+will have access to an HMO or PPO plan.
+   It also has provisions to encourage companies currently providing 
+healthcare to their retirees to continue offering this important 
+benefit.
+   Another important component of the bill is an increase in the 
+reimbursement rate for physicians, many of whom have stopped taking on 
+new Medicare patients. Physicians were facing a cut in March of 2004 
+and another in 2005, but this legislation not only stops the 
+reductions, it gives physicians an additional 1.5 percent 
+reimbursement.
+   Hospitals that treat a large number of illegal immigrants will 
+receive some compensation for their services--a provision important for 
+Texas hospitals and other providers.
+   Another advantage that will benefit the general population, not just 
+those within Medicare, is the creation of Health Savings Accounts, 
+which will allow individuals and families to put tax-free money into an 
+investment-type account dedicated to their medical costs. The money is 
+not taxed when withdrawn for qualified medical expenses, giving 
+Americans another tool to cover healthcare costs, such as deductibles 
+and co-payments.
+   As with any compromise, the bill is not everything I would want. I 
+advocated larger teaching hospital reimbursement levels, and although 
+the percentage is not as high as I proposed, in 2004 it increases the 
+current reimbursement rate, from 5.5 percent to 6 percent in April and 
+then to 5.8 percent in October, but it is still higher than the current 
+rate.
+   This increase means almost $13 million to Texas' teaching hospitals. 
+Every State has at least one teaching hospital, with 1100 of the 
+facilities nationwide. Teaching hospitals train nearly 100,000 
+physicians, and the Federal Government has traditionally recognized the 
+higher costs inherent in training and educating those health care 
+providers. They utilize newer technology and provide more indigent 
+care. This increase will provide some much-needed assistance to our 
+financially strapped rural and teaching hospitals.
+   Let me be clear: this bill is not perfect, but as AARP President 
+James Parkel said this week, ``Millions of Americans cannot wait for 
+perfect. They need help now.''
+   After years of talk, we are taking the first step to bring this 
+vital program up-to-date. For the first time, we can provide a 
+voluntary prescription drug benefit that offers additional assistance 
+for those who need it most and strengthen Medicare for future 
+generations.
+  I know my 3 minutes are up. I would like to add 2 minutes to Senator 
+Hatch's 5 minutes with that added 2 minutes. I urge my colleagues to 
+support this major first step.
+  The PRESIDING OFFICER. Who yields time?
+  Mr. THOMAS. Under our agreement, we will slip over to that side and 
+then Senator Hatch will be next.
+  The PRESIDING OFFICER. The Senator from Michigan.
+  Ms. STABENOW. Mr. President, without objection, I yield myself 5 
+minutes from the time of those in opposition.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Ms. STABENOW. Mr. President, we have a very important vote coming up 
+shortly on whether or not to proceed with the bill or to continue 
+working, whether or not to stop our efforts to continue to try to 
+improve this bill or to begin the clock to a final vote. Many 
+colleagues have pointed out that this is the bill--this is the bill. 
+The bottom line of all of this paperwork is that it does not take 
+effect, in terms of prescription drug coverage for seniors, until 2006. 
+So this is the bill we are asking for time to thoroughly go through, 
+line by line, and to be able to fix what does not work for our seniors.
+  We are being told we have to rush this; this is the last time we are 
+going to be able to do it; we don't have any more time to be able to 
+put this together. Yet the bottom line of all this, for seniors' 
+prescription drug help, if there is any in here--and there is a 
+little--doesn't even start until 2006.
+  I am going to be voting against the effort to stop debate and move to 
+a final vote because I believe we need to take the time to get it 
+right. I believe there are critical issues we need to fix.
+  Let me first say a positive aspect in all of this is important 
+efforts to help our rural providers, our doctors and hospitals, home 
+health agencies, and nursing homes. On Saturday I put forward a bill 
+that would actually pull out those positive provisions that are 
+critical for our providers, to vote separately on that. I believe we 
+would have, if not unanimous, overwhelming bipartisan support for those 
+efforts that help our providers.
+  While I do not believe this bill, on balance, is good at all for our 
+seniors, it is a bad deal for seniors, there are good provisions in it. 
+I hope if this bill does not go forward, we can pull those provider 
+pieces out and support them.
+  Why don't I support this bill as written? In this bill as written, 
+2.7 million retirees lose their coverage. One out of four folks who 
+worked hard during their lives, maybe have taken a pay cut here or 
+there to get good health coverage, would actually lose coverage as a 
+result of the provisions, the way this bill is written for private 
+employers.
+  Mr. President, 6.4 million low-income seniors, the folks we all talk 
+about, the folks we are desperately concerned about, who really are 
+sitting down today at the table and saying, Do I eat today or do I take 
+my medicine, they will end up paying more because of the way this is 
+changed between Medicaid and Medicare. That doesn't make any sense. It 
+is a bad deal for too many of our low-income seniors who need help the 
+most. It is a bad deal for 2.7 million folks who have private insurance 
+and will lose it. My fear is they will not just lose the prescription 
+drug coverage; they will lose their entire health care coverage.
+  To add insult to injury, this bill locks in the highest possible 
+prices in the world. It keeps drug prices high, which is why the 
+pharmaceutical industry is so strongly supporting it.
+  They changed their strategy a few years ago. They have been trying to 
+stop prescription drug coverage because they didn't want Medicare to 
+use its clout as a group purchaser to be able to get a good discount, 
+as we do for the veterans, and lower prices. They fought it, but then 
+they decided they couldn't fight it anymore because seniors are 
+desperate and we do need to do something. We are long past doing 
+something real for our seniors. So they changed the strategy. They 
+said: Let's write a bill that gets a whole bunch more customers, 40 
+million more customers potentially, and let's make sure we lock in the 
+highest prices so they can't compete; they can't lower prices; they 
+can't go to Canada or other countries where there are safe, FDA-
+approved processes right now to be able to bring drugs back across the 
+border.
+
+  That is a big deal for us in Michigan. It is 5 minutes across a 
+bridge or 5 minutes through a tunnel to be able to get lower prices--in 
+half or more. So they made sure we are not going to be able to do that 
+and they made sure we are not going to be able to negotiate for lower 
+prices.
+  What do we have in the end? We have a whole new group of customers 
+for the pharmaceutical industry who will be forced to pay the highest 
+possible prices.
+
+[[Page S15690]]
+
+  This is not a good deal for our seniors. We can do better than this. 
+People don't have to lose coverage. People don't have to pay more. 
+People don't have to be locked into the highest possible prices in the 
+world. We have time. This bill doesn't take effect until 2006 for our 
+seniors. I urge us to take the time to get it right.
+  The PRESIDING OFFICER. The time of the Senator has expired.
+  Mr. THOMAS. Mr. President, I think we have agreement we would yield 7 
+minutes to the Senator from Utah and then 5 minutes to the majority 
+whip.
+  The PRESIDING OFFICER. The Senator from Utah.
+  Mr. HATCH. It is my understanding I have 7 minutes.
+  The PRESIDING OFFICER. That is correct.
+  Mr. HATCH. Mr. President, I have listened carefully to the debate on 
+H.R. 1 during the last few days.
+  I regret to say I have heard many half-truths and misrepresentations 
+about our bill from the opponents of the legislation.
+  This simply won't stand.
+  We're reaching the point where twisted facts and wrong-headed 
+reasoning have been repeated so often that even those who know better 
+are no longer jarred to hear it.
+  As one of the conference committee members who actually wrote this 
+bill, I find this untenable, because the opposition is just scaring and 
+confusing Medicare beneficiaries.
+  The last thing any of us want is for critical decisions to be made in 
+a climate of fear or in a fog of uncertainty.
+  Yes, this legislation is not perfect. But it is good.
+  I'll tell you why.
+  First, and most important, this bill provides all beneficiaries--
+seniors and the disabled--with voluntary prescription drug coverage for 
+the first time in almost 40 years.
+  Coverage for their medications is something Utah beneficiaries have 
+sought for decades.
+  Not a day goes by that I do not receive a letter from some part of 
+Utah beseeching Congress to pass this bill.
+  Second, that coverage will be immediate. Seniors wherever they may 
+live, from St. George to Logan, from Tooele to Vernal and down to 
+Blanding and Monticello, will be able to use a new drug card to get an 
+immediate discount on their medications.
+  Third, the program is voluntary. We all know--as do the bill's 
+opponents--that beneficiaries will not be forced to join this new drug 
+program. If they are happy with the status quo, then things can stay as 
+they are. If they want to participate in the new program--it will be 
+there for them.
+  Fourth, H.R. 1 provides choice in coverage. Beneficiaries may stay in 
+traditional Medicare and elect to take a stand-alone drug plan if they 
+want one. Or they may receive their coverage through a local health 
+plan or the new regional PPO plans offered through the new Medicare 
+Advantage program.
+  How often does a Federal program offer people the range of choices 
+that this bill creates?
+  Fifth, this bill preserves retiree health coverage. Close to one-
+quarter of the spending in this bill, approximately $89 billion, is 
+dedicated to protecting retiree health benefits.
+  For the first time--and none too soon--Medicare will provide funding 
+as an incentive for employers to continue retiree health coverage. 
+Under this bill, no beneficiary will be forced to drop retiree health 
+coverage and participate in the new prescription drug program.
+  Sixth, the conference agreement is good for rural America, which has 
+gotten the short shrift under Medicare for some time.
+  We want to ensure that Medicare beneficiaries will have access to 
+quality health care, no matter where they live. We also want rural 
+providers, providers in Moab and Panguitch, providers in Price and 
+Manti, providers who dispense vital health services to beneficiaries, 
+to be properly reimbursed for their services. This legislation 
+accomplishes those important goals.
+  Seventh--as I intend to amplify later--this legislation improves the 
+Drug Price Competition and Patent Term Restoration Act of 1984, better 
+known as Hatch-Waxman. The conference agreement strengthens the 1984 
+law so it is easier for everyone, including seniors and the disabled, 
+to have timely access to less expensive, generic drugs.
+  Eighth, the Medicare agreement includes an appropriate response to 
+the question of reimporting prescription drugs into the United States.
+  While we include the provisions contained in the legislation approved 
+by the Senate, this agreement also requires the HHS Secretary to 
+conduct an extensive study that identifies the barriers to implementing 
+a drug reimportation program.
+  Many of my constituents have written, asking why they cannot use the 
+lower cost medications from Canada. The answer is easy: it is just 
+irresponsible for Congress to jeopardize public safety by allowing the 
+unchecked reimportation of drugs. That is why I adamantly opposed the 
+House policy.
+  If we truly care about our seniors and other patients who depend upon 
+prescription drugs, we should not expose them to what amounts to 
+pharmaceutical Russian roulette.
+  And, finally, we have done all we can to craft a bill that is as 
+cost-conscious as possible, a bill that the Congressional Budget Office 
+has certified stays within our budget, and a bill that minimizes 
+bureaucracy whenever possible.
+  We have worked hard to write a measure that relies whenever possible 
+on the private sector, not on exploding the size of big, Washington 
+government.
+  Before I conclude, I would like to take a minute to refute some of 
+the points that have been raised by the opponents of this legislation.
+  Yesterday, I heard my good friend from Massachusetts talking about 
+how he feels that the Senate is being stampeded with a bad bill.
+  It is hard to argue we are being stampeded, when we have worked on 
+this issue for almost 15 years.
+  I also have heard our colleague say this legislation dismantles the 
+Medicare program and that the HMOs are going to make out like bandits. 
+Again, that is simply not true. Guess who was one of the people who 
+helped to bring about HMOs. None other than the senior Senator from 
+Massachusetts.
+  This agreement improves the Medicare program by giving beneficiaries 
+voluntary prescription drug coverage for the first time in 40 years--
+that is a reaffirmation of Medicare, not a weakening of it.
+  We also give beneficiaries expanded choices in their health care 
+coverage; they may remain in traditional Medicare or in their retiree 
+health care plan. Or they may receive their coverage through local or 
+regional plans offered to them through the new Medicare Advantage 
+program.
+  Contrary to what my friend from Massachusetts says, no one will be 
+forced into an HMO, and I hope that the American people are not buying 
+that kind of scare tactic.
+  The other fallacy that I heard during this debate was that the 
+premium support demonstration project, which would be conducted in only 
+six metropolitan areas, is going to disadvantage beneficiaries who 
+remain in traditional Medicare. I have heard it said that those 
+premiums could go up by 10, 15 or 20 percent, even though we who wrote 
+the bill know that the Part B premiums for traditional Medicare could 
+not rise by any more than 5 percent over the regular premium.
+  This rhetoric is absolutely outrageous. If you look on page 254 of 
+the conference report, you will see that it is not true. The 
+legislative language speaks for itself:
+  ``The amount of the adjustment under this subsection for months in a 
+year shall not exceed 5 percent of the amount of the monthly premium.''
+  In addition, if a beneficiary is under 150% of poverty, there is no 
+impact on premiums at all.
+  And I am really getting tired of Speaker Newt Gingrich's words being 
+continuously misconstrued.
+  He never said, as my colleagues on the other side of the aisle like 
+to assert, that he wanted Medicare to wither on the vine. What he did 
+say is that the agency that controlled Medicare, HCFA, should wither on 
+the vine because it was filled with bureaucrats that were strangling 
+the program. That is a far cry from what they have been representing--
+person after person after person.
+  He was arguing against large bureaucracies and for seniors to have 
+more control over their health care.
+  I have saved the best for last: the accusations and allegations made 
+against
+
+[[Page S15691]]
+
+the AARP, which are truly amazing to me. It is truly amazing how last 
+year they were considered to be the greatest organization on Earth by 
+folks on the other side of the aisle, but this year they are dirtier 
+than dirt. That is just not true.
+  It is ironic that some in this Chamber are criticizing the AARP for 
+supporting a bill that will provide drug coverage to Medicare 
+beneficiaries.
+  What a difference a year makes! Last year, the AARP could do nothing 
+wrong in the eyes of today's opponents.
+  Yet, suddenly the AARP is either greedy or being taken in like a 
+bunch of half-wits. So much for honest disagreement among friends!
+  What has changed? What does AARP know that the opponents of S. 1 do 
+not?
+  AARP knows that this may very well be our last chance to enact a 
+program adding prescription drug coverage to Medicare.
+  AARP knows, as we all do, that this is not a perfect bill. But AARP 
+also knows that this bill lays a solid foundation which we can refine 
+in the future.
+  In the eyes of this Senator, AARP has made a courageous decision by 
+endorsing our proposal and I greatly appreciate their support
+  In conclusion, I want to commend the chairman of the Senate Finance 
+Committee, Chuck Grassley and the ranking minority member, Max Baucus 
+on a job well done.
+  I also want to compliment the Majority Leader, Dr. Bill Frist, on his 
+leadership in shepherding this bill through the Senate.
+  Today we will make history.
+  We will break gridlock. We will act decisively to help the people of 
+this great country.
+  The citizens of this great country are counting on us to get the job 
+done.
+  So, let us clear away all the parliamentary hurdles and pass H.R. 1.
+  It is the right thing to do.
+  One last thing. I have heard some of my colleagues who are opposed to 
+this bill raise the issue that Government can do nothing to help 
+restrain the growth of drug costs or bring drug costs down. Again, this 
+is a misrepresentation of what the conference agreement actually does.
+  The conference bill specifies the Government ``may not interfere with 
+the negotiations between drug manufacturers and pharmacies and PPO 
+sponsors and may not require a particular formulary or institute a 
+price structure.''
+  Opponents claim that provision, which originated with Democratic 
+proposals, by the way, is a concession to the pharmaceutical industry. 
+That is why it is so phony to hear these arguments. They are plain 
+wrong. The noninterference provision is at the heart of the bill's 
+structure for delivering prescription drug coverage. It is a good deal 
+for consumers rather than price fixing by the CMS bureaucracy, which I 
+believe is opening the door for universal health care. It is a 
+misrepresentation of the language in this provision to argue otherwise.
+  The PRESIDING OFFICER. The Senator from Kentucky.
+  Mr. McCONNELL. Mr. President, will the Senate turn its back today on 
+40 million American seniors? We are going to find out in a few hours.
+  Will a prescription drug benefit that we have promised our seniors 
+for 38 years become law or became a victim to the political agenda of a 
+partisan minority?
+  This bill provides a Medicare drug benefit to 40 million seniors. It 
+has passed the House, and the President of the United States will sign 
+it.
+  Only one hurdle--just one--stands in the way of seniors getting a 
+Medicare drug benefit, and that is the Senate.
+  While a strong bipartisan majority in the Senate supports this drug 
+benefit bill, that may not be enough. While the American Medical 
+Association, AARP, and hundreds of other health provider organizations 
+support this bill, that may not be enough.
+  While businesses, health plans, citizens, and taxpayer groups support 
+this bill, it may not be enough.
+  All of this support may not be enough because this is the Senate. And 
+the minority can, if it chooses to, obstruct.
+  Incredibly, some on the Democratic side plan to kill this Medicare 
+drug benefit through a filibuster, or use any other way they can think 
+of to defeat the will of the majority.
+  Points of order have been suggested. We know this bill is within the 
+budget that we passed last year. So there may be some tricky point of 
+order raised, but it should not be sustained because we know this bill 
+is within the budget that we passed.
+  No matter how the minority tries to block the majority in the Senate, 
+a filibuster by any other name is still a filibuster.
+
+  Somewhere in my home State of Kentucky, a senior is beginning a new 
+week. She will have to choose whether to take half a pill of her 
+medication, skimp on her food, or endure some other belt tightening. 
+She doesn't understand about filibusters or arcane Senate procedures. 
+But she does know that the drug benefit she needs is one step away from 
+her. She thinks because the majority rules in America she will get 
+relief soon. Well, the majority rule is everywhere except here in the 
+Senate, potentially. She may be wrong. Here in the Senate the will of 
+the majority can be defeated by the minority. The will of the people 
+can be thwarted by a handful--a handful.
+  This is as close as we have ever come to passing a drug benefit, and 
+a minority in the Senate is determined to make sure this is as close as 
+we ever get. They do not want us to ever get any closer than we are 
+right now. Why? Why deny our seniors that which they absolutely 
+deserve?
+  Despite the hyperbole, it cannot be policy. This bill is based on the 
+1997 Medicare Commission. It reflects bipartisan legislation, such as 
+the Breaux-Frist and the Breaux-Thomas bills. It mirrors the Federal 
+Employees Health Benefits Plan, which Senators on both sides of the 
+aisle have endorsed. And it is the product of countless hours of 
+bipartisan negotiations between the ranking member and chairman of the 
+Finance Committee.
+  Time and time again, demands have been made by the minority as to 
+what must be and what must not be in this bill. Time and time again, 
+this leader and this chairman have met them more than halfway.
+  The problem today is not this bipartisan policy but raw partisan 
+politics.
+  Because of partisan politics, some want to keep the Medicare drug 
+benefit as the ``Holy Grail'' of American politics--something always 
+sought but never found.
+  To keep their election year gimmick where the Medicare drug benefit 
+is always promised but never delivered--always promised but never 
+delivered--this partisan minority will deny seniors a drug benefit now.
+  This is crass politics of the worst kind. Our seniors deserve better. 
+Our parents always put us first. Now is our chance to put them first.
+  But will our seniors come in second place to political games here in 
+the Senate? In the fight for prescription drugs, second place gets 
+seniors nothing. Today, we will vote to see if we put our seniors first 
+or if the greatest generation ever will come in last.
+  I yield the floor.
+  Mr. THOMAS. Mr. President, I will react to some of the comments, 
+particularly the fact there is emphasis in this bill for help for low 
+income Medicare Beneficiaries. As we move forward, certainly in 
+Medicare the costs obviously are going to get higher as more and more 
+in this generation move into the category of Medicare eligibility.
+  This conference report contains a generous drug benefit for the dual 
+eligible. There is no donut for low-income Medicare beneficiaries. They 
+talk about people being less well off because of this. That is not the 
+case. This bill guarantees all 6 million dual eligibles, the people 
+eligible for both Medicare and Medicaid, access to prescription drugs.
+  Under the conference report, dual eligibles will have better access 
+through Medicare, especially since State Medicaid Programs are 
+increasingly imposing restrictions on patient access to drugs.
+  Further, States have the flexibility to provide coverage for classes 
+of drugs, including over-the-counter medicines not covered by the 
+Medicare Program. This bill ensures appeal rights for dual eligibles. 
+Under this arrangement, duals will maintain appeal rights like all 
+those in the Medicaid Program. Dual eligibles are a fragile population, 
+certainly, and are well taken care of in this bill. The conference 
+report recognizes and provides
+
+[[Page S15692]]
+
+generous coverage for those 6 million beneficiaries.
+  It is time for the partisan rhetoric to be put aside and we approve 
+this bill.
+  The PRESIDING OFFICER. Who yields time? If no one yields time, time 
+is charged equally to both sides.
+  The Senator from Nevada.
+  Mr. REID. I yield the Senator from Massachusetts 1 minute additional.
+  Mr. KENNEDY. Would the Chair notify me when I have 1 minute 
+remaining.
+  The PRESIDING OFFICER. The Chair will so note.
+  Mr. KENNEDY. Mr. President, in a very short period of time, the 
+Senate will be making a judgment about whether we are going to 
+effectively close off any further debate on this legislation I hold in 
+my hands. It was made available last week, on Friday, to the Members of 
+the Senate on an issue of enormous importance and significance to every 
+person in America. That is the question of Medicare and its future and 
+how our seniors are going to get their prescription drugs.
+  It seems to me that out of consideration for our senior population 
+and the importance of this issue, the Members of this body ought to 
+know what is in it, what is going to benefit our senior citizens, and 
+what is going to benefit the special interests. We think we ought to 
+take a few more days, come back next week in the Senate and debate that 
+issue, spend a couple weeks discussing it.
+  But our friends on the other side say no, they had to stay in all 
+weekend--which I was glad to do. We had debate on Saturday, we had 
+debate on Sunday, and now on Monday they are asking Members to vote on 
+this measure.
+  I was not in the Senate at the time they passed Social Security, but 
+I was here at the time we passed Medicare. The reason we created the 
+Medicare system was because private insurance companies were not paying 
+attention to the elderly in this country. We debated the issue for 5 
+years--not 4 days; 5 years--from 1960, 1961, 1962, 1963, 1964 and 
+finally we passed it in 1965. When we passed the Medicare system in 
+1965, it was opposed by many on the other side of the aisle. It only 
+got 12 Republican votes.
+  This is the party that is committed to Medicare and Social Security. 
+Over the period of time I have been here, we have seen constant efforts 
+to undermine Medicare. It was understood when we passed Medicare that 
+there was not going to be a role for private industry to take over 
+senior citizens in the Medicare system. Many of our elderly, who have 
+worked a lifetime, brought the Nation out of the Depression, fought in 
+the World Wars of this country, fought in Korea, and paid their dues to 
+the Nation, are elderly and frail and many of them have illnesses. We 
+know the private sector cherry-picks, takes the healthiest senior 
+citizens and the younger senior citizen, makes a profit, and leaves the 
+others out so they can never get any kind of protection. We rejected 
+that as a nation, passed Medicare, and said everyone is a part of it.
+  That is why it is a beloved program in the United States. Seniors 
+today, this morning, this afternoon, last night, know their doctor, 
+know their health care delivery, have trust and confidence in Medicare. 
+They do not want to risk that. This bill does. This bill does, make no 
+mistake about it. It is the beginning of the unwinding of Medicare, the 
+replacing of Medicare with the private sector and privatizing the 
+Medicare system, make no mistake about it.
+
+  They are using--our friends on the other side--the words 
+``prescription drug program'' in order to carry this through. I have 
+just listened to some of these statements. They say: ``Don't you want 
+your parents tonight in different parts of the country to be able to 
+get their prescription drugs in order to meet our responsibility?''
+  We have been trying to do that. And we did it pretty well--not as 
+well as I would have liked--several months ago, in a bipartisan bill we 
+created a prescription drug program. But the bill we have now has 
+hijacked the prescription drug program and used it as an excuse to 
+undermine the Medicare system, to require, effectively, or coerce our 
+senior citizens to leave Medicare and to go into HMOs in order to be 
+able to get the prescription drug program.
+  The subsidies that are provided for the HMOs are scandalous--
+scandalous. We hear about ``free competition.'' There is no more free 
+competition than the man in the Moon in this with the kind of subsidies 
+that are given. And who is paying for those subsidies? The elderly 
+people.
+  It is undermining the Medicare system in three different ways.
+  First of all, it undermines the Medicare system because of the 
+unconscionable subsidies it gives to the HMOs, which will permit them 
+to lower their premiums to draw and coerce seniors out of Medicare to 
+go for HMOs.
+  Second, we have premium support. Premium support just means the costs 
+for our seniors who remain in Medicare will be going up.
+  Is that what I say? Yes. But who else says it? The Medicare actuaries 
+say there will be an explosion in the increase of the cost of premiums. 
+Do we want to take that risk? Do we want to say, well, let's try an 
+experiment with our nation's seniors? Why do we need an experiment when 
+we know the premiums are going to go up?
+  The third is the undermining of employer-based systems through the 
+HSAs. They tried it. They fought for it. It is an ideological 
+commitment on the other side, and they have that included in the 
+report.
+  All those three measures were not in the Senate bill but in the House 
+bill. That is why the bill passed with only one vote in the House of 
+Representatives. Imagine that. If this is such a wonderful bill, why 
+would they only be able to pass it by one vote? That is all they passed 
+it by the first time it came up in the House of Representatives. Then, 
+after twisting arms, cajoling, effectively bribing Members in the House 
+of Representatives, keeping the tab open for 3 hours, they were able to 
+bring together and carry the vote on the repot by just four or five 
+votes--this overwhelming new program that is so good for everyone? It 
+passed by such a narrow margin. And now they are trying to jam it 
+through the Senate.
+  We all know what is going on. It is the objective of our good friends 
+on the other side; and that is the beginning of the dismantling of the 
+Medicare system, make no mistake about it.
+  I was here when Medicare passed in 1965. I was here in 1964 when it 
+failed. I remember the debate. I remember very clearly. And we are 
+seeing, if this bill passes, the beginning of the unwinding of the 
+Medicare system.
+  Now, you can say: Well, Senator, you are really extending yourself on 
+this and your interpretation of the motivation on the other side. I am 
+saying they want to undermine the Medicare system. And the next is 
+going to be Social Security, make no mistake about it.
+  Is that what I say? No. This is just reported in the Washington Post 
+this past week. Just read it. It does a lot better sometimes to read 
+what the objective is in the White House and what their statements are 
+rather than necessarily the speeches by some of our Members on the 
+floor.
+  Here it is in the Washington Post, on page A-14: Presidential adviser 
+said Bush is intent on being able to say that reworking Social Security 
+is part of my mandate if he wins. This is it. President Bush aids 
+reviving the long-shelved plan on Social Security. It is the 
+privatization of Medicare. And next is Social Security. That has been 
+their objective.
+
+  The PRESIDING OFFICER. The Senator has 1 minute.
+  Mr. KENNEDY. Now, Mr. President, we are strongly committed--when this 
+bill fails or goes down, or a legitimate point of order is made--that 
+we go back to the drawing boards. I am as strongly committed to get an 
+effective prescription drug program as I was when I stood earlier this 
+year when we passed a good program here in the Senate in a bipartisan 
+way, and as I was when I stood with the Senator from Florida and the 
+Senator from Georgia, Mr. Graham and Mr. Miller, when they fought for a 
+good program here, and we got 52 votes for it.
+  But when we hear all this chatter over on the other side about, oh, 
+my goodness, they are filibustering the bill, they filibustered that 
+bill--Republicans filibustered that bill a year and a half ago. We got 
+52 votes. They would not let it pass. They refused to. It was a good 
+bill.
+  So let's go back to the drawing boards. Let's go back to that 
+conference. Sure, they will say: Well, we
+
+[[Page S15693]]
+
+can't. It is conferenced. They say we have Thanksgiving coming up. We 
+can't do it. We would like to be home for Thanksgiving. But this is a 
+matter of life and death for many of our senior citizens.
+  The PRESIDING OFFICER. The Senator's time has expired.
+  Mr. KENNEDY. I thought I asked the Chair to inform me when I had 1 
+minute left.
+  The PRESIDING OFFICER. I rapped the gavel and said 1 minute. I 
+thought the Senator had seen it.
+  Mr. KENNEDY. Well, Mr. President, I hope we will not invoke cloture.
+  The PRESIDING OFFICER. Who yields time? Who yields time?
+  Mr. THOMAS. Mr. President, I yield to the Senator from Utah for 3 
+minutes.
+  The PRESIDING OFFICER. The Senator from Utah.
+  Mr. HATCH. Mr. President, I have listened to my dear friend and 
+colleague from Massachusetts. I guess he wants us to spend another 15 
+years either trying to reform Medicare, improve Medicare or pass 
+another prescription drug benefit program through the Congress.
+  We are putting up $400 billion over 10 years, for both a Medicare 
+drug benefit, something that seniors currently do not have today, and 
+Medicare program improvements. Medicare beneficiaries have a choice of 
+whether or not they want to participate in this program. They may 
+remain in traditional Medicare. And, to be honest with you, those 
+remaining in traditional Medicare who end up participating in the 
+comparative cost adjustment demonstration project will not see their 
+premiums increase more than 5 percent.
+  Mr. KENNEDY. Will the Senator yield on that point?
+  Mr. HATCH. I only have a few minutes, so I would like to finish my 
+comments.
+  According to my colleague from Massachusetts, we are dismantling 
+Medicare. That could not be further from the truth.
+  How can we say that--when we are improving and strengthening 
+Medicare, we are giving Medicare beneficiaries a choice of coverage, 
+and we are giving them $400 billion to help with their prescription 
+drug coverage and Medicare benefits. These new choices include the 
+plans created under the new Medicare Advantage Program, the stand-alone 
+drug plan, the regional plans, the local plans--how on Earth is that 
+dismantling Medicare? And this coming from one in this body who was one 
+of the major proponents of HMOs, to begin with? I might add, I have 
+been here long enough to have remembered that.
+  Next is Social Security? Nobody in this body wants to hurt Social 
+Security, and the Senator from Massachusetts knows that. Since when 
+does the Washington Post have the inside track on the Senate Republican 
+agenda? Give me a break.
+  Mr. KENNEDY. Will the Senator yield on that issue?
+  Mr. HATCH. I am going to finish in just a minute.
+  Again, I think my friend from Massachusetts, as great a Senator as he 
+is, is trying to scare senior citizens. And, frankly, I think to say 
+let's just not pass this bill and let's go back to the drawing boards 
+is just plain wrong. The Members of the Medicare conference have been 
+meeting for hours and hours, days, weeks, months to figure out how to 
+provide Medicare beneficiaries with the best drug coverage possible. 
+There are Members of Congress who have been working on this issue, 
+trying to get a bill signed into law, for close to 15 years. And we are 
+almost at the finish line. Yet my good colleague wants to go back to 
+another 15 years of floundering around on this issue.
+
+  Now, if beneficiaries did not have choice in drug coverage, maybe my 
+friend from Massachusetts would have a point. But seniors will have 
+choice in coverage. Why would we go back to the drawing board, 
+especially after all the time and effort we have put in this 
+legislation? We have before us a bill that really does so much for 
+seniors. The AARP is coming out strongly behind this bill, because they 
+know full well that it is the last train out of the station, it is the 
+only way we can go. I urge my colleagues to support this legislation so 
+Medicare beneficiaries can finally have what they have wanted for close 
+to 40 years--comprehensive prescription drug coverage.
+  The PRESIDING OFFICER. The Senator's time has expired.
+  Mr. HATCH. I yield the floor.
+  Mr. THOMAS. Mr. President, I yield 2 minutes to the Senator from 
+Vermont.
+  The PRESIDING OFFICER. The Senator from Vermont is recognized for 2 
+minutes.
+  Mr. JEFFORDS. Mr. President, I have been listening closely to our 
+colleagues and their many statements of support or opposition to the 
+Medicare Prescription Drug and Modernization Act of 2003.
+  Some have said this is the culmination of the debate we began last 
+year. But this debate is much older than just a year, or even 2 years.
+  The debate as to whether, and if so how, to provide prescription 
+drugs for the elderly through the Medicare program has been with us 
+since the very beginning of the program.
+  Thirty-eight years ago, when this body engaged in the historic debate 
+on the original Medicare bill, Senator Jacob Javits from the state of 
+New York offered an amendment to ensure that Medicare beneficiaries 
+would have access to prescription drugs. Senator Javits was asked to 
+modify his amendment to a study that would examine the assurance of 
+paying for drugs, methods of avoiding unnecessary utilization of drugs 
+and mechanisms for controlling costs.
+  Now, almost 40 years later, they are still debating the very same 
+issues that were part of the 1965 Javits debate. We should enact a 
+prescription drug benefit today. The doom and gloom scenario painted by 
+the bill's opponents is as exaggerated as the claims that this bill 
+will solve all seniors' needs. It is time to put aside our differences 
+for the good of all seniors. This is not a perfect bill, but it is a 
+very good bill.
+  The PRESIDING OFFICER. The time of the Senator has expired.
+  Mr. JEFFORDS. May I have an additional 1 minute?
+  Mr. THOMAS. Without objection.
+  Mr. JEFFORDS. Forty million seniors and disabled Americans need help 
+now. They cannot afford to wait for a perfect program because it may 
+never come. The bill provides the foundations we need. In the final 
+analysis, I find there are more reasons to support this bill than to 
+oppose it. I fear that if we do not take this golden opportunity, we 
+will have lost it forever.
+  We have on one hand the opportunity to provide the largest benefit 
+improvements to Medicare in nearly 40 years, including a comprehensive 
+and universal prescription drug benefit.
+  On the other hand, we can turn away from the proposal before us 
+today, and return yet again to the drawing board in search of 
+perfection.
+  I believe it is time that we begin to offer a real benefit instead of 
+more studies, more analysis and more delay. We should enact a 
+prescription drug benefit today.
+  Let's take a moment to look at some of the issues, because I think it 
+is worth dwelling on why I think we should vote in support of this 
+measure.
+  Vermont already has one of the most generous prescription drug 
+programs for the elderly and disabled.
+  As part of a waiver through the Medicaid program, Vermont expanded 
+its ``V-Script'' state pharmacy assistance program and extended 
+subsidized coverage to individuals at 250 percent of poverty, well 
+above the income levels that provide subsidies in this measure.
+  In fact, the Vermont V-Script program is so generous that some have 
+argued that people will be worse off with a less-generous Federal 
+benefit. I don't think that's the case.
+  First, in today's economy there is no guarantee that Vermont will be 
+able to continue its current level of support for the V-Script program.
+  But this bill dedicates almost $400 billion to the development of a 
+universal prescription drug program, representing the largest expansion 
+of the Medicare program since its inception.
+  This bill will guarantee a comprehensive and universal drug benefit 
+to 41 million seniors in America.
+  That includes all 93,000 seniors in my own home state of Vermont. 
+And, it guarantees the same coverage to the millions of baby-boomers 
+who will soon rely on Medicare.
+  For 40,000 seniors in Vermont with limited savings and incomes below 
+$13,470 for individuals and $18,180 for couples, the Federal Government 
+will cover most of their drug costs. In fact, nearly one-third of all 
+seniors nationwide will receive assistance for nearly 90 percent of 
+their drug costs.
+
+[[Page S15694]]
+
+  Additionally, Medicare, instead of Medicaid, will now assume the 
+prescription drug costs for 21,767 Vermont beneficiaries who are 
+eligible for both Medicare and Medicaid.
+  According to the Centers for Medicare and Medicaid Services, this 
+will save Vermont $76 million over 8 years on prescription drug 
+coverage for its Medicaid population.
+  Finally, the bill includes provisions that will allow States such as 
+Vermont that have pharmacy assistance programs to augment, or ``wrap-
+around'' the Federal Medicare benefit with State resources.
+  In fact, there is nothing in the legislation that would preclude 
+Vermont, should it wish, from using the savings to establish its own 
+prescription drug plan as long as it meets the requirements of the 
+bill.
+  Some of our colleagues have criticized this bill, arguing that it 
+would lead to an increase in employers dropping or reducing 
+prescription drug coverage for its retirees.
+  I have looked at the estimates put forth by the Congressional Budget 
+Office and the employee benefit think tanks, and I am concerned with 
+those numbers.
+  But again, it is important to consider this potential downside in 
+light of what is already occurring.
+  The number of employers providing prescription drug benefits has 
+already been steadily declining for years, and without this Federal 
+guarantee those disenfranchised workers would not have any benefit at 
+all.
+  In short, no senior, regardless of income, will go without 
+prescription drug coverage in Vermont or throughout America once this 
+legislation is enacted. That is, in part, why two of the largest 
+national aging organizations such as AARP and the National Council of 
+Older Americans supports this legislation.
+  And it why the Vermont AARP supports it as well.
+  Perhaps most important of all is the $25 billion for rural providers, 
+ending years of unfair payments to rural hospitals, doctors and other 
+providers.
+  This bill will ensure reliable access to health care services for 
+seniors by better compensating health care providers.
+  I have already seen estimates that these rural provisions will 
+provide Vermont hospitals with an additional $41 million over the next 
+10 years, and physicians will get a boost of $18 million in 
+reimbursements over the next 2 years.
+  I have received many announcements from many Vermont constituents and 
+stakeholders, including the Vermont AARP, the Fletcher Allen Health 
+Center, the Vermont Association of Hospitals and Health Systems.
+  I am also glad that Chairman Grassley and ranking member Baucus have 
+worked with me to address another inequity in the system.
+  Critical access hospitals provide care in some of the most 
+underserved regions of Vermont, as is the case throughout rural 
+America. These hospitals are small, yet serve as critical resources to 
+their communities.
+  So I am pleased to see that the conferees retained a provision from 
+the Senate measure that will allow critical access hospitals, such as 
+Mt. Ascutney Hospital in Windsor, VT, to expand access to psychiatric 
+and rehabilitative services to the most vulnerable citizens in that 
+community.
+  Finally, I would like to acknowledge the conferees for retaining 
+another key provision from the Senate bill that will begin a major 
+demonstration on improving quality and patient outcomes for Medicare 
+beneficiaries.
+  This is the result of several years of working in concert with Dr. 
+Jack Wennberg at Dartmouth College to bring greater attention to the 
+regional disparities in the consumption of health resources without the 
+improvement in health outcomes to show for it.
+  I acknowledge the sentiments of many of my colleagues here today. I 
+too agree that this is not the bill I would have written if I had 
+infinite resources to do it.
+  This bill is not perfect. However, after all of the time that has 
+been spent on trying to develop a Medicare plan for prescription 
+drugs--38 years--it would be a missed opportunity if we reject this 
+good beginning to comprehensive coverage.
+  By passing this bill, we are laying the foundation. A foundation that 
+requires constant vigilance, as has the original Medicare program.
+  So in closing, I would like to urge my colleagues from both sides of 
+the aisle to support this bill as we move forward.
+  This bill will establish a drug benefit that is universal, 
+comprehensive, affordable, and sustainable.
+  This bill restores necessary and long-needed fairness to our 
+physicians and providers in rural areas. And, the bill will improve the 
+quality of care offered under Medicare.
+  I hope my colleagues will join me in voting for the measure.
+  I ask unanimous consent to have the following article printed in the 
+Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+AARP Calls on Vermont Congressional Delegation To Vote for Medicare Rx 
+                                  Bill
+
+       (Montpelier, Vermont) Earlier this week AARP, the leading 
+     advocate for older Americans with 35 million members 
+     nationwide and more than 116,000 in Vermont, endorsed the 
+     Conference Committee's Medicare Rx bill. Their bill 
+     represents a first step in the nation's commitment to 
+     strengthen and expand health security for its citizens.
+       ``For the first time in the history of the Medicare 
+     program, more than 90,000 Vermont Medicare beneficiaries will 
+     have access to a prescription drug benefit. This is about 
+     getting vital help to people who need it most--people whose 
+     high drug costs have become a heavy burden to them and their 
+     families,'' said Philene Taormina, AARP Vermont Director of 
+     Advocacy.
+       AARP and its members call on the Vermont Congressional 
+     delegation to vote for the Conference Report that establishes 
+     a prescription drug benefit in Medicare.
+       In a survey conducted Wednesday of this week 83 percent of 
+     AARP members polled supported enactment of the Medicare 
+     legislation. Further, 75 percent of respondents said that the 
+     proposed Medicare legislation should be passed because it 
+     will help low-income elderly and those with high prescription 
+     drug costs. Among middle and big-income individuals, 80 
+     percent were in favor of passing the legislation for this 
+     reason; support for the bill was evenly split among Democrats 
+     and Republicans.
+       Every day, AARP receives letters and calls from our members 
+     recounting how the high cost of prescription drugs is hurting 
+     their financial and physical health. We believe that the 
+     legislation that has emerged after long negotiations is the 
+     right start to relieve these burdens for millions of older 
+     and disabled Americans and their families. Though not 
+     perfect, the bill represents an historic breakthrough and an 
+     important milestone in the nation's commitment to strengthen 
+     and expand health security for current and future 
+     beneficiaries. This Medicare legislation guarantees a 
+     voluntary drug plan is available for all Medicare 
+     beneficiaries, regardless of where they live.
+                                  ____
+
+
+ Vermont Physicians and Hospitals Strongly Support Passage of Medicare 
+                           Reform Legislation
+
+       Montpelier.--The Vermont Medical Society (VMS), Fletcher 
+     Allen Health Care and the Vermont Association of Hospitals 
+     and Health Systems today announced their strong support for 
+     the Medicare Prescription Drug and Modernization Act of 2003 
+     conference report and urged tri-partisan support for its 
+     passage. Not only will the bill provide a prescription drug 
+     benefit to almost 93,000 Vermonters for the first time in the 
+     history of the Medicare program--beginning in January 2006--
+     but it will also increase access to physician services for 
+     Medicare beneficiaries in Vermont and improve Medicare 
+     reimbursement rates for Vermont's rural hospital system.
+       The legislation provides approximately $28 billion 
+     nationwide to correct a number of basic inequities in 
+     Medicare's reimbursement system for rural providers. 
+     Physicians in rural areas like Vermont are currently paid far 
+     less under the Medicare program than their colleagues in 
+     urban areas for doing the same procedures. In fact, in 1998 
+     Vermont received the lowest payment of any state for its 
+     Medicare beneficiaries. This poor reimbursement continued 
+     despite Vermont being ranked this year as 2nd highest in the 
+     country in the quality of care provided to Medicare patients.
+       The Medicare prescription drug benefit bill being 
+     considered by Congress will greatly reduce the geographic 
+     disparities in physician payments. ``If the Medicare bill is 
+     passed it will be much easier to recruit physicians to serve 
+     rural states like Vermont,'' said VMS President James 
+     O'Brien, MD. ``Congress must pass this legislation before the 
+     Thanksgiving recess to fix many of the reimbursement issues 
+     that have unfairly penalized Vermont.''
+       ``Clearly, this bill will benefit Vermont's rural health 
+     care system as well as Fletcher Allen,'' said Melinda Estes, 
+     president and Chief Executive Officer, Fletcher Allen Health 
+     Care. ``It provides real benefits for all Vermonters.''
+       The legislation protects Vermonters' access to physicians 
+     by replacing a 4.5 percent
+
+[[Page S15695]]
+
+     payment cut scheduled for 2004, which would have reduced 
+     Medicare payments to Vermont physicians and hospitals by $6.7 
+     million, with two years of modest payment increases. The 
+     Vermont Medical Society estimates that if the bill passes, 
+     Vermont providers will see an increase in payments of more 
+     than $2 million a year. The improved reimbursement will 
+     encourage physicians to lift restrictions on how many 
+     Medicare patients they accept in their practices.
+       Rural Vermont hospitals will also benefit if the Medicare 
+     bill passes, because they will be paid at the same rate for 
+     procedures as hospitals in more urban areas. Richard Slusky, 
+     administrator of Mt. Ascutney Hospital stated, ``This bill is 
+     an important step forward for Vermont's Medicare 
+     beneficiaries and our small, rural hospitals. As a Medicare-
+     designated Critical Access Hospital, the rural hospital 
+     provisions in this bill will strengthen our ability to 
+     provide the local services our patients need. This assistance 
+     could not have come at a better time for our community.''
+       Bea Grause, President and CEO of the Vermont Association of 
+     Hospitals and Health Systems (VAHHS), believes that the bill 
+     is good for Vermont hospitals and for Vermont hospitals and 
+     for Vermonters with commercial health insurance coverage. 
+     ``This bill will increase Medicare payments to Vermont 
+     hospitals by $41 million over ten years.
+       This will help to reduce the cost shift to Vermonters with 
+     commercial health insurance coverage and will move us toward 
+     a fairer reimbursement system for our rural hospitals with a 
+     high percentage of Medicare recipients in their case mix.''
+       The provisions improving access for Vermont Medicare 
+     beneficiaries and reducing disparities in payment for rural 
+     providers were added to the conference committee report 
+     through the efforts of Sen. James Jeffords. The Vermont 
+     Medical Society, Fletcher Allen Health Care and the Vermont 
+     Association of Hospitals and Health Systems commend Sen. 
+     Jeffords for his work to protect the Medicare benefits of all 
+     Vermonters.
+
+  Mr. THOMAS. Mr. President, could the Chair tell us how much time 
+remains on each side?
+  The PRESIDING OFFICER. Thirteen/15 on your side; 15/40 the other 
+side.
+  Mr. THOMAS. I thank the Chair. I yield such time as he may consume to 
+the chairman from Iowa.
+  The PRESIDING OFFICER. The Senator from Iowa.
+  Mr. GRASSLEY. Mr. President, I should not take more than 5 minutes, 
+so please tell me when 5 minutes are up.
+  This is the opportunity, a time of destiny, whether or not this 
+Congress will deliver on the promises of the last three elections, the 
+promises the other party has made as well. Thank God there are people 
+in the Democratic Party who are working in a bipartisan way to deliver 
+on the promises of that party as there are Republicans willing to 
+deliver on the promises of the Republican Party.
+  Nothing gets done in this body without bipartisanship. This is 
+bipartisan. We are putting aside partisanship. It is time the other 
+side put aside rhetoric and complete our work on this bill for which 
+the AARP says seniors have waited far too long.
+  This bill offers an affordable, universal prescription drug benefit. 
+This bipartisan bill offers better coverage than today's Medigap 
+policies plus Medicare. It also offers much more generous coverage for 
+14 million lower income seniors. And just to emphasize this point, this 
+bill does not harm 6 million seniors, as the opponents of this 
+legislation claim. That is political poppycock.
+  In fact, this bill protects the benefits for these 6 million and then 
+adds generous prescription drug coverage for an additional 8 million. 
+It expands coverage for lower income seniors, far more than anything 
+offered today. This means that for about two in five seniors, this bill 
+offers drug coverage with lower or no premiums, no coverage gap, and 
+coverage of 85 to 95 percent of the cost of prescription drugs. And it 
+is voluntary.
+  The opponents of this legislation happen to believe--and they 
+sincerely believe--that Government should always force people into 
+doing something. We want the right to choose for our seniors. Seniors 
+can stay in traditional Medicare if they like what they have today and 
+have full access to prescription drugs. There is also a guaranteed 
+Government fallback if private plans might not go to all rural areas of 
+America. This bill protects retiree benefits in the corporation from 
+which they retired. Overall, we put $89 billion in this bill to protect 
+retiree health coverage.
+  This bill also creates new choices similar to what Federal employees 
+have for beneficiaries in a new revitalized Medicare Advantage Program. 
+With respect to drug costs, the bill speeds the delivery of new generic 
+drugs to the marketplace, lowering drug costs to Americans and not just 
+those on Medicare.
+  Finally, the bill includes long overdue improvements in Medicare's 
+complex regulations. It also revitalizes the rural health care safety 
+net with the biggest package of rural payment improvements that 
+Congress has ever done or seen. I urge my colleagues to put the 
+interests of our seniors first and give them more choices and better 
+benefits by supporting this bill.
+  Most importantly, we have brought this bill as far as we have over 
+the last 4 or 5 years because of bipartisanship. I hope this body will 
+not let the narrow partisanship of a few on the other side of the aisle 
+destroy our efforts.
+  I yield the floor.
+  The PRESIDING OFFICER. Who yields time?
+  Mr. REID. Mr. President, I yield 7 minutes to the Senator from 
+Massachusetts, Mr. Kennedy.
+  Mr. KENNEDY. Mr. President, I didn't hear a word from the chairman of 
+the Finance Committee on what he is going to do or what this bill is 
+going to do with regard to costs. Hello? Costs. There is virtual 
+silence in this bill.
+  We know what is happening to the senior citizens. It is an issue of 
+access to prescription drugs and it is an issue of cost. This bill does 
+not meet its responsibility in terms of protecting our senior citizens 
+with regard to the cost.
+  The Senator from Iowa mentioned the numbers of people who are going 
+to be the losers. If the Senator has trouble with this, just ask the 
+Budget Committee, not the Senator from Massachusetts. They said that 6 
+million seniors who are on Medicaid are going to lose their coverage. 
+That isn't the Senator from Iowa or Massachusetts, that is the 
+financial analysis. And 2.7 million retirees are going to be dropped, 
+for a total loss of 9 million; almost 25 percent of the total retirees 
+are going to be lost.
+  We can do better. We can do something about the escalation of cost, 
+but they refuse to do it. Let's go back to the drawing board and do 
+something that is worthwhile.
+  The Senate is on trial today. In a few moments we will vote to stop 
+this charade. But I say this today: I am going to fight this bill with 
+everything I have and, if necessarily, fight it tomorrow, next week, 
+and next year. I will fight it for the nurse who paid into our hospital 
+retirement fund for 20 years and the 3 million retirees like her who 
+will lose their health insurance because of this bill. I will fight for 
+the city workers in Springfield, MA, whose brave mayor plans to 
+purchase cheaper prescription drugs from Canada for them and their 
+families, an action that is illegal--do you understand?--illegal under 
+this bill. I will fight for the widowed grandmother on Medicaid and the 
+7 million poor Americans like her who count every penny yet will pay 
+more for their prescription drugs under this bill. And I will fight for 
+the 36 million Medicare seniors who want to stay in the program they 
+love with the doctors and the hospitals they choose.
+  I will fight to keep billions and billions of Medicare dollars that 
+come out of your paycheck from lining the pocketbooks of the big drug 
+companies and the HMOs. I will fight it for our honor as a nation that 
+keeps its commitment to our seniors, the ones who fought our wars, 
+raised our families, and built our economy.
+
+  The more the American people learn about this legislation, the less 
+they like it. The more senior citizens learn, the more they oppose it. 
+Let us not reverse the historic decision our country made in 1965. Let 
+us not turn our backs on our senior citizens so that insurance 
+companies and pharmaceutical companies can earn even higher profits. 
+Let us reject this bill and come back and do the job right.
+  I withhold the remainder of my time.
+  The PRESIDING OFFICER. The Senator from Wyoming.
+  Mr. THOMAS. I yield 3 minutes to the Senator from Louisiana.
+  Mr. BREAUX. Mr. President, I think one of the subjects that really 
+united both Republicans and Democrats was the question about dual 
+eligibles. There was a large number of seniors being treated as second-
+class citizens
+
+[[Page S15696]]
+
+of this country because, if they were poor, they were not in the 
+Medicare Program. If they were poor, they were not allowed to get 
+through the Medicare door, and for no other reason than they were poor.
+  Under that scenario, low-income seniors, maybe 80 years old, who 
+worked all of their lives, but ended up in a very low-income status, 
+were relegated to the Medicaid Program, where there was not a 
+consistent amount of benefits for their health care programs. They were 
+subject to the will and whims of the various State legislatures. Some 
+treated them better, some treated them worse, and some didn't treat 
+them hardly at all.
+  What we were able to do, which I thought was a priority for many 
+Republicans because it was in the House bill--but it also was a 
+priority for many Democrats in this body--was to say that we are going 
+to bring those low-income seniors, for the first time, into the Federal 
+Medicare Program. We did that. That is part of this bill. Those low-
+income seniors now are going to have the opportunity to be in the 
+Federal Medicare Program. They will know what their benefits are. They 
+will know, for the first time, they have access to prescription drugs, 
+which is what I think the bill is all about. In addition, we were able 
+to find an extra amount of money to help them with any type of 
+copayments they might have.
+  Some States have high copayments; some States have no copayments on 
+drugs. But what we were able to do was to say: Here is extra money for 
+the purpose of helping States to reduce the copayments down to $1, if 
+they are buying a generic drug and only $3 if they are buying a 
+prescription drug. In addition to that, the subsidies and assistance we 
+have for low-income seniors in general is extremely important.
+  Starting in April of this coming year, they will get a drug discount 
+card. If they are low-income, they will start off with a $600 credit on 
+that card, to be able to immediately have the benefit of something, 
+where they have nothing at all today.
+  On balance, when you have a 150 percent of poverty and below special 
+assistance program, when you have a discount card that starts in April, 
+and all of the seniors, for the first time, will be in the same Federal 
+program, I think that is significant. For the first time, we will say 
+to seniors who are low income that you will no longer be treated as a 
+second-class citizen and be different from all of the other seniors you 
+know. You will be part of the Federal program and you will have access 
+to prescription drugs.
+  Again, I think the question is, Have we designed a perfect bill? The 
+answer is no. But I think when you look to associations such as AARP 
+and the National Council on the Aging, we have a bill that merits their 
+support.
+  Mr. REID. Mr. President, my understanding is that we have 12 minutes 
+left.
+  The PRESIDING OFFICER. That is correct.
+  Mr. REID. We have allocated time to Senator Edwards, 3 minutes; is 
+that right?
+  The PRESIDING OFFICER. That is correct.
+  Mr. REID. I yield 8 minutes to the Senator from Massachusetts, Mr. 
+Kennedy. We want to make sure we will use all of our time now. If 
+Senator Edwards isn't here, that time will run because Senator Frist 
+gets the last 5 minutes.
+
+  The PRESIDING OFFICER. The Senator from Massachusetts is recognized.
+  Mr. KENNEDY. Mr. President, I will just take a few moments to review 
+for our colleagues what the implications of this bill will be for my 
+State of Massachusetts. I can say that this is very typical of what is 
+going to happen just about to every State. We have three MSA 
+potentially eligible for premium support--the program that will raise 
+premiums and effectively drive our seniors out of Medicare into the 
+hands of the HMOs. We have three potentially eligible. We have 62,000 
+retirees who will lose their drug coverage. They are part of the 6 
+million nationally, and those figures are the figures that have been 
+found by the Center for Budget and Policy Priorities. So we have 62,000 
+retirees who will lose their drug coverage. And 185,500 low-income 
+elderly and disabled will pay more for prescription drugs. We have 
+60,000 low-income elderly and disabled who will fail the assets and 
+income test in Massachusetts.
+  This conference reimposed the asset test, which we had eliminated 
+here by 67 votes in the Senate. They reimposed it. So there are 2.8 
+million across the country, and 60,000 in my State, who will fail the 
+asset test, and 34,920 seniors will pay more for Part B premiums.
+  In the few hours of this debate, the proponents of this legislation 
+have described their proposal in the most benign and misleading terms. 
+They say it gives seniors the freedom to choose among competing plans 
+and gives protection to the poor seniors. They say this bill will lower 
+drug prices through competition. They say at least it helps low-income 
+seniors. They are absolutely wrong on all those counts.
+  Here is the truth: This is a partisan plan, I remind my friend from 
+Iowa. You saw the vote over in the House of Representatives, what the 
+Republican leadership had to do to coerce Members to pass it. That 
+answers the question as to whether or not this is a partisan plan. This 
+partisan program is out of the mainstream. The proposal damages 
+Medicare and leaves the millions of senior citizens who rely on it 
+without a lifeline. It is the first step toward a total dismantling of 
+Medicare. In exchange for destroying Medicare, it offers senior 
+citizens a paltry and inadequate drug benefit. The moment it is 
+implemented, it will make 9 million senior citizens--almost a quarter 
+of all senior citizens--worse off than they are today.
+  Senior citizens already have the most important choice they want--the 
+choice of doctors and hospitals they trust. That is the choice they 
+want, not higher premiums and premium support. Those are their choices 
+if we pass this. They lose if they are forced to join HMOs and PPOs, or 
+other programs that say an insurance company bureaucrat can choose 
+their doctor for them.
+  Senior citizens already have the choice to join a private insurance 
+plan competing with Medicare if they choose. But 9 out of 10 prefer to 
+stay in Medicare. So they already have a choice and they are not taking 
+it. But under this bill, you are providing so much in terms of 
+effectively bribing them, and overpayments that they will eventually 
+coerce those seniors. The bipartisan bill that passed the Senate 
+provided additional choice, a program for regional PPOs. The conference 
+adopted a right-wing House approach of ending Medicare as we know it 
+and establishes a massive demonstration program that would subject 7 
+million senior citizens--1 out of 6--to a so-called premium support 
+program.
+  Mr. HATCH. Mr. President, I would like to take a few minutes to rebut 
+some of the points raised by the Senator from Massachusetts.
+  First, he mentioned he is concerned about the cost of this bill. Let 
+me remind my friend from Massachusetts that last year, he supported a 
+bill that would have not only cost $800 billion, it would have 
+sunsetted the Medicare prescription drug benefit. How would that have 
+helped senior citizens and other Medicare beneficiaries, especially the 
+disabled?
+  Our bill costs $400 billion over 10 years and it is a permanent 
+benefit.
+  He also mentioned retiree health benefits and how individuals are 
+going to lose their coverage as a result of the bill. Let me correct 
+that statement for the record. First, $89 billion--yes, I said $89 
+billion--is devoted to employer subsidies in order to preserve retiree 
+health benefits, so individuals will not lose their retiree health 
+coverage. We have gone from a drop-out rate of 37 percent in H.R. 1, to 
+a drop-out rate of under 20 percent. Again, my colleague is simply 
+using scare tactics.
+  Mr. KENNEDY. Mr. President, I see the Senator from North Carolina 
+here. He wanted some time.
+  The PRESIDING OFFICER. The Senator has 7 minutes 10 seconds.
+  Mr. KENNEDY. I am glad to yield that to the Senator. I know he 
+intended to speak.
+  The PRESIDING OFFICER. The Senator from North Carolina is recognized.
+  Mr. EDWARDS. Mr. President, I thank the Senator from Massachusetts. I 
+spoke yesterday, but I wish to speak once again on this bill.
+  This bill is a perfect example of the kind of legislation that should 
+not go through the Senate. It is a giveaway to HMOs and insurance 
+companies, a giveaway to big drug companies, a continuation of this 
+administration's shifting
+
+[[Page S15697]]
+
+of the tax burden in America from wealth and the wealthy to work and 
+the middle class.
+  It is not shocking that there is a $12 billion stabilization fund in 
+this bill--$12 billion of taxpayer money that is going to go to HMOs so 
+that they can compete? I thought the whole purpose of this bill was so 
+that HMOs could provide competition. We are going to give $12 billion 
+of taxpayer money--money that, in fact, could go to providing a better 
+prescription drug benefit to seniors who desperately need it, instead 
+of using that money to cover seniors, to give them help in getting the 
+medicine they desperately need when they go to the pharmacy. No, 
+instead we are going to give $12 billion of taxpayer money to HMOs. 
+That is a great idea. That is just a terrific idea.
+  On top of all that, we are not going to do anything meaningful to 
+bring down the cost of prescription drugs. We have been through this 
+fight over and over. We fight to try to allow reimportation of 
+prescription medication from Canada, to bring down costs for people in 
+America. Does it pass? No. Can we get it into this bill? No. Why? 
+Because the drug companies are against it.
+  We try to do something about misleading company advertising on 
+television. Billions and billions of dollars are being spent every year 
+by drug companies on television advertising. Much of the advertising is 
+misleading. We know who is paying for this advertising: consumers, 
+seniors, every time they go to the pharmacy, are paying for those ads. 
+When we try to do something about that advertising, try to put some 
+kind of reasonable controls on it, are we able to do it? Are we 
+successful? No. Why? Because the drug companies are against it.
+  We cannot even allow the Government to use its bargaining power to 
+bring down the cost of prescription drugs for all seniors.
+  This bill is a giveaway--a giveaway to HMOs, a giveaway to drug 
+companies. It is not surprising that as a result of looking as if this 
+bill is about to pass, the drug companies' stock and HMO stock is 
+rising.
+  One thing I can tell you for sure, if this bill passes, it will pass 
+over the dead bodies of a lot of us standing here fighting against it. 
+If this bill passes, the lobbyists will be celebrating all over this 
+town, lobbyists who worked this bill every single day on behalf of the 
+HMOs and the drug companies.
+  I grew up in a small town in North Carolina in a rural area. There 
+are more lobbyists for those industries around Washington, DC, than 
+people who live in my hometown. How about if we in the Senate stand up 
+for the kind of people I grew up with in that small town? How about if 
+we actually stand up to big drug companies and big HMOs?
+  Speaking for this Senator, I intend to stand up to those people. I 
+will vote no and fight with everything I have to stop this legislation.
+  The PRESIDING OFFICER. The Senator's time has expired.
+  Mr. EDWARDS. I thank the Chair.
+  The PRESIDING OFFICER. Who yields time?
+  Mr. THOMAS. Mr. President, I yield 1 minute to the Senator from 
+Montana.
+  The PRESIDING OFFICER. The minority still has time at this point.
+  Mr. KENNEDY. How much time do we have?
+  The PRESIDING OFFICER. Three minutes ten seconds.
+  Mr. KENNEDY. I will be glad to wait until the Senator concludes, and 
+then I will yield the remaining 3 minutes to my colleague from 
+Massachusetts.
+  The PRESIDING OFFICER. The Senator from Montana has 1 minute.
+  Mr. BAUCUS. Mr. President, there is not a lot to say in 1 minute. I 
+will do the best I can.
+  Essentially, we have $400 billion in prescription drugs for seniors. 
+I do not see how in the world we can let that moment pass by.
+  It was said before that there are not enough low-income benefits for 
+seniors. The previous speakers said that. They are wrong. One-third of 
+our seniors will get such benefits under this bill that 95 percent of 
+their benefits will be paid for. One-third of American seniors will 
+find that 95 percent of their benefits are paid for. The allegation is 
+there is no help for low-income seniors. That is just flat wrong.
+  There were a lot of other statements made by those opposed to this 
+legislation that are flat wrong. Some say 10 million will be affected 
+by premium support. Flat wrong. We asked CBO what the number is. They 
+said 600 to 700 to 1 million.
+  Some people say 6 million were going to be hurt by Medicaid. Flat 
+wrong. It is much less than that.
+  I strongly urge Senators to look at the facts. Vote for the bill and 
+particularly vote against the points of order because those are mere 
+technicalities. They don't go to the substance of the bill. It is 
+important to pass this legislation now for seniors.
+  The PRESIDING OFFICER. The Senator from Massachusetts.
+  Mr. KERRY. Mr. President, the Senator from Montana just admitted the 
+case. He said it is much less than that. He is arguing over fewer 
+people being hurt, not whether any are going to be hurt.
+  The question is, Why are people going to be hurt? How many people 
+know there is going to be $25 billion raised in new revenue directly 
+out of the pocket of senior citizens because we are going to increase 
+the cost for the traditional Medicare coverage for doctor and hospital 
+visits?
+  This is following right in the wake of the Energy bill. Same deal. 
+You pick up the newspapers and you see a headline: Drug companies win 
+in battle over prescription drugs. Who do you think lost if the drug 
+companies won? The senior citizens.
+  There will be $139 billion or $125 billion, depending on which you 
+read, of windfall profits to the drug companies. Why are the drug 
+stocks going up the way they are? The difference between Medicare 
+administrative costs, which are 2 percent, and drug company 
+administrative costs, which are 15 to 20 percent, are now going to run 
+roughshod over seniors who are going to be paying the additional 
+administrative costs, and they are not going to get the benefit of 
+lower cost drugs.
+  There is nothing in this legislation that lowers the cost of 
+prescription drugs. Indeed, it is the opposite. By pushing seniors off 
+Medicare into HMOs and giving them the tough choice that if they were 
+to stay where they have the ability to, they are going to pay more, 
+they are going to be picking up the additional cost. This is going to 
+be like catastrophic insurance in the 1980s when they pass legislation 
+they think is good and seniors find out how complicated it is and how 
+much more they are paying, which is exactly why it has been set for 
+2006 for implementation. It took us 11 months to put the entire 
+Medicare Program in place. Why can't we put a prescription drug benefit 
+in place 2 months from now or 3 months from now? Why does it have to be 
+2006 after the 2004 election? This is one of the greatest giveaways 
+that I have seen in this city in a long time.
+
+  We are not even going to allow Medicare to negotiate lower bulk 
+prices. The State of Maine is allowed to do that. We have veterans who 
+are allowed to do that. We have veterans in this country for whom the 
+VA, in an almost unanimously adopted amendment in this body, can go out 
+and do bulk purchasing. And we are not going to allow Medicare to bulk 
+purchase and lower the prices.
+  We should vote no. This is wrong. It is a giveaway. It is a special 
+interest bonanza.
+  The PRESIDING OFFICER. The Senator's time has expired. The majority 
+leader.
+  Mr. FRIST. Mr. President, we bring debate to a close prior to a very 
+historic vote in which we are making a decision whether to give 40 
+million seniors the opportunity, for the first time through Medicare--
+the program that has been constructed and been used to give them health 
+care security--whether for the first time these 40 million seniors will 
+have access through that program to prescription drugs, to the tool 
+which is the most powerful element of health care security today. 
+Seniors don't have it. What we are voting on today is to give them that 
+true health care security.
+  America's seniors have waited 38 years for this prescription drug 
+benefit to be added to the Medicare Program, and today they are just 
+moments away from prescription drug coverage that they desperately need 
+and deserve.
+  It is clear that in this body there is a bipartisan majority--and I 
+would say an overwhelming bipartisan majority--in favor of this 
+Medicare Prescription Drug, Improvement, and Modernization
+
+[[Page S15698]]
+
+Act of 2003. Yet we have before us an attempt to block this body from 
+expressing, through an up-or-down vote, their will to give seniors and 
+individuals with disabilities access to affordable prescription drug 
+coverage and, thus, stand in the way of health care security for those 
+seniors.
+  We are about to vote on a cloture motion in an attempt to overcome 
+this filibuster.
+  Later today, we are likely to face additional procedural hurdles that 
+the minority has threatened to prevent passage of this bill. Make no 
+mistake, these are not one and the same. The result of this filibuster 
+and of the procedural points of order will be once again to deny these 
+40 million seniors access to modern prescription drug coverage, 
+something they need and something they deserve.
+  In my own State of Tennessee, there are nearly one-quarter of a 
+million seniors who right now have no prescription drug coverage. There 
+are millions more all across the Nation for whom this legislation 
+literally means life or death. Think hypertension, heart disease, 
+chronic obstructive pulmonary disease, asthma, or emphysema, all for 
+which we have effective prescription drugs which are not made available 
+through our Medicare Program today. Our seniors cannot afford to wait 
+longer. Then why wait? They cannot afford to wait. It is a matter of 
+their health.
+  This generation of seniors did survive the Depression, did fight 
+World War II, did help make the United States the prosperous and 
+thriving Nation we have today. Again and again, they answered the call. 
+Now is the time for us to fulfill our duty to that generation. Many of 
+them are poor and many of them are sick. It is time to answer their 
+call.
+  When he signed Medicare into law in 1965, President Johnson said:
+
+       No longer will this Nation refuse the hand of justice to 
+     those who have given a lifetime of service and wisdom and 
+     labor to the progress of this . . . country.
+
+  Let us not stay this hand of justice now. Let us not turn our back on 
+America's seniors and individuals with disabilities. Our seniors 
+deserve better than to be held hostage to Washington politics.
+  There is a life-or-death issue in many ways in this legislation for 
+millions of Americans and they cannot wait. Opponents of this bill 
+would deny coverage to essential medicines.
+  Mr. President, I will go on leader time for my remaining 2 minutes, 
+if necessary.
+  The PRESIDING OFFICER. The majority leader.
+  Mr. FRIST. What will people tell millions of Americans or millions of 
+low-income seniors if we go home and say, no, you are not going to have 
+access to prescription drugs that this bill would have made available 
+or tell individuals with disabilities, no, you are not going to have 
+access to the preventive care that is actually in this bill?
+  The elderly, the sick, and the disabled are now being told to wait 
+for action in the future. Now is the time to act.
+  We will do it next year, some say, but our seniors tell us time is 
+running out. People are waiting for help.
+  Just 2 days ago in my office was Dorthea Yancy of Lakewood, CO, a 
+retired African-American woman who worked for years but lost her 
+pension when her company went bankrupt. She needs our help now. Dorthea 
+Yancy needs our help now.
+  We are an eyelash away from fulfilling our promise to seniors. I ask 
+my colleagues not to thwart the overwhelmingly bipartisan majority in 
+this body because of using the tactics of some sort of parliamentary 
+maneuvering. Do not hold America's seniors hostage to Washington 
+politics. Our seniors deserve better.
+  I want to close by just reading a statement issued today by the AARP 
+on behalf of 35 million seniors that fine organization represents. This 
+is from the AARP today, and I will close with this:
+
+       The fate of the landmark Medicare prescription drug bill 
+     now stands in the hands of the U.S. Senate. More than a vote 
+     is at stake. With the final passage in the Senate, the 
+     Congress will honor a longstanding promise to 41 million 
+     older and disabled Americans and their families by finally 
+     adding a prescription drug benefit to Medicare. This bill 
+     will help millions of people, especially those with low 
+     incomes and high drug costs. It will strengthen Medicare by 
+     adding this long overdue benefit and preserving the basic 
+     structure of the Medicare program. We urge the Senate to act 
+     to seize this historic opportunity and vote to pass this bill 
+     now.
+
+  America's seniors are watching. America is watching. I urge my 
+colleagues to do the right thing, to seize this historic opportunity, 
+to vote up or down on this bipartisan legislation, and to pass this 
+historic bill.
+
+
+                             Cloture Motion
+
+  The PRESIDING OFFICER. All time has expired. Under the previous 
+order, the cloture motion having been presented under rule XXII, the 
+Chair directs the clerk to read the motion.
+  The bill clerk read as follows:
+
+                             Cloture Motion
+
+       We the undersigned Senators, in accordance with the 
+     provisions of rule XXII of the Standing Rules of the Senate, 
+     do hereby move to bring to a close debate on the conference 
+     report to accompany H.R. 1, the Medicare Prescription Drug 
+     and Modernization Act, an act to amend Title XVIII of the 
+     Social Security Act to provide for a voluntary prescription 
+     drug benefit under the Medicare Program and to strengthen and 
+     improve the Medicare Program, and for other purposes.
+         Bill Frist, Charles Grassley, John E. Ensign, Ted 
+           Stevens, Susan Collins, Lisa Murkowski, Jon Kyl, John 
+           Cornyn, Orrin Hatch, Larry Craig, Craig Thomas, Robert 
+           Bennett, Olympia J. Snowe, Jim Bunning, Christopher 
+           Bond, John Warner.
+
+  The PRESIDING OFFICER. By unanimous consent, the mandatory quorum 
+call has been waived. The question is, Is it the sense of the Senate 
+that debate on the conference report to accompany H.R. 1 shall be 
+brought to a close?
+  The yeas and nays are required under the rule.
+  The clerk will call the roll.
+  The bill clerk called the roll.
+  Mr. McCONNELL. I announce that the Senator from Alabama (Mr. Shelby) 
+is necessarily absent.
+  The PRESIDING OFFICER (Mr. Alexander). Are there any other Senators 
+in the Chamber desiring to vote?
+  The yeas and nays resulted--yeas 70, nays 29, as follows:
+
+                      [Rollcall Vote No. 457 Leg.]
+
+                                YEAS--70
+
+     Alexander
+     Allard
+     Allen
+     Baucus
+     Bennett
+     Biden
+     Bond
+     Breaux
+     Brownback
+     Bunning
+     Burns
+     Campbell
+     Carper
+     Chambliss
+     Cochran
+     Coleman
+     Collins
+     Conrad
+     Cornyn
+     Corzine
+     Craig
+     Crapo
+     Daschle
+     Dayton
+     DeWine
+     Dole
+     Domenici
+     Dorgan
+     Ensign
+     Enzi
+     Feinstein
+     Fitzgerald
+     Frist
+     Graham (SC)
+     Grassley
+     Gregg
+     Hatch
+     Hutchison
+     Inhofe
+     Jeffords
+     Johnson
+     Kohl
+     Kyl
+     Landrieu
+     Lincoln
+     Lott
+     Lugar
+     McConnell
+     Mikulski
+     Miller
+     Murkowski
+     Murray
+     Nelson (FL)
+     Nelson (NE)
+     Nickles
+     Pryor
+     Reid
+     Roberts
+     Santorum
+     Sessions
+     Smith
+     Snowe
+     Specter
+     Stevens
+     Sununu
+     Talent
+     Thomas
+     Voinovich
+     Warner
+     Wyden
+
+                                NAYS--29
+
+     Akaka
+     Bayh
+     Bingaman
+     Boxer
+     Byrd
+     Cantwell
+     Chafee
+     Clinton
+     Dodd
+     Durbin
+     Edwards
+     Feingold
+     Graham (FL)
+     Hagel
+     Harkin
+     Hollings
+     Inouye
+     Kennedy
+     Kerry
+     Lautenberg
+     Leahy
+     Levin
+     Lieberman
+     McCain
+     Reed
+     Rockefeller
+     Sarbanes
+     Schumer
+     Stabenow
+
+                             NOT VOTING--1
+
+      
+     Shelby
+       
+  The PRESIDING OFFICER. On this vote, the yeas are 70, the nays are 
+29. Three-fifths of the Senators duly chosen and sworn having voted in 
+the affirmative, the motion is agreed to.
+  The Democratic leader.
+  Mr. DASCHLE. Mr. President, for purposes of time management under 
+cloture, I designate Senator Reid, the Democratic whip, as the 
+opposition manager.
+  Mr. President, I make a point of order that H.R. 1, the pending 
+conference report, violates section 311(a)(2) and section 302(f) of the 
+Congressional Budget Act of 1974, among other reasons, because of the 
+provisions related to premium support and health savings accounts.
+  The PRESIDING OFFICER. The majority leader.
+  Mr. FRIST. Mr. President, on behalf of myself and Senators Grassley, 
+Baucus, and Breaux, pursuant to section 904 of the Congressional Budget 
+Act of 1974, I move to waive the applicable sections of that act and 
+the budget resolution for the consideration of the conference report.
+
+[[Page S15699]]
+
+  The PRESIDING OFFICER. The motion is debatable.
+  Mr. FRIST. Mr. President, I ask unanimous consent that there now be 2 
+hours of debate on the pending motion to waive, with that debate time 
+equally divided between the two leaders or their designees; further, I 
+ask consent that following that debate time, the Senate proceed to a 
+vote on the motion to waive, with no amendments in order to the motion.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+  Mr. FRIST. Mr. President, we will shortly begin debate for 2 hours, 
+as we just agreed to, after which we will have the vote--approximately 
+2 hours from now.
+  Mr. DASCHLE. Mr. President, I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. DASCHLE. Mr. President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. DASCHLE. Mr. President, obviously the pending motion is now the 
+matter before the Senate and the clock is ticking. I want to use some 
+of the time at this point and reserve the remainder of time for those 
+who wish to speak. I will, hopefully, reserve some time for myself at 
+the end of the debate.
+  I make this motion recognizing there are a lot of concerns involving 
+budgetary considerations on the legislation now pending. Those on the 
+other side have expressed their understandable concern about the 
+overall commitment in the budget to a new entitlement program, and I 
+respect their position. It may be that on that basis alone, many of our 
+Republican colleagues will want to vote against the motion to waive a 
+budget point of order.
+  They will make the case that this is an entitlement that goes way 
+beyond the $400 billion, that it is very likely this legislation could 
+grow to $600, $800, $900 billion in the very near future, as other 
+entitlements have on occasion. That is their right.
+  They will argue that this, as a new entitlement, provides very little 
+cost control. On that I would agree, and I will come back to that point 
+in a moment. So without a doubt, there are very important budgetary 
+points of order to be made.
+  Technically, this budget point of order challenges the bill because 
+it exceeds the 2004 budget authorization. It also challenges the 
+allocation of resources within the jurisdiction of the Finance 
+Committee. So those are the technical reasons.
+  I want to give my reasons for expressing the concern I have 
+throughout the debate, and how it relates to this budget point of 
+order. I don't challenge the $400 billion. Frankly, I don't think that 
+it is adequate to provide a meaningful drug benefit. We have to do 
+better than that. But that is another issue. What I challenge is why it 
+is we are misallocating so many of the resources within that $400 
+billion budget pie. That is my concern; how it is that we can spend $6 
+billion on HSAs, health savings accounts, and at the same time tell our 
+seniors they are going to have to pay $35 a month, 100 percent of the 
+cost for drugs up to $250, 25 percent up to $2,250, 100 percent up to 
+$5,100. Why are we going to tell them that when we have all this money 
+for these special interests is something I can't understand.
+  I can't go to my senior citizens and tell them: You are going to have 
+to suck it up and understand that sacrifice is something we are going 
+to ask of you for the opportunity of the Government to pay 75 percent 
+of your drug costs for a limited period of time throughout the year.
+  That is what we are saying. We have money for all these other 
+accounts, but we don't have adequate resources dedicated to providing 
+meaningful help to seniors. That is my first concern. We are simply not 
+allocating the resources within that $400 billion to their maximum 
+advantage.
+  But there is another concern as well. We all ought to be concerned, 
+Republicans and Democrats, about this. We have taken virtually all the 
+cost control mechanisms out of this bill. So those who are concerned 
+about an exploding entitlement have a right to be concerned about what 
+this is going to cost 10 years from now.
+  Ten years ago, we passed a bill by unanimous consent. I wish my 
+colleagues all could have heard an eloquent speech made by the 
+distinguished Senator from Florida about this in our caucus this 
+morning. Ten years ago, on a bipartisan basis, we passed legislation 
+providing not only a drug benefit to veterans but a cost containment 
+mechanism for that benefit. We passed it unanimously. When we passed 
+it, we basically said, we are going to allow the Government to 
+negotiate the price for the VA, passing on the savings to veterans.
+  We have done that. And by most accounts, we have now cut the cost of 
+veterans drugs in half. Senator Graham talked about being at a VA 
+hospital in Florida on Veterans Day. He said: How much are you spending 
+on drugs right now?
+  They said: $39 million, at that facility.
+  He said: If you couldn't negotiate, if you had no ability to 
+negotiate on behalf of your veterans, what do you think the veterans 
+would be spending?
+  They said: $71 million, almost twice as much.
+  How is it we can argue on behalf of veterans that we ought to keep 
+their costs down but at the very same time, argue that senior citizens 
+ought to bear the full cost of those drugs? You tell senior citizens 
+sitting next to another one at a public meeting a year from now that we 
+somehow just believed there was a distinction, that it was OK for 
+seniors to spend twice as much as veterans.
+  I will fight every single day for the right of veterans to get the 
+lowest cost for their drugs, but that same opportunity should be 
+provided to every senior citizen as well.
+  So you are going to see an exploding cost. And you are going to see 
+the misallocation of resources within that $400 billion, away from 
+seniors and to so many other groups that I have to say even the most 
+avid supporters of this legislation would say don't need it as much. Do 
+healthy people who have access to an HSA really need help as much as a 
+senior citizen who is struggling to pay their bills?
+  Isn't there a better way that we can allocate these resources to 
+maximize the drug benefit for every citizen in the country today? The 
+answer is, of course, yes. Why is it that we saw the need to exclude 
+the single demonstrated ability on the part of a Federal program today, 
+in the Veterans' Administration, to control the cost of drugs when it 
+came to protecting drug prices for senior citizens? Why did we do that?
+  Unfortunately, that wasn't the only cost containment mechanism 
+excluded. For all intents and purposes, we also took out reimportation. 
+We don't have any real authority now to reimport lower cost American-
+made drugs into this country. I am told the reason we didn't is because 
+the drug companies were overwhelmingly opposed. Keep in mind that a lot 
+of these drugs are manufactured inside the United States, exported to 
+be retailed outside the United States. So the irony is that drugs made 
+inside the U.S. cannot be sold and brought back into the U.S. under 
+this bill. I think it is a folly.
+  So the bottom line for those who are concerned about the exploding 
+cost of an entitlement is this: I have news for you. You have a right 
+to be concerned because we have not done anything to control costs in 
+this legislation. We are going to woe the day we passed this without 
+providing the same mechanism VA has to do just that. We are going to 
+woe the day. We are also going to woe the day when we draw distinctions 
+between seniors for absolutely no good reason. If it is good enough for 
+veterans, it ought to be good enough for senior citizens across the 
+board. But the drug companies don't like that either. Because they 
+don't like it, it was excluded. So I make these points of order on four 
+very specific points.
+  No. 1, we are not using that $400 billion we have allocated very 
+well. We could do a whole lot better.
+  No. 2, there are specific programs in here that don't belong in here 
+in the first place, have nothing to do with offering drugs to seniors; 
+that are handouts to special interests and have no business in this 
+bill.
+
+[[Page S15700]]
+
+  No. 3, we do very little with cost containment. We exclude the most 
+consequential leverage the Government has had in the past with a 
+program as important as the VA. It passed unanimously on the Senate 
+floor 10 years ago. Why is it excluded now? Because there was special 
+interest opposition.
+  No. 4, we are going to woe the day when we put special interests 
+ahead of the senior citizens in making these resource allocations in 
+this legislation the way we have.
+  Mr. President, we can do better than this. We have to do better than 
+this. I hope, on a bipartisan basis, we simply say we are going to ask 
+that these provisions, these concerns be renegotiated.
+  I was one--and I will end here--who voted in favor of cloture. I am 
+not desirous of extending debate unnecessarily and in a prolonged way. 
+I wanted to make that point by voting for cloture.
+  But I must say, we expedite the day when we do the right thing with 
+regard to the costs of drugs and with regard to a new system under 
+Medicare. We expedite the day by voting against the motion to waive the 
+point of order made by the distinguished majority leader.
+  So I hope those who claim fiscal responsibility as an important 
+priority, those who want to maximize the bang for the buck for seniors 
+in this legislation, those who are concerned about the distinctions we 
+draw among senior citizens, will join with those who voted for and 
+those who voted against cloture, against waiving this point of order.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from New Mexico is recognized.
+  Mr. DOMENICI. Mr. President, the distinguished Senator in charge left 
+the floor and said I could allocate some time to myself. I will not use 
+much. I note the presence on the floor of the chairman of the Budget 
+Committee. He wants to speak. Clearly, I want to speak for no more than 
+7 minutes. I ask that I be advised when I have spoken for 5 minutes.
+  The PRESIDING OFFICER. The Senator will be advised.
+  Mr. DOMENICI. Mr. President, the Budget and Impoundment Control Act 
+will be 30 years old soon--30 years in existence. Many pundits never 
+thought it would survive even 1 year. As a freshman Senator, I worked 
+along with my colleagues to help bring about the act, and then I was 
+honored by this body to serve as chairman for many years.
+  Let me say that the drafters of the Budget Act knew it was a bold and 
+daring piece of legislation, setting up a whole new way of considering 
+legislation in the Congress. As a matter of fact, I am not sure they 
+even knew how bold it would be. It, indeed, in many respects, changed 
+the way the Senate does business--some for the better, some not so much 
+for the better.
+  There is one provision that is called reconciliation--a strange 
+word--and people wonder what it means. Let me just tell you, without 
+trying to take much time, that our distinguished leader had an 
+opportunity to move this bill under what is called a reconciliation 
+bill. Do you know what that would have done, Mr. President? That would 
+have limited debate, and it would have made the bill almost not 
+amendable and, indeed, besides that, there would be no points of order. 
+He chose, as the bill progressed through, to do otherwise.
+  So let me repeat. The drafters recognized the need to provide waivers 
+of points of order in this bill. The waivers are just as important as 
+the points of order. They are not there just because points of order 
+might cause so much damage that you need to waive them. They are there 
+because points of order can be a range of things, and the points of 
+order can be waived because the Budget Act says you can waive them, 
+unless in fact they are important to fiscal responsibility or, in some 
+way, violate the soundness of a Budget Act.
+  So let's be clear. The budget resolution before us, which we adopted 
+back in the spring under the leadership of Senator Nickles, authorized 
+spending over the next decade of $400 billion for reform of the 
+Medicare Program with prescription drugs. Let me repeat. The fiscal 
+dimensions are $400 billion. You would think if you are going to make a 
+point of order about this bill being out of line budgetwise, somebody 
+would be here saying it spends more than $400 billion, it breaks the 
+budget, would you not?
+  Most logically, any Senator who says there is a point of order 
+against this bill would say, well, we didn't think it spent more than 
+was prescribed in the Budget Act. They are right, it didn't.
+  As a matter of fact, using technical rules of evaluation, it spent 
+less than allowed. It spent $395 billion. You would almost think it 
+should get an accolade instead of a point of order. It should get a 
+bow, a ribbon instead of a point of order. It spent less than the 
+Budget Act, and yet a Budget Act point of order is being raised against 
+it. Let me explain.
+  I know that members of the committee and the leader himself tried 
+their very best to keep this bill under $400 billion, and they 
+succeeded. But you had to provide 10 years of estimates, the sum total 
+of which could not exceed $400 billion. Are you with me, Mr. President? 
+They had to produce a bill with 10 years of estimates, the sum total of 
+which did not exceed $400 billion. The sum total of this bill is less 
+than the Budget Committee gave them to spend. So it didn't break the 
+budget.
+  One of the years--1 of the 10 years--they could not make the estimate 
+for that year fit the estimate of the 10 years.
+  The PRESIDING OFFICER. The Senator has used 5 minutes.
+  Mr. DOMENICI. I will complete in 2 minutes.
+  The committee could not make this proposal fit in each piece of the 
+10 years. In other words, if you look along and keep adding up the 
+years, it is $395 billion. But the committee also made some estimates 
+by the year, and one of those years is $4 billion high--got it, $4 
+billion in an estimating bonanza of $400 billion.
+  First of all, everybody knows they are estimates, the best you can 
+do. I have had to rely upon them and got accused that I shouldn't have 
+relied upon them when I was the budget chairman, but we did. So there 
+is one year that is $4 billion off in the estimating of 10 years. But 
+every other year is within, which is truly remarkable, and the sum 
+total is $395 billion.
+  Mr. President, I say to fellow Senators, the truth is the Budget Act 
+point of order should not be used for a frivolous matter--$4 billion 
+off in 1 year with a $400 billion bill. It should not be used to cure 
+technical matters--$4 billion in a 10-year bill of $400 billion. I am 
+sure my friend, the chairman of the Budget Committee, will talk about 
+some of the other technical issues regarding programs. But the biggest 
+issue is fiscal soundness.
+  We have from time to time in a Budget Act authorized $300 billion for 
+a program over 10 years, and I can tell you, many times a committee 
+came back with a bill that was $300 billion, but for each of the 10 
+years it didn't fit the number.
+  This Senator, as chairman of the Budget Committee, wouldn't have 
+dared to get up and say the bill should fail on a point of order 
+because it violates the budget and, thus, the Budget Act should be used 
+to kill it because they had done a great job and had met the total, but 
+you can't, in estimating, make every year hit it right, right on the 
+head.
+  I submit that a point of order should not be used. The leader's 
+waiver of that provision should be sustained because we are using the 
+Budget Act to try to kill a Medicare bill that is fiscally as sound as, 
+if you are just talking about fiscal soundness, not substance--the 
+points of order are not substance; they have to do with dollars--if you 
+are just off 1 year out of 10 but not on the total of 10, you should 
+not invoke the point of order. It should be waived as requested by the 
+majority leader.
+  I thank the Senate for the 7 minutes. I yield the floor.
+  I note the presence of the chairman of the Budget Committee.
+  The PRESIDING OFFICER. The Senator from Oklahoma.
+  Mr. REID. Mr. President, will the Senator withhold?
+  Mr. NICKLES. I will be happy to yield.
+  Mr. REID. Mr. President, on our side, Senator Graham will speak for 
+10 minutes, Senator Boxer for 5 minutes, Senator Dodd for 5 minutes, 
+and Senator Corzine for 5 minutes.
+  Mr. NICKLES. Mr. President, I yield myself as much time as I might 
+consume.
+
+[[Page S15701]]
+
+  I urge my colleagues to vote to waive the budget point of order. I 
+think I am correct--I haven't looked at numbers--I probably voted to 
+make more points of order than almost anybody, maybe with the exception 
+of my very good friend, the past chairman of the Budget Committee. I 
+have always tried to maintain the integrity of the budget, but I think 
+what we have here is a way of people saying: Let's vote for cloture, 
+but maybe we can kill this bill indirectly; we will do it with a budget 
+point of order and not to save money.
+  I wish the people were really concerned about the fiscal integrity of 
+Medicare, but I don't think that is what is behind the proponents of 
+these budget points of order.
+  As a matter of fact, in looking at past records, Senator Daschle, who 
+made the budget point of order, has moved to waive a budget point of 
+order 56 out of 60 times. Senator Kennedy has moved to waive a budget 
+point of order 54 out of 57 times that he voted. In other words, some 
+97 percent of the time they always moved to waive the budget rules. I 
+have always been on the opposite side. I am going to be on the opposite 
+side of them this time because, frankly, I think they are just trying 
+to kill the bill so the bill will come back later with more costs and 
+be a lot more irresponsible.
+  If my memory serves me correctly, when we debated the budget this 
+year on the floor of the Senate, there was an amendment to increase the 
+$400 billion authorization or the reserve fund we put in the budget for 
+prescription drugs and to improve Medicare. I believe Senator Kennedy 
+and Senator Daschle supported an amendment to increase that figure to 
+$600 billion. They were not successful.
+  My point is I think their effort today is not because they are 
+concerned about this bill costing too much money. I think they are 
+trying to figure out a way to bring this bill down so it can come back 
+and cost more money. I just mention that.
+  What about the point of order? The budget said we would have up to 
+$400 billion to spend for improving and strengthening Medicare, 
+including providing prescription drugs. The bill that was reported out, 
+according to CBO, meets that target. It scores at $395 billion. I 
+happen to think it is going to cost more than that, but it is compliant 
+with the rules set by the Budget Committee on its total spending and 
+scored by the Congressional Budget Office.
+  There is a violation or budget point of order in 2004. What do I mean 
+by that? It scores $3 billion more in 2004. What that relates to is 
+when we pass a budget, we allocate so much money to each committee each 
+year, and the Finance Committee has already spent all of its money. It 
+spent all of its money because we passed unemployment compensation--a 
+total of $4.7 billion in unemployment compensation in 2004 not assumed 
+in the Budget Resolution. We spent an additional $10 billion in aid to 
+the States that was not assumed in the budget resolution. There are 
+some other things that we didn't do, so the Finance Committee is out of 
+compliance now by about $3 billion with this bill.
+  What does this bill do in 2004 that costs money? The prescription 
+drug proposal doesn't really get started in 2004 with the exception of 
+the prescription discount drug card. The card, which offers all seniors 
+a 15-, 20- or 25-percent of immediate savings in January of 2004 and 
+provides a $600 benefit for low-income seniors. Seniors who have 
+incomes less than 135 percent of poverty will get a card. I believe 
+that card will be authorized in January of 2004 for $600. The 
+beneficiary would have to make a copayment of 10 percent. So that costs 
+money in 2004. I don't hear the opponents seeking to delay immediate 
+relief for seniors and low-income seniors.
+  Further, there are other items that cost money in 2004. Providers 
+receive assistance. Providers, who do I mean? I mean doctors, 
+hospitals, rural hospitals--provisions that are supported very strongly 
+by Members of both parties--rural add-ons, and so on. That is the bulk 
+of this money, $3.8 billion. So if people don't want to spend that 
+money, that is of interest, but my guess is that is not really the 
+case.
+  My guess is people want to spend the money for rural health care 
+areas.
+  I then heard the Democratic leader indicate his concern was also on 
+the revenue side of the budget. There is a point of order because of 
+health savings accounts. That is a $160 million revenue loss in 2004.
+  I understand some people do not like that particular provision of the 
+bill. I happen to think it is a very good provision of the bill. If the 
+supporters of this point of order prevail then the entire Medicare bill 
+is going to be pulled down. Am I right to assume that their goal is to 
+ensure that there will be no prescription drug coverage for low-income 
+seniors because of that provision? I do not think so.
+  Now folks are stating that the bill has no cost containment. Well, I 
+believe we have very different meanings of those words. The proponents 
+of the point of order consider government price controls to be 
+effective cost containment tools. I do not agree. I do agree that the 
+legislation lacks real cost containment--I heard Senator Daschle say we 
+did not have cost containment. This Senator worked very hard to get 
+real cost containment. I wanted to put cost containment in that would 
+require a supermajority vote to worsen Medicare's financial condition. 
+If any future Congress had legislation before the body which would make 
+the fiscal problems of Medicare, which are already significant, worse, 
+there would be a vote, a 60-vote point of order. I was not successful 
+in convincing our colleagues to include that fiscal restraint.
+  In fact, my primary opponent in creating real cost containment was 
+Senator Baucus. He kept saying: I cannot pass that in my caucus. That 
+will never pass. That is a nonstarter. You cannot get a supermajority 
+on this entitlement. You will be curbing the growth of this 
+entitlement. That is not done for other entitlements. I heard it over 
+and over. We debated it for a long time. Well, the facts are that it is 
+done for other entitlements. We have this rule in place today for 
+Social Security. Social Security's entitlement status has never been in 
+question as a result of a supermajority requirement.
+  I was not successful in getting stronger cost containment than what 
+we have in this bill. I regret that. I wish that we would. I would be 
+happy to pursue that in subsequent budget resolutions with the Democrat 
+leader, but we were not successful in getting it in this package. I 
+think the proponents of this point of order are not serious in their 
+effort to control costs. In fact I am puzzled as to why the proponents 
+of this point of order voted for cloture. Instead of opposing cloture 
+they are trying to get around it the other way and say, we will just 
+use a 60-vote budget point of order.
+  Seriously, I do not think their efforts are about budgets. I think it 
+is a way to try and kill this bill. I may not support final passage of 
+the bill because I am concerned about the total cost of the bill. But I 
+do not think it should be because we are spending some money for rural 
+hospitals or for doctors. I think doctors are getting like $600 million 
+in 2004; rural hospitals and other providers are receiving money in 
+2004; and health savings accounts reduce revenues by $160 million in 
+2004.
+  The real reason the Finance Committee has exceeded its allocation in 
+2004 is because we spent $4.3 billion for unemployment compensation and 
+because we spent $10 billion for aid to the States in 2004, neither of 
+which were in the original budget resolution.
+  I reserve the remainder of my time.
+  The PRESIDING OFFICER. The Democratic leader.
+  Mr. DASCHLE. I will yield time in just a moment to my colleagues. 
+First, I will respond briefly to a point made by the distinguished 
+Senator from New Mexico, Mr. Domenici. I am sorry he is not on the 
+Senate floor. I wanted to respond to a comment he made. He said this 
+was a frivolous point of order.
+  I remind my colleagues, this is precisely the point of order made by 
+Senator Grassley and Senator Frist on two different motions last year. 
+So I argue if it was appropriate last year, it would be appropriate 
+this year. If it is frivolous this year, it would have been frivolous 
+last year. Yet the distinguished Senator from New Mexico, and I might 
+add, of course, my friend the distinguished Senator from Oklahoma, both 
+voted in favor of the points of order last year when that precise point 
+of order was made.
+
+[[Page S15702]]
+
+  I ask unanimous consent that the rollcall involving both points of 
+order be printed in the Record at this time.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+         U.S. Senate Rollcall Votes 107th Congress--2nd Session
+
+       As compiled through Senate LIS by the Senate Bill Clerk 
+     under the direction of the Secretary of the Senate
+
+
+                              vote summary
+
+       Question: On the Motion (Motion to Waive CBA re: Graham 
+     Amdt. No. 4309).
+       Vote Number: 186.
+       Vote Date: July 23, 2002, 02:54 PM.
+       Required For Majority: 3/5.
+       Vote Result: Motion Rejected.
+       Amendment Number: S. Amdt. 4309 to S. 812 (Greater Access 
+     to Affordable Pharmaceuticals Act of 2002).
+       Statement of Purpose: To amend the XVIII of the Social 
+     Security Act to provide coverage of outpatient prescription 
+     drugs under the Medicare program.
+
+
+                              Vote Counts
+
+       YEAs: 52.
+       NAYs: 47.
+       Not Voting: 1.
+
+
+                      alphabetical by Senator Name
+
+     Akaka (D-HI), Yea
+     Allard (R-CO), Nay
+     Allen (R-VA), Nay
+     Baucus (D-MT), Yea
+     Bayh (D-IN), Yea
+     Bennett (R-UT), Nay
+     Biden (D-DE), Yea
+     Bingaman (D-NM), Yea
+     Bond (R-MO), Nay
+     Boxer (D-CA), Yea
+     Breaux (D-LA), Yea
+     Brownback (R-KS), Nay
+     Bunning (R-KY), Nay
+     Burns (R-MT), Nay
+     Byrd (D-WV), Yea
+     Campbell (R-CO), Nay
+     Cantwell (D-WA), Yea
+     Carnahan (D-MO), Yea
+     Carper (D-DE), Yea
+     Chafee (R-RI), Nay
+     Cleland (D-GA), Yea
+     Clinton (D-NY), Yea
+     Cochran (R-MS), Nay
+     Collins (R-ME), Nay
+     Conrad (D-ND), Yea
+     Corzine (D-NJ), Yea
+     Craig (R-ID), Nay
+     Crapo (R-ID), Nay
+     Daschle (D-SD), Yea
+     Dayton (D-MN), Yea
+     DeWine (R-OH), Nay
+     Dodd (D-CT), Yea
+     Domenici (R-NM), Nay
+     Dorgan (D-ND), Yea
+     Durbin (D-IL), Yea
+     Edwards (D-NC), Yea
+     Ensign (R-NV), Nay
+     Enzi (R-WY), Nay
+     Feingold (D-WI), Yea
+     Feinstein (D-CA), Yea
+     Fitzgerald (R-IL), Yea
+     Frist (R-TN), Nay
+     Graham (D-FL), Yea
+     Gramm (R-TX), Nay
+     Grassley (R-IA), Nay
+     Gregg (R-NH), Nay
+     Hagel (R-NE), Nay
+     Harkin (D-IA), Yea
+     Hatch (R-UT), Nay
+     Helms (R-NC), Not Voting
+     Hollings (D-SC), Yea
+     Hutchinson (R-AR), Nay
+     Hutchison (R-TX), Nay
+     Inhofe (R-OK), Nay
+     Inouye (D-HI), Yea
+     Jeffords (I-VT), Yea
+     Johnson (D-SD), Yea
+     Kennedy (D-MA), Yea
+     Kerry (D-MA), Yea
+     Kohl (D-WI), Yea
+     Kyl (R-AZ), Nay
+     Landrieu (D-LA), Yea
+     Leahy (D-VT), Yea
+     Levin (D-MI), Yea
+     Lieberman (D-CT), Yea
+     Lincoln (D-AR), Yea
+     Lott (R-MS), Nay
+     Lugar (R-IN), Nay
+     McCain (R-AZ), Nay
+     McConnell (R-KY), Nay
+     Mikulski (D-MD), Yea
+     Miller (D-GA), Yea
+     Murkowski (R-AK), Nay
+     Murray (D-WA), Yea
+     Nelson (D-FL), Yea
+     Nelson (D-NE), Yea
+     Nickles (R-OK), Nay
+     Reed (D-RI), Yea
+     Reid (D-NV), Yea
+     Roberts (R-KS), Nay
+     Rockefeller (D-WV), Yea
+     Santorum (R-PA), Nay
+     Sarbanes (D-MD), Yea
+     Schumer (D-NY), Yea
+     Sessions (R-AL), Nay
+     Shelby (R-AL), Nay
+     Smith (R-NH), Nay
+     Smith (R-OR), Nay
+     Snowe (R-ME), Nay
+     Specter (R-PA), Nay
+     Stabenow (D-MI), Yea
+     Stevens (R-AK), Nay
+     Thomas (R-WY), Nay
+     Thompson (R-TN), Nay
+     Thurmond (R-SC), Nay
+     Torricelli (D-NJ), Yea
+     Voinovich (R-OH), Nay
+     Warner (R-VA), Nay
+     Wellstone (D-MN), Yea
+     Wyden (D-OR), Yea
+
+
+                        Grouped by Vote Position
+
+                                YEAs--52
+
+     Akaka (D-HI)
+     Baucus (D-MT)
+     Bayh (D-IN)
+     Biden (D-DE)
+     Bingaman (D-NM)
+     Boxer (D-CA)
+     Breaux (D-LA)
+     Byrd (D-WV)
+     Cantwell (D-WA)
+     Carrahan (D-MO)
+     Carper (D-DE)
+     Cleland (D-GA)
+     Clinton (D-NY)
+     Conrad (D-ND)
+     Corzine (D-NJ)
+     Daschle (D-SD)
+     Dayton (D-MN)
+     Dodd (D-CT)
+     Dorgan (D-ND)
+     Durbin (D-IL)
+     Edwards (D-NC)
+     Feingold (D-WI)
+     Feinstein (D-CA)
+     Fitzgerald (R-IL)
+     Graham (D-FL)
+     Harkin (D-IA)
+     Hollings (D-SC)
+     Inouye (D-HI)
+     Jeffords (I-VT)
+     Johnson (D-SD)
+     Kennedy (D-MA)
+     Kerry (D-MA)
+     Kohl (D-WI)
+     Landrieu (D-LA)
+     Leahy (D-VT)
+     Levin (D-MI)
+     Lieberman (D-CT)
+     Lincoln (D-AR)
+     Mikulski (D-MD)
+     Miller (D-GA)
+     Murray (D-WA)
+     Nelson (D-FL)
+     Nelson (D-NE)
+     Reed (D-RI)
+     Reid (D-NV)
+     Rockefeller (D-WV)
+     Sarbanes (D-MD)
+     Schumer (D-NY)
+     Stabenow (D-MI)
+     Torricelli (D-NJ)
+     Wellstone (D-MN)
+     Wyden (D-OR)
+
+                                NAYs--47
+
+     Allard (R-CO)
+     Allen (R-VA)
+     Bennett (R-UT)
+     Bond (R-MO)
+     Brownback (R-KS)
+     Bunning (R-KY)
+     Burns (R-MT)
+     Campbell (R-CO)
+     Chafee (R-RI)
+     Cochran (R-MS)
+     Collins (R-ME)
+     Craig (R-ID)
+     Crapo (R-ID)
+     DeWine (R-OH)
+     Domenici (R-NM)
+     Ensign (R-NV)
+     Enzi (R-WY)
+     Frist (R-TN)
+     Gramm (R-TX)
+     Grassley (R-IA)
+     Gregg (R-NH)
+     Hagel (R-NE)
+     Hatch (R-UT)
+     Hutchinson (R-AR)
+     Hutchison (R-TX)
+     Inhofe (R-OK)
+     Kyl (R-AZ)
+     Lott (R-MS)
+     Lugar (R-IN)
+     McCain (R-AZ)
+     McConnell (R-KY)
+     Murkowski (R-AK)
+     Nickles (R-OK)
+     Roberts (R-KS)
+     Santorum (R-PA)
+     Sessions (R-AL)
+     Shelby (R-AL)
+     Smith (R-NH)
+     Smith (R-OR)
+     Snowe (R-ME)
+     Specter (R-PA)
+     Stevens (R-AK)
+     Thomas (R-WY)
+     Thompson (R-TN)
+     Thurmond (R-SC)
+     Voinovich (R-OH)
+     Warner (R-VA)
+
+                             NOT VOTING--1
+
+       
+     Helms (R-NC)
+       
+
+
+                         grouped by home state
+
+     Alabama:
+       Sessions (R-AL), Nay
+       Shelby (R-AL), Nay
+     Alaska:
+       Murkowski (R-AK), Nay
+       Stevens (R-AK), Nay
+     Arizona:
+       Kyl (R-AZ), Nay
+       McCain (R-AZ), Nay
+     Arkansas:
+       Hutchinson (R-AR), Nay
+       Lincoln (D-AR), Yea
+     California:
+       Boxer (D-CA), Yea
+       Feinstein (D-CA), Yea
+     Colorado:
+       Allard (R-CO), Nay
+       Campbell (R-CO), Nay
+     Connecticut:
+       Dodd (D-CT), Yea
+       Lieberman (D-CT), Yea
+     Delaware:
+       Biden (D-DE), Yea
+       Carper (D-DE), Yea
+     Florida:
+       Graham (D-FL), Yea
+       Nelson (D-FL), Yea
+     Georgia:
+       Cleland (D-GA), Yea
+       Miller (D-GA), Yea
+     Hawaii:
+       Akaka (D-HI), Yea
+       Inouye (D-HI), Yea
+     Idaho:
+       Craig (R-ID), Nay
+       Crapo (R-ID), Nay
+     Illinois:
+       Durbin (D-IL), Yea
+       Fitgerald (R-IL), Yea
+     Indiana:
+       Bayh (D-IN), Yea
+       Lugar (R-IN), Nay
+     Iowa:
+       Grassley (R-IA), Nay
+       Harkin (D-IA), Yea
+     Kansas:
+       Brownback (R-KS), Nay
+       Roberts (R-KS), Nay
+     Kentucky:
+       Bunning (R-KY), Nay
+       McConnell (R-KY), Nay
+     Louisiana:
+       Breaux (D-LA), Yea
+       Landrieu (D-LA), Yea
+     Maine:
+       Collins (R-ME), Nay
+       Snowe (R-ME), Nay
+     Maryland:
+       Mikulski (D-MD), Yea
+       Sarbanes (D-MD), Yea
+     Massachusetts:
+       Kennedy (D-MA), Yea
+       Kerry (D-MA), Yea
+     Michigan:
+       Levin (D-MI), Yea
+       Stabenow (D-MI), Yea
+     Minnesota:
+       Dayton (D-MN), Yea
+       Wellstone (D-MN), Yea
+     Mississippi:
+       Cochran (R-MS), Nay
+       Lott (R-MS-) Nay
+     Missouri:
+       Bond (R-MO), Nay
+       Carnahan (D-MO), Yea
+     Montana:
+       Baucus (D-MT), Yea
+       Burns (R-MT), Nay
+     Nebraska:
+       Hagel (R-NE), Nay
+       Nelson (D-NE), Yea
+     Nevada:
+       Ensign (R-NV), Nay
+       Reid (D-NV), Yea
+     New Hampshire:
+       Gregg (R-NH), Nay
+       Smith (R-NH), Nay
+     New Jersey:
+       Corzine (D-NJ), Yea
+       Torricelli (D-NJ), Yea
+     New Mexico:
+       Bingaman (D-NM), Yea
+       Domenici (R-NM), Nay
+     New York:
+       Clinton (D-NY), Yea
+       Schumer (D-NY), Yea
+     North Carolina:
+       Edwards (D-NC), Yea
+       Helms (R-NC), Not Voting
+     North Dakota:
+       Conrad (D-ND), Yea
+       Dorgan (D-ND), Yea
+     Ohio:
+       DeWine (R-OH), Nay
+       Voinovich (R-OH), Nay
+     Oklahoma:
+
+[[Page S15703]]
+
+       Inhofe (R-OK), Nay
+       Nickles (R-OK), Nay
+     Oregon:
+       Smith (R-OR), Nay
+       Wyden (D-OR), Yea
+     Pennsylvania:
+       Santorum (R-PA), Nay
+       Specter (R-PA), Nay
+     Rhode Island:
+       Chafee (R-RI), Nay
+       Reed (D-RI), Yea
+     South Carolina:
+       Hollings (D-SC), Yea
+       Thurmond (R-SC), Nay
+     South Dakota:
+       Daschle (D-SD), Yea
+       Johnson (D-SD), Yea
+     Tennessee:
+       Frist (R-TN), Nay
+       Thompson (R-TN), Nay
+     Texas:
+       Gramm (R-TX), Nay
+       Hutchison (R-TX), Nay
+     Utah:
+       Bennett (R-UT), Nay
+       Hatch (R-UT), Nay
+     Vermont:
+       Jeffords (I-VT), Yea
+       Leahy (D-VT), Yea
+     Virginia:
+       Allen (R-VA), Nay
+       Warner (R-VA), Nay
+     Washington:
+       Cantwell (D-WA), Yea
+       Murray (D-WA), Yea
+     West Virginia:
+       Byrd (D-WV), Yea
+       Rockefeller (D-WV), Yea
+     Wisconsin:
+       Feingold (D-WI), Yea
+       Kohl (D-WI), Yea
+     Wyoming:
+       Enzi (R-WY), Nay
+       Thomas (R-WY), Nay
+
+  Mr. DASCHLE. I yield 10 minutes to the distinguished Senator from 
+Florida.
+  The PRESIDING OFFICER. The Senator from Florida.
+  Mr. GRAHAM of Florida. Mr. President, given my expanded amount of 
+time, I would like to talk about two aspects of this. In 2001, first 
+with Senators Zell Miller and Ted Kennedy, and then with Senator Gordon 
+Smith, I offered variations of a prescription drug bill to this Senate. 
+In the case of the first legislation, there was, in fact, a point of 
+order, precisely the one that is now before the Senate, offered against 
+both of those provisions.
+  In the first instance, the vote to waive the point of order was 52, 
+so the bill had a majority of the Members of the Senate prepared to 
+support it, which would have meant we would not be having this debate 
+today because senior citizens and disabled Americans would be going to 
+the drugstore and getting their prescription drugs today.
+  The second bill which Senator Smith and I offered was very similar in 
+structure to the one that is in this current legislation; I would say 
+somewhat better and more public spirited but similar.
+  On that bill, there were 50 votes exactly not to waive the point of 
+order. So this is not a unique, unusual, or inappropriate motion to 
+make. It was made twice in 2001. In the one case, it denied passage of 
+legislation. In the other case, on virtually the same bill we have 
+before us today, it denied us the opportunity because we could not get 
+the 60 votes in order to override the point of order.
+  What I really want to talk about, however, is the last point that my 
+friend and fellow-departing Member of the Senate, Mr. Nickles, just 
+said, and that was about the issue of cost containment. Senator Nickles 
+has a definition of cost containment. That definition is that we will 
+impose limits on the amount of funds which can be spent on the Medicare 
+Program, the most prominently suggested approach being to say that if 
+more than 45 percent of the nontrust fund monies of the Federal 
+Government are going to be spent on Medicare, then there will be a 
+complex Rube Goldberg of votes and countervotes to determine if that 
+can occur.
+  If those limits are imposed, then the only way that 45-percent excess 
+can be replaced are through things which are clearly going to be very 
+onerous upon the Medicare beneficiaries, such as increasing the payroll 
+tax or increasing the amount of premiums that seniors would pay.
+  The idea that we might go to general revenue as the means of meeting 
+that excess is not allowable. It has to come out of the Medicare 
+Program itself.
+  I have a different definition of what a cost control ought to be, and 
+it is not a bureaucratic maze. It is a very straightforward, 
+capitalist, free enterprise, marketplace approach. It also is not a new 
+idea. In the early 1990s, this Senate passed legislation which 
+authorized the administrator of the Veterans' Administration to 
+negotiate with pharmaceutical companies on behalf of the VA. That bill 
+was sponsored by Senator Alan Simpson, retired Republican from Wyoming; 
+Senator and now-Governor Frank Murkowski of Alaska; retired Senator 
+Alan Cranston from California, and our colleague today, Senator Jay 
+Rockefeller. Those were the four sponsors.
+  When the bill came before the Senate, there was not a request for a 
+recorded vote. It passed unanimously. So that does not sound like it 
+was a very radical bill, given who its sponsors were, or that it raised 
+any great cries in the Senate.
+  What has happened over the intervening decade plus since this 
+legislation was passed? Well, here is a chart that shows some of the 
+common prescriptions which are now being purchased by the VA under this 
+legislation. Let us take one which I happen to know well because I take 
+it myself, and that is Zocor. It was designed to control high 
+cholesterol.
+  On Veterans' Day of this year, I spent the day at the VA hospital in 
+Miami. A lot of the day was spent in the pharmaceutical dispensing 
+area. I asked the question: What are you paying for Zocor? Well, the 
+answer was 66 cents a tablet. I then asked what would it be if they 
+went to the drugstore and bought the same identical tablet. It was 
+$3.77.
+  I said: Is that illustrative of the kind of discounts you are able to 
+negotiate? The answer was: No, it frankly is a little bit deeper than 
+average. We, this year, will dispense about $39 million of prescription 
+drugs through the Miami VA. I asked: If you went down to the drugstore 
+and bought it at the same price that, for instance, seniors under 
+Medicare would pay, what would it cost? It was $81 million. So there is 
+more than a 50 percent discount--in some cases much more dramatic 
+discounts.
+  The question that I think we should anticipate, so we had better 
+ready with an answer, is the question: Why, in light of the success of 
+the VA in providing for its 27 million eligibles--why do we have this 
+in this legislation, under the clause ``noninterference?''
+  I might correct a statement I made yesterday when I said it was on 
+page 54. In the final version of the printed conference report it is 
+moved to page 53, lines 18 through 26. Here is what those lines say:
+
+       Noninterference. In order to promote competition under this 
+     part and in carrying out this part, the Secretary--[who was 
+     in the Chamber just a few moments ago]--(1) may not interfere 
+     with the negotiations between drug manufacturers and 
+     pharmacies and PDP--[which is the drug-only insurance policy] 
+     sponsors; and (2) may not require a particular formulary or 
+     institute a price structure for the reimbursement of covered 
+     part D drugs.
+
+  What all that legalese means is that we are about to prohibit the 
+Secretary of HHS from using the tremendous bargaining power which 
+Medicare has, similar to the Veterans Administration, to accomplish for 
+Medicare beneficiaries the same cost control that we are now achieving 
+in the Veterans Administration.
+  Some people say: Why are we doing this? What is the reason we would 
+have such diametrically different policies for two very similar groups 
+of Americans?
+  One answer was: Well, veterans, they are a special class. There are 
+not as many veterans; therefore, they will not have the impact.
+  I agree, veterans are a special group of Americans. They deserve to 
+be honored. But so are the other members of the greatest generation. So 
+are the wives who stayed home with the children while their husbands 
+were fighting abroad.
+  The fact is, there are 27 million veterans eligible to get these 
+reduced costs. When we pass this Medicare bill, until such time--and I 
+am afraid it will not be very long--that we see a mass retreat of 
+private pre-employers--that is the persons, the businesses that used to 
+employ the current retirees--start to drop coverage--until that 
+happens, there will be about 10 million to 12 million of the 40 million 
+Medicare beneficiaries who are likely to take most advantage of this 
+prescription drug benefit.
+  You can't tell me if 27 million veterans can take advantage of this 
+program, and they have not brought the
+
+[[Page S15704]]
+
+pharmaceutical industry to its knees, that 10 to 12 million Medicare 
+beneficiaries are going to cause that to occur.
+  The PRESIDING OFFICER (Mr. Graham of South Carolina). The Senator has 
+used 10 minutes.
+  Mr. GRAHAM of Florida. I ask for an additional 5 minutes.
+  Mrs. BOXER. Reserving the right to object--of course, I will not 
+object--I would like to be the next Democrat on the list to speak 
+because Senator Daschle had committed that to me but he is not in the 
+Chamber at this time. I ask unanimous consent that I be the next 
+Democrat to speak, up to 7 minutes, after Senator Graham, and of course 
+yielding to the other side.
+
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. GRAHAM of Florida. There is a question more serious than the 
+question I just asked, and that is, How do we answer the question? This 
+is Ms. Kitterage. She is 75 years old. She lives in Tamarac, FL. She 
+has about $4,900 a year expenses over a range of prescription drugs. 
+That is her annual expense. Here you see some of the vials of her 
+prescription drugs.
+  This is not the case--at least I don't know it to be the case--but 
+let's assume that Ms. Kitterage either is married or is a widow and 
+that her husband was about her age, which would have meant that he 
+would quite possibly have been one of our brave soldiers in the Korean 
+war. As such, he would be eligible, as one of the veterans, to get the 
+VA discounts. She is not eligible today. Because of this provision we 
+are proposing to put into law, she will not be eligible in the future 
+to get the benefit of Medicare's tremendous purchasing power.
+  I want to just leave this question. When we stand up before an 
+audience of elderly Americans and Ms. Kitterage comes and asks this 
+question: My husband is the same age I am; why is he able to buy 
+prescription drugs at half the price that I have to pay because he can 
+do it at the VA, that is the question we are going to be required to 
+answer. I would like to offer that to my colleagues for a response. 
+Would somebody please tell me what is the public policy that justifies 
+utilizing the purchasing power of the VA to get these kinds of 
+discounts?
+  Yet to the wives of the veterans we say: You have to pay the full 
+amount. I can't find a justifiable reason for that.
+  I am a capitalist. I am a free enterpriser. I am a marketplace 
+person. I don't believe in socialism. Why should we bring the 
+marketplace to the veterans but bring the red flag of socialism to 
+Medicare? I hope, during the course of this debate, we can engage on 
+this issue because I think it is maybe the most central issue. If we 
+did this one thing, if we eliminated this specific paragraph and wrote 
+in the language that we did over 10 years ago for the VA, we would be 
+doing the seniors of America a greater benefit than anything we are 
+considering and we would be saving the American taxpayers an enormous 
+amount of money, therefore avoiding further additions to our national 
+debt.
+  The PRESIDING OFFICER. The Senator has used his additional time.
+  Mr. GRAHAM of Florida. Mr. President, I leave that question with you 
+and hope during the course of this debate we will be engaged in 
+answering.
+  The PRESIDING OFFICER. The Senator from Iowa.
+  Mr. GRASSLEY. Mr. President, first of all, I should find out how much 
+time we have left.
+  The PRESIDING OFFICER. You have 43 minutes.
+  Mr. GRASSLEY. I yield myself such time as I might consume.
+  This may sound like a simple vote, to raise a point of order about a 
+budget and how this fits into the budget. But what this vote is all 
+about is whether or not we are going to have any bill whatsoever 
+providing prescription drugs for seniors. That is what this next vote 
+is all about because I believe if we get 60 votes like we did 70 votes 
+on the cloture motion, we will be on our way to passage, in a 
+bipartisan way--everything has been bipartisan on this bill, as far as 
+I am concerned--in a bipartisan way, passage of this bill, so our 
+seniors can have prescription drugs, so that the biggest hole that has 
+ever existed in Medicare for the last 38 years is filled in.
+  So all the arguments can be made about this little budget deal or 
+that little budget technicality, but this is a vote about keeping the 
+promises of both political parties over the last three elections. I do 
+not think we ought to pooh-pooh keeping the promises of the last 
+election. People are cynical about political leaders anyway--
+overpromising, not delivering on promises. This is our opportunity. 
+This is one of the last two votes for this bill to go to the President 
+of the United States.
+  So this vote is about our seniors, and also we can include Americans 
+with disabilities. So a successful vote against overriding this point 
+of order will gut the immediate funding we provide for prescription 
+drug discount cards.
+  Much has been said by the opponents of this bill about not providing 
+help to seniors fast enough. How many times, in the last 3 days, 4 days 
+of debate on this bill have you heard the point: ``Well, this bill is 
+not going to take effect for 2 years. I don't know why it can't take 
+effect sooner''?
+  Now, that is not our choice. We pass a bill. You have to give some 
+time for bureaucrats to implement it and write the regulations, and you 
+want to do it right. So that is what they say: They need that amount of 
+time, No. 1. No. 2, this bill takes effect immediately for part of it, 
+and that part is the drug discount card for seniors and the disabled so 
+they can get 15 to 25 percent discounts on drugs right away.
+  So apparently a discount card available to all seniors in less than 5 
+months, and also with a direct $600 subsidy to those with the lowest 
+incomes, is something that opponents of this bill--crying in their beer 
+all the time about this not doing enough for seniors or not taking 
+effect soon enough--is a reason to block this bill.
+  They are talking out of both sides of their mouth when they say that. 
+On the one hand, they say it is not going into effect soon enough, and 
+then with the next vote we are going to have up, they are going to 
+guarantee no drug benefit for years, and just with some little budget 
+technicality on a procedure vote.
+  That is pretty ironic, that they would take that stand over the 
+course of 4 days--argue that this bill is not going into effect soon 
+enough, ignoring the discount card that starts immediately, and saying 
+we are not doing enough--and then they are willing to block it on a 
+technicality.
+  It seems to me that anybody who says we are not providing drug 
+benefits quickly enough for our seniors and our disabled would vote to 
+override this point of order so we can get to the next vote, final 
+passage of this legislation.
+  Also, I just heard some of my colleagues from the other side of the 
+aisle say this bill, in some instances, does not do enough for rural 
+health care delivery. We provide $25 billion in this bill for rural 
+providers to deal with the inequitable situation of the 30 States below 
+the national average. That is because the formulas for doctors and 
+hospitals in rural areas treat them less well, less equitably than the 
+formulas for urban areas, because the assumption is in rural areas you 
+can deliver health care for less costs.
+  But they are crying in their beer about maybe that is not doing well 
+enough. And if they vote as 1 of the 41 who might keep us from 
+overriding that point of order, then how can they talk out of both 
+sides of their mouth--one time saying, ``We are not doing enough,'' and 
+then, on the other hand, ``Kill this bill on this budget 
+technicality''? Because just as soon as this bill passes, rural 
+providers are going to get a great deal of help from this legislation.
+
+  Now, that help is not just for our providers because we feel sorry 
+for doctors or hospitals. We are not being able to recruit doctors and 
+maintain our hospitals in rural America. This $25 billion in this bill 
+will strengthen our hospitals. It will give us an opportunity to 
+recruit doctors.
+  So if you are 1 of the 41 who does not help us override this point of 
+order, you are saying no to the recruitment of doctors in rural 
+America. You are saying it is OK to close rural hospitals. Because you 
+know what is going to happen right away if we do not pass this 
+legislation--all the doctors of America are going to take a 4.5-percent 
+cut in their reimbursement because of the way our formulas work. I do 
+not
+
+[[Page S15705]]
+
+know how formulas such as that were written, but those formulas have an 
+egregious impact upon the doctors.
+  I strongly disagree that that ought to happen and that we ought to 
+have situations where medical doctors are fed up with working with 
+Medicare patients and they just get out of the program. Then our 
+seniors have fewer doctors to take care of their needs.
+  But if this bill passes, it is going to give relief to our doctors, 
+not only stopping that 4.5-percent cut, it will give them a 1.5-percent 
+increase in reimbursement.
+  It seems to me a vote against overriding the point of order is a vote 
+against our rural hospitals every day because every day our hospitals 
+are doing more with less. They serve our elderly. They serve the 
+uninsured, those who live in some of the remotest parts of our country, 
+and those who live in our cities as well because city hospitals have 
+problems, too.
+  Are we going to tell those hospitals what they do every day in saving 
+lives and improving patients' quality of life is not somehow important? 
+I certainly hope not. But a vote against overriding this point of order 
+is a thumb in the eyes of health care providers, in the eyes of the 
+people who run our hospitals, the nurses who work there.
+  So this is going to be a vote against some of our neediest seniors. 
+And the neediest of our seniors are those in nursing facilities who 
+need physical therapy. They need occupational therapy, speech therapy. 
+This bill, out of this $25 billion, provides a 2-year moratorium from 
+the therapy cap that is in law today, which, basically, at $1,500 is 
+saying, if you have a stroke, if you have some sort of major operation, 
+you are only going to get physical therapy up to $1,500; and too bad 
+after that.
+  Well, we take care of that in this legislation. But the people who 
+vote against overriding this point of order are saying no to those 
+neediest of seniors in the nursing homes who will be hit by this $1,500 
+cap and will not be able to get the physical therapy services they 
+need.
+  We are at a point where all this effort about rural hospitals has 
+been supported by an overwhelming majority in both the House and the 
+Senate.
+  We heard our colleague, Senator Bennett of Utah, speak passionately 
+about his daughter. His daughter is a speech therapist and knows all 
+too well how nursing home residents benefit from therapies after they 
+have suffered a stroke, heart attack, or maybe just a fall. Are we 
+going to say to Senator Bennett's daughter that we don't need to delay 
+these caps? Are we going to say to our seniors that access to physical 
+therapy doesn't matter? I certainly hope not.
+  You will hear a lot about this vote being a comment on how we spend 
+money in this Medicare bill. You will hear how this vote might be a 
+vote against special interests in America. I ask my colleagues what 
+they mean because if their seniors need immediate relief from high 
+prescription drug bills, their hometown doctors need some help, their 
+local hospitals need some help, their seniors recovering from stroke 
+and heart attack need some help because they need more therapy, then I 
+guess they should vote against these people.
+  That isn't what I hear from the other side of the aisle. They are the 
+great humanitarians of the American political environment. They are 
+concerned about all these people. Well, this next vote will show how 
+concerned they are because they are voting against all these people who 
+have need, most often the seniors of America who need prescription 
+drugs.
+  I do not intend to vote against them and, in the process, hopefully 
+get this bill to final passage.
+  I reserve the remainder of my time and yield the floor.
+  The PRESIDING OFFICER. The Senator from Nevada.
+  Mr. REID. Mr. President, the Senator from California has already been 
+recognized to speak for 5 minutes. Following the Senator from 
+California, I ask unanimous consent that Senator Dodd be recognized, 
+and following that, Senator Corzine be recognized for 5 minutes, and 
+following that Senator Durbin for 5 minutes.
+  The PRESIDING OFFICER. It is the understanding of the Chair that 
+Senator Boxer was going to be recognized for 7 minutes.
+  Mr. REID. That is correct.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The Senator from California.
+  Mrs. BOXER. Mr. President, let me tell you where we are because 
+people watching this debate may be confused on what has happened. On 
+our side we have made a point of order against this bill because it 
+busts the budget. Know where does it bust the budget? Does it bust the 
+budget by giving a more generous prescription drug plan to our seniors? 
+No. It busts the budget by giving away billions of dollars to the HMOs. 
+It also busts the budget because it allows a big deduction from the 
+wealthiest and healthiest people to set up what they call HSAs, health 
+service accounts, and to be able to deduct that money. What that does 
+is, it raises the premiums for everybody else, taking those people out 
+of the insurance pool.
+  So make no mistake about it, when the Senator from Iowa says we are 
+terrible on our side because we don't want to spend more money, we are 
+willing to spend the funds on the senior citizens' prescription drug 
+benefit. We are not willing to throw it away on HMOs and on the tax 
+breaks for the wealthiest people who are already doing just fine, thank 
+you very much.
+  Having said that, there is a real benefit to ensuring that this bill 
+stops in its tracks by supporting this point of order. In order to do 
+that, we have to vote no on the motion to waive it. So if we prevail, 
+if the other side does not get 60 votes, this bill will go back and get 
+started again. It will come back to us with a better prescription drug 
+plan. It will come back to us with less confusion, less bureaucracy and 
+the rest.
+  The underlying bill hurts seniors; 6 million of them will pay more 
+for prescriptions than they do today. There is a cruel asset test in 
+here where you may have to sell off your wedding band to get help. You 
+may have to sell off your car if it is worth more than $4,500 to get 
+help with prescription drugs. And it seems to me selling off family 
+heirlooms is not something we want to do to our seniors.
+  In many of our States that have big metropolitan areas--and I see the 
+Senators from Connecticut, Illinois, and New Jersey, I am from 
+California--our seniors will be forced into demonstration projects. 
+That means they will either have been forced into an HMO to get a 
+better break on their monthly premium or have to pay more to stay in 
+traditional Medicare where they have the choice of a doctor.
+  It increases Medicare premiums for middle and upper class people. 
+Some people may say that is a great thing. Let me tell you a couple of 
+bad things about that. Again, what will happen is, these people may 
+well leave Medicare, which means the pool shrinks and the premiums go 
+up for everybody else. The other problem is, these premiums are not 
+indexed. If this had been in place in 1980, I think we figured it would 
+be people with $33,000 a year who would have to pay higher premiums. We 
+know that is a low number.
+  There will be confusion and fear. I will talk about that. And there 
+will be large benefit shutdowns which are daunting and penalize 
+innocent seniors.
+  I say to the occupant of the Chair, something maybe he has not yet 
+found in this bill because, look at the size of this thing. This is the 
+size of it. It is hard to lift it. If you look at this, hidden in there 
+it says the Secretary of HHS can demand from the IRS your tax return or 
+mine or any of our constituents to just make sure they are not cheating 
+on a lot of the rules that go along with this.
+  In California, the minute this bill goes into effect, I have a lot of 
+problems: 867,000 sick low-income seniors will have worse coverage; 
+250,000 retirees will lose their more generous prescription drug 
+coverage; 296,000 fewer low-income seniors will qualify for low-income 
+protections than under the Senate bill that I was pleased to vote for; 
+230,000 Medicare beneficiaries will pay higher Part B premiums; and 1.4 
+million seniors will be forced or could well be forced into one of 
+those demonstration projects with HMOs.
+  I don't have a lot of time left so I want to leave you with this 
+chart that I made up, sort of wrote it myself. A lot of it is in my own 
+hand. I have to tell you, I used this chart on Saturday. My phones have 
+been ringing off the hook. This is what the senior citizens now have to 
+understand.
+
+[[Page S15706]]
+
+  I would urge my colleagues to look at every expression on this chart 
+and you tell me if you understand what these things are: Transitional 
+assistance, there is one thing seniors better learn because they are 
+transitioning into something different; MSAs, medical savings accounts; 
+risk adjustment, you are going to hear about that; benefit shutdown, 
+that is when you know longer have any benefit, and Senator Daschle was 
+so eloquent on that point.
+  If you have $5,000 worth of prescriptions, you are going to have to 
+pay $4,000 toward that $5,000. You can get a better deal with a 
+discount card. If I was a local pharmacist, I would just say: Come on 
+in, Medicare patients. I will give you a discount. Don't bother filling 
+out all the forms that will be necessary with this so-called great 
+benefit that the other side says they have given. There is a huge 
+benefit shutdown.
+  Coverage gap is another expression to explain. There are copayments, 
+risk corridors. You all know what HMOs are. You better know it well 
+because there are going to be a lot more of them. There is MA-PD plans, 
+plan retention funding; MA regions; donut holes--and you can't eat 
+those donut holes; those are gaps in coverage--premiums, you all know 
+what that means.
+  Let me tell you, it is going to be confusing. You won't know what 
+group you fall in and what your premium is. Income related, HSAs, 
+wraparounds, national bonus payments, stabilization funds--that is a 
+nice name for the slush funds that are going to the HMOs, and one 
+reason that budget point of order ought to be sustained--Medicare 
+advantage competition, annual out-of-pocket threshold. Seniors, you 
+better learn what that is. You are going to have to keep notes on every 
+little penny you spend.
+
+  By the way, if you happen to be on a prescription drug that is not in 
+the Medicare formulary, but it was in your Medicaid formulary--I don't 
+even have the time to go through all this.
+  One of my favorites is ``clawback.'' Half of my colleagues probably 
+don't know what that means. States are prohibited from helping their 
+seniors who are very poor pay their copayments. The States are 
+prohibited and they must pay back the Federal Government. So seniors, 
+pick up the phone, call your Senator. Tell them to bring this bill back 
+to the drawing board. It is a huge bill. Only a tiny portion of it is a 
+prescription drug benefit.
+  Mr. President, let's get rid of this turkey in time for Thanksgiving.
+  I yield the floor.
+  The PRESIDING OFFICER. Who seeks recognition?
+  The Senator from Connecticut is recognized.
+  Mr. DODD. Mr. President, I commend my colleague from California. 
+Bring that chart down here. Talk about alphabet soup, this is very 
+instructive, it seems to me, in terms of why people are so confused 
+about what is in this bill. There is incredible language here that even 
+the most determined person to learn about this bill would be hard 
+pressed. There it is.
+  I thank the Senator from California because she has laid out here a 
+lexicon of language which would glaze over the eyes of the most 
+determined people to try to sort out what this bill means.
+  One of the points the Senator made is worth noting again. This is not 
+the end of a Congress. This is only the end of a session. If we were at 
+the end of a Congress, I presume the argument made that we have no 
+other choice, we can either do it now or it doesn't get done would be 
+valid. Each new Congress has to begin all over. But we can actually 
+come right back, pick up where we left off, and try to work this 
+legislation out to serve a better interest.
+  I thank her for this. Some of this really needs further explanation. 
+Let me say this--and I am being repetitive to some degree--the 
+prescription drug piece of this is of concern to me. I was willing to 
+accept the argument that having a prescription drug benefit of $400 
+billion over the next 10 years, while not perfect, was a start. If that 
+is all we were voting on today, I would probably vote for it. What is 
+not being discussed at any great length is the second half of the bill, 
+which is very confusing to people because it has language in it that is 
+unclear as to what the ramifications mean.
+  So people need to pay attention and understand that if we are just 
+dealing with the second half of the bill, the Medicare-exclusive parts 
+of Medicare, I think there would be a very different reaction in the 
+Chamber to what we are proposing. I suspect the prescription drug 
+benefit piece would pass overwhelmingly, and I suspect that a free-
+standing Medicare piece might not get 15 votes, when you consider what 
+is being proposed.
+  You are absolutely prohibited, under this bill, from joining to go 
+out and buy prescription drugs collectively. You are banned under this 
+legislation. Under this legislation, of course, you are going to give a 
+significant advantage in the competition because of the $12 billion 
+subsidy. That is the reason the order holds here. This piece of 
+legislation has a significant subsidy coming up to the private piece of 
+this proposal. Nothing like that is being offered anywhere else.
+  In fact, a similar point of order was raised in July of last year--at 
+the end of July of 2002--making the exact same point of order that has 
+been made on this legislation. That point of order was raised by the 
+majority leader and the chairman of the Finance Committee against the 
+piece of legislation offered by Senators Graham, Miller, and Kennedy. 
+There, the point of order was against section 302(f) of the Budget Act 
+because it broke the budget ceilings.
+  That is what is being offered here for exactly the same reasons. It 
+will be curious to see whether or not the people who felt so strongly 
+about not waiving the Budget Act back then will do the same here.
+  This legislation being proposed, obviously, also makes it extremely 
+difficult for people, down the road, to be able to have a prescription 
+benefit plan that is going to be fair and balanced. I take note that 
+none of these provisions, by the way, will go into effect rather 
+immediately. You can impose many of the things we are talking about 
+here in a matter of days if you are truly interested. Yet they are 
+delaying it until 2006, until after the 2004 elections when, obviously, 
+what happens to beneficiaries under the so-called fair competition--
+Medicare, remember, was a program designed to take the wealthy and 
+healthy and the poorer and sicker together, not to discriminate, and to 
+provide for both of these constituencies. Over the years, that is why 
+the program has been so successful. What is going to happen, of course, 
+with this unfair competition of a 9-percent differential and a $12 
+billion subsidy is that those who are wealthier and healthier will spin 
+off out of Medicare, and only the poor and the sicker will be left in 
+the program; thus, raising the premium costs or reducing benefits. That 
+is what is going to happen here. There is no doubt in my mind about 
+where we are headed with this proposal. We have raised this point of 
+order to suggest that there is a better way of crafting this 
+legislation. We urge our colleagues to support the point of order when 
+the vote occurs.
+  The PRESIDING OFFICER. The Senator from Pennsylvania is recognized.
+  Mr. SANTORUM. Mr. President, I yield myself such time as I may 
+consume. Will the Chair please notify me when I have used 10 minutes?
+  The PRESIDING OFFICER. The Chair will do so.
+  Mr. SANTORUM. Mr. President, I find this to be a little bit of a 
+surreal experience, being here on the Senate floor and listening to all 
+of the problems in this legislation, all about how it doesn't provide 
+enough benefits and how we need to spend more money, and what is being 
+offered is the budget point of order by the very people who want to 
+spend more than what this bill does.
+  Someone is saying we are spending too much money--I think $4 billion 
+or $5 billion--in 2004. We are not even spending the $400 billion 
+allotted. It is a $395 billion bill. We are within the budget window 
+over 10 years and also over 5 years. But in the first year we are not 
+in the budget window. Why? Let's figure it out. If you are in for 5 and 
+10, what is the problem for the first year? The problem the first year 
+is that the budget sets up a category for mandatory spending, and 
+included in that was the money for Medicare.
+  Now, is the money that we have in this bill exceeding the money that 
+we anticipated in the budget for Medicare? No. Well, wait a minute. If 
+the money that we have in this bill doesn't exceed
+
+[[Page S15707]]
+
+what we had budgeted for Medicare, then why is it subject to a budget 
+point of order? Well, because the money that we had budgeted for 
+Medicare was eaten up by two Democrat initiatives that have swallowed 
+up that money--unemployment extension, and FMAP, money to the States 
+for their medical program. Because of those two expenditures--which I 
+agree was done in a bipartisan way, and I tip my hat to the other side; 
+it was clearly motivated by the other side of the aisle to spend this 
+additional money--we have now blown through what we were going to spend 
+on Medicare. Guess what. There is no money left in fiscal year 2004 for 
+Medicare--any kind of spending in this bill.
+  So if we would have done anything in this year to spend money on 
+Medicare, we would have exceeded the budget caps. So we have this thing 
+tantamount to a gimmick, if you will, where we have exceeded the budget 
+because of other spending having nothing to do with Medicare, and that 
+leaves us liable to a budget point of order.
+  Now, I understand if you want to kill the bill--and I understand you 
+do want to kill the bill--we had a vote on cloture. We had 70 votes, 
+and it would have been 71 had Senator Shelby been here and his plane 
+was able to get off the ground. But we had 70 votes not to block it on 
+a procedural vote, to give the people of this country, through the 
+Senate, an opportunity for an up-or-down vote as to whether this 
+proposal is worthy. Seventy Members voted today that we were not going 
+to use a procedural filibuster.
+
+  What is the next step? The next step is to use another procedural 
+gimmick. In this case, as the Senator from New Mexico has pointed out, 
+it truly is a gimmick because we are within what was contemplated when 
+we passed the budget earlier this year for Medicare next year, but we 
+have a technical problem because of other spending that has nothing to 
+do with Medicare.
+  I say to my colleagues who are going to be casting their votes 
+momentarily on this issue: If you want to block this vote procedurally, 
+you had your chance. It was a vote on cloture. We are now postcloture. 
+To put up another procedural gimmick--and this is truly a gimmick--
+being offered by someone who for 57 out of the last 60 waivers of the 
+Budget Act voted to waive the Budget Act and the 3 times they did not, 
+they were not here to vote as a way to obstruct the Medicare bill at 
+the 11th hour and the 59th minute, when they had voted for every single 
+waiver that was available to be voted on, to use this to try to block 
+this bill I think does not comport with the original vote which was not 
+to filibuster this bill.
+  This is tantamount to another filibuster only it doesn't have the 
+word attached to it. Maybe you can go back home and say: We didn't 
+filibuster this bill; I voted to allow this bill to be considered. But, 
+you know, there was this budget problem. Now by the way, I have never 
+seen a budget problem that I didn't have a problem with waiving. I have 
+waived it 57 times or 60 times this year on things a heck of a lot less 
+important than prescription drugs for Medicare, and we routinely did 
+it, but when it comes to Medicare, when it comes to $3 billion or $4 
+billion or $5 billion out of a $400 billion bill in the first year, 
+because of a problem having nothing to do with Medicare, then I am 
+going to find a problem, then I am going to be concerned about the 
+budget when I voted to waive the Budget Act 60 times prior to that.
+  That dog doesn't hunt. That is just a procedural obstruction. I hope 
+my colleagues who voted for the cloture motion will vote consistently. 
+This is another vote on cloture. That is what this is. This is a 
+procedural hurdle that has no substance or basis to it.
+  When the people who offer this procedural motion, concerned about the 
+impact on the budget, and in all of their speeches talk about how much 
+more money we should be spending, one wonders how sincere the budget 
+concerns really are. Every person who has gotten up to support this 
+budget point of order has said this bill falls short because it doesn't 
+spend enough. Yet they are making a point of order on the budget which 
+says we are spending too much.
+  This is the kind of shenanigans that goes on in the Senate, that goes 
+on in Washington, DC, that the public, frankly, just doesn't 
+understand. You are either for this bill or against this bill. If you 
+want to block this bill, vote against cloture, but don't put up these 
+gimmicks, rules that are in place to stop something from happening 
+because you want to accomplish the opposite effect of the rule. The 
+rule was put in place to save money. They are using the rule so they 
+can spend money.
+  It shouldn't be any surprise that on another issue relating to this, 
+we have a situation where many on the other side of the aisle have been 
+critical of this noninterference issue. That is the provision that says 
+the Federal Government is not going to negotiate a price for 
+prescription drugs for everybody on Medicare. Why do we have this in 
+place? Let me give you the policy.
+
+  We have this in place from a policy point of view because roughly 50 
+percent of all prescriptions in this country are going to be bought 
+through Medicare--to have that kind of ``market power'' where the 
+Federal Government will basically go in and dictate a price fix, price 
+set to every pharmaceutical--most pharmaceutical, not every--most 
+pharmaceutical products in this country.
+  Most Members of Congress are not for a command-and-control, one-size-
+fits-all drug price in America. Some are. Some would like to adopt the 
+Canadian-style system, and some would like to adopt the German-style 
+system, but we have made a decision that we believe it is better for 
+the private sector insurance company, with big market share because 
+there will not be very many of these plans--there will be big market 
+share--to negotiate with the private sector drug companies for the best 
+price they can get. And the better negotiators they are, the better 
+premiums they can offer to their beneficiaries which means more 
+enrollees. It is certainly their incentive to negotiate tough bargains 
+with the pharmaceutical companies. They have the market power and the 
+ability to negotiate.
+  It is different than giving the Government the ability to negotiate--
+I shouldn't say negotiate, I should say dictate--the price they will 
+pay for pharmaceuticals. We think the private sector should work, not 
+the Government dictating prices. They compare it to the Veterans 
+Administration. Yes, the Veterans Administration has such a proposal--
+not a proposal; it is the law. It mandates a 24-percent reduction. Does 
+that have any rhyme or reason to what the drug costs should be? No, it 
+is just a flat 24 percent across the board. If you don't take that 
+reimbursement, then you can't participate in Medicaid or any other 
+Federal program. It is a heavy hammer. It is a very small part of the 
+pharmaceutical industry.
+  I yield myself 3 additional minutes.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. SANTORUM. Mr. President, that is the policy. What is the history 
+of this provision? It is very interesting. This proposal, which was 
+criticized by Senator Daschle today, was introduced by Senator Daschle. 
+This came from the Democrats' bill in the year 2000. This language, 
+almost verbatim, was introduced by the Democratic leader, and now like 
+lemmings, they are lining up saluting this as the worst thing they have 
+ever seen. Yet it is their proposal, not just Senator Daschle's. It was 
+also in Congressman Stark's bill in 2000, and again, in the Snowe-Wyden 
+proposal, there was the exact language. It was in the tripartisan plan 
+of last year. Actually, a version of this language appeared in the 
+Senate bill that received 76 votes on the floor of the Senate.
+  I just wonder whether the degree of outrage is somehow inversely 
+proportional to the actual complicity of the act. We see this huge 
+amount of outrage, and yet we see complicity. In fact, it is their 
+language that is in this bill. Why did they put it in? They put it in 
+because they did not want to be charged with having Government price 
+fixing. They didn't want to be accused in their proposal that it was 
+going to be a command-and-control Government price fixing of 
+pharmaceutical products.
+  What did they do? They said: We believe in competition. They wanted 
+to be able to say that they have a competitive model, so they put in a 
+competitive model. Let the private sector negotiate their incentives 
+for the insurers to get lower costs out of the
+
+[[Page S15708]]
+
+pharmaceuticals, and there are incentives on the pharmaceuticals point 
+to give volume discounts.
+  Let that mechanism work. Don't have the head of CMS, the Medicare 
+Director in Washington, DC, dictate prices for everybody.
+  Let us not set those prices in the Senate. Let us let the marketplace 
+work to squeeze cost and get efficiency out of the system. It is their 
+idea. So, again, I suggest on two issues that have gotten a lot of 
+talk, No. 1, the budget point of order, which is made to save money, is 
+actually being used by the other side so they can spend more money. The 
+major provision that has gotten the ire of so many, which is this 
+noninterference with negotiating drug prices, is their proposal.
+  I suggest, as I had a conversation with one of my colleagues on the 
+other side of the aisle a few moments ago, I understand the left hates 
+this bill. As we saw from the House and we saw from some of our 
+colleagues, a lot of the right hates this bill. Usually, things that 
+come straight down the middle are usually where most Americans are and 
+where most Americans would like us to go. That is what this bill does. 
+I hope we have very strong support for it as a result.
+  The PRESIDING OFFICER. The Senator from New Jersey.
+  Mr. CORZINE. Mr. President, I want to speak for about 5 minutes about 
+encouraging my colleagues to sustain this point of order. I want to use 
+some of the comments I heard about gimmickry because I am concerned 
+about the budget issues, and this is absolutely relevant. It was 
+gimmickry to say we are spending $400 billion on a prescription drug 
+benefit for seniors and then hide it in HSAs, $12 billion support for 
+the insurance industry, lots of support, some of which I actually might 
+even have agreed to with regard to encouraging corporations to maintain 
+their insurance policies so Medicare does not have to pick it up, all 
+of that is true. But we have a major league problem. There is no cost 
+containment in this program of any serious effect.
+  I come from a State where there are a lot of pharmaceutical 
+industries and we were talking about importing price controls from 
+Canada. We had that debate around here. I am not for that. I think we 
+ought to deal with a market structure that is fair and respectful of 
+the buyers actually competing for the price.
+  Last time I checked, the Federal Government, when it buys a tank, 
+actually goes out and negotiates the price. When it is buying 
+airplanes, we talk about negotiating the price. I think it is 
+absolutely essential that if Medicare is the provider of the resources, 
+the taxpayer, that they be able to negotiate their price.
+  One of my problems with this bill--which I will remind people is 
+1,200 pages long and not many of us have read it--is that it has a lot 
+of unintended consequences. It has one very real intended consequence 
+which is to dampen competition which might lower prices. We are 
+increasing the demand curve and we are keeping the supply curve the 
+same, and that raises prices. That is exactly what happens. That is 
+economics 101.
+
+  By the way, the VA is a perfect example of it, and I thank Senator 
+Graham for pointing this out. When the VA is negotiating prices, it is 
+not 24 percent across the board. It is on individual drugs. They can 
+save about half of what would be paid if they went to a pharmacy.
+  This is not my chart but it is actually doggone good. I take this 
+Lopressor for high blood pressure. No wonder I have high blood pressure 
+being in the Senate. It costs 1 cent per pill. At the drugstore it is 
+87 cents.
+  Here is another one. This is Zantac. I guess if one has an ulcer--
+some people get ulcers when they are around here--it costs 2 cents at 
+the VA. It costs $1.83 at the drugstore. That is price control, price 
+containment at the VA, while the drugstore is charging what the market 
+will bear. That is what our seniors are doing. That is going to back 
+into the longrun explosion of costs with regard to this bill, about 
+which a lot of conservatives are concerned. I am concerned about it.
+  We say this is $400 billion, it is out of tilt with the budget 
+resolution in the first year, but if we think we know whether this bill 
+is going to produce $400 billion worth of expenditures over the next 10 
+years, I think we are kidding ourselves.
+  Nobody knows what is inside this bill on each individual page. There 
+is going to be a lot of difference by the time we get there. The one 
+thing we do know when we go from 40 million seniors to 70 million 
+seniors is this thing is going to explode in the second 10 years. The 
+estimate is it will cost $1.3 trillion to $2 trillion.
+  Frankly, it is going to increase the unfunded mandate for Social 
+Security and from about $18 trillion to $25 trillion. I cannot even 
+think of those numbers, but that is a huge problem if we are not 
+willing to deal with the reality of what we have to do.
+  That is why it is important on the budget to take into consideration 
+whether VA and the Medicare system are actually going to negotiate 
+these prices because they can hold down those costs. If we do not want 
+to deal with that, then we are going to have those kinds of long-term 
+results which are going to end up undermining the ability of the 
+American people to continue to have the kind of support they expect 
+from Medicare and other things.
+  I said last night, there is a lot of good in this bill. 
+Unfortunately, at least in New Jersey, 300,000 folks who do not have 
+insurance or drug coverage right now are going to get it, but 550,000 
+are going to be impacted negatively. It is real. We have done the 
+analysis. We know it.
+  What is important is we are putting ourselves on a track where we 
+will not be able to afford Medicare A, B, prescription drugs, or any of 
+these things. I think we are putting ourselves on a track because we 
+have been unwilling to deal with cost containment in a serious way. The 
+way to do that is not command and control. It is 15 percent of the 
+market. People negotiate for the Federal Government in every other 
+purchase they do. They ought to be doing that here. It would make a big 
+difference on cost containment.
+  I urge my colleagues to sustain the point of order.
+  The PRESIDING OFFICER. The Senator from Iowa.
+  Mr. GRASSLEY. I yield whatever time he might consume, up to 5 
+minutes, to the Senator from Oklahoma.
+  The PRESIDING OFFICER. The Senator from Oklahoma.
+  Mr. NICKLES. Mr. President, I wish to add a couple of comments to my 
+earlier statement. I noticed the Democrat leader, Senator Daschle, 
+alluded to similar points of order being raised in July of 2002. That 
+was raised and supported for a couple of reasons. One, the budget 
+resolutions in 2002, that was based on the resolution that passed in 
+2001 for fiscal year 2002, said there is up to $300 billion in a bill 
+that was reported out of Finance Committee that would strengthen and 
+enhance Medicare.
+  In 2002, the Democrats were running the place. They did not report a 
+Medicare bill out of the Finance Committee. They bypassed the Finance 
+Committee. I was a member of that committee. I was incensed that we 
+would just ignore the committee. Therefore, it violated the budget. 
+One, I know it was not reported by committee. Also, it was just, here 
+is the bill. I believe the bill was quite a lot larger than $300 
+billion. I am not sure if it was $570 billion or $600 billion. It was a 
+lot more than $300 billion.
+  So there was a very legitimate reason. One, it was not reported out 
+of committee. It did not have work done on it by the committee. It did 
+not meet the overall structure or the framework. This bill that we have 
+before us is within the $400 billion as reported by CBO. It did go 
+through committee, both the Finance Committee and the Ways and Means 
+Committee. It has been scored by CBO. At that time, I believe the bill 
+we had on the floor of the Senate had not even been scored, or at least 
+the details had not been scored, by CBO.
+  There was a legitimate reason to make a budget point of order. This, 
+in my opinion, is not. By its very fact, as evidenced by most of the 
+people who are promoting this budget point of order, they have almost 
+all the time, 90-some percent of the time, opposed budget points of 
+order when they have been raised in the past.
+  I yield the floor.
+  The PRESIDING OFFICER. Who seeks recognition?
+
+[[Page S15709]]
+
+  The Senator from Illinois.
+  Mr. DURBIN. Under the unanimous consent, I believe I have been 
+allocated 5 minutes. Is that correct?
+  The PRESIDING OFFICER. That is correct.
+  Mr. DURBIN. I ask for 4 and ask if the Chair will notify me when I 
+have 1 minute left.
+  A few minutes ago, the Secretary of Health and Human Services, Tommy 
+Thompson, was on the floor. It is his right to visit with us. It is an 
+opportune moment for him to come as the Senator from Pennsylvania 
+reminds us that we are not going into socialism, socialized medicine, 
+command and control; we are not going to have the Government bargaining 
+on the prices of medicine.
+  Yet I guess the Senator from Pennsylvania has forgotten that during 
+the anthrax crisis when Cipro, which was going to be used as an 
+antidote, was $4.67 a pill, Secretary Thompson negotiated for America 
+to reduce the price of that drug in the midst of the crisis to 75 
+cents. He was quoted as saying:
+
+       Everyone said I wouldn't be able to reduce the price of 
+     Cipro. I'm a tough negotiator.
+
+  Sounds a lot like command and control for me.
+  For Americans, they are taking a look at this bill and saying: Who is 
+going to speak for us? This 1,100 page bill prohibits reimportation of 
+drugs from Canada. So our friends, the seniors and families and others 
+who are looking there for relief, they will not be getting it out of 
+this bill. Even worse, as has been noted, in this one page that I take 
+out of 1,100, page 53, lines 18 through 26, we prohibit Medicare from 
+negotiating lower drug prices.
+  The Senator from Pennsylvania says that is because we believe in the 
+free market. Let the market set the price.
+
+  I might say to my friend from Pennsylvania, how do you explain the 
+multibillion-dollar subsidies for HMOs included in this bill? How do 
+you explain the $6 billion subsidy for your friends with health savings 
+accounts in this bill? Frankly, you can't, under free market 
+principles.
+  Let me say, when you take a look at this bill you understand that we 
+are squandering $6 billion for retiree coverage. That is one of the key 
+elements. We create these new health savings accounts. I will not go 
+into the long and lurid history, but when Mr. Newt Gingrich of Georgia 
+took control of the House, he brought with him one of his best pals, 
+the Golden Rule Insurance Companies from Lawrenceville, IL. In fact, 
+the Speaker was so smitten with this company he cut a television ad for 
+them with their medical savings accounts. Frankly, they returned the 
+favor, contributing over $3.6 million to Republican congressional 
+candidates. It was such a sweet arrangement. They would pass bills 
+sending more business to Golden Rule, Golden Rule would send millions 
+of dollars to Republican candidates.
+  Frankly, that meant nothing compared to this bill. This bill gives $6 
+billion for health savings accounts that have nothing to do with 
+Medicare and nothing to do with prescription drugs for seniors. This is 
+the largest single giveaway I have ever seen in 21 years. It is in this 
+bill.
+  Now, let me connect the dots. Turns out Golden Rule Insurance Company 
+was recently purchased. Who bought Golden Rule Insurance Company? A 
+group called UnitedHealthcare, down here, whose CEO, Channing Wheeler, 
+was paid $9.5 million, a sweet salary; compared to other HMO execs--not 
+that great.
+  Now connect the dots. Golden Rule, a friend of the Republican Party, 
+purchased by UnitedHealthcare; UnitedHealthcare is the largest 
+insurance group working with AARP. It all comes together.
+  AARP is selling this product for UnitedHealth Group, a $6 billion 
+subsidy in this bill, and now they have discovered this is the best 
+bill in the world.
+  I suggest to all my colleagues and all those watching this debate, 
+call AARP. Here is the telephone number, 1-800-424-3410. Tell them to 
+stand up for seniors for a change, tell them to fight for Medicare, 
+tell them to stop the sweetheart deals with Golden Rule and 
+UnitedHealthcare. We need to make sure the people who wrote this bill 
+get back to work and eliminate these giveaways, the multibillion-dollar 
+giveaways, the subsidizing for these great free market disciples that 
+are included in this bill. And we need to do it now. Sustain the point 
+of order. Vote no on the waiver of the point of order.
+  The PRESIDING OFFICER. The Senator from Nevada.
+  Mr. REID. Mr. President, we reserve the last 4 minutes for the 
+Democratic leader.
+  The PRESIDING OFFICER. There is 3 minutes remaining. The Senator from 
+Iowa.
+  Mr. GRASSLEY. I want to take 30 seconds and then yield 5 minutes to 
+the Senator from Louisiana and then the Senator from Montana.
+  Before I do that, how many times have we heard from the other side of 
+the aisle about this being a 1,000-page bill? I want them to read, if 
+they know how to read: There are 678 pages here. I want to know how you 
+folks can raise a point of order when you can't even count the number 
+of pages in a bill? I yield the floor.
+  The PRESIDING OFFICER. The Senator from Louisiana.
+  Mr. BREAUX. Mr. President, we have reached that point where the 
+debate is on the size of the bill and not the merits of the bill.
+  Let me just say, 38 years ago this Congress passed this document that 
+I have in my hand for the first time. It was in 1965 that we enacted 
+Medicare, which was a noble experiment. It was led by Democrats and 
+signed into law by President Lyndon Johnson. It was, indeed, a change 
+and a challenge. No one knew whether it was going to work. People could 
+not be guaranteed it was going to serve the needs of America's seniors. 
+But it was a chance worth taking. It was a change. I suggest today 
+Democrats in particular should not fear change if it is aimed at 
+improving a document that has served this country so well.
+  The only defect of this legislation was that it didn't do everything 
+that it should have. For instance, while it covered doctors and it 
+covered hospitals, it did not cover what at that time were new 
+innovations in the area of prescription drugs. Members of Congress knew 
+we had to take care of seniors going to the hospital. We had to take 
+care of seniors seeing their doctors. But no one really thought that 
+seniors getting prescription drugs was going to be that important.
+  Today we have the opportunity to correct what we did not do in 1965 
+and bring about a reform to this program which is greatly needed. I 
+would just say that is why organizations such as the National Council 
+on Aging, which represents all of these seniors who go to these senior 
+centers throughout our States and congressional districts, as well as 
+the AARP--and Democrats many times cite the AARP when they agreed with 
+them. But now when they do not agree with them they find fault with the 
+organization.
+  I suggest the Nation's largest organization representing over 35 
+million seniors has had their health economists and their lawyers 
+carefully study the document that is before us and made a 
+recommendation to those of us in Congress. They said this is something 
+we support because it is indeed, on balance, the bill we should approve 
+and send on to the President for signature.
+  Again, I say it is not a perfect bill. But, once again, we can't let 
+the perfect be the enemy of the good. We also cannot let the political 
+pundits of both of our parties suggest we cannot vote for this bill 
+because somehow it may give credibility to the other party. I have 
+actually heard that from both sides of the aisle. I think that would be 
+a tragic mistake.
+  The issue today is not which political party wins. The issue today is 
+whether we can craft legislation that allows America's 40 million 
+seniors to come out a winner. I think on balance this bill does that 
+because it combines the best of what government can do with the best of 
+what the private sector can do.
+  Many on my side of the aisle think the Federal Government should do 
+everything all the time. We can't do that. We can't do it very 
+effectively. So I think it is important to note that on the other side 
+of the aisle, many of them think the Federal Government should not do 
+anything and that the private sector should do it all.
+  The truth lies, as most truthful matters lie, somewhere in between. 
+The fact is, we ought to combine the best of
+
+[[Page S15710]]
+
+what Government can do with the best of what the private sector can do 
+and create a new Medicare reform for the 21st century.
+  With regard to the points of order, I made it very clear the two 
+points of order we are going to be voting to waive are not dealing with 
+the so-called premium support language that is in the bill. It doesn't 
+deal with the cost containment provisions that are in the bill. It 
+doesn't deal with whether we are going to bring in the Medicare Program 
+all low-income seniors who are currently in, under the State Medicare 
+Program--it doesn't deal with any of that. It deals basically with the 
+fact that we are spending more money in this legislation than the 
+structure of the budget would allow us to do.
+  That is not uncommon, and the proper procedure is to have a waiver of 
+those points of order, which is what we are going to be voting on.
+  The first point of order really lies because of the fact that we put 
+more money to help the State Medicaid Programs, something that most 
+people on my side of the aisle strongly supported, to make sure we help 
+those programs make sure the drugs that they are going to still be 
+involved in helping seniors with--that they will be able to help them 
+to the maximum degree possible.
+  In addition, one of the other reasons the first point of order lies 
+is because previously the Finance Committee helped the States with 
+their unemployment insurance, something most people on my side of the 
+aisle strongly supported. It is not sufficient for people to go back to 
+our States and tell seniors that we somehow prevented this bill from 
+being adopted because of a point of order that was very technical in 
+its essence. I think people want to know where we stand on the merits 
+of the bill. Are we for prescription drugs for the first time, for 
+seniors, since 1965? Are we for giving them a program where the Federal 
+Government pays 75 percent of their drug costs? Are they for or against 
+a program that is going to give particular help and assistance to our 
+Nation's low-income seniors, which is so terribly important? Are we for 
+bringing low-income seniors into one standard national Medicare Program 
+or are we not?
+  I would not want to go back and somehow argue the technical merits of 
+the point of order and say this is why I could not vote for 
+prescription drugs for seniors, a $400 billion package. There are going 
+to be some on the more liberal wing and more conservative wing who will 
+find reasons to be against this bill, but on balance it represents a 
+centrist coalition, and I urge my colleagues to support it.
+  The PRESIDING OFFICER (Mr. Sununu). The time of the Senator has 
+expired.
+  Mr. DASCHLE. Mr. President, how much time remains on either side?
+  The PRESIDING OFFICER. The minority side controls 3 additional 
+minutes, the majority side controls 6\3/4\ minutes.
+  The Senator from Montana.
+  Mr. BAUCUS. Mr. President, make no mistake about it, the issue before 
+us--that is, whether a point of order should be sustained--is a vote 
+about whether or not we provide prescription drug benefits to seniors. 
+It is that simple.
+  If we fail to waive this point of order, this bill is dead, certainly 
+for this year, probably for the next Congress. The very narrow issue 
+before us is whether or not it is ``OK'' to spend roughly $4 billion 
+more than the Budget Act previously allocated for the year 2004.
+  It is important to remember that this bill is totally within the 
+Budget Committee's allocation for the 10-year period of $400 billion. 
+So the narrow question is, Is it within the allocation for the year 
+2004?
+  Now, a couple points here. In 2004, dollars will be spent based upon 
+various pieces of legislation. There is already legislation passed 
+which allocates dollars for 2004. So the conference report itself does 
+not break the 2004 cap, but, rather, it is the accumulation of the 
+dollars in this bill plus previous bills which total up to exceeding 
+the cap allowable for 2004 under the Budget Act by about $4 billion.
+  So the real question we are asking ourselves is, Are we going kill 
+this bill--a bill for which the full $400 billion allocation does not 
+violate the Budget Act--are we going to kill this bill on a mere 
+technicality, a technical trap that any spending in 2004 has the effect 
+of bringing this bill down?
+  Now, it makes no sense to do that because, clearly, we want, in this 
+bill, to spend some money in 2004. What about the doctors in 2004? What 
+about the hospitals in 2004? Are we to tell doctors and hospitals, 
+because of a mere technicality, they do not get reimbursed in 2004? We 
+will suspend payments for a year, but then, beginning in 2005, we could 
+pick them up again? I do not think so.
+  I don't know what Senators are going to say to their seniors back 
+home who vote to sustain the budget point of order to kill the bill 
+because of some spending in 2004 for doctors and hospitals, denying 
+them a prescription drug benefit because they killed the bill. I do not 
+think many people in this body would like to do that.
+  This is a good bill. It is unfortunate that at this stage of the 
+debate, where we are past the listening stage, an awful lot of Senators 
+are not listening to each other. Rather, they are being rhetorical, 
+they are making their rhetorical points, and they are trying to 
+persuade I don't know who, but some people to certain points of view.
+  But if you look at the mere language of the bill, it is a good bill. 
+It provides a prescription drug benefit for seniors, a huge benefit for 
+low-income seniors. One-third of all seniors, under this legislation, 
+are categorized as low-income, and they get the benefits of this bill.
+  We also added in more money for what is called the Medicaid wrap to 
+help lower income folks even more than earlier was the case. We also 
+added in money to help keep retiree coverage.
+  I think it is important to note that companies generally are reducing 
+retiree coverage in America, irrespective of this bill. We have put in 
+$88 billion to companies for retiree coverage, which means, clearly, 
+that those companies are more likely to keep and retain coverage; that 
+is, this legislation intends to encourage the retaining of coverage, 
+not discouraging it.
+
+  So if this bill goes down, there are going to be more retirees who 
+will lose their coverage. Senior citizens will not get the benefit of a 
+drug benefit, particularly the lower income seniors will not get the 
+benefit, and we will be doing our seniors a terrific disservice.
+  So tomorrow is another day. We can improve upon this bill. If the 
+bill is killed, as it will be if this point of order is sustained, 
+those who hope, ``well, maybe we can do better next year,'' I think 
+should remember the admonition that a bird in the hand is worth two in 
+the bush.
+  Next year is a very political year. It is 2004. It is a Presidential 
+election year. It is almost impossible to predict the dynamics of next 
+year. It depends on the economy. It depends upon foreign policy. It 
+depends upon the Presidential election politics. And we all know that 
+usually in a Presidential election year not much legislation of 
+consequence passes. Usually, there is a lot of talking but not a lot of 
+action.
+  I do not think we can afford passing up giving seniors a chance to 
+get prescription drug benefits. So I urge Senators, on the technical 
+matter before us, to vote to waive the point of order because it does 
+not make much sense to me to let a technicality kill this bill.
+  The PRESIDING OFFICER. The Senator's 5 minutes have expired.
+  The Senator from Iowa.
+  Mr. GRASSLEY. Mr. President, I yield myself such time as I might 
+consume, and probably all of it.
+  Keeping the point of order means keeping the status quo. So I am 
+asking my friends on the other side of the aisle, what is there about 
+the status quo on Medicare that is good and acceptable? The lack of 
+prescription drugs? The slowness in getting cheaper generic drugs out 
+into the market? Arbitrary caps on physical therapists? Insufficient 
+funding for rural hospitals and long waiting lines for seeing the 
+doctors, if Medicare people can get in to see a doctor in rural 
+America?
+  I ask my colleagues, is this status quo acceptable? Apparently it is, 
+at least to the Senators who are refusing to waive the point of order.
+  I say nothing about Medicare's status quo is acceptable, not doctors' 
+cuts, not decreasing hospital and home health payments, not the lack of 
+access to health plans in rural areas such as
+
+[[Page S15711]]
+
+mine. And most of all, seniors' lack of access to prescription drugs 
+for all these years is what I find to be most unacceptable about the 
+reality of the status quo.
+  For those of you happy with the status quo, I say, try telling that 
+to your doctors, your hospitals, and, most of all, to your seniors. You 
+try telling these people that a technical point of order is more 
+important than changing Medicare's status quo. I will not try, and I 
+hope my colleagues will not try either.
+  The PRESIDING OFFICER. The Senator's time has expired.
+  The minority leader.
+  Mr. DASCHLE. Mr. President, this is our last chance to do something 
+to control the exploding costs that are absolutely guaranteed to occur 
+for seniors and for the Government unless we do something else. This is 
+the last chance.
+  There are those who have just said this will kill the bill. Just to 
+make sure everybody understands, this has nothing to do with killing 
+the bill. What happens under Senate rules is that we will go back to S. 
+1 as an amendment to H.R. 1. That is the pending business. That was 
+voted on, by the way, 76 to 21. So we go back, if we sustain this point 
+of order, to the Senate-passed bill, which passed 76 to 21. We can send 
+it to the House and ask for bipartisan support.
+  The distinguished Senator from Pennsylvania was saying that one of 
+the concerns I raised was our ability to contain costs. And yes, he is 
+right, we had an early bill that had the provision, this egregious 
+provision in it prohibiting the Government from getting the best deal, 
+just as Secretary Thompson has done with Cipro, just as we do with the 
+Veterans Administration.
+  What he did not tell our colleagues is that every subsequent bill--
+the last two bills we have introduced--did not have this provision in 
+it. Why? Because we understand what an incredibly valuable tool it has 
+been for the Veterans Administration.
+  So, Mr. President, if you want to control costs, if you want to make 
+sure the senior citizens of this country have the ability to get the 
+lowest price, if you are absolutely as concerned, as you say you are, 
+about controlling the costs of this program, then you are going to vote 
+to sustain this point of order.
+  This is our last chance.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from South Dakota has 1 minute 
+remaining.
+  Mr. DASCHLE. I yield the remainder of my time.
+  Mr. GRASSLEY. Mr. President, I ask for the yeas and nays.
+  The PRESIDING OFFICER. The yeas and nays have been requested. Is 
+there a sufficient second?
+  There appears to be a sufficient second.
+  The question is on agreeing to the motion. The clerk will call the 
+roll.
+  The legislative clerk called the roll.
+  The PRESIDING OFFICER. Are there any other Senators in the Chamber 
+desiring to vote?
+  The yeas and nays resulted--yeas 61, nays 39, as follows:
+
+                      [Rollcall Vote No. 458 Leg.]
+
+                                YEAS--61
+
+     Alexander
+     Allard
+     Allen
+     Baucus
+     Bennett
+     Bond
+     Breaux
+     Brownback
+     Bunning
+     Burns
+     Campbell
+     Carper
+     Chafee
+     Chambliss
+     Cochran
+     Coleman
+     Collins
+     Conrad
+     Cornyn
+     Craig
+     Crapo
+     DeWine
+     Dole
+     Domenici
+     Dorgan
+     Ensign
+     Enzi
+     Feinstein
+     Fitzgerald
+     Frist
+     Graham (SC)
+     Grassley
+     Gregg
+     Hatch
+     Hutchison
+     Inhofe
+     Jeffords
+     Kyl
+     Landrieu
+     Lincoln
+     Lott
+     Lugar
+     McConnell
+     Miller
+     Murkowski
+     Nelson (NE)
+     Nickles
+     Roberts
+     Santorum
+     Sessions
+     Shelby
+     Smith
+     Snowe
+     Specter
+     Stevens
+     Sununu
+     Talent
+     Thomas
+     Voinovich
+     Warner
+     Wyden
+
+                                NAYS--39
+
+     Akaka
+     Bayh
+     Biden
+     Bingaman
+     Boxer
+     Byrd
+     Cantwell
+     Clinton
+     Corzine
+     Daschle
+     Dayton
+     Dodd
+     Durbin
+     Edwards
+     Feingold
+     Graham (FL)
+     Hagel
+     Harkin
+     Hollings
+     Inouye
+     Johnson
+     Kennedy
+     Kerry
+     Kohl
+     Lautenberg
+     Leahy
+     Levin
+     Lieberman
+     McCain
+     Mikulski
+     Murray
+     Nelson (FL)
+     Pryor
+     Reed
+     Reid
+     Rockefeller
+     Sarbanes
+     Schumer
+     Stabenow
+  The PRESIDING OFFICER. On this vote, the yeas are 61, the nays are 
+39. Three-fifths of the Senators duly chosen and sworn having voted in 
+the affirmative, the motion is agreed to, and the point of order falls.
+  Mr. FRIST. I move to reconsider the vote.
+  Mr. McCONNELL. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+  Mr. DASCHLE. I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. DAYTON. I ask unanimous consent that the order for the quorum 
+call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. DAYTON. It is with a heavy heart I rise to speak against, and 
+later vote against, this bill before the Senate. I campaigned in 
+Minnesota on the need for prescription drug coverage for senior 
+citizens. I said consistently I would vote for a responsible bill. 
+Something was better than nothing. I voted a few months ago for the 
+Senate-passed bill despite considerable reservations. It was better 
+than nothing.
+  That Senate bill contained my ``taste of their own medicine'' 
+amendment which would require Members of Congress to live with the same 
+prescription drug coverage as we have for seniors and other Medicare 
+beneficiaries. That amendment, which passed the Senate by a vote of 93 
+to 3, was stripped out of the conference report as, evidently, some 
+Members were promised it would be. That should tell the American people 
+everything they need to know about this bill. It is not good enough for 
+Congress.
+  Some Members of Congress are trying to sell this legislation as good 
+for seniors and other Medicare beneficiaries of America, but it is not 
+good enough for them to live under. That is the height of hypocrisy. It 
+is good enough for the senior citizens of this country, it is the best 
+we will vote to provide for them, but, sorry, we will pass on it for 
+ourselves. Why is Congress opting out of this coverage if it is so 
+good? Why is it only half as good as what Members voted to provide 
+themselves and their families and their employees?
+  First, the program does not begin for 2 years, not until January of 
+2006. Until then, the senior citizens of America are going to have 
+their opportunity to get another drug discount card. There is a novel 
+idea. There are only how many dozens available already to seniors?
+  This one plays special favorites. A senior with an income above 150 
+percent of poverty, approximately $13,000 per year of income and 
+approximately $16,000 a year for a couple--they get a drug discount 
+card and nothing more. A single senior with an income just under that 
+amount, by even a couple dollars, or a married couple with an income 
+similar, just a few dollars under that cut off level, gets a drug 
+discount card plus $600. It is all or nothing. Either $600 or nothing.
+  I am strongly in favor of helping low-income retirees but certainly 
+on a more equitable basis than $600 or nothing. That is all that is 
+available for seniors for the first 2 years.
+  I would think the administration and others who decry the 
+bureaucratic ineptitude and want to dismantle whole structures of 
+Government would say something about this kind of ridiculous delay. Two 
+years from passage to inception, for what? To give insurance companies 
+time to write insurance policies? Or to shortchange seniors for 2 years 
+to get the 10-year costs of the bill down? What is the reason for this 
+ridiculous delay?
+  Whatever it is, if a program such as this cannot be initiated for 2 
+years, that is a compelling reason to junk this program and find one 
+better. Seniors of Minnesota and America have waited too long already 
+to get good comprehensive prescription drug coverage. They should not 
+be told they have to wait another 2 years before the program can even 
+begin. That should be reason itself to find another way.
+
+  When it does begin, what does the average senior get? He or she pays 
+an annual premium of about $420 with an annual deductible of $250 and a 
+25-percent copay for the next $2,000 in expenditures in that 1 year. In 
+other words, $500 of the $2,000 of costs. So if you add those up--$420 
+premium, the $250 annual deductible, the copay of $500, the
+
+[[Page S15712]]
+
+senior is paying $1,170 of the first $2,250 annual costs for 
+prescription drugs. In other words, just over half.
+  But the next $2,850 of the costs for that senior citizen in that 
+single year have to be paid entirely by the senior, everything out of 
+their own pockets. That means for the first $5,100 of annual expenses 
+for prescription drugs--which is not, unfortunately, beyond the pale 
+for many seniors--the senior citizen pays $4,020. The Senior pays for 
+80 percent of the first $5,100 of annual prescription drug expenses. 
+Above that, catastrophic coverage kicks in and the program pays 95 
+percent of the balance for that year but then the next year it starts 
+all over.
+  Something is better than nothing, but to delegate $400 billion over 
+10 years for coverage that seniors have to wait 2 years to begin and 
+then they have to pay $4,000 of the first $5,100--all of that to save a 
+little over $1,080 is something but it sure is not much.
+  If that were all the bill did, I still would support it reluctantly 
+because something is better than nothing. Unfortunately, the bill does 
+worse than that; 2.7 million seniors estimated by the Budget Office now 
+covered under private plans will lose that private coverage and will be 
+relegated to this coverage which is far inferior to what they have now. 
+That would include an estimated 40,000 Minnesotans. People who worked 
+all their lives for a private employer and are now covered under that 
+plan would lose it and be shifted to something much worse for them and 
+what they have now.
+  For over 7 million low-income elderly, the poorest of our poor senior 
+citizens, they will pay more as they get shifted from Medicaid to 
+Medicare. Their copay will increase and their choice of prescriptions 
+will be reduced. That will affect almost 90,000 people in my State of 
+Minnesota.
+  The worst result in this bill is a prescription for higher and higher 
+drug prices for all Americans that all Americans will have to pay. All 
+Americans will have to pay out of their own pockets for their own 
+prescription drugs and they will have to pay out of their own pockets 
+for this program and other Government programs because the way this 
+bill is written, the drug companies profit and everyone else has to 
+pay.
+  There will be no drug reimportation from Canada permitted unless the 
+Secretary of Health and Human Services certifies the safety of 
+all, which is something that the Secretary's predecessors in the 
+previous two administrations did not do and this Secretary has 
+indicated he will not do either.
+
+  It is a totally unrealistic requirement to put on a Secretary to give 
+a blanket certification of the safety of everything that would 
+transpire.
+  If the Secretary of Transportation had to provide that kind of 
+guarantee for all air travel in the United States, we would not have an 
+airline network functioning because no one could be expected to give 
+that kind of guarantee.
+  But the people who wrote this bill were very clever. They will not 
+prohibit reimportation themselves, even though that is the result they 
+want. No. They pretend the opposite, that it is permitted if--if--the 
+Secretary of Health and Human Services certifies safety, something they 
+know he will not do.
+  The irony--or the absurdity really--is that according to Congressman 
+Rahm Emanuel, one of the coauthors of the reimportation bill in the 
+House of Representatives, the United States imports $14 billion worth 
+of foreign-made drugs into the United States every year--$14 billion of 
+prescription drugs that are manufactured in countries such as Ireland 
+and elsewhere that are imported into the United States and distributed 
+to U.S. pharmacies and then sold to American citizens.
+  Those exact same drugs are manufactured in exactly the same plants, 
+in the exact same countries, such as Ireland, and are shipped into 
+Canada and distributed to Canadian pharmacists; and the only 
+difference--they are exactly the same; the same product, manufacturer, 
+packaging--the only difference is in Canada the price is one-third what 
+it is in the United States or one-fourth what it costs in the United 
+States or even as little as one-fifth or less than what it costs in the 
+United States.
+  That is the only difference: the price. Yet all of my colleagues who 
+are free trade proponents and those over in the House want to repeal 
+NAFTA just for prescription drugs, which is one of the areas where the 
+American consumer would benefit most decidedly, enormously, from NAFTA, 
+from free trade, from the ability to go to another country and take 
+advantage of those lower prices.
+  No. Sorry. Under this legislation, the result will be you Americans 
+must buy your drugs in the United States, and only in the United 
+States, at prices two or three or four times the world market price.
+  Now, why are the prices so much lower in Canada than they are in this 
+country? It is because the Canadian Government stands up for its 
+citizens and negotiates prices that are lower and will not agree to 
+prices that are exorbitant. And their citizens are the beneficiaries of 
+these prices that are one-third, one-fourth, one-fifth of what they are 
+in the United States--not even close approximations.
+  People say the Government ought to act more like a business, and they 
+are right. What we are proposing the Government would do is exactly 
+what large corporations which self-insure or HMOs do, which is to 
+purchase volumes of prescription drugs at negotiated discounts of 30 
+percent, up to 50 percent. It is exactly what my colleague Bob Graham 
+from Florida has pointed out, that the Veterans Administration does 
+quite successfully, with fantastic savings for veterans and for the 
+American taxpayers who pay for part of the cost of that program.
+
+  But not under this legislation. This legislation would prohibit what 
+they call Government interference in price setting negotiations. Why? 
+Well, once again, the words of the bill belie the intent and the 
+result. It says: ``in order to further competition.'' What deception 
+that is. It says, let a bunch of small-competitor plans offer nickel-
+and-dime savings, but prohibit the Government from insisting upon and 
+getting 5 times, 10 times that amount of savings, savings that would 
+benefit everyone in America--seniors and everyone else. Those price 
+reductions would be reflected in domestic market prices.
+  The critics call it price fixing. Well, there is price fixing now in 
+this country. It is the drug companies that are doing the price fixing. 
+They are given monopolies, called patents, for 15 to 20 years or more. 
+They set the prices, they raise the prices, and we have to pay the 
+prices. But that kind of price fixing, I guess, is all right according 
+to some who want to prohibit the Government from doing so.
+  Does anybody really believe Americans are going to be upset about 
+paying lower prices for prescription drugs? Does anybody think 
+consumers in America are going to say: Government is acting in a way 
+that I don't support? In fact, it will be the opposite. People will 
+say: Wow, my Government is doing something for me. My Government is 
+standing up for me against these big corporate entities that I don't 
+have the ability to face by myself. I don't have that purchasing power. 
+I can't go to a drugstore and negotiate price. Even as a pharmacist I 
+can't negotiate a different price. My Government is standing up for me 
+the way the Canadian Government is standing up for their citizens. By 
+golly, my Government is doing something right.
+  But the people who wrote this bill are so anti-Government that they 
+will not even let Government do something right. They will not even let 
+Government do something that would have enormous financial benefit for 
+all the people of this country that would save them billions of dollars 
+of expenditures because I guess it might contradict their ideological 
+absolutism that Government does everything wrong.
+  Well, it also might cost the drug companies, the largest contributors 
+to the Federal political campaigns--it might cost them, I guess, some 
+of their millions of dollars of profits, coming out of the pockets of 
+people we are supposed to represent.
+  It is a big victory, this bill, for the corporate drug dealers. You 
+have to give them credit. All those lobbyists--what is it? They 
+estimate there are six times the number of lobbyists for the 
+pharmaceutical industry for every Member of this body. Well, it sure 
+paid off for them this time. They won everything. They got uncontained 
+price increases for years to come, a market group, 39 million seniors 
+who will have help pay them, who will pay those
+
+[[Page S15713]]
+
+higher prices, and everyone else paying higher prices, and a captive 
+market, where they are not even able to go someplace else and take 
+advantage of lower prices elsewhere. The drug companies want 
+everything.
+  The Medicare manipulators, they are the other winners. This bill is 
+supposed to be about providing the best possible prescription drug 
+coverage for senior citizens. Now we find out all these ambushes of 
+various aspects of Medicare are tossed in that were not considered by 
+the Senate, for which there were no hearings. And there were not votes 
+on these matters. They were either put in the House bill or stuck in 
+the conference committee behind closed doors where no one else could 
+see what was going on.
+
+  The program reform in Congress has become like a drive-by shooting. 
+With no forewarning, somebody picks a target, shoots a bunch of holes 
+in it, and takes off. That is our version of reform. That is what we 
+are doing here with no forethought.
+  Another example is special education. We have waited 3 years for so-
+called reform of special education, which is always used as the reason 
+we cannot spend the money that is necessary to fulfill a 27-year old 
+commitment. And then suddenly, last week, lo and behold, there was 
+unanimous consent for 2 hours of debate, evenly divided, on IDEA 
+reform, and, boom, we are going to have it done, boom, in time to go 
+home and eat turkey.
+  Unfortunately, we produce enough turkeys right here with this 
+legislation. Unfortunately, this bill we have before us is one of those 
+turkeys. And I say that with no pleasure at all, given the importance 
+of it. But this is a $400 billion turkey that gives first pickings and 
+all the gravy to the corporate drug dealers and the big insurance 
+companies and the big plan providers. Some seniors get the leftovers, 
+and the American taxpayers get the neck and higher drug prices for 
+themselves and higher payments through this program and others, 
+subsidizing prices that are just exorbitant and that I would be ashamed 
+to support.
+  There is a better bill that could be written. There is a better bill 
+that could be passed. There is a better bill that could benefit the 
+people of Minnesota and the people of this country. With a 2-year 
+delay, we could come back next year and pass that bill and still enact 
+it and get it implemented sooner than this one. That is the course of 
+action we should take.
+  We should reject this conference report, not for nothing, but for 
+something better because the American people deserve something much 
+better than what is being foisted on them here.
+  I thank the Chair. I yield the floor.
+  The PRESIDING OFFICER. The Senator from Oregon.
+  Mr. SMITH. Mr. President, I ask unanimous consent to speak for 5 
+minutes.
+  The PRESIDING OFFICER. The Senator has that right.
+  Mr. LAUTENBERG. I have a question, Mr. President, about the process. 
+Is the time available under the cloture rule divided between two sides 
+in equal parts?
+  The PRESIDING OFFICER. No, there is no provision for equal division 
+of time.
+  Mr. LAUTENBERG. So that any speeches now are made under cloture.
+  The PRESIDING OFFICER. The Senator is correct.
+  The Senator from Oregon is recognized.
+  Mr. LAUTENBERG. I thank the Chair.
+  Mr. SMITH. Mr. President, for the information of my colleagues, 
+Senator Clinton and I are going to speak briefly and make a unanimous 
+consent request with which I think he would agree.
+  Having listened to my colleague from Minnesota, I think many of us 
+come to this historic day on this vote on Medicare with some 
+trepidation but, frankly, with a lot of hope. Everyone knows that 
+Medicare, as it is currently constituted, does many good things for our 
+senior citizens. We also know they need a prescription drug benefit. 
+And we also know we are just about to add $400 billion for that 
+purpose. There are reforms in this we hope will work, but reforms which 
+will make us enlightened as to how best to preserve Medicare in the 
+future. I believe that is the bipartisan motive behind all of this.
+
+
+                   Unanimous Consent Request--S. 1839
+
+  Mr. SMITH. Mr. President, I sought recognition to talk about our 
+economy and, frankly, the need to extend unemployment benefits. It is a 
+fact that long-term unemployment reached a 20-year high and the job 
+outlook for the future, though improving, still leaves an awful lot of 
+people wanting and unemployed as this holiday season approaches. For 
+example, in my State of Oregon, we are down from 8 percent now to 7.6 
+percent. This is simply too high. Despite this economic reality, the 
+Federal program that provides Federal unemployment benefits is set to 
+run out next month unless we provide an extension.
+  We have extended these benefits several times since it was created in 
+March 2002. I believe we need to do so again. Millions of unemployed 
+workers have reached the end of their benefits without finding work, 
+and thousands more continue to run out of their State unemployment 
+benefits at the highest rate on record.
+  My concern is that Congress is going to recess and go home without 
+providing the assistance jobless Americans need and deserve. This 
+month, Senator Clinton and I introduced the Temporary Extended 
+Unemployment Compensation Program for an additional 6 months of 
+unemployment benefits. She and I have introduced this bill because the 
+current unemployment insurance program will run out in June, unless we 
+do this. It would then run out in June and phase out by September 30. 
+This is a modest extension for Congress to pass, but it is vital to 
+many unemployed Americans, particularly those who have lost not only 
+their jobs but their homes, health care, and more. We simply cannot 
+leave families out on a limb while they are looking for jobs. This is a 
+bill that will help them provide for their basic needs while making 
+their job searches a little easier.
+  I urge my colleagues not to leave Washington for the Thanksgiving and 
+Christmas holidays without passing legislation to lend a helping hand 
+to those Americans most in need.
+  Before I propound a unanimous consent request, I yield time to my 
+colleague, Senator Clinton of New York, for her comments, and then 
+would make my request.
+
+  The PRESIDING OFFICER. Without objection, the Senator from New York 
+is recognized.
+  Mrs. CLINTON. Mr. President, I am very pleased that my colleague 
+Senator Smith has taken the lead in asking for an extension of the 
+Temporary Extended Unemployment Compensation Program. One might wonder 
+why we are having to do this, but the simple explanation is that once 
+again we have run out of time. People will run out of their benefits by 
+the end of this year. If we go home for the Thanksgiving and Christmas 
+holidays without acting, there will be many Americans and a lot of 
+people in Oregon and in New York who are not going to have the 
+continuing help they deserve in these times.
+  We have extended unemployment insurance with bipartisan support in 
+the Senate three times in the last 2 years. I am very proud of that 
+because I think it shows how we can work together to help those who 
+deserve our assistance.
+  Because we are not coming back in, as I understand it, until January 
+20, we won't be able to do that if we don't act now on the Senator's 
+proposal. If we do act now, the House, which is coming back in early 
+December, will be able to similarly act and the benefits will flow.
+  It is significant, too, that Senator Smith and I are in the Chamber 
+asking our colleagues to join us because the State of Oregon and New 
+York City have the highest unemployment rates in the entire country. 
+New York City has an unemployment rate of 8.2 percent. We have never 
+recovered from the effects of September 11. Oregon has an unemployment 
+rate of 7.6 percent. So both the Senator and I are very concerned about 
+the good people we represent on opposite ends of our country who have 
+been out of work for a long time. We know long-term unemployment is at 
+the highest level it has been in 20 years. We need to give them some 
+additional time.
+  This extension would provide another 13-week extension until June. I 
+would urge support of Senator Smith's proposal. If I am not already 
+listed as an original cosponsor, I ask unanimous consent that I be so.
+
+[[Page S15714]]
+
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mrs. CLINTON. I yield back to the Senator from Oregon.
+  The PRESIDING OFFICER. Without objection, the Senator from Oregon is 
+recognized.
+  Mr. SMITH. Mr. President, I ask unanimous consent to proceed to the 
+immediate consideration of S. 1839, to provide additional Federal 
+benefits for the unemployed.
+  The PRESIDING OFFICER. Is there objection?
+  The Senator from Nevada.
+  Mr. ENSIGN. Mr. President, reserving the right to object, I want to 
+make a couple of points. Point one is that we have seen that the 
+economy is recovering. We are at about a 6 percent unemployment rate 
+nationwide. Back in 1993, the Democrats controlled the House of 
+Representatives, they controlled the Senate and they controlled the 
+White House. Extensions of unemployment benefits had been going on for 
+a period of time because of the recession. And with the Democrats in 
+control of both Houses and the Presidency, they terminated the program 
+when the national unemployment rate was at 6.4 percent. The national 
+unemployment rate was .4 of a percent higher than it is today.
+  The current extension of unemployment benefits does not end until the 
+end of December. In December, individuals currently receiving extended 
+benefits will still maintain those benefits. And based on all the 
+projections, the national unemployment rate should be lower at the end 
+of December than it is today.
+  There are a couple other points that need to be made in this debate. 
+First, when the unemployed are about to exhaust their unemployment 
+benefits, over half of those unemployed individuals get a job in those 
+last 2 weeks. And we have seen that a lot of people lately have been 
+exhausting the full time on their unemployment. Why is that? Well, for 
+one reason: The States have been reducing the amount of job searching 
+required by each individual. Basically, they are making it easier to 
+stay on unemployment insurance and taking away the incentives to go out 
+there and get a job.
+  The welfare reform bill, signed into law by President Clinton, 
+characterized Republicans as throwing women and children out into the 
+streets, that we were cruel, heartless, hard-hearted people. But we 
+knew something about human behavior. We knew that if we gave some 
+assistance, some temporary assistance, and gave individuals an 
+incentive to be employed, in other words that it was better to get a 
+job than it was to be on welfare--we knew that a lot of people would go 
+out and get jobs. What we didn't know was the staggering number of them 
+who did.
+  Unemployment insurance is the same way. The more generous the 
+benefit, the easier you make it to stay on unemployment insurance, and 
+the less incentive there is for people to actually go out and do what 
+it takes to get a job. So this is not about being cruel and heartless. 
+It is recognizing the fact that our unemployment rate is less today 
+than it was in 1993, when the Democrats were in control and every 
+single Democratic Senator and House Member voted to end the program 
+when the unemployment rate was higher than it is today.
+  Every single Democrat voted to end the program. With that, I 
+appreciate the work they are trying to do. I know their hearts are in 
+the right place. But on policy grounds, I object.
+  The PRESIDING OFFICER. Objection is heard. The Senator from New York 
+is recognized.
+  Mrs. CLINTON. Mr. President, I believe we are to go back on the 
+schedule for the postcloture Medicare debate; is that correct?
+  The PRESIDING OFFICER. The Senator is correct.
+  Mrs. CLINTON. Mr. President, I will say a few words and then yield to 
+my good friend from New Jersey. Before I get into the Medicare debate, 
+I wish to say some concluding remarks in response to my colleague from 
+Nevada.
+  At the rate that job creation is going under this current 
+administration, we have one job opening for every three applicants, and 
+it will take the next 19 months to get to the level of jobs we had 
+before the March 2001 recession started. So I think we are mixing 
+apples and oranges here.
+  This has been a jobless period. One can argue about whether or not 
+there has been any kind of recovery. I would take issue with people 
+suggesting it, but if they do, then they need to use that oxymoron ``it 
+is a jobless recovery,'' because the economy sure is not creating jobs. 
+In addition, we have places such as the one my friend, the Senator from 
+Oregon, represents, and my State, where the unemployment rate is far 
+above the national average. There is no way to say New York City, with 
+an 8.2-percent unemployment rate, is creating jobs again. It is not 
+happening.
+  I have a little problem with this idea that we are comparing welfare 
+recipients with people who lost their jobs. Welfare recipients didn't 
+have jobs, by definition. The whole effort in the 1990s was to create 
+circumstances in which people could move from welfare to work. What we 
+have now are people moving from work to nothing. We have no safety net. 
+So we are telling people who have worked hard, done what they were 
+supposed to do, been laid off from airlines, or telecommunications, or 
+financial services, whose jobs have gone to India or China, and there 
+are no jobs to replace them, we are telling them: Tough luck, happy 
+Thanksgiving, Merry Christmas, Happy New Year.
+  If that is what the other party wants to send as their Christmas 
+greetings to their constituents, that is certainly their right. It 
+certainly seems not to be in the spirit of the holiday we are about to 
+celebrate.
+  It is factually inaccurate to say there are jobs being created, and 
+all we have to do is really put the pressure on these people and make 
+it impossible for them to do anything other than go get a job. That 
+would be great if there were jobs to be gotten.
+  Given the combination of the economic and budget policies of this 
+administration, I don't think we are going to have those jobs 
+available. I predict to you that even if we have an unemployment rate 
+nationally of 6 percent, or 6.1 percent, or 6.2 percent, we are not 
+going to have the jobs coming back because this administration has 
+presided over the largest job loss in American history since Herbert 
+Hoover. If I were on the other end of Pennsylvania Avenue, I would not 
+want to be reminded of that, either. I would not want there to be an 
+up-or-down vote on whether or not to extend unemployment insurance 
+because, if do you that, you admit the obvious: You know what, we are 
+not creating jobs and we have to do something to help people.
+  I regret that the effort my friend, Senator Smith, and I have joined 
+together in trying to accomplish has been objected to; namely, to bring 
+about an extension of unemployment benefits, which strikes me as not 
+only the right thing to do but the smart thing to do, because every 
+time we extend unemployment benefits to the people who truly need them, 
+you pump more money into the economy, which may create a job or two and 
+obviate the need for uninsurance benefits in the future.
+  We will be back, as we were last year. We are not going away, 
+obviously. This is something about which we care deeply. It is the 
+right thing to do. If I thought we were having the kind of economy in 
+the future that we had starting in 1993, I might have a different idea, 
+but that is not what is going to happen. All the happy talk 
+notwithstanding, that is not going to happen.
+  Mr. President, I will now move to the Medicare conference report. I 
+have to tell you that the more I learn about this proposal, the less I 
+like it, the less fair I think it is, the less useful for our seniors.
+  Just recently, because we got this 1,200 page bill 4 days ago, 
+including a weekend, when people were combing through it, our experts 
+were trying to read it. I can guarantee you that if you put two 
+Senators up in the well of the Senate on opposite sides of the bill, or 
+even on the same side of this bill, they would not agree on every 
+provision because there is not anybody who fully understands what is in 
+this bill.
+  But what I just learned is that three important items from the Senate 
+bill were changed in conference, in addition to everything else we know 
+that was changed--all the big things, including the reimportation of 
+drugs, the limitation on premium support, the lack of any kind of 
+support for HSAs, all of those things which changed. Here are
+
+[[Page S15715]]
+
+some additional changes which are now coming to light as people comb 
+through the fine print of the bill.
+  First, we thought seniors would know at the time of their enrollment 
+in these private plans what drugs would be on the list. That is called 
+a formulary. It is kind of a fancy term. There are lots of fancy, 
+confusing terms in this bill. My colleague, Senator Boxer from 
+California, has a mind-boggling chart, where she and her good staff 
+have pulled out all kinds of words that no normal human being 
+understands. Heaven forbid, I don't think abnormal people understand 
+them. They are made-up words that describe these processes and events, 
+and nobody understands what they really mean.
+  So we now found out that these formularies--the list of drugs that 
+would be offered by a plan--are not necessarily going to be available 
+to a senior when that senior signs up.
+  Now, imagine that. Think about my 84-year-old mother, who takes a 
+number of prescription drugs that are very specific and assigned to her 
+by her physician to meet her needs. Her doctor says: This is what you 
+need, and here is your prescription. So in 2006 or 2007, when she signs 
+up for one of these plans, she is not going to know whether the plan 
+includes a particular drug that she needs. I find that a big problem, 
+because how can you buy something when you don't know what it is you 
+are buying?
+  This is supposed to be a prescription drug plan. Therefore, 
+prescription drugs are at the heart of it. If you don't even know which 
+drugs you are supposed to get on your plan, that is not much of a plan. 
+This is another typical example of the old bait and switch--maybe it is 
+better to call it buying a pig in a poke. You don't know really what 
+you are buying but you have to go out and buy it.
+  Second, when the Senate sent the bill to conference, the Senate 
+required that the 10 regions determined by the Secretary of Health and 
+Human Services would be larger than a State. Now, that was supposed to 
+assure that we avoid the problem we now have with Medicare+Choice, 
+where HMOs serve some counties but withdraw from or refuse to serve 
+other counties.
+  I have that problem all over my State. The most intensely organized 
+seniors in my State are seniors who have had a bad experience with 
+HMOs--HMOs that came into their county and left them high and dry at 
+the end of the year; HMOs that came in and, when they found they had no 
+competition, raised the costs right in the middle of the year. Or at 
+the end of the year, when it came time to change and they were the only 
+game in town, they really increased costs to our seniors.
+  But the conference report, instead of taking the Senate requirements, 
+eliminates it--eliminates the requirement that the insurers must serve 
+an entire State or a large region.
+  I also know that as a Senator from New York, I have a special 
+obligation toward the people of Puerto Rico. We have a lot of Puerto 
+Ricans in New York. We are very proud and I am very honored to 
+represent a large Puerto Rican population in New York. But the 
+conference report has less money than the Senate bill for prescription 
+drugs for Puerto Ricans. I know it always comes as a surprise to some 
+people to learn that Puerto Ricans are American citizens. They are not 
+some alien group over here. They are American citizens. They don't live 
+in a State, but neither do the people who live in the District of 
+Columbia, but they are American citizens, too. For some reason, we are 
+not providing adequate funding for the people of Puerto Rico to get the 
+prescription drugs to which American citizens under this bill are 
+entitled.
+  Those are three hidden provisions in the fine print that we just 
+discovered today. Now we are going to have to vote on this bill today 
+or tomorrow, and we are going to be setting ourselves on a course that 
+will radically change Medicare.
+  Why should people care? If you are not 65 or older, if you are not my 
+mother's age, if you are not even closing in on Medicare, as I am, why 
+should you care if you are my daughter's age or one of these young 
+people working in the Senate in their thirties or forties? Why should 
+you care?
+  I would argue you should care because, No. 1, in our country we try 
+to keep faith with each other by providing a safety net for seniors, 
+for people who fought the wars, raised their families, built their 
+businesses, and served their communities. We thought ever since 1965, 
+when Medicare was passed, that it was really good for America to make 
+that commitment to our parents and our grandparents. It was the right 
+thing to do. It was the moral thing to do. It was the smart thing to 
+do. Before 1965, the poorest people in America were people over 65. Now 
+there are poor children. We have had a massive transfer of wealth to 
+take care of our parents and grandparents through Social Security and 
+Medicare. I believe we have neglected our children. We have about 22 
+percent of our children living in poverty. I am not proud of that, but 
+I am proud of what we have done through Social Security and Medicare.
+  If we are starting to unravel that now, that says something about who 
+we are as a people. It says something about this generation of American 
+leadership compared to previous generations.
+  Why else should you care if you are not a Medicare beneficiary? Maybe 
+you are the son, the daughter, or a grandchild of a Medicare 
+beneficiary and maybe you will want to do the right thing if your 
+grandparent or your parent has some kind of medical problem and they 
+cannot afford to pay for it themselves, and you want to step in and 
+help because that is the kind of person you are. And I hope that 
+describes the vast majority of our young people in our country today.
+  That may be tough because maybe you are saving to send your own child 
+to college or maybe you are saving to buy your first house. Then all of 
+a sudden, a medical catastrophe strikes, and what used to be Medicare 
+to provide that safety net is just not there anymore in 2010 or 2012. 
+All of a sudden, the burden falls back on you.
+  Why else should you care? Because in this bill it is not only about 
+undermining Medicare, it is about undermining health insurance in 
+general. We already have an increasing number of uninsured people, and 
+we are going to have even more of them in the future because we have a 
+totally dysfunctional system for financing health care that certainly 
+does take care of insurance companies and their executives and 
+pharmaceuticals and their executives but doesn't do a great job for the 
+average person.
+  This bill will undermine insurance for everyone, not just for 
+Medicare recipients. Why do I say that? Because there are no cost 
+controls to keep the price of a prescription drug down. There is no 
+bargaining power for the Governor to try to hold the pharmaceutical 
+companies in line to prevent them from just blowing the top off 
+whatever the price structure is. There is a really insidious provision 
+that puts a limit on how much money we can spend on overall Medicare if 
+the prices of Medicare go up--that is, hospitals, doctors, and drugs 
+now--which means you have to cut back on everything, not just 
+prescription drugs. So we are going to have Medicare recipients 
+squeezed even more. There is such a thing called cross subsidization. 
+What that means is, if you have insurance and you go to the hospital, 
+you are not just paying for your services that you get, you are, in 
+effect, paying for people who couldn't pay. For example, maybe the day 
+before you showed up in the emergency room, Mrs. Smith came in after a 
+terrible car accident or maybe some kind of acute asthmatic attack or 
+other kind of serious problem, and she didn't have any insurance. The 
+hospital takes care of her, but then they have to charge you, your 
+employer and your insurance company more to pay their bills. Anytime 
+you transfer money away from direct care, you are forcing more people 
+to pay more for the same care. Some of them will be unable to afford 
+it, but the cost to the providers of that uncompensated care will, in 
+turn, raise the price which, in turn, has employers dropping people 
+which, in turn, creates more uninsured individuals. It is a closed 
+system. It is a circuit. The circle should not be stressed. This breaks 
+that circle. This takes the security of Medicare and pulls it right 
+out, causing all sorts of effects throughout the circle.
+
+  The reason we created Medicare in the first place was that insuring 
+older people who might be more sick and more frail is not a profitable 
+enterprise. There are people who retire and go to some beautiful place 
+and play
+
+[[Page S15716]]
+
+golf all the time. They are physically fit and they look great when 
+they are 75, but now they may live to be 100, 25 more years. At some 
+point, the body starts breaking down no matter how well you take care 
+of yourself.
+  Medicare was the idea that we needed to provide a product because the 
+marketplace would not provide it, and this bill proves the wisdom of 
+that because the only way you are going to provide these benefits is 
+basically by subsidizing or, some might say inelegantly, bribing 
+insurance companies with billions and billions of taxpayer dollars to 
+provide this benefit that they would not ordinarily provide because it 
+is not cost-effective; it is not profitable.
+  There are many other reasons this Medicare bill is not in the best 
+interests of either Medicare recipients or our general population.
+  It is a sad day when we essentially devise this scheme to try to 
+transfer money from the Medicare system and the taxpayers' pocket to 
+those who are already doing very well, indeed. Probably the saddest 
+thing to me is not what might happen to the average Medicare recipient, 
+which I deeply regret, but to the poorest of our Medicare recipients, 
+the people who don't retire from an office job or some other 
+undertaking that gives them the resources to move to some warm place 
+and play golf every day, but the vast numbers of people who are sick, 
+who are frail, who are chronically ill, who are poor, and who end up in 
+nursing homes. Six million of them will be worse off under this bill. 
+That is really hard for me to accept. I do not understand how a great, 
+rich nation like ours can come to this point, where we impose new and 
+extra burdens on the poorest of the poor and the sickest of the sick.
+
+  I guess we think if somebody is in a nursing home and not out at a 
+golf course that we will not see them; we will not care; we will not 
+know. Maybe that is true if it is not your relative, your neighbor, 
+your colleague, or your friend. But 6 million low-income, chronically 
+ill or nursing home bound Medicare beneficiaries will be worse off 
+under this bill because of formularies or increased co-pays. I find 
+this not only hard to justify but cynical, cynical because some folks 
+are making a bet that those poor people are not going to raise a fuss 
+or a ruckus: Out of sight, out of mind.
+  They will not show up to vote or certainly not give anybody any 
+campaign contributions. So basically they do not exist. So we can turn 
+our back on them.
+  I do not understand what has happened to our country. I do not 
+understand what we believe about our obligations to one another or our 
+values when we would do that to our fellow citizens. I also do not know 
+what universe some people are inhabiting because none of us knows what 
+is going to happen tomorrow. Not a single one of us can predict when we 
+might need help, when we might have that accident, when we might get 
+that terrible diagnosis. We do not know.
+  I thought the golden rule was the overriding philosophy that should 
+guide us, but unfortunately in this bill that stands for an insurance 
+company that is going to get billions of dollars for the unproven 
+concept of health savings accounts. That is not what I learned in 
+Sunday school but what somebody else figured out how to make some money 
+off of.
+  It is a sad story, but I have a lot of confidence in the intelligence 
+of Americans and particularly for the generation that lived through the 
+Great Depression and World War II. I am about to yield the floor to one 
+of them. He is someone I admire and think so highly of, who had a lot 
+of blessings in his life and never forgot where he came from. He never 
+turned his back on people who were less fortunate than he was because 
+he knew the basic lesson that I think some people forget--there but for 
+the grace of God go I.
+  If that were our hallmark, we would not be passing this bill, which 
+puts so many of our seniors at risk, but even more than that puts at 
+risk what we mean when we talk about America and American values.
+  I yield to the Senator from New Jersey.
+  The PRESIDING OFFICER (Mr. Cornyn). The Senator from New Jersey.
+  Mr. LAUTENBERG. I thank my colleague from New York for her eloquent 
+statement and her perception about what is really taking place in front 
+of us. We both have the good fortune to share one of the most 
+interesting areas of this country, the center for finance, industry, 
+and trade, and people, yes, who have to work hard to maintain their 
+living in this high cost area that we share.
+  One of the problems we see in both of our States is that unemployment 
+is unreasonably high; that people who used to work in manufacturing in 
+the New York City region, in New Jersey, have lost jobs that are not 
+available to be regained. It is a pity, but what has happened is that 
+they were sold out to cheaper prices. We are looking for things cheaper 
+while many of us revel in the fact we can live by such luxurious 
+standards.
+  What does it tell us? It tells us there is a significant imbalance 
+out there in the way people earn their livings, live their lives. That 
+is one of the things that is so much in our view today when we talk 
+about the outcome of the vote thus far on this purported Medicare bill. 
+It does not have the ``care'' and I am not sure it even has the 
+interest.
+  One of the things we are looking at is whether or not people who have 
+had the good fortune, as I have--as said by the Senator from New York, 
+I have had very good fortune. My father died when he was 43. His father 
+died when he was in his middle fifties. His brother died when he was in 
+his early fifties. I think the cause of death was probably 
+occupational. They all worked in the same factories in the city of 
+Patterson, NJ, where I was born. My father's death left a permanent 
+imprint on me because of the circumstances of how and when it occurred.
+  My father was 43 in the year 1943. He lived his life by the 
+healthiest of standards, including the food that he ate. He disavowed 
+smoking in a very vigorous way. He was not someone who drank a lot of 
+coffee. In fact, he did not drink any coffee. He enjoyed his nonworking 
+time by being in a gymnasium. They did not call it ``workout'' then. 
+They called it exercise. They called it the ``gym.''
+  So he would spend time down there. He used to like to lift weights, 
+wrestle, and play basketball. One day, he was not feeling well and he 
+went to a doctor. The doctor informed our family that my father had 
+colon cancer, a condition that gets ever rarer with the medical care we 
+have today, if it can be afforded. No matter what we did, without the 
+advances that we have today and medical technology and medicines, he 
+suffered for 13 months. From a well built, muscular man, who was a 
+picture of health to behold, he disintegrated before our very eyes 
+until he died 13 months later.
+  My mother was 36 when my father died. She was a very young widow. I 
+was 18. I had already enlisted in the Army. Why this story? Because it 
+is seared so deeply in my memory. Not only were we grieving, we were 
+poor, and my mother strained to make a living as my father was in his 
+illness. I had a job loading trucks. That was my skill. That was my 
+experience. We just about kept ends together.
+  When my father died, imagine a family of four--I had a little sister 
+who was 12--grieving over the loss of a father at age 43, so young, and 
+also at the same time worrying about bills that had to be paid, about 
+obligations that occurred as a result of hospital treatment, bills that 
+occurred because of doctors' visits, bills that we had to pay because 
+we owed pharmacists money. That is what I remember. I thought, oh, my 
+goodness, if only we could find the money to pay the bills so my mother 
+and I didn't have to worry so much about our existence and at the same 
+time honor our obligations. We were that kind of a family.
+
+  Then, as time passed, we saw developments in America that made us all 
+proud and that, frankly, I think should have caused us in this body to 
+be more tender, to be more understanding, to be more sensitive to the 
+people who have been able to live long enough to be eligible for 
+Medicare and Social Security and all of that that is intended to reward 
+people for their work to build this country. Many of these people come 
+from what has been described as the greatest generation. If they 
+weren't exactly in that generation, they were in the generation that 
+continued to build our country through the 20th century
+
+[[Page S15717]]
+
+to make this a stronghold of industry and business and technology and 
+education. That is what these people did who are now concerned about 
+how they continue their life.
+  Oh, of course, a lot of them can get jobs if they want them at school 
+crossings, at $5.50 an hour, $206 a week--have a good time, go to a 
+restaurant and have dinner. Not on your life.
+  That is what should have been thought about as we debated this issue. 
+There was a certain degree, I saw, of smugness, as they pirated votes, 
+giving lots of money--$11 billion, $12 billion to a special interest 
+here, special interest there, here a special interest, there a special 
+interest. It reminds me of a nursery rhyme. But that was no game that 
+was being played. They held open the vote in the House of 
+Representatives way beyond the rules. They did anything they could to 
+bypass the process as it was normally.
+  I wish to show those who can see what I am holding, if I have the 
+strength to hold them--I do. Those who witness this stack, who see it, 
+this pile of paper, may say: What is the Senator talking about? This 
+describes what was in this Medicare proposal in which the Democrats 
+were not invited to participate. That is against the rules. The 
+participation was limited. This was a stealth affair: Sneak it out, get 
+it out there. Why? Because they don't want people to know what is in 
+here.
+  Do you know what else? Here is a little smaller part of this whole 
+package. This says: ``Joint Explanatory Statement.'' This tells the 
+audience who might read this what is really in this stack here. It is 
+all mysterious. It is all arcane--can't really understand what is 
+happening.
+  Why is this debate so acerbic? Why is it that those of us, along with 
+the senior citizens of this country, look as if we are losing this 
+debate? It looks as if we are going to lose control of this issue. It 
+is true, that we will have suffered a day in infamy, to steal an 
+expression, because what happens here is we are going to assess poor 
+people more costs.
+  I come from the corporate sector. I was fortunate to be able to 
+create one of America's great companies with two other young fellows 
+who lived in the same area as I did. Both of them, like me, had fathers 
+who worked in the silk mills. That was the trade in the city in which 
+we lived. They had no money. Their parents had no education. But it 
+gave them the incentive to create something for themselves.
+  So we created a company. The company is called ADP. A lot of people 
+know it. It is an international company with 40,000 employees. We 
+started with nothing.
+
+  One of the things I learned as the CEO and chairman of that company, 
+before I came to the Senate, was that the most important asset my 
+company had was not its customers. The most important asset we had was 
+its employees, because if the employees did their job, the customers 
+were there for us. We could render a service that was an invaluable 
+beginning to outsourcing, to giving specialists opportunities to do 
+jobs that they could best do. But one of the things we had to do was to 
+make sure the employees were considered in everything we did, including 
+health insurance, including an early start with daycare, to make 
+certain our employees were happy and thus productive.
+  The PRESIDING OFFICER. The Senator from Nevada.
+  Mr. REID. Mr. President, if I could interrupt the distinguished 
+Senator from New Jersey, I have a unanimous consent I would like to 
+propound.
+  Mr. LAUTENBERG. I am happy to yield, with the proviso that I regain 
+the floor.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. REID. Mr. President, pursuant to the rule, Senator Daschle has 
+designated me the manager in opposition. Senator Levin is on the floor. 
+Senator Akaka is on the floor. Pursuant to the rules, they have asked 
+that I be given their 1 hour postcloture. They are both on the floor. 
+Is that sufficient?
+  The PRESIDING OFFICER. The Senators have that right under the rule. 
+Is that the will of the Senators?
+  Mr. LEVIN. Mr. President, I do ask unanimous consent that the hour 
+which I might be entitled to under the postcloture rules be yielded to 
+Senator Reid.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. AKAKA. Mr. President, I yield my time to Senator Reid.
+  The PRESIDING OFFICER. The Senator has that right.
+  Mr. REID. Mr. President, through the Chair to the distinguished 
+Senator from New Jersey, thank you very much for allowing me to 
+proceed.
+  Mr. LAUTENBERG. I assume the time that would have been credited to me 
+for my 1 hour, whatever time remains, is still available.
+  The PRESIDING OFFICER. That is correct.
+  Mr. LAUTENBERG. I thank the Chair.
+  What I got today was a request from one of America's largest 
+companies. I will not identify them because they are not unique. But 
+they wanted us to pass this bill. They don't make pharmaceuticals; they 
+don't do anything in the health care field; they are not an HMO. They 
+are a manufacturing company, a gigantic company by any standards. They 
+are hoping we are going to pass this bill.
+  The reason they are hoping we would pass it is because then those 
+retirees who are dependent on their health care continuation could be 
+kicked off the system. Then, because of what we are saying in this 
+bill--this hocus-pocus language that there will be some money to 
+provide premium support for HMOs--go there and you will be able to get 
+it cheaper, and this giant company, this unnamed giant company will be 
+able to say: Whew, we are finally rid of those retirees who we promised 
+we would give this care to all those years they worked for us. But now 
+we don't have to keep that promise--no. All we have to do is say 
+goodbye, thank you, we are eliminating coverage.
+  In New Jersey, it means that about 90,000 people are likely to lose 
+their company-provided health care.
+  Coming from a State as I do--a State often called ``the Medicine 
+Chest;'' it is a great State--we produce terrific products that make 
+people feel better and help them live longer. I know because I use a 
+couple of their products here and there. But the entire debate here is 
+the result of the irrefutable fact that prescription drugs cost too 
+much in this country. This bill doesn't do anything to fix that 
+fundamental problem. All over the world, people pay less money for the 
+exact same prescription drugs that they can buy cheaper in other 
+countries.
+  In Italy, Acoplex is 40 percent less than here in the United States. 
+In England, it is 31 percent less than here in the United States. And 
+just to the north of us, our friendly neighbor, Canada, the price is 37 
+percent less.
+  No wonder seniors are getting on buses and making the trip to Canada 
+to get their medication.
+  If you look at the things that we talk about, and see what happens 
+when prices are not negotiated, the prices keep rising. From 2001 to 
+2002, drug prices rose 17 percent. The only way to lower drug prices is 
+to give Medicare bargaining power--just the opposite of what this bill 
+does. This bill says they want to prohibit giving what is normally 
+called volume discounts. Instead of taking this step to lower prices, 
+this bill explicitly forbids it.
+  The company I was talking about with a health plan has over 1 million 
+employees. They want us to pass this bill. Imagine what happens when 
+they say to their retired employees that they will be off their health 
+care system.
+  We know from experience that allowing agencies to use bargaining 
+power brings down prices. A good example of this is the health care 
+system run by the Veterans' Administration. The VA is encouraged to 
+negotiate prices. In this bill, as it presently exists, they forbid 
+Medicare to negotiate prices.
+  I want to follow up on a point that our friend and colleague, Senator 
+Bob Graham, made earlier today. This chart really tells the story. The 
+chart compares VA-negotiated prices for medication with what it costs 
+to buy from a local pharmacy.
+  By way of example, Acoplex, a stomach acid product, in the drugstore 
+it is $4.37. At the VA it is 22 cents.
+  Let us take a product such as Zocor, to guard against high 
+cholesterol which is very damaging to one's heart. If you want to buy 
+it in the drugstore, you have to pay $3.77 per tablet, and if you are a 
+member of the VA, their price is 66 cents. The list goes on.
+
+[[Page S15718]]
+
+  At the drugstore for aspirin at 325 milligrams, the cost is 20 cents. 
+If you buy it in the VA, it costs a penny.
+  Plavix to guard against heart attack and strokes, $3.63 per tablet; 
+$2.01 if you go to the VA.
+  The list goes on with even better known products. The price 
+comparison is ugly at best when you consider what happens with people 
+on Medicare.
+  Mevacor reduces cholesterol--four bucks in the pharmacy and 26 cents 
+at the VA.
+  Many of these medications make the top 50 list of drugs used by the 
+elderly. We ought to learn from that and not prohibit the VA from 
+negotiating volume prices.
+  Another troubling part in this bill is the effective date. When the 
+Senate first voted on a prescription drug benefit for seniors back in 
+June, I offered an amendment to make this benefit effective within 1 
+year. But it was voted down with strong Republican assistance. Eleven 
+votes made the difference. We passed that amendment with bipartisan 
+effectiveness to make this benefit effective within 1 year.
+
+  Under this conference report, the drug coverage doesn't start until 
+January 2006, 23 months from now.
+  We have to ask the question: Why is this taking so long? One clue is 
+illustrated on this chart. Notice election day in the yellow box; the 
+original Medicare Program was processed in 11 months. President Johnson 
+signed the law on July 30, 1965, and 11 months later, July 1, 1966, all 
+of the people who were eligible for the program were enrolled in the 
+program. I know something about computer processing. I literally had my 
+career grow in the computer development stage. They had to create the 
+files. The identification had to be punched into cards. They weren't 
+read electronically in 1965 as they are now. It took 11 months and the 
+whole deal was done. It was created from the beginning in 11 months.
+  Now we are asking for a toleration of 25 months to get it into place. 
+But election day is here, and Heaven forbid that the public at large 
+should find out about this bill. When they learn about it, they are 
+going to be mad as could be.
+  If they can get safely past election day, the rhetoric is out there 
+flooding the country. They even have the American Association of 
+Retired Persons supporting the bill. That is a mystery that we are 
+going to have to find out about one day. A lot of people we get calls 
+from--Medicare recipients and beneficiaries--are ripping up their 
+cards. We got one batch that was 75 to 2 against the bill. There were 
+two who were doctors also who are concerned about whether they will be 
+able to continue their practice as it was. It is a reasonable question. 
+But 75 to 2--that is while this bill is being discussed. The bill is 
+not yet in place.
+  Once the phone calls start coming into my office, I know what is 
+going to happen. They are going to ask: When can we sign up? What are 
+the benefits?
+  We are going to say: Hold your horses. What is the rush? It costs you 
+a lot of money later on. Right now, we have your temper down. Not so 
+much your temperature but your temper is going to go up once you find 
+out after election day that this bill is going to take place with 
+higher prices for medical care and prescription drugs.
+  The Democrats created Medicare. We protected it for decades. The 
+Republicans never really liked it. They resisted the creation of 
+Medicare and have opposed it ever since.
+  It wasn't too long ago that a very well known leader of the House, 
+Newt Gingrich, expressed his desire to see ``Medicare wither on the 
+vine.'' That is what he wanted to see happen. He represented a view 
+that was generally accepted.
+  We may see it wither but not without a strong fight on our hands, 
+even if we have lost step 1 here. The senior citizen population in this 
+country has to raise the alarm and shout it out to those who are in 
+this building and those who are in the House of Representatives. Tell 
+them: We don't like that bill. It is going to cost us more. You are not 
+helping us, you are hurting us. We worked our lives away with certain 
+promises in place, and the promise included a proposition that said as 
+you get older and as we see things develop, we are going to help you 
+get those things to keep your health going.
+  The bill before us today is the first major step toward 
+disintegration of Medicare as we know it.
+  In reality, this bill is not as much a benefit for seniors as it is a 
+big benefit for HMOs, the private health care organizations, and other 
+private-sector special interests who want to tear the Medicare Program 
+to pieces. Get them in corporate hands so we can charge more, make 
+more. I wonder whether we could limit the incomes of some of the guys 
+at the top of these companies, in the interest of public service? We 
+regulate lots of industry.
+  So what is it specifically the President is afraid seniors will find 
+out before 2006? Is the President afraid the seniors will realize they 
+will pay at least $810 before they break even and get any benefit from 
+this plan? For many seniors, that is more money than they currently 
+spend on prescription drugs. Up to 30 percent of the beneficiaries 
+would pay more for enrolling in the plan than they would receive in 
+actual benefits. Is the White House worried seniors will learn there is 
+a huge gap in coverage? Under this plan, a senior will pay a premium 
+estimated at $35 a month, a $250 deductible, 25 percent coinsurance 
+payments until reaching $2,250 in drug expenses.
+  What happens then? Seniors then get no coverage. I have been heard 
+correctly: Zero coverage. At that point, seniors continue to pay their 
+premiums but they will also pay 100 percent of their drug costs. That 
+is a double whammy, as we say in New Jersey. Only until they have 
+reached a catastrophic limit of $5,100 in drug costs does any benefit 
+restart. By that time, seniors will have incurred $3,600 in out-of-
+pocket spending. This is the so-called hole in the donut. It does not 
+sound like a good deal to me.
+  Remember, nowhere in the bill does it say that premiums will be only 
+$35. It could be significantly higher. The $35 is a current estimate. 
+We know how good this administration has been at making estimates. Is 
+the President afraid that seniors will figure all this out? You bet. 
+Seniors deserve a much better program than that which the Senate is 
+considering right now. They certainly deserve it before 2006.
+  I will spend a few minutes more talking about the overall impact of 
+this bill on seniors in the State I represent, New Jersey. The most 
+important reason I am voting against this bill is I am convinced more 
+seniors in my State will be hurt by this legislation than helped. There 
+are approximately 1.1 million seniors in New Jersey. Because this bill 
+provides a disincentive to employers to continue offering coverage to 
+retirees, it is estimated that over 90,000 seniors in New Jersey will 
+lose their existing, more generous retiree drug coverage from their 
+former employer.
+  This bill is also going to make poor seniors in my State worse off. 
+In New Jersey, Medicaid covers drug costs for seniors with incomes of 
+less then $9,000 a year for an individual or $12,000 a year for a 
+couple. In New Jersey, low-income seniors currently on Medicaid have 
+access to whatever drugs they need and they do not have a copay for 
+their prescription. Under this bill, however, they are now going to pay 
+$1 per prescription for generic drugs and $3 per prescription for brand 
+name drugs.
+  Low-income seniors tend to be in the worst health and have higher 
+annual drug spending. A senior with $8,000 annual income does not have 
+the discretionary income to shell out $15 or $20 or $25 for the 
+prescriptions he or she may need.
+  I will long remember the battles we have had in the Senate to try to 
+raise the minimum wage. It is the old rhyme that says: Try, try again. 
+We tried, we tried, and we tried, but we could not raise it. So there 
+are people out there who are working for $5.15 an hour, $206 a week. 
+Having to pay these extra burdens for their prescription drugs is going 
+to be a torturous outcome for them. The low-income Americans can be 
+forced to choose between providing medication or buying food, providing 
+medication or keeping the heat on in the winter.
+  This bill represents an enormous opportunity squandered. We had a 
+real chance to do something right. We had $4 billion to improve the 
+lives of 34 million seniors, 14 million of whom do not have any 
+prescription drug coverage right now. Frankly, we missed the 
+opportunity. We ought to scrap this plan and go back to the drawing 
+board to give seniors a real prescription drug
+
+[[Page S15719]]
+
+benefit in the Medicare Program. Let's not try to move seniors into 
+HMOs. Let's not leave that enormous gap in coverage. We should give 
+seniors a plan that starts now, not in 2006.
+  I yield the floor.
+  The PRESIDING OFFICER (Ms. Murkowski). The Senator from Connecticut.
+  Mr. DODD. Madam President, let me first of all commend my colleague 
+from New Jersey for a very fine statement on the pending matter, the 
+Medicare bill. I intend to take some time to speak on the same matter 
+and then I plan to yield my remaining time to the Democratic leader for 
+his purposes.
+  This is the third time I have spoken on this matter since last 
+Friday. We are now in a situation, I am sure people are aware, where we 
+have had a cloture motion which was approved earlier today. We then 
+considered a point of order which was not sustained, and as a result 
+our efforts to try to use a procedural move short of final passage have 
+been, I gather, exhausted. So we are down now to the question of 
+whether or not we ought to vote for this bill at this juncture or 
+whether or not people will come to the conclusion there are enough 
+flaws in the pending matter that we ought to take some additional time 
+to review it before it becomes the law of the land.
+  Before I get into some discussion of the substance of the bill, I 
+will take a minute or so and talk about the process of law. Putting 
+aside the matter before the Senate, which has obviously been 
+contentious, I am very worried about how we are doing our work in this 
+institution--not just this body but the legislative branch in general.
+  I will have served, at the end of this term, some 30 years in the 
+Congress, 6 years in the other body and 24 years in the Senate. I have 
+enjoyed serving in this fine institution and watched it carefully over 
+the years. In that time, I have noticed that there are ebbs and flows 
+in how the institution functions and operates. There have been periods 
+affectionately referred to as the golden age of the Senate and other 
+times when they have been less than golden. I will not use language to 
+describe what others have used to describe the less than golden periods 
+of the Senate.
+  I am very worried about how we are proceeding at this time with the 
+underlying measure. It is so important in these institutions that we 
+not only just be concerned about what we accomplish but how we go about 
+working toward these accomplishments.
+  The Founding Fathers of this country were very concerned about that. 
+If they were looking for efficiencies of systems, if they were looking 
+for a process that would guarantee quick results overnight, this is 
+certainly the last system they would have constructed. Particularly in 
+this institution, the Senate, the rights of a minority are paramount. 
+We have always said in the other body, the House Chamber, the rights of 
+the majority should prevail. And the Founders, in their wisdom then, in 
+the creation of the Senate, emphasized the rights of a minority. In so 
+doing, they wanted to guarantee that matters would be thoughtfully 
+deliberated.
+  I am very worried, over these last number of months, including the 
+bill presently before the Senate, that we are not devoting the time 
+necessary for deliberate consideration of matters before this body. In 
+fact, I was stunned to just learn that when conferees were named on the 
+Medicare bill before us--and for those who are not students of this 
+institution or follow the Congress on a regular basis, when the Senate 
+passes a bill, and the House passes a bill, invariably, with some 
+exceptions, there are differences.
+
+  So this body, the Senate, will appoint conferees, representatives of 
+this body--usually from the committees of jurisdiction over the 
+legislation--to meet with conferees of the other body, usually coming 
+from their committees of jurisdiction. And those two smaller groups 
+then meet to resolve the differences between the two bills.
+  Over the years, of course, many conferences have been lengthy, many 
+have been contentious, particularly those involving difficult matters, 
+but it is the nature of the institution, learned over our 220-year 
+experience that it is in the tension of debate that some of the best 
+ideas emerge, when there is full expression of the views of the 
+American public in those meetings, when people of different persuasions 
+and ideologies come together and work to resolve their differences.
+  What I find stunning is that it has become popular, in recent days, 
+to have conferees named and then have conferees excluded from meeting 
+in these conference committees. That is exactly what happened here with 
+the measure presently before us. Whether you are a Republican or 
+Democrat, liberal, conservative, or moderate, you ought to be deeply 
+concerned if this becomes the precedent, the operating standard 
+procedure, that when bills are passed and conferees are named, then 
+people are excluded from meeting to try to resolve their differences.
+  I can only suspect, Mr. President, that most Americans are not aware 
+that this 675-page bill, the Medicare reform bill, was crafted by only 
+Republican Members of the House of Representatives. There was not a 
+single Democratic Member of the House of Representatives from the Ways 
+and Means Committee included in the room to write this bill--not one--
+despite the fact that the House is controlled by Republicans by only a 
+small majority. Yet not one member of the minority party of the House 
+of Representatives was brought into the room to sit down when the 
+conferees met to resolve their differences on this bill. And out of 
+this body, only two conferees from the minority side were included, 
+despite the fact that only one Member separates us. Senator Daschle and 
+Senator Rockefeller, duly appointed as conferees, were excluded from 
+meeting. In fact, Senator Daschle, the Democratic Leader of the Senate, 
+was excluded from the conference on this important measure. To say to 
+the Democratic leader, the minority leader of the Senate, and to 
+Senator Rockefeller, two senior members of the Senate Finance 
+Committee: You are not allowed to come into the room to help draft a 
+piece of legislation dealing with 41 million Americans, Medicare 
+beneficiaries, to frame a prescription drug benefit. I am stunned, Mr. 
+President, that a 675-page bill, on as an important a matter as the 
+healthcare of nearly 41 million elderly Americans, that not a single 
+Democratic Member of the House, and only two members of the Senate 
+Finance Committee already supportive of this bill could meet to craft 
+the bill before us. I find it breathtaking that the process was so 
+flawed in the development of this bill that Members of our own 
+respective Chambers were not allowed to come in and work to resolve 
+differences on matters as important as this.
+  Then, in the House of Representatives on Friday evening and well into 
+Saturday morning, when the vote was being cast on the final passage of 
+this bill, we witnessed a historic moment as the House held open for 
+almost three full hours--the longest recorded vote in the body's 
+history--a vote that was supposed to take 15 minutes to pass this bill. 
+The Presiding Officer said: There will now be 15 minutes to record your 
+votes by electronic device. Having served in the House of 
+Representatives when electronic balloting came into place, I heard that 
+message over and over again: Members will have 15 minutes in which time 
+they can record their ballots by electronic device. And almost 3 hours 
+later, that ``15 minutes'' elapsed, as every possible bit of arm 
+twisting, every possible maneuver you could make to change the outcome 
+of that vote transpired. I believe that this vote constitutes one of 
+the worst moments I can think of in the conduct of the House of 
+Representatives.
+  Then, when several other members of the minority decided they would 
+change their votes in light of the arm twisting and in light of the 
+final outcome, the gavel came down within a nanosecond, and the 
+traditional opportunity given to Members to change their votes before a 
+final vote is recorded was denied them.
+
+  I am stunned as I watch a process around here so deteriorated that it 
+has come to this. And I say to my friends on the other side: Beware. 
+The wheel does turn. The day will come when we will be in the majority. 
+And in the House that will happen as well. Changes in leadership have 
+occurred throughout our history and they will continue to occur. What 
+sort of precedent are we setting if this is how we conduct our 
+business?
+
+[[Page S15720]]
+
+  Then, last Thursday, late in the afternoon, those of us who were 
+excluded from having Members who represent our views work on this 
+conference report, were delivered this 675-page document.
+  Suffice it to say, there is not a Member here who has read this in 
+its entirety, nor could they possibly understand it even if they tried 
+to, since last Thursday. Yet we have just voted on several procedural 
+motions here to say that within a matter of hours, we are now going to 
+adopt this historic piece of legislation without fully, in my view, 
+understanding the implications of what is actually contained in the 
+bill.
+  Mr. President, a bill of 675 pages, delivered just last Thursday, and 
+here it is, Monday at 6 p.m., and we find ourselves only a few hours 
+away from deciding the fate of 41 million Medicare beneficiaries and 
+coming generations of them as to whether or not they will have the 
+incredible safety net the Medicare Program has provided for 38 years.
+  These process questions cannot go unnoticed, Mr. President. And while 
+we talk about the implications of what we are told is in this bill, I 
+am deeply troubled that the shutting out entirely of Democratic Members 
+of the House, the denial of the Democratic leader of the Senate, along 
+with Senator Rockefeller, the ability to meet and discuss this bill and 
+its full implications. Further troubling then to witness a 3 hour vote 
+in the House of Representatives in the middle of the night, under the 
+guise that we must get this done. As my colleagues know full well, this 
+is the end of a session, not the end of a Congress, and to not take a 
+few more weeks to analyze what we are doing with this bill, to see if 
+there is not some compromise that can be reached, when you consider the 
+great implications of this bill, I think is a sad commentary on the 
+condition of the Congress. I have been here for a quarter of a century, 
+and I do not recall a time like this in my 24 years where we have come 
+to this.
+  So beware. Beware, America. Beware, America, of what happens when 
+this process breaks down, as it has here with this bill.
+  Beware, America, when you have a bill of this magnitude and size 
+passed in the wee hours of the morning in one Chamber, and rushed 
+through the other in a matter of hours of debate and discussion--more a 
+litany of speeches than any real debate.
+  Beware, when almost one-half of the entire Congress is excluded from 
+sitting and working on a product as important as this. There is 
+something wrong when that happens, Mr. President.
+  I don't care what your politics are; I do not care what your ideology 
+is. Beware, Americans, when you find out other voices are denied being 
+heard. It is the critical quotient, the critical element of what 
+constitutes this democracy: the importance of debate and discussion, 
+the tension the debate brings, and the ultimate improved product that 
+occurs when that happens in America.
+  When other voices are not heard, when other ideas are not brought to 
+the table, then we all suffer. That is what has happened in the 
+construct, if you will, of this legislative package.
+  Let me take a few minutes, if I may, and try to share with my 
+colleagues what I believe is included in this bill. I have talked about 
+it to some degree already, and I know, in a sense, why we are being 
+called on to do this as rapidly as we are. Because based on the time I 
+have spent going over this bill, and looking at it, and others who are 
+more knowledgeable than I am about health care issues, who have 
+dedicated almost their entire careers to examining these issues, I 
+would say one of the reasons this is being pushed through as rapidly as 
+it is, is there is a lot in this bill that the more you know about it, 
+the less you would like it, and the more opposition would grow to its 
+passage. The more people are aware of what is included in these 675 
+pages, the greater concern they ought to have.
+  There are those who have never liked the Medicare program, who fought 
+against its very creation 38 years ago, and since then have been 
+seeking an opportunity to undo it.
+  Congratulations to them. Congratulations to them because I think, in 
+effect, they have achieved that result with what I think is going to 
+happen in a few hours; that is, the adoption in the Senate of this 
+particular package, the approval already in the House and the 
+likelihood, of course, that the President is going to sign this into 
+law.
+
+  Then I would tell America, as you get to know this bill, you will 
+come to have greater and greater concerns about it. Let me explain why 
+I think that is the case.
+  We have all been talking about--certainly this side of the aisle 
+has--the great need for a prescription drug benefit for years. However, 
+I have reservations about the prescription drug benefit contained in 
+this bill. Under this bill, 2.7 million retirees are going to lose 
+their existing drug benefit package--2.7 million of the 41 million 
+Medicare beneficiaries. While some might say that doesn't amount to 
+much, when combined with the other millions of seniors who are going to 
+have their premiums increased, and possibly their benefits reduced if 
+this bill is to pass, you begin to realize how troubling this bill is. 
+That is literally what is going to happen under this bill. 2.7 million 
+retirees are going to lose their present prescription drug coverage.
+  Why? Because they presently are covered under plans offered by their 
+previous employers. They have retired and yet they carry with them 
+those plans. The estimates are that 2.5 million retirees are going to 
+lose coverage because their employers are going to drop those plans if 
+the benefit under this bill is enacted.
+  In my State, just to put it in local terms, this will mean that 
+39,000 people in Connecticut who fall into that category will lose 
+their present drug coverage. In Connecticut there are approximately 
+515,000 people who are of retirement age, and of that number, I am 
+going to have 39,000 who are going to be dropped from their 
+prescription drug coverage.
+  Further troubling, I am then going to have 74,000 Medicare 
+beneficiaries in my state of Connecticut, and 6.4 million nationwide, 
+who are going to lose as well under this bill. What happens to these 
+people? These are seniors with severely limited incomes, making them 
+eligible for both Medicare and Medicaid. These senior citizens are 
+going to face less access to and higher prices for the drugs they need 
+due to this conference agreement requiring drug co-payments and the 
+creation of an assets test.
+  I have heard Members say that the price increases these low income 
+seniors will face are not that significant. Well, it isn't much, if you 
+make $158,000 a year as a Senator. A few bucks a month amounts to 
+nothing. But if you are a person making $13,000 a year or less, as 
+these people do, and you are on Medicaid and Medicare and you are 
+working each month trying to pay a mortgage, to put food on the table, 
+to pay for the other essential needs you have, then believe me, these 
+cost increases are terribly hard to bear. We in this body do not have 
+such worries because we have such a great health care program. Members 
+of Congress enjoy a fabulous healthcare plan. We offer nothing like 
+that to the rest of the American public so we don't quite understand 
+what other people go through in many ways.
+  Taken together--those losing their present prescription drug coverage 
+and those low-income beneficiaries facing increased costs--you have one 
+fourth of all Medicare beneficiaries negatively effected by this bill. 
+Those are, to begin with, some of the concerns we have with what 
+happens to close to 9 million of this nation's nearly 41 million 
+retirees.
+  Now let me move to address some of the other issues of concern in 
+this bill. While others have already talked about the prescription drug 
+benefit portion of this bill at length, I want to point out that I am 
+worried about certain aspects of this portion of the bill which will 
+present real problems for our seniors. Under the proposed prescription 
+drug benefit, this bill before us contains a gap in coverage, the so-
+called donut hole. The donut hole is nearly $2,800, twice the size of 
+the one we adopted when this bill was adopted by the Senate back a 
+number of months ago. Under the conference report, Medicare 
+beneficiaries with costs within this so-called donut hole will be 
+forced to pay for the full cost of their prescribed medicines as well 
+as a monthly premium of an estimated $35. This will mean that when your 
+prescription drug
+
+[[Page S15721]]
+
+spending falls within this coverage gap that you will receive 
+absolutely no assistance purchasing your prescribed medicines under 
+this bill. To add insult to injury, you're still on the hook for the 
+monthly premiums while receiving no assistance affording your needed 
+medicines.
+
+  Also troubling, Mr. President, is the notion of the monthly premium 
+of an estimated $35. Under this conference agreement, if you end up 
+having only one private plan providing the drug coverage in your area, 
+these plans could charge whatever they want, because the lack of a 
+another competing plan. The $35 figure often cited is not a cap; it is 
+the estimate of what the average may be. There is nothing in this bill 
+that prohibits one of those private plans from charging whatever they 
+want in that area. You would end up being forced to charge whatever 
+these plans determine is their price or not having any drug coverage at 
+all.
+  Despite all of the problems with the prescription drug benefit 
+portion of this package, even with the concerns I have outlined, I 
+would have supported this portion of the bill if it stood alone as I 
+believe it offers a first--though not nearly complete--first step 
+toward adding a prescription drug plan under the Medicare program. I 
+think the idea of doing something in this area made some sense. I would 
+have, even with these bad features, supported this legislation in the 
+hopes that in the coming years we could have modified it and changed 
+it.
+  But something that few people want to talk about on the other side of 
+the package before us are the structural reforms of Medicare contained 
+in this bill. The conference report we are considering today is not 
+just about prescription drugs. It has a second, much more troubling 
+part. It is over this part that most of us who are expressing our 
+strong objections to this bill have found concern. It is this part of 
+the bill that gives us all pause because it is no less, in our view, 
+than an attempt to end Medicare, certainly as we have known it over 
+these past 38 years.
+  I tell America to watch carefully. This is the part on which you want 
+to focus. The more you read about it, the more you will draw the same 
+conclusion as those of us who are strenuously fighting adoption of this 
+bill. It is an attempt to force seniors into private plans, producing 
+billions in profits for HMOs but denying seniors access to the benefits 
+to which they have become accustomed and the doctors they trust.
+  This bill provides a $12 billion subsidy to the private companies and 
+a 9-percent kicker, in effect, to make sure the competition called for 
+by this bill is rigged in such a way that they cannot possibly lose in 
+that competition. The supporters of the bill will tell you it is not 
+forcing seniors out of traditional Medicare. They claim they are 
+creating competition and, as a result, offering seniors a choice.
+  Let's talk about the so-called competition in this bill and what it 
+would create. Private plans under this conference report will be 
+reimbursed at a higher rate than traditional Medicare--9 percent higher 
+to be exact. How does Medicare compete when you have a 9-percent higher 
+reimbursement for the private insurance plans they are supposed to be 
+competing against? What kind of a competition is that, when all of a 
+sudden you get a 9-percent higher reimbursement rate and claim to have 
+a level playing field? Additionally, this bill makes available $12 
+billion to be used to lure private plans into the marketplace. If it is 
+going to be a competition, let it be a competition--but we are going to 
+stick $12 billion into the pockets of the HMOs, give them a 9-percent 
+higher reimbursement rate, and say to Medicare: Go out and compete. 
+That is like tying both hands behind their back and tying their legs 
+together and then saying go run a race. A 9-percent higher 
+reimbursement rate and $12 billion to lure private plans into the 
+market amounts to the inclusion of a corporate subsidy in this bill of 
+major significance.
+  Under this plan, private plans can design their benefits to attract 
+certain beneficiaries, and that is a critical piece. These private 
+plans can design them to attract wealthier, healthier Medicare 
+beneficiaries. In the beginning, one of the magnificent features of 
+Medicare was that we didn't discriminate based on wealth or illness. We 
+said if you reach the age of 65, we are going to provide a safety net 
+for you. The idea was that regardless of whether or not you are 
+healthy, sicker, wealthy, poor, all are together under Medicare.
+  For the first time--and this is a major change--we are going to start 
+to discriminate if this report is adopted. So the wealthier and 
+healthier people are going to join plans designed by the private 
+companies, leaving in the traditional Medicare program only the sickest 
+and the poorest beneficiaries. When this happens, the premium costs are 
+going to go up and for these seniors, and when they do, they are going 
+to face higher costs and reduced benefits. I don't know what other 
+conclusion you can draw. You cannot accept the notion that we are 
+creating a level playing field. It is not a balanced competition if I 
+provide you a 9-percent higher reimbursement rate than Medicare gets 
+and I then give you an additional $12 billion to lure you into the 
+market. It is just not.
+  America, pay attention. If you are, today, in the Medicare Program, 
+you could end up watching this program be radically changed. So you end 
+up paying higher premiums and watching your benefits be cut and 
+watching only the poorest of the poor or the very sick be left in a 
+program, as these designer programs created by the private plans will 
+find ways of causing the healthier and wealthier to desert traditional 
+Medicare. This is not a fair competition. It is a rigged game. This 
+bill stacks the deck against traditional Medicare. The effects are 
+self-perpetuating.
+  Traditional Medicare will grow weaker and private plans will grow 
+stronger, forcing more beneficiaries out of the traditional program and 
+into the arms of HMOs.
+  It is very easy to get bogged down in the complexities of this bill. 
+So let me state very simply that the weakening of the traditional 
+Medicare caused by this 675-page bill is going to force seniors to pay 
+more and face the prospects of fewer benefits.
+  Ironically, this bill will mean less choice for seniors. One of the 
+things we are being told is there is going to be a lot more choice 
+under this agreement. One of the great features of Medicare is that you 
+get to choose your doctor. I don't know a single American who doesn't 
+like that feature, who doesn't appreciate the opportunity they have to 
+choose which physician they want to have treat them. Under this 675-
+page bill, that is over with for many seniors. That fact alone ought to 
+cause people to pause. Why? Why would you deny people the choice of 
+which doctor they use, someone they may have dealt with for years? That 
+choice is gone with this bill.
+
+  America, pay attention. It is gone. If this bill gets adopted in the 
+next few hours, that is gone. That is not choice at all. Nothing would 
+make me happier than to find out these predictions are wrong, but they 
+are not. I truly hope seniors can retain the choice that they already 
+have and that traditional Medicare survives.
+  Let me explain briefly why I get as passionate as I do about these 
+issues, Mr. President. When the Medicare+Choice Program was created and 
+these private plans first came to our communities, many offering zero 
+premiums. People joined in droves, jumped from traditional Medicare at 
+the promise of reduced cost and increased benefits. Then, of course, 
+once the plans looked around in certain areas and discovered there 
+weren't quite as many wealthier, healthier people in certain areas but 
+there were poor and sicker people, they decided--and they can do this 
+at a moment's notice--they said: We are leaving, packing up and getting 
+out. They did that in my State. They packed up and left.
+  I remember going to a meeting because the senior Medicare 
+beneficiaries I represent were so upset and concerned about these 
+decisions to leave. I convened a town meeting in Norwich, CT. About 
+350, 400 people showed up, and it was on a Saturday morning. They could 
+not believe what happened to them. One individual was so upset about 
+his wife losing her Medicare+Choice plan--a man who served in the U.S. 
+Navy in World War II and worked at the Electric Boat Division in 
+Groton, CT, for many years. As he spoke passionately about what 
+happened to his wife, being dropped from this program, in his great 
+worry and concern about that, he passed away at this meeting. I will 
+never forget it. It was, obviously, a stunning moment for
+
+[[Page S15722]]
+
+the people there. He was so upset about what happened to him because 
+his wife's HMO left, and she was left with nothing in terms of the 
+promised health care coverage. He was a man by the name of Frederick 
+Kral from eastern Connecticut. I have never forgotten that tragic 
+incident and the deeply personal stories shared at this town meeting.
+  I remember how people felt when these HMOs came running in and then 
+walked away. I cannot say that will happen here. I don't know what is 
+going to happen. We are just playing such a risky game with all of 
+this. Why are we taking these kinds of risks on such an important 
+issue? We should realize the tremendous damage we can do to people.
+  I recall very well what happened when we had HMOs promise they were 
+going to step in and provide choice and do all these wonderful things. 
+Remember, these are companies that have to make money and they want, as 
+their customer base, healthy people. They would like wealthier people 
+because then they don't have to pay out as deep a benefit. When these 
+plans discover people are not quite as wealthy and healthy, then they 
+design plans that exclude them. My fear is that will happen here.
+  Even more ironic is this highly unfair system is being championed by 
+the self-proclaimed champions of free enterprise.
+  The bill, as I mentioned, will provide $12 billion to help HMOs 
+unfairly compete against traditional Medicare, along with a 9 percent 
+higher reimbursement rate. It does nothing to control drug prices. If 
+we really want to do something to promote competition under this plan, 
+wouldn't you think we might have allowed the purchasing power of nearly 
+41 million Americans to achieve lower prices for prescribed medicines?
+  That is what we allow with veterans hospitals. The veterans hospitals 
+collectively get together and negotiate with the drug companies for the 
+best price. If you are a veteran in the country, you get a much reduced 
+cost of prescription drugs because the VA has negotiated these prices 
+on your behalf.
+  As my friend from Florida, Senator Bob Graham, so eloquently 
+described earlier today--what do you say to two people who walk in--a 
+husband, who is a veteran of the Korean war, who is paying one price 
+for drugs because as a veteran the VA has negotiated a lower price, and 
+his wife who stayed home and raised a family and maybe held down 
+another job during that time? She is not a veteran, but she is on the 
+same drug as her husband and she pays two, three, four times what he 
+pays. How do you explain that to people?
+  Why can we not do in this bill what we have done in the VA? This 675-
+page bill specifically prohibits the Medicare program to negotiate for 
+lower drug prices. How is this representative of free market 
+principles?
+  On the other hand, we are being told that we ought to have 
+competition between private plans and Medicare. When it comes to 
+negotiating for lower prices for prescription drugs, this law 
+categorically prohibits the Federal Government from doing so. It is OK 
+for the VA, and I applaud them for doing that, but it is not OK for 
+Medicare. Yet we are told this is supposed to provide a fair 
+competition.
+  The reason, of course, for all of this is simple: The champions of 
+free enterprise know private plans cannot compete with traditional 
+Medicare on a level playing field. The subsidies are absolutely 
+necessary because Medicare is actually more efficient. Medicare 
+delivers services at a lower cost. That isn't one Senator's conclusion. 
+Those who have examined this program from top to bottom, in every 
+different manner, say Medicare is a very efficient program. And it 
+delivers terrific services at a much lower cost than private plans, and 
+we are about to walk away from that with the adoption of this bill.
+  We are going to go off now and take 41 million Americans and make 
+them guinea pigs, despite the fact the system works. There is that old 
+expression: If the wheel ain't broke, don't fix it. This wheel is 
+working well--the Medicare wheel.
+  I am afraid we can only conclude one thing: The architects of this 
+bill are going to spend billions and billions of taxpayers' money not 
+to reform Medicare, but to dismantle it, to push patients out so that 
+it will, indeed, wither on the vine.
+  I remember so well when the former Speaker of the House, Newt 
+Gingrich, speaking in front of a group of people here in Washington, a 
+group of lobbyists from the health care industry, talked about Medicare 
+withering on the vine. I heard the other day Mr. Gingrich, no longer a 
+Member of Congress, showed up at the House Republican caucus and gave a 
+strong pitch for this bill: It is a great bill, according to the man 
+who wanted to make Medicare wither on the vine. Either he had a great 
+conversion on the road to Damascus, along the lines of St. Paul, or he 
+still believes what he did a few years ago, and he is finally going to 
+be able to achieve what he talked about doing then.
+  I suspect it is more the latter than the former. I have seen no 
+evidence that there has been a change of heart by Mr. Gingrich in his 
+views about Medicare. So the individual who promised you we are going 
+to let this tremendously-successful program wither on the vine is now 
+applauding the fact we are going to finally achieve what he suggested a 
+few years ago.
+  I predict we will be back, unfortunately, at great cost to the 
+American taxpayers and at great cost to older Americans. We will be 
+back in this Chamber rewriting this bill. That much I will guarantee 
+will happen.
+  Unfortunately, we will squander billions of dollars unnecessarily. We 
+will put a lot of people who shouldn't have to go through this, given 
+their age and the problems they face--older Americans shouldn't have to 
+go through the added frustrations and anxieties and wonder every day, 
+as millions of them do, about how they are going to pay for the 
+healthcare needs they have. They are going to have to go through this 
+wringer because there are people around here who just never could stand 
+Medicare and have been looking for ways to undo it since its inception.
+
+  This part of this bill, these structural changes to Medicare, if they 
+were to offered before this Chamber as a sole proposition, I don't 
+think would get 15 or 20 votes, but because they have been linked 
+inexorably to the prescription drug benefit, the bill will pass.
+  As I mentioned at the outset of these remarks, the prescription drug 
+benefit, while it is flawed, in my view, is worthy of support, despite 
+the objections I have to certain parts of it. But it is not so good, in 
+my view, that it ought to override the great damage to the Medicare 
+program that will be caused by this bill.
+  Allow me to express my concerns about another provision. The 
+conference agreement before us today establishes the dangerous 
+precedent of instituting so-called cost containment measures that could 
+directly lead to service cuts in what Medicare covers and just-as-
+severe increases in costs to Medicare beneficiaries.
+  Specifically, the conference report calls on the Congress and the 
+administration to address Medicare's costs when general revenue 
+spending on Medicare reaches 45 percent of the program's total cost. 
+Let me read that again. Specifically, this conference report, calls on 
+Congress and the administration to address Medicare's costs when 
+general revenue spending on Medicare reaches 45 percent of the 
+program's total cost.
+  Does anyone in this Chamber know of any other Federal program that 
+has a similar provision in it, when we pay for anything else you can 
+think of, when 45 percent of the cost comes out of general revenues, 
+that we must take enact cost containment measures? Only Medicare; there 
+is no other Federal program that has similar handcuffs on it that 
+Medicare does under this bill: It states that when you reach 45 percent 
+coming out of general revenues, then cost containment measures must be 
+taken.
+  The adoption of this purely arbitrary cap will lead to almost certain 
+erosion of this critical program's scope of coverage and affordability. 
+It is yet another attempt of opponents of Medicare to destroy this 
+program that so many of our senior citizens rely on every day.
+  Today, after nearly 40 years of Medicare's inception, we find 
+ourselves truly at a crossroads. The opportunity is before us to move 
+Medicare toward the future without threatening its proven availability, 
+to provide for the health and well-being of this Nation's
+
+[[Page S15723]]
+
+seniors citizens. Sadly, the conference agreement represents an 
+opportunity lost, an opportunity not only to add comprehensive coverage 
+for prescribed medicines under the Medicare Program, but also an 
+opportunity to strengthen the Medicare Program for future generations.
+  So it is with a great deal of sadness that I find myself faced with 
+this 675-page document. The entire House minority was not allowed in 
+the room on this bill. There were secret meetings of the conference 
+committee that crafted this agreement--I am not making this up--
+clandestine meetings so no one could find out where they were meeting. 
+Not a single representative of the minority in the House was allowed to 
+sit in and help craft this bill affecting 41 million Americans--and all 
+but only two members of the minority on this side were excluded as well 
+from these deliberations. The Democratic leader, a member of the 
+Finance Committee, was told he had no right to go to the meetings. In 
+fact, the chairman of the committee said: If the Democratic leader 
+shows up, then the meeting will be canceled.
+  What kind of arrogance is that? The chosen leader of a minority of 
+this body was told if he shows up as a member of the conference 
+committee, the House chairman of this conference would close down the 
+meeting and walk out.
+  This process is broken, Mr President. How much confidence can America 
+have in a product that in the construct of these 675 pages, minority 
+views were almost totally excluded.
+  I warn my colleagues, a dangerous precedent is set when a bill of 
+this significance is crafted in the manner of the bill before us. This 
+bill before us affects not just those who are direct recipients of 
+Medicare. Think what Medicare has meant to the children and 
+grandchildren of its beneficiaries. Think what costs would have had to 
+have been borne by children trying to raise their own children while 
+they were taking care of their parents had it not been for Medicare.
+  How many college educations would not have been achieved if the 
+families were forced to choose between making sure that mom and dad 
+could see a doctor or their children might go on to college? That is 
+not hypothetical at all. Think how many people's dreams of home 
+ownership, making investments in things families need, were made 
+possible because there was a program called Medicare. It said to 
+Americans: You have given so much, particularly the generation that Tom 
+Brokaw has called the greatest in our history, that carried us through 
+a Depression, through World War II and Korea, that after all of that, 
+we said to them, look, we are going to create a program that makes it 
+possible for you and your families not to have to face poverty or worse 
+when you face expenses for needed medical attention.
+  Despite the fact the program works well, has been efficient, and 
+produces services at low cost, we are about to enter a casino, under 
+the best of circumstances, and start playing roulette with people's 
+health care and with the costs associated with it. That is why I am so 
+saddened by the emergence of this conference report.
+  The process has broken down. This is a product in which one can have 
+little or no confidence. I am being asked as one Member, with only 3 or 
+4 days to review this product, to agree to sign on to something of this 
+magnitude. There is an opportunity, I think, to get this right and to 
+make this better. We owe it to the people of this country to seize this 
+opportunty.
+  Older Americans are not Democrats or Republicans. They are not 
+conservatives or liberals. They are just hard-working people. The least 
+they deserve is to have a Medicare Program they do not have to worry 
+about. They need a comprehensive prescription drug benefit so they do 
+not have to make choices between the medicines they need and the food 
+they must have or the heat they must purchase to warm their homes.
+  We should be able to find a way to achieve that. I am deeply saddened 
+that we have not achieved that goal with this conference report. After 
+all of the reasons I have laid out, I will vote against this bill and I 
+urge my colleagues to do likewise.
+  I deeply regret we did not prevail on opposing cloture or on the 
+point of order that was raised so that we might have been able to go 
+back and work on this again and come back in January with a better 
+product. This is not the end of this Congress, it is only the end of a 
+session. Yet every effort is being made to see to it that we jam this 
+flawed bill down the throat of America.
+  We will be back; unfortunately, at great cost to the Treasury, and at 
+great cost to the well-being of an awful lot of people who deserve 
+better than they are going to get through the adoption of this bill, in 
+order to fix this bill. I truly wish this were not the case.
+  I reserve the remainder of my time and designate the Democratic 
+leader as the beneficiary of any time I may have remaining.
+  The PRESIDING OFFICER. The Senator has that right.
+  Mr. DODD. I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. HARKIN. Madam President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The PRESIDING OFFICER (Mr. Fitzgerald). Without objection, it is so 
+ordered.
+  Mr. HARKIN. Mr. President, today by a 2-vote margin, I guess it was, 
+the Senate, this greatest deliberative body in the world, decided to 
+begin the process of ending Medicare in America. After nearly 40 years 
+in which the elderly in our country have been raised out of poverty, in 
+which the elderly in our country have been given the assurances that 
+they will not have to go to the poor farm to pay for medical care, 
+after nearly 40 years of children being freed from the burden of caring 
+for ailing parents and grandparents, after providing an envy of the 
+world in what we do to care for our elderly in terms of health care, 
+the Senate today began the process of turning our back on all the 
+progress we have made. Medicare was created, as I said, almost 40 years 
+ago, with the purpose of providing our Nation's aged and disabled with 
+that safety net, to protect them from death and destitution.
+  For years, seniors have counted on health security in their golden 
+years thanks to Medicare. For nearly 40 years, this program has stood 
+as a social contract between the American Government and the American 
+people. After a lifetime of labor, when a person turns 65 they are 
+promised health insurance covering doctors' visits, hospitals, and many 
+other health costs. There was one exception for all of those 40 years; 
+that is, there was no coverage for prescription drugs. It is almost 
+impossible to overstate what Medicare means to a family, a citizen of 
+modest means who has worked hard for a lifetime, a person who does not 
+want to be a burden on the rest of his or her family. Medicare has been 
+a rock solid, reliable, guaranteed lifeline for America's senior 
+citizens.
+
+  Today, with a two-vote margin, we are watching that social contract 
+erode. We are taking huge risks with the health and security of 
+seniors, all to satisfy ideological agendas, to satisfy big political 
+donor's wishes and certain political strategies.
+  With this Medicare bill, we have seen grave abuses of power--such as 
+the recent vote in the House of Representatives in which this bill 
+before us today lost in the House of Representatives, lost under the 
+normal rules, lost under the democratic means over there. But as you 
+know, they kept the vote open for almost 3 hours, from about 3 a.m. to 
+6 a.m., to twist arms until they finally got the votes.
+  I was driving to work Saturday morning. I was listening to public 
+radio. A caller had called in and she said President Bush says he wants 
+to bring democracy to Iraq. After what happened last night in the House 
+of Representatives, I hope Iraq wasn't watching. That is not the kind 
+of democracy they need in Iraq.
+  I am disappointed in the process that we have had here. This has been 
+a sham process.
+  We have this bill here; I have held it up many times. I can barely 
+hold it up right now--1,200 pages. It is dated November 20. It was 
+delivered on our desks when we arrived here Saturday morning, that big. 
+Saturday morning and here it is, Monday, and we are expected to vote on 
+it.
+  How many seniors in this country have seen this bill? How many here 
+in
+
+[[Page S15724]]
+
+this room have actually gone through it or looked at it--or staffs? We 
+know basically what is in it, but who knows what fine print is included 
+and how some things may work? It is a terrible process.
+  That is why I argued against it repeatedly and that is why I voted 
+against cloture today on the filibuster. It is not that I want to keep 
+filibustering, but I believe we should have gone home and let this bill 
+get out to the public, let the American people see it, talk about it, 
+digest it. Then we can come back here in late January, as we are going 
+to do, and February, and see what our constituents think about it. To 
+me that seems to be the American way, the democratic process.
+  That is not the process we followed here. That is not the process. We 
+are debating a proposal that was originally supposed to accomplish one 
+simple goal: to right the wrong in Medicare, that gap that was in 
+there, by providing coverage for prescription drugs and to make 
+medicine more affordable for seniors.
+  I regret that in writing this bill Congress has strayed from that 
+objective. We have forgotten who we are supposed to be helping--our 
+Nation's seniors. Instead of a straightforward drug benefit, we now 
+have a Medicare privatization proposal that threatens to undo the 
+entire Medicare Program on which seniors and the disabled rely each and 
+every day. Seniors who rely on the stability and affordability of this 
+program, seniors like many in my home State of Iowa, simply want and 
+need affordable medicine.
+  I have seen no big clamour to change the basic Medicare Program. We 
+had a proposal here in the 1990s to get more competition in Medicare. 
+The Congress came up with this Medicare+Choice Program, where seniors 
+could stay in traditional Medicare or they could join an HMO. So we 
+have had several years of experience with this.
+
+  What is the result? Eighty-nine percent of the seniors in this 
+country have chosen to stay with Medicare. About 11 percent in various 
+parts of the country went with HMOs. That is fine. That was purely 
+voluntary. But seniors have spoken. They want to keep traditional 
+Medicare. They simply need an affordable drug benefit.
+  I want to say more about this as I talk, but under this bill seniors 
+do not really have a choice. You hear my friends on the Republican side 
+say time and time again, choice, choice, choice, we are giving seniors 
+choice, choice, choice. That simply is not true.
+  I hear all the time they say if a senior wants to stay with Medicare, 
+they can stay with Medicare. That is true. But at what expense? What 
+they don't tell you is, if a senior wants to stay with Medicare, they 
+don't get drug coverage. They get no prescription drug coverage. Yes, 
+you can stay with Medicare but you have to give up prescription drug 
+coverage. If you want prescription drug coverage, you have to go to 
+some private plan. That is what they are not telling. I will have more 
+to say about that choice.
+  This bill totally violates the spirit and substance of the original 
+Medicare Program. Again, to make it worse, we are rushing it through 
+the Senate. This bill doesn't start until 2006. What is the rush? Why 
+are we here 3 days before Thanksgiving, 7 o'clock in the evening, 
+having a vote on a filibuster today, trying to ram this bill through? 
+Why is it that the House of Representatives, in an all-night session, 
+rammed this bill through? I will tell you why they rammed it through. 
+Because the pharmaceutical companies and the big insurance companies 
+want to get it through before Americans broadly know what is in it. 
+That is why. Get it through in a hurry.
+  Only a few fortunate people know what is in this: a roomful of 
+Republicans, two Democrats, and big money industries. Seniors didn't 
+have a seat at the table. If they would have, I am sure they would have 
+created a very different bill.
+  I have this cartoon here. I will show it again. Here is a pharmacy. 
+There is a pharmacist who represents Congress. This elderly woman has 
+come in, has given her drug benefit to Congress, and Congress is 
+saying: Have a seat. It will be ready in 2\1/2\ years--your 
+prescription; 2\1/2\ years. Yet we have to rush this through right now.
+  As I said, I called this the big Medicare gamble. It is like a 
+roulette wheel. That is what we are doing. Before, under Medicare, it 
+wasn't a gamble. You knew what you had. You had good, rock solid 
+coverage, no matter what part of the country you lived in, whether you 
+lived in rural Iowa or New York City; it didn't make any difference. 
+Now we are rolling the dice, spinning the roulette wheel. It is going 
+to unravel Medicare. The special interests, the drug companies, the 
+HMOs are now more important than seniors.
+  Seniors are being told there is not enough money for a really good 
+drug benefit. Why isn't there enough money? It is because we already 
+squandered our surplus in tax cuts worth trillions for the wealthy. 
+Once again, the well-heeled on Wall Street are more important to this 
+administration than the elderly and disabled on Main Street.
+  Mr. ENSIGN. Will the Senator yield for a unanimous consent request? I 
+ask unanimous consent that I be recognized following the Senator from 
+Iowa.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. HARKIN. What we have before us today is a bill drafted behind 
+closed doors in the dark of night that amounts to a bonanza for special 
+interests. Don't take my word for it. Look at what others are saying 
+regarding this bill.
+  This is from the Des Moines Register editorial board, my home paper:
+
+       This legislation is a big, sloppy kiss to the 
+     pharmaceutical and insurance industries.
+
+  The Albany Times Union:
+
+       This is not only an imperfect bill, it may also be a 
+     disastrous one.
+
+  This is the New York Times of the 19th:
+
+       This is a gift to pharmaceutical companies and insurers and 
+     a threat to elderly Americans.
+       Deal would alter Medicare's core. If a compromise bill on 
+     prescription drugs passes, the Government program will become 
+     a massive subsidized insurance market.
+
+  That is the LA Times. They have it right. It is not just the media 
+and some of us on this side. From the American Conservative Union, 
+listen to what they say:
+
+       The Medicare prescription drug benefit bill that passed the 
+     House and the Senate would drive up costs for millions of 
+     senior citizens. Millions more will lose their current 
+     coverage under private Medigap insurance and employer 
+     provided plans. The House-Senate conference committee should 
+     reject the bill and start over with a bill that includes real 
+     Medicare reform.
+
+  This bill would provide billions of dollars in subsidies--bribes--to 
+private plans and HMOs. In fact, this morning's Washington Post had an 
+article which said the Medicare bill would enrich companies $125 
+million more for employers and health firms. It would ensure billions 
+of dollars in profits and projected $139 billion to pharmaceuticals. I 
+think it speaks volumes that when this bill came out last week, the 
+drug and health industry stocks surged on Wall Street.
+  I ask unanimous consent that the article from today's Washington Post 
+be printed in the Record.
+   There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+               [From the Washington Post, Nov. 24, 2003]
+
+                  Medicare Bill Would Enrich Companies
+
+                           (By Amy Goldstein)
+
+        The Medicare legislation that passed the House near dawn 
+     on Saturday and is moving toward a final vote in the Senate 
+     would steer at least $125 billion over the next decade in 
+     extra assistance to the health care industry and U.S. 
+     businesses, in addition to its widely heralded goal of 
+     helping older Americans pay for prescription drugs.
+        The largest chunk of that assistance, according to 
+     congressional budget estimates, would be $86 billion worth of 
+     payments and tax benefits for employers, giving them a new 
+     subsidy for the health benefits that many already provide to 
+     retirees. Health maintenance organizations, hospitals and 
+     physicians also would be paid more by the government for 
+     treating the 40 million elderly and disabled people in 
+     Medicare, the estimates show.
+        Whether this extra money, part of a $400 billion plan to 
+     redesign the program, is warranted remains a matter of 
+     intense debate. Regardless of whether the payments are 
+     needed, the bill's generosity to employers and major sectors 
+     of the medical industry helps explain the aggressive lobbying 
+     campaigns for the legislation by groups including the U.S. 
+     Chamber of Commerce and the American Medical Association.
+        Liberal and conservative health policy analysts say the 
+     payments undercut a significant goal of the White House and 
+     congressional Republicans in redesigning the Medicare system: 
+     preventing it from running out of money in the near future.
+
+[[Page S15725]]
+
+       One of the bill's main architects, Ways and Means Committee 
+     Chairman Bill Thomas (R-Calif.), has repeatedly said that 
+     expensive new drug benefits must be balanced against other 
+     steps that will rein in the program's spending. The most 
+     recent federal estimates predict that Medicare will become 
+     insolvent in 2026 because Americans are living longer and the 
+     large baby-boom generation will start to retire in a few 
+     years.
+       Yet, as House and Senate members have worked out an 
+     agreement on the Medicare bill, ``nobody is serious about the 
+     solvency goal,'' said Stuart Butler, vice president of 
+     domestic and economic policy studies at the conservative 
+     Heritage Foundation, which opposes the legislation. ``That 
+     isn't even on the radar screen of more than a handful of 
+     members.''
+       The extra money to private health care companies is part of 
+     the reason many Democrats oppose the measure. Sen. Edward M. 
+     Kennedy (D-Mass.), his party's leading voice in the Senate on 
+     health care and a vehement critic of the bill, said last week 
+     that provisions calling for increased payments to HMOs and 
+     other health plans were ``obscene.''
+       Kennedy and other critics say that, for the first time in 
+     the many years that Medicare has encouraged private health 
+     plans to welcome older patients, the government would be 
+     abandoning its original rationale that managed care is more 
+     economical. Instead, the bill would create new funding rules 
+     to ensure that no private plan is paid less than the rates 
+     that Medicare pays for patients in the traditional, fee-for-
+     service part of the program. It also would establish a 
+     special $12 billion fund to try to persuade health plans to 
+     enter--or stay in--parts of the country where they have been 
+     scarce.
+       Lobbyists for health plans counter that they cannot afford 
+     to take Medicare patients unless they are paid enough to make 
+     it worthwhile. But health economist Marilyn Moon said: ``It 
+     is very ironic. . . . To increase participation in private 
+     plans, we are going to overpay them for the foreseeable 
+     future.''
+       The extra payments in the bill have varying purposes. One 
+     is to send more Medicare money to doctors, hospitals and 
+     other care providers in rural areas, through a combination of 
+     funding methods that total about $25 billion over 10 years. 
+     Rural health care advocates--and the lawmakers who represent 
+     them--made that money a top priority.
+       The thinking behind the new employer subsidies is connected 
+     to the new drug benefits. Once federal benefits became 
+     available, corporate executives told lawmakers and Bush 
+     administration officials, companies might accelerate a recent 
+     trend in which some have been dropping--or charging more 
+     for--health coverage for retired workers.
+       As a result, the House and Senate members who negotiated 
+     for four months over separate Medicare bills, that the two 
+     chambers had passed included incentives to deter companies 
+     from abandoning their retirees. The bill would give companies 
+     essentially the same amount of money per retiree that the 
+     government would provide in subsidies to individual 
+     Medicare patients who got the new federal coverage for 
+     prescription drugs. The employers would get $70 billion in 
+     direct payments and $16 billion more in new tax breaks 
+     over the next 10 years.
+       Thomas A. Scully, administrator of the federal agency that 
+     runs Medicare, said employers ``should be having a giant 
+     ticker-tape parade.'' Scully recalled that he and Health and 
+     Human Services Secretary Tommy G. Thompson met in the spring 
+     with labor and corporate leaders--including the chairmen of 
+     General Motors Corp., General Electric Co. and a major steel 
+     manufacturer. ``Their joint plea was, retiree health costs 
+     are an unbelievable burden.'' They requested what Scully 
+     called ``a modest buyout,'' equivalent to perhaps $350 per 
+     retiree. The bill, he said, provides more than twice that 
+     amount, a sum ``way beyond their wildest requests.''
+       Employers repaid with their support. Nine days ago, less 
+     than an hour after House and Senate leaders announced their 
+     compromise on the legislation, the Business Roundtable, an 
+     organization of chief executives of large corporations, 
+     issued a statement praising the agreement.
+       Similarly, the American Medical Association has mounted a 
+     grass-roots campaign in which about 10,000 doctors and their 
+     patients have contacted their congressional representatives 
+     in recent weeks, urging them to vote for the measure. The 
+     bill would cancel a planned decrease in Medicare's payments 
+     to physicians for the next two years, providing them a small 
+     increase instead. That would give doctors an extra $2.5 
+     billion over the next five years, although the money would be 
+     decreased after that.
+       Together with special physician subsidies in rural 
+     communities, the bill would give physicians $1.9 billion more 
+     in Medicare payments during the next decade than they would 
+     get otherwise, the budget analyses show.
+       Donald J. Palmisano, a New Orleans surgeon who is the 
+     medical association's president, said the payments were 
+     important ``to make sure physicians can stay in the practice 
+     of medicine.''
+       ``It will be of no value to have medical coverage or a 
+     prescription drug benefit, if you can't fine a physician,'' 
+     he said.
+       Hospitals would get nearly $24 billion extra over the next 
+     decade, about two-thirds of it in rural areas. The rest would 
+     be used to help defray the cost of new technologies and 
+     training doctors and to give all hospitals a bigger boost for 
+     inflation next year than the House originally wanted.
+       ``I really take issue with anyone who would question the 
+     need of those hospitals that are critical to Medicare 
+     beneficiaries,'' said Charles N. Kahn III, president of the 
+     Federation of American Hospitals. But health policy analyst 
+     Gail Wilensky, a Republican who used to run Medicare, said 
+     hospitals rarely have received as much money to cope with 
+     rising costs as they would get from the bill.
+
+  Mr. HARKIN. Mr. President, the legislation before us seeks to 
+privatize Medicare, plain and simple. It seeks to privatize it, despite 
+the fact that 89 percent of seniors say they want to stay in 
+traditional Medicare--and they have done so when they had a choice--
+despite the fact that traditional Medicare is less expensive to 
+administer--2 to 3 percent compared to 15 percent in private plans.
+  Again, there is something the average person doesn't understand. They 
+don't realize. You would think a Government plan such as Medicare would 
+cost more than a private plan. Private plans are supposed to be cheaper 
+because of competition. We have had Medicare for almost 40 years. We 
+have had private plans that length of time. So we have a lot of data. 
+We know. This is not conjecture. We have the data. We know. What does 
+the data say? Administrative costs for Medicare, 2 to 3 percent. In 
+other words, out of every dollar that goes to a beneficiary, it takes 2 
+to 3 cents to administer Medicare. For a private health care plan, for 
+every dollar that goes out, 15 cents goes for administration.
+  You might ask, Why is that? Just think about it this way. With 
+traditional Medicare, we don't have to spend hundreds of millions of 
+dollars on corporate CEO salaries. We don't have to spend hundreds of 
+millions of dollars at least for fancy full-page ads in the New York 
+Times and USA Today and Newsweek magazine. We don't have to spend all 
+of that money to advertising agencies. That is where you get chewed up 
+with these private plans.
+  Despite the fact that Medicare expenditures are growing at a slower 
+rate than private plans, they say government costs are going up. The 
+fact is--again, we have data for 40 years--Medicare has increased by 
+9.6 percent compared to private plans at 11.1 percent. Despite that, 
+this Senate, this Congress, and this administration want to move us 
+into private plans. Despite the clear wishes of senior citizens in this 
+country, they want to move us into private plans.
+  I guess for those who came up with Medicare+Choice, somehow their 
+ideology said these seniors would move into HMOs, and 89 percent said 
+no. By gosh, I guess the thinking is here, if they didn't want to 
+voluntarily move into HMOs, we will force them into HMOs. That is what 
+this bill does.
+  The conferees chose to ignore all of the facts and all of data we 
+have from the past. Instead, they concocted a grand experiment that 
+encompasses all their right-wing ideological fantasies and seniors are 
+the guinea pigs.
+  What we have in this bill that no one here has read is nothing less 
+than a witch's brew of seemingly appealing benefits. But it is a 
+witch's brew, one that is going to come back to haunt us in the future.
+  This experiment is a result of what I call private sector worship. It 
+is a faith-based notion among some of our colleagues that the private 
+sector will take care of everything. It is a blind faith that free 
+markets solve every problem. But this private sector worship flies in 
+the face of past experience. The entire reason we have Medicare today 
+is that there is no private sector market for health insurance for sick 
+seniors--none. Why? Because there is no money to be made in insuring 
+sick, older people.
+  The free market works fine when you are talking about automobiles, 
+airplanes, TVs, widgets, clothes, and that type of thing. But the free 
+market is not stupid. The free market cares about profits--not people. 
+By its very nature, the free market shuts out people with disabilities, 
+shuts out people with mental illnesses, and shuts out people who are in 
+the last years of their lives. In short, the free market shuts out 
+people who are not profitable.
+
+  I have news for my colleagues who believe the free market is the 
+answer to everything. The free market did not
+
+[[Page S15726]]
+
+break down barriers to people with disabilities in our country. It was 
+the Government--we here in the Congress--that had to step in to ensure 
+opportunity and openness in our country for people with disabilities. 
+In the survival of the fittest free market, these folks were left 
+behind.
+  Another example: We have been fighting this Congress for years to 
+pass a bill ensuring mental health parity. But people with mental 
+illnesses are not a profitable group. So the free market, left to its 
+own devices, will have nothing to do with mental health parity.
+  Think about it. We don't have mental health parity. Why wouldn't we? 
+Why wouldn't the free market jump in there and get it? Because there is 
+no profit. That is why, as soon as we get back into session next year, 
+I hope we pass the Paul Wellstone mental health parity bill. Again, if 
+we leave it up to the free market, people with mental illness are 
+simply left behind.
+  Another prime example of those left behind is the elderly. The 
+elderly are not a profitable group of people to include in an insurance 
+risk pool. They are sick. They have chronic illnesses. They are 
+expensive to treat. The proof is all around us. It is impossible to 
+imagine private insurers fighting and competing with one another for 
+the privilege of covering the elderly. That is why we have to bribe the 
+companies with billions of dollars of taxpayer money to get them to 
+participate in this witch's brew scheme we have come up with here.
+  I have seen this proof firsthand. The other day, I talked about my 
+own situation. I want to repeat it again.
+  In 1958, I was a senior in high school. My father was 74 years old. 
+My mother had passed away 8 years prior to that. My father had worked 
+most of his life in the coal mines in Iowa. My father had an eighth 
+grade education. My mother was by then deceased. She was an immigrant 
+with no formal education--little formal education. We lived at that 
+time in a little house in a rural town of Cummings, IA, of 150 people. 
+Because of my father's years in the mines--we called it miner's lung at 
+that time; they call it black lung today--he would get sick every year. 
+We would never see doctors. We didn't have any money. My father's total 
+income was less than $1,500 a year. It was about $1,200 a year. That 
+included bonuses for having kids under the age of 18.
+
+  Thank goodness he worked a while during World War II to pay into 
+Social Security and he had some Social Security. That is all he had. My 
+father had no stocks, no bonds, no property, no trusts, nothing. He had 
+the small house we lived in and he had a Model A Ford, the only car he 
+ever owned. That was 1958. And every year during those 1950s, I 
+remember, like clockwork, my father would get sick. He would get 
+sicker; he would get pneumonia. We would rush him to the hospital in 
+Des Moines. They would put him in an oxygen tent, give him antibiotics, 
+fix him up, and send him back home again.
+  If we did not have any money, and our total family income was less 
+than $1,200 a year, how did we afford that? I tell you how: It is 
+called charity. The Sisters of Mercy at Mercy Hospital would take care 
+of my father, and knowing that we were poor and could not afford it, 
+they would not bill us. That was charity.
+  I was in the Navy some years later, in 1966. I came home on leave, I 
+think for Christmas, and my father was quite beside himself because he 
+showed me this new card he had, a Medicare card. Now he could go see a 
+doctor. If he had to go to the hospital, he did not have to rely on 
+charity any longer.
+  I often think of how much better my father's later years would have 
+been had he had Medicare. If he had seen a doctor and had preventive 
+health care, his later years would have been much healthier and much 
+better. But he only had Medicare for 2 years before he passed away.
+  I tell that story because I wonder, as I stand here and as I listen 
+to all this debate about choice, as I listen to the debate about how 
+insurance companies out there will come in and do all this, I wonder, 
+why didn't insurance companies rush to help my father? Why weren't they 
+knocking on his door, competing with one another, to cover my father? 
+We had insurance companies at that time. Why weren't they knocking his 
+door down to cover him? Why? Because my father was not profitable. 
+Elderly people in health care are not profitable.
+  So do not tell me the private sector will solve every problem, 
+because I lived through its failures firsthand. I know many Iowans and 
+many Americans have the same situation. They do not want to be left to 
+the volatility and the whims of private HMOs.
+  I understand many of my colleagues prefer the free market over 
+Government intervention. I do, too, in most cases. But to say that we 
+are going to do it regardless is a misplaced faith. There is a time and 
+a place for the Government to step in, where the private sector fears 
+to tread or fails to tread. No question, this is the case when it comes 
+to helping people with disabilities, people with mental illnesses, and 
+seniors with serious health problems.
+  We hear the claim that private sector competition will drive down 
+costs and save Medicare. Nonsense. The only competition will be 
+competition for healthy seniors. If you are sick, you will be shunned.
+  I saw this headline in the Washington Post: ``Medicare Deal Likely to 
+Spark More Health Care Competition.'' I thought, my goodness, and I got 
+to reading it.
+
+       On Wall Street last week, drug stocks jumped as investors 
+     anticipated a congressional deal finally announced in 
+     principle last night that would add a prescription drug 
+     benefit to the Medicare Program.
+       Pfizer was up on Friday. So was Eli Lily. And so was 
+     Johnson and Johnson.
+
+  But this is what it is all about, as Robert Hayes, president of the 
+Medicare Rights Center, states:
+
+       This could be like the wild West out there.
+       If suddenly there are five or six or seven plans out there, 
+     the insurance companies will be pricing their product to make 
+     a profit, as they are obligated to do. If the consumer is 
+     kind of shooting in the dark because of the complexity of 
+     this--and the darkness is deepened by age or disability--
+     you'll have a customer primed for exploitation. We're real 
+     concerned that people could get ripped off.
+
+  It is not competition for the elderly out there. It is competition 
+among the drug companies as to who will make the most money. That is 
+the only competition that will be out there. They do not want an even 
+playing field competition. This bill will give billions to private 
+plans so they can compete and make profits.
+  This is what people have to understand. They should know this before 
+we vote on this bill. That is why we should get it out there and come 
+back in February and vote on it and let the people see what is in 
+there. This bill before the Senate will pay a private insurance company 
+26 percent more than traditional Medicare; $1,900 more per senior.
+  Get this straight: We are going to take your hard-earned tax dollars 
+and we are going to give those tax dollars to a private insurance plan 
+to compete with Medicare, and in order to be able to compete, we are 
+going to give them 26 percent more than what we provide in Medicare.
+  I guess I would kind of like that competition. Man, I would like to 
+get a piece of that action. I would like to have the Government give me 
+26 percent more than what Medicare is making. That is not competition; 
+it is a corporate giveaway. It is corporate welfare. That is what it 
+is. It is a waste of taxpayers dollars when Medicare, over 40 years, 
+shows it can do the job cheaper, more effectively, and more 
+efficiently.
+  Seniors know it, trust it, and want to keep traditional Medicare. We 
+are saying: No; we are taking your tax dollars and we are going to give 
+it to private companies, 26 percent more, $1,900 more per beneficiary 
+to bribe them to get into a private plan.
+  On top of that, the conferees have come up with what they call a 
+stabilization fund. How about that for a nice fancy word--
+``stabilization'' fund? What are we stabilizing? It sounds as if there 
+is an earthquake out there. There may be when seniors find out what is 
+in the bill. It is a $12 billion slush fund for private plans. 
+Privatization, when it comes to medical care for the elderly, costs 
+more money and it will reduce choice.
+  We have heard the claim time and time again that seniors should have 
+a choice as Members of Congress do. Seniors will be gravely 
+disappointed when they find out what they are getting is nothing like 
+what we have. I hear
+
+[[Page S15727]]
+
+about choice all the time. No senior will be forced out of Medicare. 
+How many times have we heard that? They will be able to stay with 
+Medicare.
+  Listen to the words carefully because what we are not hearing is that 
+if you want drug coverage, you have to get out of Medicare. If you do 
+not care about not having drug coverage, you can stay in Medicare. That 
+is what they are saying. They are saying no one will be forced out of 
+Medicare. No. But if you want drug coverage, you are out of Medicare; 
+you have to go to a private plan.
+  Isn't that what we are all about, trying to get drug coverage for 
+seniors? And seniors say they want it under Medicare; they do not want 
+it under private plans. Seniors will actually end up with reduced 
+choices under this legislation.
+
+  If there are two private plans, say, an HMO and a PDP--maybe you have 
+never heard of a PDP. If you say you have never heard of it, I 
+understand that because they do not exist. But it has been conjured up 
+in this bill. We have conjured up something called PDPs. So if there 
+are two private plans, an HMO, and a PDP, and if a senior who is in 
+Medicare wants drug coverage, that senior is forced to take the PDP or 
+the HMO. You cannot stay in Medicare. You have to move over and take 
+one of the private plans.
+  That is a choice? That is a choice? That is like you have a choice 
+between getting shot and getting hung. Either way, you are dead. Not a 
+very good choice. They will not be allowed to get their drugs through 
+traditional Medicare.
+  Again, let's say they go and join one of these private plans, this 
+PDP, or whatever it is, or an HMO. Well, then the HMO can tell them: 
+You can't see your doctor. You have to see another doctor. Oh, you 
+can't take that drug. It is not on our formulary. You have to take this 
+other drug.
+  Why do you have to take this other drug? Well, they will not tell you 
+why, but they are probably getting a bigger kickback from the 
+pharmaceutical companies for that certain drug. So seniors are forced 
+to change drugs. That is not choice.
+  It seems to me around here sometimes it is almost to the point that 
+if you hear someone say it is daytime, you might just think it is 
+probably night. If someone says something is black, you probably think 
+it is white. Around here we have gotten to the point where we use these 
+words to confuse people, to make people think something is not what it 
+is.
+  This idea of choice, that somehow we are giving seniors more choice--
+just false. The rhetoric around this bill does not match reality. The 
+President and this administration has said many times that seniors 
+deserve choice, that the seniors deserve what Members of Congress have. 
+I am all for that. But that is not what they are getting.
+  Right now, I pay about 25 percent of my drug costs. That is it, flat. 
+But the prescription drug plan put before seniors in this bill will not 
+even come close to that.
+  Instead, it is a confusing, convoluted maze that--mark my words--will 
+leave the seniors feeling betrayed and bewildered. All I can say to 
+some of my colleagues who may have been here in the 1980s is, do you 
+remember when we passed the catastrophic health insurance plan? Well, 
+if you like the seniors' reaction to that plan in the 1980s, you are 
+going to love their reaction to this grossly inadequate prescription 
+drug plan.
+  Now, look at what they are going to be faced with right here. Every 
+year we, in our plan, the FEHBP, the Federal Employees Health Benefits 
+Plan, have an open season, and we get to choose what plan we want to go 
+in. So we get all these books. Here is one from Aetna. Here is another 
+one from a different Aetna. Here is one from, of course, Blue Cross, 
+and then a different Blue Cross. Here is Kaiser. Here is APWU. Here is 
+PBP. Here is Mail Handlers. Here is NALC. Here is GEHA. Here is MB, 
+Individual Practices Association.
+  We are supposed to read this and go through them all and decide which 
+plan we want to be in. I wonder how many Senators actually go through 
+these. I can count them on less than one hand. I can count them on less 
+than one finger. Yet seniors every year are going to get this. They are 
+going to be asked: Make a choice. It is confusing. It is going to be 
+bewildering to them every year--every single year.
+
+  That is what I mean, a senior could get out of Medicare and go into 
+an HMO or one of these PDPs. They could jack up their prices--I will 
+say more about that in a minute--because the premium is not set in law. 
+It can go up. It can go up. They can get bounced around. So they may be 
+in one plan 1 year, and that plan may not exist the next year.
+  Then what do they do? What do they choose? Well, that is why I say, 
+you wait. This is going to be a confusing, bewildering mess for our 
+senior citizens.
+  The only ones making the money are pharmaceutical companies. I think 
+it is instructive that in this bill--if I can find it here, I think on 
+page 53 of this bill, if I am not mistaken. I wonder how many people 
+read this. Page 53, line 18: ``Noninterference--In order to promote 
+competition''--I love this, I love the way they play with words--``In 
+order to promote competition under this part and in carrying out this 
+part, the Secretary''--the Secretary of Health and Human Services--
+``(1) may not interfere with the negotiations between drug 
+manufacturers and pharmacies and PDP sponsors; and (2) may not require 
+a particular formulary or institute a price structure for the 
+reimbursement of covered part D drugs.''
+  Now, what do you suppose that is all about? Well, what it says is 
+that Medicare cannot negotiate with drug companies to get a better 
+price on drugs for our seniors. That is what was written in the bill. 
+We have said for a long time that we ought to use the power of Medicare 
+to negotiate with the drug companies to get a better price. The VA, the 
+Veterans' Administration, going back to a law that we passed here, I 
+think, in the 1980s, the VA sits down and negotiates with drug 
+companies for the price of drugs for veterans hospitals and veterans 
+throughout the country. That is why veterans' drug prices are 50 
+percent or more less than what you might normally pay or what an 
+elderly person would pay because they use the purchasing power of the 
+VA to bring it down.
+  But in this bill, we have said, no, you cannot do it any further than 
+that. Medicare cannot negotiate. Think about it. It is written in here. 
+Medicare is prohibited from negotiating with drug companies to get a 
+better price on drugs.
+  People always ask: Why are drugs so much cheaper in Canada? I have 
+been to Canada a lot. I am sure the occupant of the Chair has been to 
+Canada. If you go to Edmonton, Calgary, places like that, there are 
+drugstores all over, private drugstores owned by private citizens--free 
+enterprise. You go in there, and the pharmacist is there, and you can 
+get your drugs 50, 60, sometimes as much as 80-percent cheaper than 
+what you get here.
+  It is the same drug, made by the same manufacturer, that is that much 
+cheaper in Canada. Why? Well, guess what. The Canadian Government buys 
+the drugs. They negotiate with the drug companies to get a lower price 
+because they buy in such huge volumes. Then the private pharmacist 
+makes money on filling the prescriptions, watching your prescriptions.
+  But in this bill we are forbidding Medicare from negotiating with 
+drug companies for a better price. What a sweetheart deal that is.
+  Let's see what seniors are going to pay for this and why this is kind 
+of confusing. Here is what seniors are going to find out. Right now, 
+here is what seniors pay under Medicare: Part A premium, hospital, 
+nothing; Part A deductible, $876 for benefit period set for everybody; 
+Part B premium $66.60 a month; Part B deductible for their doctor, $100 
+per year, and a 20-percent cost share on each visit to the doctor's 
+office.
+  Very simple, very straightforward; every person in Medicare 
+understands that.
+  Now what? Well, let's see. Seniors who have an annual income above 
+$13,470 per year will have to pay a yearly deductible of $250. They 
+will then pay a $35-a-month premium, which can go up, by the way. That 
+is not fixed in law. So that is $420 a year. That figure can change 
+every year because if the private plan is not making the profit that 
+they want, they can boost that figure up, and they will.
+
+  After seniors have put in at least $670 up front, they can start 
+receiving some
+
+[[Page S15728]]
+
+benefits. You might say, well, 670 bucks, that isn't much. Remember 
+what I said: This is someone who is above $13,470 a year. Six hundred 
+seventy dollars is a lot of money to someone making $14,000 a year and 
+worrying about heating bills, buying food, taking care of themselves. 
+So after they pony up $670, the Government will then pay 75 percent of 
+the drug costs up to $2,250.
+  What happens then? What happens then is that person making more than 
+$13,470 a year will have to pay 100 percent of their drug costs up to 
+about $5,000. That is the so-called donut hole. That is going to be 
+outrageous.
+  One day you are going in, you are getting your drugs, and you are 
+paying 25 percent. You are going to go in one day and your drugs are 
+$2,200, and then all of a sudden your pharmacist says: You have to pay 
+full price.
+  Why?
+  Well, I am sorry. You reached the donut hole of $2,250.
+  Think of it this way. If your drug costs are $5,000 a year, you will 
+have to pay $4,000 out of pocket. And for that, we bribe HMOs, we give 
+billions of dollars in subsidies to the pharmaceutical companies and to 
+HMOs and to PDPs and whatever else.
+  Another thing, a senior who has an annual drug cost of only $500 will 
+pay more into the program than they receive. You will put in $500. If 
+you have $500 in drug costs, you will pay $751.25 into this program 
+every year. What a deal.
+  To make things even messier, the program would create several tiers 
+of classes under the Medicare Program. Again, there are different low-
+income benefits available to those under 135 percent of the poverty 
+level. That is $12,123 for a single person. There is another set of 
+benefits for those under 150 percent of poverty level. That is $13,470 
+a person. On top of that, to receive the low-income benefits, a senior 
+must undergo an asset test. We threw the asset test out of here in the 
+Senate. Now it is back in this bill. But now let's look at this asset 
+test. For one group, those who are at 135 percent of the poverty level 
+or below--that is below 12,000 bucks a year--if you are below that, the 
+asset test is $6,000 for a single person. You can't have more than 
+$6,000 in assets. It is $9,000 for a couple.
+  For the group at 150 percent of the poverty level--let's see, that is 
+$13,470--the asset test there is $10,000 in assets, $20,000 for a 
+couple. So mind you, for a difference of a little over $1,000 a year, 
+maybe about $1,300 a year, your asset goes from $9,000 to $20,000 for a 
+couple; $6,000 to $10,000 for a single person. If this sounds 
+confusing, believe me, it is. How are you going to decide where you 
+fall?
+  Let's take a group of senior citizens down at McDonald's having their 
+morning coffee. They are all talking about the drug benefit when it 
+goes into effect. Bob is over there, and he gets good benefits under 
+the low-income benefit. But his friend Sue just took a job at the local 
+supermarket at minimum wage to try to make ends meet, pay her heating 
+bills. But because she has a little extra income, even though she 
+barely makes any money, she is in a different class. So, therefore, she 
+is going to get a different drug benefit.
+  Margaret thought she was going to get some low-income benefits but 
+she filled out her forms and she had too much life insurance, over 
+$10,000 in life insurance. So she is out.
+  How in the world is the average elderly citizen supposed to know 
+where they fit into this mess? You are going to have several different 
+people who make nearly the same amount of money each year and they are 
+going to receive drastically different benefits.
+  This is a formula for confusion and confrontation. You are going to 
+be pitting elderly against one another. You are going to have friends 
+wondering: Why is it that Bob over there gets all those benefits and I 
+don't? We know that Bob owns something else. He is cheating maybe. And 
+why did he get that and we didn't? Why is it that George over there 
+gets all these low-income benefits? And you know George. All his life 
+he frittered his money away, gambled it, boozed it up. Sure he doesn't 
+have much now, but the Government is coming in and giving him 
+everything.
+  How about Bob? Bob over here worked hard all his life, raised a 
+family, educated his kids. He is a man of meager means, but he has 
+Social Security. He was frugal. He saved a little bit. He has a little 
+life insurance policy. No, Bob, you don't get this. Your income may be 
+just about the same as George's, a little bit more, but because you 
+have a little bit of assets--you saved for a rainy day--you are out. 
+Tell me what this is going to be like when the seniors get ahold of 
+this and talk about it.
+  Then there are those citizens who are going to lose retiree 
+prescription drug benefits. Two to three million are going to lose 
+prescription drug benefits. It is outrageous. This bill would spend 
+roughly $88 billion to try to bribe employers not to drop retiree 
+health coverage yet, even with that, 2 to 3 million seniors will lose 
+their retiree benefits.
+  Yes, the drug and health industries are spending millions to ram this 
+bill through immediately, even though seniors across the Nation don't 
+know what it contains. The authors of this bill did not let the senior 
+citizens of this country see what was in the bill because they knew 
+once they found out they would have trouble passing it here. Apparently 
+a seat at the Medicare table was quite expensive.
+  The Washington Post article from Saturday morning was entitled ``Two 
+Bills Would Benefit Top Bush Fundraisers.'' It explains that the 
+Medicare bill will benefit at least 24 Rangers and Pioneers as 
+executives of companies or lobbyists working for them.
+  A Pioneer in the Bush campaign is one who raises at least $100,000, 
+while a Ranger is someone who has raised at least $200,000.
+  I ask unanimous consent that this article be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                       [From the Washington Post]
+
+               2 Bills Would Benefit Top Bush Fundraisers
+
+
+                Executives' Companies Could Get Billions
+
+                         (By Thomas B. Edsall)
+
+       More than three dozen of President Bush's major fundraisers 
+     are affiliated with companies that stand to benefit from the 
+     passage of two central pieces of the administration's 
+     legislative agenda: the energy and Medicare bills.
+       The energy bill provides billions of dollars in benefits to 
+     companies run by at least 22 executives and their spouses who 
+     have qualified as either ``Pioneers'' or ``Rangers,'' as well 
+     as to the clients of at least 15 lobbyists and their spouses 
+     who have achieved similar status as fundraisers. At least 24 
+     Rangers and Pioneers could benefit from the Medicare bill as 
+     executives of companies or lobbyists working for them, 
+     including eight who have clients affected by both bills.
+       By its latest count, Bush's re-election campaign has 
+     designated more than 300 supporters as Pioneers or Rangers. 
+     The Pioneers were created by the Bush campaign in 2000 to 
+     reward supporters who brought in at least $100,000 in 
+     contributions. For his reelection campaign, Bush has set a 
+     goal of raising as much as $200 million, almost twice what he 
+     raised three years ago, and established the designation of 
+     Ranger for those who raise at least $200,000.
+       With the size of donations limited as a result of the 
+     campaign finance law enacted last year, fundraisers who can 
+     collect $100,000 or more in contributions of $2,000 or less 
+     have become key players this election cycle. The law barred 
+     the political parties from collecting large--sometimes 
+     reaching $5 million to $10 million--``soft money'' 
+     contributions from businesses, unions, trade associations and 
+     individuals. This has put a premium on those who can solicit 
+     dozens, and sometimes hundreds, of smaller contributions from 
+     employees, clients and associates.
+       The energy and Medicare bills were drafted with the 
+     cooperation of representatives from dozens of industries. 
+     Power and energy company officials; railroad CEOs; 
+     pharmaceutical, hospital association and insurance company 
+     executives; and the lobbyists who represent them are among 
+     those who have supported the bills and whose companies would 
+     benefit from their passage.
+       The Medicare bill was scheduled to be acted upon by the 
+     House late last night. If passed, it will go to the Senate. 
+     The first comprehensive revision of energy policy in more 
+     than a decade passed the House this week, but in the Senate, 
+     the measure ran into a roadblock yesterday when opponents 
+     stopped it from coming to a vote. Sponsors promised to make 
+     further efforts to get the 60 votes to break the filibuster.
+       The energy bill provides industry tax breaks worth $23.5 
+     billion over 10 years aimed at increasing domestic oil and 
+     gas production, and $5.4 billion in subsidies and loan 
+     guarantees. The bill also grants legal protections to gas 
+     producers using the additive methyl tertiary-butyl ether 
+     (MTBE), whose manufacturers face a wave of lawsuits, and it 
+     repeals the Public Utility Holding Company Act (PUHCA), a 
+     mainstay of consumer protection that limits mergers of 
+     utilities.
+
+[[Page S15729]]
+
+       The bill has been the focus of a bitter ideological and 
+     partisan fight for three years. A leading sponsor, Rep, W.J. 
+     ``Billy'' Tauzin (R-La), Chairman of the House Energy and 
+     Commerce Committee, praised the legislation, saying, ``All 
+     Americans can look forward to cleaner and more affordable 
+     energy, reliable electricity and reduced dependence on 
+     foreign oil for generations to come.''
+       Public Citizen, which has tracked the legislation and 
+     correlated patterns of contributions to members of Congress 
+     and to Bush, denounced the bill as ``a national energy policy 
+     developed in secret by corporate executive and a few members 
+     of Congress who are showered in special interest money.''
+       Perhaps the single biggest winner in the energy bill, 
+     according to lobbyists and critics, is the Southern Co. One 
+     of the nation's largest electricity producers, it serves 
+     120,000 square miles through subsidiaries Alabama Power, 
+     Georgia Power, Gulf Power, Mississippi Power and Savannah 
+     Electric, along with a natural gas and nuclear plant 
+     subsidiary.
+       The repeal of PUHCA, for example, would create new 
+     opportunities to buy or sell facilities; ``participation'' 
+     rules determining how utilities share the costs of new 
+     transmission lines that are particularly favorable to 
+     Southern; two changes in depreciation schedules for gas 
+     pipelines and electricity transmission lines with a 10-year 
+     revenue loss to the Treasury of $2.8 billion; and changes in 
+     the tax consequences of decommissioning nuclear plants, at a 
+     10-year revenue loss of $1.5 billion, according to the Joint 
+     Committee on Taxation.
+       At least five Bush Pioneers serve as a Southern Co. 
+     executive or as its lobbyists: Southern Executive Vice 
+     President Dwight H. Evans; Roger Windham Wallace of the 
+     lobbying firm Public Strategies; Rob Leebern of the firm 
+     Troutman Sanders; Lanny Griffith of the firm Barbour Griffith 
+     and Rogers; and Ray Cole, of the firm Van Scoyoc Associates.
+       The railroad industry also has a vital interest in the 
+     energy bill. For years, it has been fighting for the 
+     elimination of a 4.3 cent-a-gallon tax on diesel fuel, and, 
+     at a cost to the Treasury of $1.7 billion over 10 years, the 
+     measure repeals the tax. Richard Davidson, chairman and CEO 
+     of Union Pacific, is a Ranger, and Matthew K. Rose, CEO of 
+     Burlington Northern is a Pioneer.
+       Among the major lobbying firms in Washington, Akin Gump 
+     Strauss Hauer & Feld, has been one of the most successful 
+     collecting fees for work on the energy and Medicare bills. In 
+     the first six months of this year, Akin Gump, which has two 
+     partners who are Pioneers--Bill Paxon and James C. Langdon 
+     Jr.--received $1.6 million in fees from medical and energy 
+     interests.
+       Barbour Griffith & Rogers received $1.1 million from 
+     similar clients.
+       On energy issues, Akin Gump represented Amerada Hess Corp., 
+     Waste Management Inc. and FirstEnergy Corp., Pacific Gas and 
+     Electric Co., BP Exploration and Phillips Petroleum Co. Two 
+     of those corporations have, in turn, executives who are major 
+     Bush fundraisers, Pioneer A. Maurice Myers, CEO of Waste 
+     Management; and Anthony J. Alexander, president of 
+     FirstEnergy, a Pioneer in 2000 and again in the current 
+     campaign.
+       On Medicare issues, Akin Gump represents the Pharmaceutical 
+     Research & Manufacturers of America, Johnson & Johnson, 
+     Abbott Laboratories and Pfizer Inc. All would benefit from 
+     the expanded markets resulting from a key provision of the 
+     bill--the first federal subsidies to help Medicare patients 
+     pay for prescriptions.
+       Hank McKinnell, chairman and CEO of Pfizer, has pledged to 
+     raise at least $200,000 for Bush's reelection, although he is 
+     not yet listed as a Pioneer or Ranger. Pioneer Munr Kazmir, 
+     who runs a direct-mail drug company called Direct Meds Inc., 
+     estimates that he has about 100,000 customers on Medicare who 
+     will have more money to buy drugs from his company. ``We know 
+     the patients, we know how important this bill is,'' he said.
+       In addition to the prescription drugs provision, the 
+     Medicare bill is intended to encourage recipients to join 
+     preferred-provider organizations (PPOs) and other kinds of 
+     private health care, instead of receiving care through the 
+     traditional fee-for-service system in which they pick their 
+     doctors and generally get whatever care they request. The 
+     health industry has provided substantial support to the Bush 
+     campaign, and a number of officials whose companies and 
+     associations actively support the Medicare bill are Pioneers 
+     and Rangers.
+       Pioneer Charles N. Kahn, president of the Federation of 
+     American Hospitals, said that the Medicare bill will make 
+     ``important strides in ensuring that all hospitals have 
+     sufficient funding to meet the medical needs of this nation's 
+     seniors.'' A federation spokesman noted that the bill 
+     provides more money for rural hospitals and for hospitals 
+     serving disproportionate numbers of the uninsured, and that 
+     it prevents doctors from setting up new competing specialty, 
+     or ``boutique,'' hospitals.
+       M. Keith Weikel, chief operating officer at HCR Manor Care, 
+     a chain of more than 500 nursing homes and other facilities 
+     serving the elderly, is another Pioneer. Weikel and Manor 
+     Care did not respond to requests for comment on the Medicare 
+     bill, but the major nursing home trade group, The American 
+     Health Care Association, strongly endorsed the bill, which 
+     among other things, would continue to bar Medicare from 
+     capping the amount it covers for various therapies offered by 
+     health care providers such as nursing homes.
+
+  Mr. HARKIN. The article goes on to describe how the drug industry got 
+everything they wanted. I think seniors in this country deserve more. 
+They deserve to be put first in the process. Instead they have been put 
+last. Corporate interests, insurance companies, pharmaceutical 
+companies, they come first. It speaks volumes that on Wall Street the 
+health industry and drug stocks have surged with the emergence of this 
+bill. Corporate executives may be popping their champagne corks in 
+celebration of what happened here today, but seniors are left 
+scratching their heads and wondering why their interests were 
+forgotten.
+  Maybe they assumed that the AARP would stand up for their interests. 
+But AARP has brazenly betrayed the wishes of its members. Seniors need 
+to know what direction Medicare is taking and whose side the AARP is 
+on.
+  It says everything about this bill that Newt Gingrich is urging 
+Republicans to vote in favor of it. Remember, this is the same Newt 
+Gingrich who was Speaker of the House and expressed his desire to let 
+Medicare wither on the vine. Mr. Gingrich is one of those ideologues 
+who insists that the private marketplace will solve all of our 
+problems. It would make his day to see Medicare dismantled. If he is 
+for this bill, that ought to give us pause for concern.
+  Mr. Gingrich and his rightwing friends love this bill, like the head 
+of Americans for Tax Reform, Grover Norquist, who once said:
+
+       My goal is to cut government in half . . . to get it down 
+     to the size where we can [drag it into the bathroom] and 
+     drown it in the bathtub.
+
+  Today, with this vote on this bill, Newt Gingrich's dream is coming 
+true. The bill is a first step toward privatizing Medicare. You can bet 
+that once the ink is dry, they will be starting on Social Security and 
+going after that, too. Mr. Gingrich even went so far as to say he 
+believed the pharmaceutical companies are getting unfair treatment; 
+that they are punished by the success. Wrong. The bill doesn't ask for 
+a penny from the pharmaceutical companies. I disagree.
+  On page 53 of the bill, it protects drug companies from Government 
+efforts to negotiate lower prices. That is on page 53, line 18. It says 
+that Medicare cannot negotiate for lower prices for drug companies.
+  A recent Peter Hart poll found that almost two-thirds of seniors view 
+this bill unfavorably. Most of them identified themselves as members of 
+AARP, American Association of Retired Persons. Among those AARP 
+members, only 18 percent said Congress should pass this bill, while 65 
+percent said Congress should get back to work. Last week, AARP members 
+from Maryland, New York, and Pennsylvania tore up their membership 
+cards in front of their organization's headquarters here in Washington. 
+Members are accusing William Novelli, CEO of AARP, of ``selling out'' 
+to insurers and selling out to Newt Gingrich. Where did they ever get 
+that idea?
+  Well, in fact, the relationship between Newt Gingrich and the bigwigs 
+at AARP goes way back. William Novelli, the head of the AARP, wrote the 
+preface to Gingrich's book, ``Saving Lives, Saving Money.'' In that 
+preface, he states:
+
+       Newt's ideas are influencing how we at AARP are thinking 
+     about our national role in health promotion and disease 
+     prevention and in our advocating for system change.
+
+  That is Mr. Novelli in Newt Gingrich's book. I would have to ask Mr. 
+Novelli which of Newt's ideas are ``influencing how we at AARP are 
+thinking''? Is it Newt's wish that Medicare wither on the vine? Is that 
+influencing Mr. Novelli's thinking?
+  AARP's endorsement is disturbing for another reason. They have a 
+flagrant conflict of interest in this matter. They receive vast 
+revenues from the sale of insurance to seniors. Royalties from such 
+arrangements include deals with UnitedHealthcare Insurance Company, 
+Metropolitan Life Insurance Company, and Advance PCS pharmacy benefit 
+manager. All that accounted for more than one-third of AARP's $630 
+million in revenues last year, according to AARP's 2002 annual report.
+  If you open up any newspaper in the last 3 days, you have seen full-
+page ads by AARP telling you why this is such a good bill--full-page 
+ads in USA Today, the New York Times, Washington Post, and on and on.
+
+[[Page S15730]]
+
+  First of all, I want every elderly person who belongs to AARP to 
+think about this and the dues they pay. Think of all that money being 
+siphoned off to ad agencies. Think about all that money being spent on 
+these full-page ads to get Congress to rush this through and pass it. 
+Well, Americans deserve better from AARP. They deserve better from 
+Congress.
+  This bill reflects the priorities of Newt Gingrich, who has been 
+hostile to Medicare since its inception. Seniors know this bill is a 
+betrayal. They know who the winners and losers are with this bill. 
+HMOs, PPOs, pharmaceutical companies, on premium support, they win, and 
+seniors and disabled lose. On cost containment, they win because 
+Medicare is prohibited from bargaining for better prices, and seniors 
+and disabled lose. On drug coverage, pharmaceutical companies win and 
+seniors lose. On health savings accounts--my, my, my, now we have 
+them--HMOs win, seniors lose; stabilization fund--a slush fund is what 
+it ought to be called--again HMOs and PPOs win, and seniors lose; on 
+competition, pharmaceutical companies win big time on that and seniors 
+lose.
+  It may seem in what I am saying tonight that somehow I am opposed to 
+insurance companies. Nothing could be further from the truth. In my 
+State of Iowa, I think we are, if I am not mistaken, the second largest 
+domiciliary for insurance companies in America, second only to 
+Connecticut. Insurance has a prominent role in Iowa. It employs a lot 
+of people. Insurance can provide meaningful protection for a lot of 
+people. I happen to have a lot of insurance--homes, cars, life 
+insurance; I have all kinds of insurance. It is a good deal. I have 
+benefited from insurance. Insurance is good. It shares the risk. You 
+put people in a large pool and it shares the risk. That is the basic 
+essence of insurance, and there is one principle of insurance that 
+everyone understands, or should understand: The bigger the pool, the 
+less the risk for everyone in the pool.
+  But what is Medicare doing? What are we doing in this bill with 
+Medicare? We are dividing up the pool: a little bit here, a little bit 
+there, and a little bit there. Under the health savings accounts, the 
+healthiest will opt out. Under premium support, the healthiest will be 
+cherry-picked by the HMOs.
+  The PRESIDING OFFICER. The Senator's time has expired. Under the 
+previous order, the Senator from Nevada is recognized.
+  Mr. ENSIGN. I ask unanimous consent that Senator Grassley be 
+recognized for 2 minutes to make a point, and then I will follow.
+  The PRESIDING OFFICER. The Senator from Iowa is recognized.
+  Mr. GRASSLEY. Mr. President, there is an issue that my colleague from 
+Iowa brought up that I don't want to take exception to or argue with 
+him about. He finds fault with something on page 53 of this bill called 
+noninterference. That is perfectly legitimate for him to take that 
+point of view. But I want to point out something that Senator Santorum 
+had pointed out earlier in the day's debate, in which a very similar 
+noninterference provision was in a Democrat prescription drug proposal 
+introduced May 10, 2000.
+  I don't mind intellectual arguments against this, but when 
+Republicans take a Democrat idea and put it in our bill, I don't think 
+it is fair for colleagues on the other side of the aisle to find fault 
+with what we are doing. I only want to make that point. I don't want to 
+argue with my friend from Iowa. I think everybody ought to know that 
+this is something that has had broad bipartisan support.
+  I yield the floor.
+  Mr. HARKIN. Will the Senator yield because I was mentioned? I just 
+want 30 seconds. I was opposed to it at that time, too. I was opposed 
+to the noninterference at that time. I have always been opposed to it.
+  Mr. GRASSLEY. I thank the Senator.
+  The PRESIDING OFFICER. The Senator from Nevada.
+  Mr. ENSIGN. Mr. President, I now want to take my time and talk about 
+the Medicare reform and prescription drug bill that we have before us 
+today. I rise to explain how and why I am going to vote on this bill.
+  From the day I was sworn into office in 1995 as a Congressman, I have 
+spent as much time on strengthening the Medicare program as I have any 
+other single issue considered by Congress.
+  On the Health subcommittee of the House Ways and Means Committee, I 
+learned the details of how this comprehensive healthcare system works 
+for our seniors and the disabled.
+  I have tried to keep true to the principle of making Medicare more 
+oriented to keeping seniors healthy, not just waiting until they become 
+ill to treat them.
+  With the growth of Medicare costs and the baby boom population, I 
+also believe just as strongly that the structural security of Medicare 
+must be kept healthy and reforms must not wait until the program is 
+ill.
+  As a Senator, I have continued to pursue my passion for healthcare 
+policy. I campaigned on and introduced my own Medicare prescription 
+drug bill, along with Senator Chuck Hagel.
+  I was proud that our bill received the votes of a majority of the 
+Senate when it was considered last year, although not adopted as the 
+final bill.
+  Aside from the prescription drug benefit in the bill, I strongly 
+believe that for Medicare to remain healthy, structural reforms must 
+take place that control unnecessary costs through market forces and 
+allow the program to operate more efficiently and more preventatively.
+  This bill contains a number of provisions that I hope will help drive 
+down the increasing costs of health care, not just for our seniors, but 
+throughout the entire healthcare market place.
+  Health Savings Accounts will give patients control over their care, 
+to include who patients go to for care, as well as control over their 
+individual expenditures. If shown to be successful, this would be the 
+most sweeping healthcare reform since the managed care model over a 
+decade ago.
+  Likewise, income-relating of the Medicare Part B premium, the disease 
+management demonstration project, and the prescription drug card with a 
+private account--by the way, that was a component of the bill Senator 
+Hagel and I introduced--are all positive aspects of this legislation.
+  I am pleased that in the bill are two other critical reforms that I 
+spearheaded in the House and now in the Senate.
+  Placing a 2-year moratorium on the outpatient therapy cap is a win 
+for our oldest and sickest Medicare seniors. Those who suffer from 
+life-threatening ailments such as Parkinson's disease and stroke should 
+not have to pay every dollar out of pocket just because they require 
+additional care.
+  The bill also includes a provision that eliminates the late penalty 
+military retirees pay for joining Medicare. Our military retirees, who 
+gave so much of their lives to our country, deserve access to the best 
+healthcare benefits available without being penalized for changes in 
+the system. They thought they were going to get lifetime Health Care. 
+Then, when they were put into the Medicare system they were not 
+informed, or at least many of them were not aware that if they did not 
+sign up right away, later they would have to pay extra penalty costs.
+  Joining me in helping to get these passed was Senator Lincoln, and I 
+would like to thank her for all of her efforts.
+  The reason I have struggled so fervently over the merits of this 
+legislation is the substantial financial burden this bill places, not 
+only on the Medicare program, but on the country.
+  The benefits in this bill will assist seniors and disabled Americans 
+only to the degree that our Nation is fiscally able to sustain paying 
+for it. That is why I drafted a bill that was responsible to the next 
+generation of workers who will bear the burden of paying the price tag 
+on Medicare prescription drugs.
+  I want to put up a couple of charts that help us understand what we 
+are dealing with for the next generation.
+  Until 1970, we had about 20 million seniors in our Medicare Program. 
+Today we have a little over 40 million seniors, 30 years later. Thirty 
+years from now we will have close to 80 million seniors, equaling 
+another doubling of the number of seniors.
+  This chart shows the problem. These are the number of workers per 
+senior, per retiree, per person over 65 who we have in this country. In 
+1970, for every one retiree we had a little over seven people, on 
+average. In 2000, that had slipped to 3.9. When that huge expanse
+
+[[Page S15731]]
+
+of the baby boomers is in full bloom in 2030, we will have 2.4 workers 
+for every one retiree.
+  I remember Senator Phil Gramm telling us that means there are a lot 
+more people riding in the cart and a lot fewer people pulling the cart.
+  I believe this bill threatens the fiscal security of the Medicare 
+Program and compromises the continued growth of our economy by lacking 
+the necessary cost controls to keep it from consuming our domestic 
+budget. I personally believe the cost of this bill is grossly 
+underestimated. By the time the drug benefit goes into effect in 2006, 
+we will have a better understanding of the enormous cost of this bill 
+but at that time it will be too late to do anything about it. Without 
+measures to contain overutilization, the Government or the private 
+sector plans will be forced to ration prescription drugs for our 
+seniors, similar to the way care is rationed in Canada.
+  While all major legislation requires legislative corrections after 
+becoming law, I believe that before the ink is dry on this new benefit, 
+a campaign will be underway to expand this program by closing the 
+coverage gap that exists in the bill. I believe there will also be 
+efforts also to reduce deductibles and reduce premiums as well, further 
+transferring costs onto the next generation.
+  While providing seniors with a prescription drug benefit is so very 
+important to all of us, it must be done in a way that does not bankrupt 
+Medicare and threaten future access to care in our country for our 
+seniors. It also needs to be fiscally responsible to the next 
+generation.
+  I believe the Congressmen and Senators who put this bill together 
+labored so intensively, and they did it for the right reasons. They had 
+pure motives. I also appreciate the leadership the President has shown 
+on this issue. In fact, if we would have adhered more to the principles 
+that he laid out at the beginning of the year, I believe we would have 
+a much better bill before us today--perhaps a bill I could support.
+  I am very disappointed in the debate these last few days in how 
+people have politicized this bill. Unfortunately, I believe many have 
+done so for their own political benefit. There have been many things 
+said about this bill. You could say many negative things about this 
+bill, and you could say many positive things as well. However, what we 
+ought to do in this Chamber is at least talk about what is in the bill 
+and what is not in the bill. To mischaracterize the bill, I believe, is 
+patently unfair, and it is just wrong to scare senior citizens into 
+thinking that Medicare is somehow going to go away.
+  We must remember that most of the private sector reforms in this 
+legislation do not even kick in for several years. So to scare seniors 
+I just, frankly, believe is wrong.
+  I have anguished deeply over this bill. There really are some 
+positive things in it, things that I like. But, overall, I just believe 
+the negative things in it outweigh the positive. That is why I, 
+unfortunately, am going to have to vote against this conference report.
+  I look at the chairman of the Finance Committee who is on the floor 
+right now, and there is just no finer person in the Senate than Senator 
+Grassley.
+  So it is with a heavy heart that I announce that I am going to vote 
+against final passage of this bill because I know that he did his best 
+to put together a bill with all the different people he had to work 
+with in the House and the Senate, the various interest groups and the 
+like. But I believe this bill does not rise up to the level where I 
+think the positives will outweigh the negatives in the future. I think 
+the costs are going to be too great. Looking at the first 10 years, it 
+is estimated to be around $400 billion. For the second 10 years, I know 
+of estimates as high as $1.7 trillion. Do we really want to shoulder 
+our children and our grandchildren with this burden? That is a question 
+each of us has to least ask ourselves, and go into this with our eyes 
+wide open. Twenty years from now when we look back on this debate and 
+on our entire careers, will we be able to say we really did what was 
+right for the future of our country? I hope that in fact we can.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Florida.
+  Mr. NELSON of Florida. Mr. President, I had the privilege of 
+addressing the Senate yesterday on this bill. This is the bill that we 
+are considering--some 675 pages. My statement yesterday announced that 
+after spending the better part of the weekend trying to comprehend some 
+of the details of this bill, I have come to the conclusion that I will 
+vote against this legislation for a number of reasons.
+  As has been stated by so many Senators, there is a lot that is good 
+in this bill. Clearly, the part about reimbursement to doctors and 
+other health care providers is very important. Interestingly, while 
+giving enormous subsidies to PPOs and managed care to the tune of some 
+$12 billion, they take away from oncologists and other cancer providers 
+in this bill $11.5 billion. That is a part to which I strenuously 
+object.
+  For my predecessor, Senator Connie Mack, who has been at the 
+forefront of the fight against cancer, this is one of the provisions 
+that is causing him enormous agony. Visiting with so many of the 
+oncologists all over the country, it is just inexplicable to them as to 
+why there would be a $11.5 billion cut on cancer care. The truth is, it 
+was a tradeoff. It was a tradeoff back when we originally considered 
+the bill in the Senate to provide for rural health care. You had to get 
+the money from somewhere. The choice was to take it from cancer care. I 
+think that was not only a poor choice, but I think it was a tragic 
+choice. But that is in this bill. That is one of the reasons I am 
+against it.
+  But there are other things that are good in this bill, and a lot of 
+that has to do with trying to get physicians and other health care 
+providers adequately compensated instead of cuts that were enacted some 
+5 to 7 years ago in the Balanced Budget Act of 1997, which really 
+started cutting health care providers to the bone in their Medicare 
+reimbursement.
+
+  But there is a lot more in this bill that is causing me great 
+concern. It is why I am going to vote against it. I want to share that 
+with everybody.
+  One of the toughest jobs that I have had in a lifetime of public 
+service is the years that I served as elected Insurance Commissioner of 
+the State of Florida. I inherited a mess in the aftermath of Hurricane 
+Andrew. I had to learn something about insurance marketplaces and how 
+in a devastated insurance market we could encourage and nourish the 
+free market back to competition. In the aftermath of Hurricane Andrew, 
+the insurance companies--other than the 12 that went bankrupt--were 
+fleeing the State of Florida. Those who stayed were cancelling 
+homeowners right and left.
+  We had to dig in to see what would make that insurance marketplace 
+tick, and what would encourage insurers to come back into the 
+marketplace; at the same time, what would provide the needed 
+commodity--namely, in this case homeowners insurance--to the consumers 
+of Florida.
+  Because a marketplace had been disrupted by the most costly natural 
+disaster in the history of the country in insurance losses, a lot of it 
+we had to learn by first impression. We were successful in doing that. 
+It took a long time. It was very difficult. One of the things that I 
+learned about insurance in the marketplace is when you get to health 
+insurance, you should let the principle of insurance work for you; that 
+is, you take the health risk and spread it over the largest possible 
+group so that the health risk--when it comes out in costs because 
+people get sick and they have to have health care expenditures--because 
+it is a huge group and it is a diverse group in age and health, the per 
+unit cost comes down.
+  One of the things that used to frustrate me the most as the Insurance 
+Commissioner of Florida was when the new products would be filed, they 
+would be filed for a very small group. The insurance company would 
+drive the cost of the premium down so that it made it very attractive 
+for people to take that particular brand of health insurance. But over 
+the course of time, instead of the insurance company continuing to 
+expand that group, they would keep it stagnant. Over time, people would 
+drop out. Over time, people would get older. Over time, people would 
+get sicker. The group would start getting older and sicker and smaller. 
+Since the group was defined and not expanding, what do you think the 
+costs were going to be? The costs
+
+[[Page S15732]]
+
+were going up. That meant the premium was going up in order to make 
+that group actuarially sound in what they were charging for that 
+insurance.
+  People were stuck in an insurance group. They had no place else to go 
+because they weren't employed by a big employer. They certainly 
+couldn't go out on their own and buy a policy for one individual. The 
+cost would be astronomical for that. They were stuck in a spiraling, 
+upward cycle of insurance costs and insurance premiums that went to the 
+Moon.
+  I saw people literally cry giving testimony about how they could not 
+afford it.
+  I learned something from that. I learned that if you are going to 
+have a logical way of handling health insurance, it can't be with a 
+small group. It can't be with a segmented group. It needs to be with a 
+large group.
+  Beyond this particular bill, as we look ultimately to the future of 
+what we are going to do about health care delivery and its costs in 
+this country, in my judgment, since I would like to see it delivered by 
+the private sector and free market competition, you are going to have 
+to expand the groups. You are going to have to make them as large as 
+possible so that the companies compete for that business. It is when 
+you start to shrink that large group that you get into 
+trouble. Senators, that is what this bill starts to do. It starts to 
+selectively take people in Medicare, segmenting them, separating them, 
+dissecting them, and ultimately when the healthier people in America--
+in this particular case, Medicare--when the healthier people in 
+Medicare are siphoned off, it leaves the sicker seniors to be dealt 
+with in Medicare. And what will happen to the cost? The cost will go up 
+and it will go up big time.
+
+  The figure has been thrown out in this bill that the starting point 
+for the premiums for the Medicare prescription drug benefit will be $35 
+a month per person. That is not going to happen. It will happen when it 
+starts off in 2006, but as the group gets sicker, the costs are going 
+to go up and the premiums--that $35 per person per month--are going to 
+go through the roof.
+  Why are they getting siphoned off? Look at the provision. The 
+provision says we are going to divide up the country in regions. Say 
+one State is a region. First of all, it says that you are going to 
+offer the benefit in 2 ways. It will be offered with what is called a 
+PDP, or prescription drug plan, and there is going to be the 
+alternative of managed care, either a PPO or an HMO.
+  What this bill provides is the incentive for the healthier seniors to 
+go into the PPO or the HMO because this bill has a very generous 
+subsidy--as a matter of fact, $12 billion--to be used at the discretion 
+of the Secretary of HHS, to nourish the PPOs so they can bring their 
+costs down, so they can make it very attractive to senior citizens to 
+come into the PPO because they can get their health care cheaper--
+indeed, all of their health care, including the Medicare fee for 
+service.
+  Also in this bill is a healthy subsidy for HMOs. This bill does not 
+allow reimbursement for HMOs per patient like Medicare at 100 percent 
+but kicks it up an additional 9 percent, 109 percent reimbursement. So 
+the Medicare HMO then will be able to offer lower costs for services, 
+thus enticing the senior citizen population, particularly the ones who 
+are healthier, particularly when they use such recruiting methods as 
+going into bowling alleys and recruiting seniors to come into the 
+managed care operation, the PPO or the HMO.
+  What will that do? That is going to leave the rest of the seniors to 
+get their drug benefit from the only other available way, which is the 
+prescription drug plan. And if their seniors are sicker, what do you 
+think will happen to the cost? The cost is going to go up and the 
+marketplace under this bill is starting to be fragmented, violating the 
+principle of insurance which is, take the largest possible group, 
+spread the health risk over the group, and it brings down the per unit 
+cost.
+  There is another way it is being fragmented, and that is the basic 
+health care population in America. If another 5 or 10 years down the 
+line we ever want to do major health care insurance reform--and it is 
+done around employers just because we have done it that way 
+historically--if your employer is a big employer, such as the Federal 
+Government or General Motors, you have a big group in which to spread 
+the health risk. But what happens if the employer has five employees or 
+two employees or one employee? It is not an efficient way of delivering 
+health care through an insurance system.
+  Indeed, that provision in this bill is another way of fragmenting 
+that population, another way of segmenting that population that 
+ultimately, when we have to face this crisis--as surely we are going to 
+someday--you cannot keep operating in a country this large, with 44 
+million people who do not have health insurance, who at the same time 
+get health care because when they get sick they go to the most 
+expensive place at the most expensive time--to the emergency room--when 
+sniffles have turned into pneumonia. Sooner or later, the crisis will 
+become apparent and we will have to deal with it, if the entire 
+population has been so fragmented as a provision of this bill in 
+creating health savings accounts.
+
+  Now, for people who have some means of income, this is a very 
+attractive alternative. Health savings accounts will allow someone to 
+take dollars, without paying tax on them, and put them into a health 
+savings account at the end of the year. Unlike in present law regarding 
+medical savings accounts where, if the dollars are not used, they self-
+destruct, these dollars will accumulate. And it will not be just for 
+medical emergencies. Those dollars can be put aside. They can go out 
+and buy an insurance policy that has a high deductible, such as $5,000. 
+Even if they put $5,000 into the health savings account, they have 
+saved a lot of money because of the cost of insurance if they were 
+getting, say, a $500 deductible policy. That money can accumulate and 
+they can pay for other things than medical expenses, such as cosmetic 
+surgery. So, for a good part of our country that has the financial 
+wherewithal, that is very attractive.
+  It is dissecting the overall insured population, and when the crisis 
+comes, it will make it very difficult to get these large pools upon 
+which we can spread the health risk and where private sector insurance 
+companies can come in and bid for that particular pool. That is another 
+reason I oppose this legislation. It violates the principle of 
+insurance.
+  Some talk about it as a giveaway to the HMOs and the PPOs, pushing 
+seniors into managed care where they lose their choice of doctors. That 
+speaks for itself. Over time, when this kicks in, in January of 2006--
+that is another 2 years and 1\1/2\ months--people are going to start 
+realizing what has happened.
+  There is another reason I oppose this bill. That is, you cannot go 
+out and offer the alternatives I have just explained for prescription 
+drugs, subsidized by the Federal Government for managed care, without 
+private employers who have drug coverage for their former employees, 
+now retirees, without the private employer asking, why do I want to 
+continue this costly prescription drug coverage for my retirees when, 
+in fact, I will let these retirees go on in to the Medicare system of 
+prescription drugs.
+  If it were an equal prescription drug benefit, that would be OK for 
+the senior citizen, the retiree. But the shock they are going to get is 
+when their private employer, former employer, drops them as a retiree 
+and they look to Medicare under this bill to give them a prescription 
+drug benefit, and, lo and behold, they will find it is a very 
+inadequate benefit. If they have $5,000 worth of drugs that they have 
+to buy in a year, the senior citizen under this plan is going to pay 
+out of his own pocket $3,600, $3,600 under this prescription drug plan 
+for the senior citizen who has an annual prescription drug cost of 
+$5,000.
+
+  So all of these retirees who are going to be dropped are going to be 
+quite shocked and quite unhappy and quite disappointed, when they 
+thought they were getting a full prescription drug benefit.
+  So in my State, for example, it is estimated by one of the very 
+credible studies--and I have heard no one who has disputed this study--
+that 2.7 million retirees will be dropped from their private drug 
+coverage. In my State of Florida, that translates to 166,000 people. 
+And I suspect that is going to be a very unhappy 166,000 people in the 
+State of Florida.
+
+[[Page S15733]]
+
+  It is true that since this bill does cover those up to 150 percent of 
+the poverty level, there is going to be, for that group, some increased 
+coverage that they do not have now, but it is not going to be much. It 
+is not going to be much because a lot of that group who would otherwise 
+qualify because they meet the income test of being at that level of the 
+poverty level, lo and behold, this bill now puts an asset test on them. 
+That asset test is going to disqualify thousands of them. And if it 
+does not, they are going to see that they are limited, under this bill, 
+in the brands of drugs, the brand name drugs, because this bill defines 
+their receipt of drugs in a class, and that class of drugs is yet to be 
+determined. There are going to be some disappointed seniors.
+  There is another reason for opposition to this bill. We talked about 
+there not being any competition for the prescription drug plan and 
+how--since there do not have to be two prescription drug plans 
+competing against each other and therefore holding the cost down, 
+holding the premium down--that $35 monthly premium is going to go up. 
+But in this bill there is also another violation of a principle we have 
+found in Medicare ever since Medicare was set up in 1965; and that is, 
+the premium is universal. The farmer in Iowa who is retired is paying 
+the same premium as the retiree in Miami Beach, even though the costs 
+of health care in Iowa and Minnesota are much less than the cost of 
+health care in south Florida. There is a universality of the Medicare 
+Part B premium.
+  That is going to be broken up, not on the Part B premium but on the 
+Part D premium, because this bill causes the division of the country 
+into at least 10 and some say as many as 50 regions in this country, 
+each to be actuarially determined what is going to be the premium that 
+will be actuarially sound with regard to that premium, with regard to 
+the group, and with regard to the cost. So I do not think this bill is 
+procompetition even though that is how it is being sold.
+  The last reason I will state tonight of my reasons for opposition is 
+one that has been mentioned many times here. Mr. President, $400 
+billion is lot of money. It depends on how you look at it. The Senator 
+from Nevada, who just stood up and announced he was voting against the 
+bill, has made a very eloquent statement about the cost being so high, 
+$400 billion, at a time we are hemorrhaging to the tune of half a 
+trillion dollars in deficit financing this year.
+  But I might want to take it in another direction and say, yes, $400 
+billion is lots of money, but it is not being efficiently used. The 
+reason it is not being efficiently used is that Medicare is strictly 
+forbidden, in this bill, from negotiating with pharmaceutical companies 
+for bulk purchases.
+
+  Now, I thought we were for free market competition. I thought we were 
+for letting the market forces determine what the price is. But this is 
+an exact opposite of that. This is an interference in the private 
+marketplace for it says Medicare cannot negotiate in bulk purchases a 
+price less than the retail price. It is in here. It is in here not only 
+on one page, it is in here on two pages.
+  It is unlike what has been done for nearly 20 years in the Veterans' 
+Administration, in a bill that passed this Senate on a voice vote 
+because it was so noncontroversial that the U.S. Government would 
+negotiate through bulk purchases for the acquisition of drugs for the 
+Veterans' Administration.
+  The Veterans' Administration is serving a population of about 25 
+million veterans. Medicare is serving a population of about 41 million 
+Americans. If the Veterans' Administration can negotiate prices 
+downward, why should not Medicare be able to lower the cost of the 
+drugs to seniors? It is not logical that you would not. And it 
+certainly is not logical when you consider we are constrained under the 
+Budget Act that we cannot spend more than $400 billion, until we waived 
+that today.
+  So $400 billion, at a retail price of a drug, that on the retail 
+market is going to cost at least twice the cost of the drug to the 
+Veterans' Administration, which is buying in bulk--we would be able to 
+provide so many more of the benefits of prescription drugs to seniors 
+without their having to pay so much in a deductible and in copays; and 
+in some cases the copay is an entire 100 percent until they get past 
+the threshold of spending $5,000 a year for drugs.
+  Now, I have counted noses. This thing is going to pass. It is either 
+going to pass tonight or it is going to pass in the morning. It passed 
+the House two nights ago, when they held the vote open for 3 hours 
+until they twisted arms and turned the vote around. So it is going to 
+pass.
+  Well, it is not going to pass with my vote for the reasons I have 
+stated, that I think are against the interests of the United States and 
+my State. But I am going to do something about it after it passes 
+because I have already started drafting a bill that is going to say, 
+what is good for the Veterans' Administration ought to be good for 
+Medicare as well, and that if the Veterans' Administration--under a law 
+that has been in effect for two decades, that was noncontroversial when 
+it was passed--can purchase in bulk and therefore bring the price down, 
+so, too, ought Medicare, for the sake of our senior citizens, be able 
+to get a more extensive prescription drug benefit than the meager one 
+they are going to get in this bill.
+  I will be introducing that bill. I think one of the people I am going 
+to work with is my senior Senator, Mr. Graham, since he has announced 
+his retirement in the last year of his service as a Senator, and the 
+two of us will put together a comprehensive package. But that is 
+certainly one aspect of it that we are going to be following.
+  I thank the Senate for its attention. I yield the floor.
+  The PRESIDING OFFICER. The Senator from Virginia.
+  Mr. WARNER. Mr. President, I would propose to proceed for a short 
+period--I think we are going back and forth--unless one of my 
+colleagues signifies to the contrary.
+  I have listened very carefully, as indeed I think all Senators have, 
+to the very strongly held views of colleagues on this bill. My good 
+friend, the Senator from Florida, who proudly serves on the Armed 
+Services Committee, and I work together. I was quite interested in what 
+he had to say. I guess on most military issues we are together, but on 
+this one we seem to have differences of opinion. I would say that our 
+distinguished colleague from Florida does represent quite a few senior 
+citizens, so I expect he has done a little bit more of his homework to 
+develop his views here tonight. Nevertheless, I respectfully differ, 
+and we are going to have to think what is in the best interest of the 
+country as we approach this vote, whenever that will occur.
+  I rise in support of the conference report to H.R. 1, the Medicare 
+Prescription Drug and Modernization Act of 2003. Medicare was created 
+in 1965, a nationwide insurance program that offered health insurance 
+protection for approximately 40 million older Americans and those who 
+have had the misfortune of becoming disabled. The program provides 
+broad coverage for many health services, but there are gaps--how well 
+we know that--in this program that has been working since 1965. Those 
+gaps create no coverage in some instances. That is the reason we are 
+here today, to plug those gaps.
+  I think under the leadership of the distinguished Senator from Iowa, 
+Mr. Grassley, the distinguished majority leader, many others who have 
+worked so long and hard on this bill, we have done more than plug the 
+gaps. We have done more. I hope that increase, which is well deserved 
+by the seniors, is appreciated because it is important to these 
+individuals.
+  I myself proudly fit into the category of a senior citizen. In fact, 
+when I am speaking publicly, quite often I am not introduced as a 
+senior Senator but as a senior citizen. There is usually a lot of 
+laughter among the crowd, but I look them square in the eye and say 
+that I am very proud to have that status as a senior citizen. My mother 
+lived to be 98 years old. I kind of hope I can follow along in her 
+footsteps.
+  One area in the current Medicare Program where a major gap exists is 
+in the coverage of prescription drugs. We know that so well. Medicare 
+currently provides no outpatient--if you are in the hospital, you can 
+get some--prescription drug coverage. That is because when Congress 
+created Medicare in 1965--it is interesting, when they created it in 
+1965, prescription drugs
+
+[[Page S15734]]
+
+were not a major component of the health system.
+  That is fascinating to me. My father was a medical doctor. He was a 
+surgeon. I remember he used to carry that black bag, and he used to 
+have several bottles of pills in it, to the best of my knowledge. I 
+know he was very careful in how he dispensed all those drugs. But when 
+we stop to think, it has been a dynamic, if not revolutionary, change 
+in the practice of medicine and health care owing to the development of 
+prescription drugs. So since 1965, there have been a lot of positive 
+developments in health care.
+  One major positive development is prescription drug innovations. We 
+are proud in America of the many innovations we have had. Those 
+innovations have improved the quality of life for those with chronic 
+conditions such as heart disease, diabetes, arthritis, and others. 
+Prescription drugs are now an essential component of today's health 
+care system. They often allow individuals to stay out of the hospitals 
+and, therefore, not become a burden on the already overburdened health 
+care system in the United States. That is owing to prescription drugs.
+
+  That is the reason--the prescription portion of this--why I am so 
+fervently and strongly in support of this legislation.
+  I have had the good fortune of representing the citizens of the 
+Commonwealth. I was talking to the distinguished majority leader. When 
+this session of the Congress concludes, it will be 25 years. A quarter 
+of a century I have been privileged to serve in this Chamber. 
+Throughout that period of time, as all of us do, we travel extensively 
+throughout our States. We have our town meetings and otherwise. How 
+often have all of us come across those individuals who simply say they 
+struggle to pay for these prescription drugs, a well-worn but truthful 
+phrase. Often they give up the bare necessities of life--food and 
+shelter--to pay for their drugs. So we have all heard those stories.
+  I am proud that this act will go a very long way to remove that 
+anecdotal phrase from our town meetings and from these individuals. 
+They are not aggressive about it. Really, they are very sad and almost 
+embarrassed to say they have to dip into their basic necessities of 
+food and shelter to meet their daily requirements, weekly requirements, 
+whatever the case may be.
+  Some say they ration the drugs they are instructed to take by their 
+physician. Imagine that. A physician says you take a pill a day, and 
+they can't afford it. They take a pill every other day. That is just 
+impacting the health of so many people.
+  I hail this section on the prescription drugs. I think it is a 
+remarkable step forward. This outpatient benefit is long overdue. Now 
+we are about, with a historic vote, to provide that.
+  Many of us have worked these years to try to come to this point in 
+the Senate where we do have this prescription drug outpatient Medicare 
+Program. I have in the past voted for a number of pieces of 
+legislation, have cosponsored a variety of bills to add such a 
+prescription drug benefit. In fact, in an effort to reach a legislative 
+consensus, I even offered my own bill. It was bipartisan. I was joined 
+by Senators Collins and Dayton early this year. It was very simplistic. 
+I look at the remarkable size of that. It is about 8 inches thick. Our 
+bill was probably not more than a dozen or so pages, but at least it 
+went to a partial solution of this problem faced by so many people who 
+could not afford their drugs.
+  None of these measures ever got enough support in either the House of 
+Representatives or the Senate. As a result, while we in Congress 
+continued to debate this issue, America's seniors continued to suffer.
+  Today, though, we have a historic opportunity before us. Early 
+Saturday morning the other body passed their report and now we are 
+about to pass ours. I am confident we will. At that moment, across this 
+Nation will go the voice of the Congress saying that we have at long 
+last, since 1965, done our best to try to put together legislation to 
+take care of the 40 million beneficiaries of Medicare that exist today.
+  Under this legislation, starting in 2004, all Medicare beneficiaries 
+will be able to receive a Medicare-endorsed prescription drug discount 
+card. It is estimated these cards will save seniors between 15 and 25 
+percent on their prescriptions. Low-income beneficiaries will also 
+receive a $600 subsidy on their card towards the purchase of 
+prescription drugs.
+  I am very proud in the way the drafters of this bill have put such a 
+tremendous emphasis on the low-income Americans. Pain knows no class, 
+no age. Pain is endured by all. Perhaps those of us who have a bit more 
+than others were able to alleviate our pain, but we certainly cannot 
+let those less fortunate than ourselves suffer.
+  So I think this $600 subsidy is a magnificent part of this bill.
+  Then, starting in 2006, beneficiaries will be able to, at their 
+option, sign up for a new Medicare prescription drug program. This 
+program is entirely voluntary, so if a senior already has solid 
+prescription drug coverage and does not want to participate, he or she 
+doesn't have to sign up for the program.
+  Those seniors that do voluntarily sign up for the program will 
+receive standard prescription drug coverage that covers 75 percent of a 
+senior's drug costs up to $2,250 in drug expenses, after meeting a $35 
+monthly premium and a $250 deductible. After a beneficiary has spent 
+$3,600 out of their own pocket on prescription drugs, the standard 
+plan's catastrophic coverage will cover at least 95 percent of 
+prescription drug costs.
+  Under the bill, very generous assistance is provided to low-income 
+beneficiaries. In my view, these low-income provisions are truly the 
+hallmark of the bill, as these seniors are truly the one's who have 
+most struggled to obtain the prescription drugs they need. These 
+seniors will pay little or no premium and little or no deductible, 
+based on their income, and will only have to pay at most a $2 copay for 
+a generic drug and up to a $5 copay for a brand name drug.
+  What does this new drug benefit mean to Virginians? If passed and 
+signed into law, it will provide the nearly 1 million Medicare 
+beneficiaries in the Commonwealth with access to a Medicare 
+prescription drug benefit for the first time in the history of 
+Medicare. Almost 400,000 of these individuals will qualify for the 
+generous low-income benefits.
+  But, not only does this legislation directly help Virginia's Medicare 
+beneficiaries by providing a prescription drug benefit, the legislation 
+also provides needed enhancements to Medicare providers to ensure they 
+are more adequately reimbursed for their services. As we have seen, 
+without adequate reimbursement, health care access can become a real 
+issue as doctors and other health providers cut back services or even 
+close their doors to Medicare beneficiaries.
+  That is one of the reasons I strongly support this bill. We simply 
+have to help those people access the care which those of us here in the 
+Senate and the Congress enjoy, and indeed that many other Americans 
+with larger corporations and small businesses enjoy, too. Some of them 
+are being denied the Medicare rights.
+  This legislation recognizes this fact and provides significant 
+assistance to Medicare providers. For example, the bill blocks the 
+proposed 4.5-percent cut in physician reimbursement in 2004 and 2005 
+and updates their reimbursement by 1.5 percent in both 2004 and 2005. 
+This one fix alone will result in an influx of almost $200 million into 
+Virginia's health care system.
+  Now, while I strongly support this historic legislation, I must admit 
+that in no way is this bill a perfect bill. It is certainly not the 
+bill I would have drafted.
+  But, our leaders in the Senate on this legislation--the bipartisan 
+team of Senator Grassley, Senator Baucus, Senator Breaux, and our 
+Majority Leader Senator Frist--really should be commended for their 
+work. After the Congress has for years struggled to reach an agreement 
+on this matter, we have finally reached what appears to be a strong, 
+compromise bill that the President will sign.
+  And, while I intend to vote for this bill shortly, I do wish to take 
+a moment to raise a few brief points of concern that I believe Congress 
+must carefully watch as this legislation is implemented.
+  First, Congress must be cognizant of the fiscal impact of this bill 
+and its long term effect on Medicare and our
+
+[[Page S15735]]
+
+Federal budget. The Congressional Budget Office estimates that this 
+legislation will cost the taxpayers approximately $400 billion over the 
+next 10 years. Over the next few years we must closely watch the 
+implementation of this new benefit to ensure that the program's costs 
+do not explode exponentially beyond the CBO estimate. To do so would 
+leave a tremendously unfair burden on America's younger generations.
+  Next, we in Congress must pay close attention to the possible 
+unintended consequences of this legislation. Almost \1/3\ of all 
+seniors currently have retiree employer-sponsored prescription drug 
+coverage. However, due to rising health care costs, more and more 
+employers are dropping retiree health coverage. This legislation will 
+provide a solid fall-back plan for those seniors who lose their retiree 
+coverage due to rising costs.
+  In crafting this legislation, though, we were mindful of the prospect 
+that the mere existence of a Medicare prescription drug benefit might 
+somehow encourage companies to drop their retiree prescription drug 
+plan. This is certainly not our intention, and the legislation provides 
+important Federal incentives to employers who offer good retiree 
+prescription drug coverage. Nevertheless, we in Congress must provide 
+strong oversight to ensure that this legislation does not have the 
+unintended effect of actually causing retirees to lose existing 
+employer-sponsored coverage.
+  Finally, I regret that the bill before us today includes provisions 
+that would sharply cut Medicare funding for cancer care provided to 
+Medicare beneficiaries. After the Senate passed Medicare bill included 
+a $16 billion cancer care cut, I fought hard with Senator Sam Brownback 
+and Senator Bill Nelson to ensure that the final bill contained little 
+or no such cut. Together, we garnered the support of 53 U.S. Senators. 
+Ultimately, though, the Conference Report to H.R. 1 cuts reimbursement 
+for cancer treatment by approximately $11 billion over the next 10 
+years.
+  Proponents of this cut claim that it is needed so that cancer 
+treatment reimbursement more accurately reflects the true cost to the 
+physician. On the other hand, the hundreds and hundreds of cancer 
+patients and oncologists who communicated with me on this issue 
+maintain that these cuts will be devastating to cancer care in this 
+country.
+  I remain committed to working with my fellow Virginians and others in 
+the Senate to ensure that cancer patients are not negatively affected 
+by these provisions.
+  In closing Mr. President, the bill before us today is the product of 
+a number of years of hard work by a lot of people in the Congress. It 
+presents the best opportunity we have ever had in the Congress to 
+update the Medicare program with a prescription drug benefit.
+  While I do have some serious concerns about certain provisions in the 
+bill--on balance--I firmly believe voting for this bill is the right 
+thing to do.
+  I look forward to this bill becoming law but remain cognizant of the 
+need for the U.S. Congress to closely monitor the implementation of 
+this legislation.
+  The PRESIDING OFFICER. The Senator from Washington is recognized.
+  Ms. CANTWELL. Mr. President, I rise at this late hour to add my voice 
+in opposition to the legislation that I believe we will be voting on 
+later tonight or early tomorrow morning and to basically explain that I 
+think under this bill, my constituents in Washington State, who would 
+benefit from a prescription drug benefit, or are currently benefiting 
+from something, will be worse off after this legislation than if we did 
+nothing at all.
+  That is the important point for us to discuss today. Going home to 
+Washington State over the summer, and in September and in October, the 
+voices of Washingtonians basically said we would like to see a 
+prescription drug benefit. Actually, first, they said we would like to 
+see a reduction in the cost of prescription drugs, whether you have a 
+benefit or not. Those who have insurance now are seeing increases in 
+the rates of prescription drugs and cannot afford the continual 
+increase in pricing. I am going to talk about that in a minute. They 
+also said that if you can get a prescription drug benefit, go ahead, 
+but certainly don't do harm by passing something that puts seniors 
+worse off than they currently are.
+  While I voted for the bill that came out of the Senate, I think this 
+conference report is far off from where we need to go. My colleague 
+from Virginia, who just spoke, talked about the physician reimbursement 
+rate and hospital reimbursement rate, for which I applaud the 
+committee. I point out that the reimbursement rate for Medicare 
+patients that is still within this framework of a national average has 
+Washington State at the very low end. In fact, I think we went from 
+41st in the Nation to 45th in the reimbursement rate. As a place where 
+we want people to come and provide health care benefits, they are 
+certainly not incentivized under this legislation to want to come to 
+Washington when they can practice in other regions and make more money. 
+I think some of the failures of this bill far outweigh the strengths of 
+the legislation.
+  I may come at this differently than my colleagues who want to, as I 
+say, privatize Medicare. I certainly believe we have made a promise 
+since 1965 that we would provide a universal benefit of Medicare, 
+provide basic care to our seniors. I think this bill is a failure to 
+expand on that and put a prescription drug under Medicare.
+  When the Harvard School of Public Health did a study in June of 2002, 
+they asked people: If you retired and you had a choice to get a benefit 
+under the Medicare health insurance program or from a private plan, 
+such as a PPO or HMO, which would you choose? And 63 percent said they 
+wanted a program under Medicare. Only 19 percent said they wanted a 
+plan under a private provider, a PPO or HMO organization. So I think 
+the public is clear that they have said they trust Medicare.
+  In fact, I found great pleasure recently when the Seattle Post-
+Intelligencer characterized this debate, I thought, in an editorial 
+cartoon that was really right on the spot:
+
+       Two constituents obviously are saying to each other, honey, 
+     see, the Republicans--what they promised is that we would get 
+     out of the faceless control of the Government bureaucrats on 
+     Medicare.
+
+  Unbeknownst to the couple, they are sitting in the faceless hands of 
+insurance company executives. I think that is fundamentally what is 
+wrong with this legislation, that while we have had a trusted system 
+for many years and an increase in the cost of prescription drugs going 
+from maybe 5 percent of your health care costs at the time Medicare was 
+introduced to now something like 25 percent of your health care costs, 
+Medicare prescription drug benefits should just be part of basic care 
+under Medicare. Instead, we are saying we are going to subsidize 
+insurance companies to somehow provide a prescription drug benefit for 
+you. I think what we are going to find is that it is going to have 
+disastrous results.
+  There are a lot of things in this legislation about which I think 
+people in the State of Washington are concerned. Obviously, this 
+particular debate, as the New York Times called it today, is really a 
+debate--I ask unanimous consent that this article be printed in the 
+Record, entitled ``Medicare Debate Turns to Pricing of Drug Benefits.''
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                [From the New York Times, Nov. 24, 2003]
+
+           Medicare Debate Turns to Pricing of Drug Benefits
+
+                            (By Robert Pear)
+
+       Washington, Nov. 23.--With Congress poised for final action 
+     on a major Medicare bill this week, some of the fiercest 
+     debate is focused on a section of the bill that prohibits the 
+     government from negotiating lower drug prices for the 40 
+     million people on Medicare.
+       That provision epitomizes much of the bill, which relies on 
+     insurance companies and private health plans to manage the 
+     new drug benefit. They could negotiate with drug companies, 
+     but the government, with much greater purchasing power, would 
+     be forbidden to do so.
+       Supporters of the provision say it is necessary to prevent 
+     the government from imposing price controls that could stifle 
+     innovation in the pharmaceutical industry. Critics say the 
+     restriction would force the government and Medicare 
+     beneficiaries to spend much more for drugs than they should.
+       The House passed the Medicare bill on Saturday by a vote of 
+     200 to 215, after an all-night session and an extraordinary 
+     three-hour roll call. President Bush and House Republican 
+     leaders persuaded a few wayward conservatives to vote for the 
+     bill, which calls for the biggest expansion of Medicare since 
+     its creation in 1965.
+
+[[Page S15736]]
+
+       In the Senate, debate continued on Sunday, with Democrats 
+     asserting that the bill would severely undermine the 
+     traditional Medicare program. Senator Edward M. Kennedy, 
+     Democrat of Massachusetts, said he would lead a filibuster 
+     against the measure.
+       Democrats acknowledged they did not have the votes to 
+     sustain a filibuster. But they said they would use points of 
+     order to slow the legislation, whose passage is a priority 
+     for President Bush.
+       Senators Dianne Feinstein of California, Ron Wyden of 
+     Oregon, and Kent Conrad of North Dakota, all Democrats, 
+     announced on Sunday that they would vote for the bill. Other 
+     Democratic senators who have endorsed it include Max Baucus 
+     of Montana, John B. Breaux and Mary L. Landrieu of Louisiana, 
+     Blanche Lincoln of Arkansas and Ben Nelson of Nebraska.
+       But Senator Don Nickles, Republican of Oklahoma, said he 
+     would vote against the $400 billion bill.
+       ``We are building a new expansion onto a house that's 
+     teetering on a cliff,'' Mr. Nickles said. ``We are saddling 
+     future generations with enormous liabilities.''
+       No provision has been mentioned more often in Congressional 
+     debate than the section that prohibits the government from 
+     interfering in negotiations with drug companies.
+       Democrats have repeatedly asserted that Medicare could 
+     provide more generous drug benefits if, like other big 
+     buyers, it took advantage of its market power to secure large 
+     discounts.
+       But many Republicans have expressed alarm at the 
+     possibility that federal officials might negotiate drug 
+     prices. The Medicare program, they say, dwarfs other 
+     purchasers, and the government is unlike other customers 
+     because it could give itself the power to set prices by 
+     statute or regulation, just as it sets the rates paid to 
+     doctors and hospitals for treating Medicare patients.
+       Under the bill, the government would subsidize a new type 
+     of insurance policy known as a prescription drug plan.
+       ``In order to promote competition,'' the bill says, the 
+     secretary of health and human services ``may not interfere 
+     with the negotiations between drug manufacturers and 
+     pharmacies and prescription drug plan sponsors, and may not 
+     require a particular formulary or institute a price structure 
+     for the reimbursement'' of drugs.
+       Tommy G. Thompson, the secretary of health and human 
+     services, said Sunday that if Congress wanted to give him the 
+     power to negotiate drug prices, it could do so next year. But 
+     ``that's not a reason to oppose this Medicare bill,'' said 
+     Mr. Thompson, who negotiated with Bayer to obtain a lower 
+     price for the company's anthrax medicine, the antibiotic 
+     Cipro, in 2001.
+       Representative Tom Allen, Democrat of Maine, said it struck 
+     him as absurd that ``the government will not be able to 
+     negotiate lower prices'' for the drugs on which it plans to 
+     spend $400 billion in the next decade.
+       ``The bill will allow the pharmaceutical industry to 
+     continue charging America's seniors the highest prices in the 
+     world,'' Mr. Allen said.
+       Representative Peter A. DeFazio, Democrat of Oregon, said, 
+     ``We could provide a much more meaningful benefit if we 
+     negotiated lower prices as other nations have done.''
+       Representative Rahm Emanuel, Democrat of Illinois, said: 
+     ``We could bring down drug prices if we allowed the secretary 
+     of health and human services to negotiate on behalf of 40 
+     million seniors. That is what Sam's Club does.''
+       Sam's Club, a chain of warehouse stores that is a division 
+     of Wal-Mart, acts like a purchasing agent for its members, 
+     who can buy low-price goods.
+       Republicans say that health plans will be able to negotiate 
+     lower drug prices for Medicare beneficiaries, just as they do 
+     for large groups of employees with private insurance.
+       The Senate majority leader, Bill Frist, Republican of 
+     Tennessee, said: ``We tend to use the purchasing power of 
+     private entities like individual plans to hold down costs 
+     over time. The Democrats tend to emphasize, and thus push 
+     for, more government control, government purchasing. We just 
+     think that competition through the private sector, through 
+     bulk purchasing and negotiation, is a more effective means to 
+     hold down prices.;;
+       Medicare drug plans would be offered by state-licensed 
+     insurance companies. They, in turn, could hire pharmacy 
+     benefit managers like Express Scripts, Medco Health Solutions 
+     and AdvancePCS to negotiate with drug makers, issue discount 
+     cards and line up networks of pharmacies.
+       The bill would also create a benefit: an initial physical 
+     examination offered to new beneficiaries as a ``welcome to 
+     Medicare.'' this benefit illustrates a shift toward greater 
+     coverage for preventive services.
+       Under the bill, Medicare would cover screenings for heart 
+     disease and diabetes and would pay experts to coordinate care 
+     for elderly people with chronic illnesses.
+       Senator John Kerry, Democrat of Massachusetts, took time 
+     out from his presidential campaign to join the Senate debate. 
+     The Medicare bill, he said, ``lines the pockets of powerful 
+     moneyed interests and leaves America's seniors out in the 
+     cold.''
+       But Senator Susan Collins, Republican of Maine, urged 
+     support for the bill. ``This historic opportunity may never 
+     come again, and we cannot afford to let it pass,'' she said.
+
+  Ms. CANTWELL. In this article, I will read the paragraph:
+
+       With Congress poised for final action on a major Medicare 
+     bill this week, some of the fiercest debate is focused on a 
+     section of the bill that prohibits the government from 
+     negotiating lower drug prices for the 40 million people on 
+     Medicare.
+
+  That particular article goes on to talk about the fact that we are 
+switching over to insurance companies when we could have a benefit 
+under Medicare and when Medicare could provide those cost savings as a 
+big market.
+  Now, some people say: Gee, we don't want to set price controls 
+because that will somehow artificially impact pharmaceutical companies. 
+Pharmaceutical companies are not the people who need the financing and 
+the access to capital.
+  It is the biotech industry. Washington State happens to be home to 
+many biotech companies. They need access to capital. It is one of the 
+actual advantages of what I would call economic advantage that the 
+United States has in making pharmaceutical drugs; the fact that our 
+access to the capital system allows these biotech companies to do years 
+and years of research and then maybe 10 to 15 years later actually 
+getting a drug produced. So they need access to the capital market.
+  Once those drugs are created, we need to do something about 
+controlling the costs of those drugs. This section of the bill, again 
+referring to the New York Times article, says:
+
+       The provision epitomizes much of the bill, which relies on 
+     insurance companies and private health plans to manage the 
+     drug benefit. They could negotiate with drug companies, but 
+     the government, with much greater purchasing power, would be 
+     forbidden to do so.
+
+  I have great concerns about what is the basic hamstringing of this 
+proposal as it relates to prescription drug benefits when the key 
+opportunity before us would be to put this benefit under Medicare and 
+capitalize on those savings.
+  Mr. President, that is why I had supported earlier legislation and 
+find it very difficult to support this legislation. I am going to talk 
+about why, besides this particular provision, we are hampering 
+ourselves from having other price controls in this legislation.
+  I agree with my colleagues on the other side of the aisle, as we 
+start this new benefit, we must be cognizant of what kind of cost 
+measures we can do to make sure we continue to provide this for our 
+citizens. Before I get to that, I want to mention, I have great 
+concerns about the retiree benefit plans under this proposal. We have 
+about 49,000 retirees in Washington State who might end up losing their 
+coverage under this bill in the future. They have good, solid insurance 
+coverage plans that I don't think are too generous, but under this 
+proposal they might go away.
+  There is a certain percentage of the population under this proposal 
+that actually will start paying a variety of premiums based on income, 
+and while some people think that might be a good idea, really these 
+people have been in this program--it has been a program based on a 
+payroll tax into the Medicare trust fund--they have paid into the trust 
+fund expecting to get reliable health insurance coverage back. Now they 
+are going to be paying aggressively on their premiums.
+  About 51,000 residents in Washington State are going to wake up very 
+much surprised to find that as a result of trying to provide a drug 
+benefit package to the country, all of a sudden they are paying more on 
+their Medicare Part B program. I know my phone is ringing very much 
+against this legislation, but I don't know if those 51,000 people 
+realize it is actually their premium rates that are going to go up.
+  Third, I think the legislation, as it relates to low-income seniors, 
+is another area where we are leaving seniors basically worse off than 
+they are today. My State covers 150 percent of the poverty level under 
+Medicaid with a prescription drug benefit. The lowest income seniors in 
+America are now going to have to pay a copayment.
+  One of the reasons we created the program at 100 percent of poverty 
+for people on Medicaid is so they can get access to prescription drugs 
+because they couldn't afford a program to pay for prescription drugs. 
+We are taking the poorest of our population and now demanding that they 
+have a copayment, too.
+  The asset test--I am sure some of my colleagues will talk about 
+that--for
+
+[[Page S15737]]
+
+those at 150 percent of the poverty level, which is basically incomes 
+of about $13,000 per individual or $18,000 for a family of two, that 
+the asset test is going to be $6,000 for the individual or $9,000 for a 
+couple, that means after that, you are not going to benefit from the 
+program in the same way.
+  Basically, you are limiting the opportunity for this section of low-
+income individuals to benefit from what would be a more profitable way 
+of dealing with a prescription drug benefit and giving them, not 
+hampering them, saying you qualify but limiting them on the asset test.
+  In Washington State, for those individuals below 150 percent of 
+poverty level, they are going to be worse off under this legislation.
+
+  I hope this legislation is not a death knell for those who are living 
+with cancer because according to the CBO estimates, this bill could 
+basically cut $11.5 billion over the next 10 years for cancer care 
+communities because of the reimbursement rate for cancer care. 
+Basically, we are making cuts to programs, and I have heard from 
+facilities, oncologists, and cancer patients all across the State that 
+they are very upset with this legislation and the reduction in 
+reimbursements for cancer patients. This is another group of people who 
+will be worse off if this legislation passes.
+  As I said, my primary concern with this legislation is it does very 
+little to rein in the cost of prescription drugs. Talking to my 
+constituents, yes, they would like to see a prescription drug benefit, 
+but they don't want to be worse off than they are today. Even without 
+the benefit, they expect the Senate to do something about controlling 
+prescription drug costs.
+  What have we done? I see my colleague from Michigan on the Senate 
+floor. She had a great proposal that we failed to execute that 
+basically said: Why not cap the advertising dollars of the 
+pharmaceutical companies to the dollars that are involved in research 
+and development; that way, they are doing research and development on 
+new drugs. They are not overspending, overadvertising to America, or at 
+least not getting a tax benefit for overadvertising and trying to drive 
+up the consumption of drugs.
+  We have done nothing about that. My colleague from New York and 
+others have tried to address the issue of what has become evergreening 
+of patents where drug companies actually change the name or some 
+feature of the product just so they can continue to have a patent 
+control and generic drugs, cheaper drugs, cannot come to the market.
+  This bill actually deals with some aspect of that, but the aspect I 
+was very concerned about is oftentimes you have big pharmaceutical 
+companies buying a generic drug company right before the generic drug 
+company produces the product. That ought to be investigated by the 
+Department of Justice as an antitrust violation and to make sure we are 
+not allowing such collusive activities to happen, thereby raising the 
+overall price of prescription drugs.
+  A provision that would have benefited us the most and was critically 
+important--again, as we see insurance companies, basically, in charge 
+of prescription drug benefits--is we had a great opportunity in an 
+amendment I offered with several of my colleagues to control the costs 
+as it was put forth by pharmacy benefit managers.
+  In traveling around Washington State, actually a summer ago, it 
+became very clear to me that a great deal of purchasing of 
+pharmaceutical drugs for individual plans were done by pharmacy benefit 
+managers. They are the middlemen in this process, and pharmacy benefit 
+managers often negotiate huge savings for various employee groups, 
+companies, and organizations. Yet it is unclear what happens to the 
+negotiated discount. Is it passed on to the individuals within the 
+beneficiaries of that plan? Is it basically profit by the pharmacy 
+benefit managers? What happens to that money? In fact, we have had 
+instances in this country where pharmaceutical companies and the 
+pharmacy benefit managing company are owned by the same entity. Thereby 
+the middleman is basically helping to negotiate and sell a higher price 
+for the pharmaceutical company.
+
+  Most of those companies have gotten out of that. Certainly my 
+amendment would have prohibited pharmaceutical companies and benefit 
+managers from working together under the same ownership. But a recent 
+September 9, 2003 study by Loyola University Chicago Law School found 
+that the cost to taxpayers for this inherent conflict of pharmacy 
+benefit managers is in the range of somewhere between $14 billion and 
+$29 billion over the next 10 years. I think that is quite considerable.
+  To me, putting HMOs in charge of the prescription drug benefit is 
+like putting Enron in charge of our energy policy. Thank God we were 
+able to make some comment and statements that we are not going to have 
+that energy policy of the free market without rules and transparency 
+which basically drove up the cost of energy pricing. But that is what 
+we have here because basically we are saying Government can't do 
+anything to control the prices.
+  But now we are going to throw this into the private sector, and it is 
+unclear what rules they are going to use to control the prices. The one 
+amendment that was in this legislation saying that pharmacy benefit 
+managers had to come clean about the drug benefits they negotiated with 
+pharmaceutical companies, and what percentage of those dollars they 
+were passing on to consumers--that got thrown out of the legislation.
+  So a key aspect of this bill, which would have said let's provide 
+transparency, let's give money back to seniors, let's make sure 
+consumers are getting the savings that are being passed on by being in 
+a big market and having market leverage--those things are gone.
+  I believe our Attorney General of the United States ought to 
+investigate. I don't see why the manufacturers of pharmaceuticals, that 
+then sell through a PBM, can't list the top volume of 50 drugs they 
+have sold and the difference between the prices they received at the 
+pharmacy level and what discounts were realized. They don't have to 
+give all of their pricing information. They don't have to overexpose 
+what I think would be private corporate information that allows them to 
+be competitive. But the Department of Justice ought to be able to 
+investigate collusive activity that is ripping off seniors in America, 
+when somebody negotiates huge discounts based on volume but then 
+doesn't pass those discounts on to consumers.
+  So, as I said, this is a key part of the legislation that was left 
+out. I hope whatever happens with the outcome of this legislation, that 
+my colleagues will think about how we need to rein in pharmacy benefit 
+managers in the future and make sure they are passing on savings to 
+consumers.
+  As I said, I think this private delivery model we are talking about 
+for Medicare gives too much control over to the insurance agencies and 
+other organizations and doesn't give a guarantee to seniors. This bill 
+provides no limits on the premiums that drug-only plans can charge.
+  Seniors need a comprehensive benefit that covers their total 
+prescription benefit needs. Why tease them with a program that we are 
+somehow going to cover their prescription benefits and then not control 
+the price, have it in the private sector, and then have the private 
+sector dictate to them: Here is the very limited number of drugs that 
+are going to be provided.
+  Thirty percent of Washington State seniors enrolled in the 
+prescription drug benefit under this program would fall into what is 
+the donut hole. Easily some 122,000 people in my State could fall into 
+the donut hole. Again, another percentage of the population that I 
+don't think are--you might not say they are better off. It depends on 
+whether they have a drug benefit now. But they are certainly not going 
+to get anything from this legislation and they are going to be far more 
+confused about why this cliff starts at a certain level.
+  Again, my colleagues, I am sure, have talked about the economic 
+impact of this legislation. I would go back, saying we should start 
+with a prescription drug benefit.
+
+  When my colleague, the Senator from Michigan, and I first came into 
+this Congress, when we had a huge surplus, that was the time we should 
+have put forth a prescription drug benefit that would have been a more 
+comprehensive package and started this process. But we didn't do that.
+  So what my constituents are telling me, and these are even 
+constituents
+
+[[Page S15738]]
+
+living in the rural part of Washington State who might think their 
+physicians will get a higher reimbursement rate or their hospitals will 
+get a higher rate, they will know Washington will still fall behind on 
+the overall Medicare reimbursement rate, falling from 41 in the Nation 
+in reimbursement rate to 45. They will know either the lowest-income 
+seniors who are going to fall out of the program and have to have 
+copayments--that is, they are already under a plan that they don't have 
+copayments on--or there will be some of these seniors who basically end 
+up having to pay more than they are paying today.
+  As we debate this legislation and look forward to whether, as I said, 
+the vote is tonight or tomorrow, I think we need to talk about whether 
+we are going to trust the American people in their trust of Medicare; 
+whether we are going to say we are going to let the Medicare market 
+carry the weight that it has already carried. Actually, even if we 
+said, Here is the limit of how much we could provide given our budget 
+deficit, I would say: Fine, continue to let Medicare provide for those 
+individuals. As we give more resources as a nation, let's build that 
+up.
+  But don't fool America by somehow thinking you are going to turn this 
+over to private insurance companies and HMOs and somehow they are 
+magically going to come up with the money to make this benefit program 
+work.
+  What Americans want is security in their prescription drug benefits. 
+They don't think that privatization will work. They don't think we are 
+doing enough to control costs. I suggest to my colleagues that we need 
+to go back and work this bill to provide both--the certainty to 
+seniors, in a program that they have believed in for many years, and a 
+Congress that will stand up and fight the ever increasing cost of 
+prescription drugs.
+  I yield the floor to my colleague from Michigan.
+  The PRESIDING OFFICER. The Senator from Michigan.
+  Ms. STABENOW. Mr. President, first, I thank my friend and colleague 
+from the State of Washington for her eloquence this evening in laying 
+out where this is not a good deal for seniors. We wish it was a good 
+deal for seniors. Both of us have been here since 2001, speaking in the 
+Chamber frequently about the need to provide prescription drug coverage 
+for seniors, real coverage, and about the need to lower prices for 
+everybody.
+  In fact, I have been working on senior issues for a long time. 
+Actually that was the very first opportunity I had to get involved in 
+public service. I won't say when, but it was about 25 years ago. I came 
+into county government, which is a part-time position in Michigan. But 
+what brought me into the Ingham County Board of Commissioners was the 
+issue of senior citizen health care. I have been involved in that issue 
+ever since.
+  Nothing would please me more than to be able to stand on the floor 
+this evening and say: We did it. We have put together a voluntary, 
+comprehensive prescription drug benefit under Medicare for seniors and 
+the disabled. Nothing would please me more. And nothing would please me 
+more than to say: We did it. We have put in place the ability to lower 
+prices for everyone.
+  As colleagues have said, this is not just about Medicare and just 
+about our seniors and the disabled--although certainly they are very 
+important people. They use the majority of the prescription drugs. But 
+we know right now the explosion in prices of prescription drugs is 
+driving the entire cost of the health care system.
+  When I talk to those who are in the auto industry, or when I talk to 
+small businesses, when I talk to those who are in the furniture 
+business in Michigan, or in retail sales or work in State government, I 
+hear the same thing, which is at least half the cost increases in 
+health care are a result of the explosion in prescription drug prices.
+  So this is an issue that affects everybody. As we look at this 
+question under Medicare, this is also an issue that affects everyone, 
+every taxpayer as well as every person who is paying for Medicare. So 
+this is a big deal. It is important that we get this right. It is 
+important that we be able, at the end of the day, to say we have 
+strengthened one of the great American success stories called 
+Medicare, and that we have put in place the competition and the 
+accountability to bring prices down. This bill absolutely does not do 
+that. It doesn't do either one of those things.
+
+  First of all, it starts from the premise that seniors want something 
+other than traditional Medicare. When we look at what seniors have said 
+when they have had a choice, here is what they said. Eighty-nine 
+percent of those who have a choice right now between Medicare+Choice, 
+which is an HMO, private insurance, or traditional Medicare, 89 percent 
+said: We will take traditional Medicare. Eleven percent said: We will 
+take the private insurance.
+  Seniors have already said what choice they want. When I hear folks 
+talking about what they want in Medicare, they are not asking for more 
+bureaucracy, or more insurance paperwork, or more insurance companies 
+to choose from. They just want to update Medicare for prescription 
+drugs, that is all--just update Medicare for prescription drugs. 
+Eighty-nine percent of the Medicare beneficiaries have already told us 
+what they want to do. They want traditional Medicare.
+  This bill basically sets in place--some of it is immediate with 
+prescription drug coverage where you have to choose from private 
+insurance plans if they are in your area, and some of it is down the 
+road a bit in 2010 when the entire unraveling of Medicare begins. In 
+some areas, people will have a very different system that will attempt 
+to move them into private insurance.
+  That is not what folks have said to me. People say we should do that 
+because it costs less. Medicare is in trouble financially down the 
+road. We need to do something to lower costs.
+  When you look at this, Medicare costs about 2 percent to administer 
+and private HMOs cost 15 percent. So that can't be the reason we are 
+doing this. It costs more to go into private plans than it does with 
+traditional Medicare.
+  For many of the reasons colleagues said on the floor, traditional 
+Medicare has a very large insurance pool--those who are sick, those who 
+are well, those who are older, those who are younger, all together--the 
+bigger the pool, the bigger the risk pool, the lower the price.
+  It is not because it would cost less, because it doesn't cost less; 
+it will cost us more. It will cost taxpayers more. It costs more for 
+services under the private sector than it does under traditional 
+Medicare.
+  Why are we doing this? I think we are doing this for one reason: 
+Unfortunately, the driving reason behind this legislation is that the 
+pharmaceutical lobby has decided, instead of continuing to fight 
+Medicare coverage and the Medicare prescription drug benefit as they 
+have done for many years--they decided they don't want to stop it 
+anymore because it is too big an issue for people. It is a critical 
+life-and-death issue in order to pay for your medicine. That is not to 
+say people got up today and decided to eat or get their medicine. That 
+is not rhetoric; it is real. So they changed their approach and thought 
+they couldn't stop it anymore because it is too real for people: This 
+is a real problem. Let us create a benefit that is done in a way that 
+divides people up into private insurance plans and in a way that 
+doesn't allow Medicare to use all of its leverage to be able to lower 
+prices.
+  So behind all of this, there are I think two things. There are those 
+who really do believe it ought to be done in the private sector, that 
+we ought to go back to private insurance. But you couple that with an 
+industry that wants to make sure that: No matter what, we can't lower 
+their prices; let us make sure that no matter what, people have to pay 
+the highest prices.
+
+  That is why there is no reimportation, which is really important in 
+my State. The idea that you can have a local pharmacist in Michigan be 
+able to do business with a pharmacist in Canada, be able to bring 
+prescription drugs back into the local pharmacy in Michigan at half the 
+price, many of them made in the United States, they are safe, they are 
+FDA approved, bring them back, and create a way to lower prices--they 
+don't want that. That is not in the bill. They do not want a strong 
+provision to tighten patent loopholes so competitors can be able to get 
+into the marketplace with generic drugs. That is not in the bill.
+  We have a weakened version of that. Amazingly, as colleagues have 
+said,
+
+[[Page S15739]]
+
+they were actually able to get language into the bill that says 
+Medicare is prohibited from group purchasing on behalf of seniors and 
+the disabled. It is amazing. That is just amazing. The private 
+insurance companies can try to get the best price. Everybody else can 
+try to get the best price. But Medicare on behalf of our seniors is 
+prohibited from trying to get the best price.
+  That would only be in the bill for one reason; that is, because the 
+industry has been successful in creating a whole new group of customers 
+who will be forced to pay the highest possible price.
+  How do we know this? This is not just me talking. The Boston 
+University School of Health has looked at this legislation and 
+estimates there will be $139 billion in increased profits over the next 
+8 years for the world's most profitable industry. At $17 billion 
+annually, this means about a 38 percent rise in drugmaker profits.
+  I am all for folks making a profit. I have a major pharmaceutical 
+company in Michigan. They do wonderful research. I am very proud of 
+them for doing this research. But we are talking about an industry that 
+is already one of the most heavily subsidized by taxpayers, because 
+they do not make shoes, or chairs, or cars, they make lifesaving 
+medicine. We want them to make it. We want them to do research. So we 
+help them pay for it. We give them protection. We have patent 
+protection so that they are protected from competition. We give them 
+the ability to write off their research and write off their 
+advertising. They get a lot of support and help. Why? Because we want 
+to be able to afford the product.
+  At the end of the day, when, by the way, they are spending 2\1/2\ 
+times more on advertising and marketing and administration rather than 
+research, which is a big concern of mine, but at end of the day we are 
+seeing not prices going down so people can afford them but efforts to 
+actually protect prices and allow them to go up.
+  We are looking at about a 38 percent rise in drugmaker profits. 
+Certainly any business would welcome that. But that is on the backs of 
+American citizens. This is on the backs of American taxpayers who are 
+paying the bill--American seniors who just want to know that they can 
+count on Medicare, get the medicine they need, pick their own doctor, 
+live a healthy life, and visit grandkids and great grandkids. They 
+trust us to look beyond the 650 lobbyists, or however many there are in 
+the drug industry now. I know it is over six lobbyists for every one 
+Member of the Senate. Imagine, more than six lobbyists for the drug 
+companies for every Member of Congress. They are counting on the Senate 
+to look beyond the swarm and to look at what they need. They are 
+counting on us to look at what they are asking for.
+
+  I know at the end of the day it is our obligation and responsibility 
+to make sure we put together something that actually helps people get 
+their medicine at affordable prices, is responsive to the taxpayers of 
+this country, and is something that protects one of the great American 
+success stories called Medicare.
+  The No. 1 reason I am opposing this legislation, there is nothing in 
+here to lower prices for anyone. Profits will continue to go up and 
+they are locked in. This legislation sanctions that.
+  Second, we are putting into place a system that will unravel by 
+privatizing Medicare, or will allow Medicare to wither on the vine as 
+former Speaker Newt Gingrich said. It took a while. He said that in 
+1995 and here we are in 2003 with a bill that does that.
+  It does a couple of other things that make no sense to me. I would 
+assume that the first rule would be: do no harm. Yet under this 
+legislation, it is estimated that over and above what is happening 
+right now in the marketplace, 2.7 million retirees will lose their 
+coverage, people with private coverage. That is one in four. That means 
+three out of four employers will wrap around and keep the coverage 
+going, but one out of four, which is too high--we could make that zero 
+if we wanted to, if we had legislation I cosponsored a year ago that 
+made it--but right now one out of four in this bill are estimated to 
+lose their private retiree coverage.
+  My guess is a lot of those folks gave up pay increases over the years 
+to get good coverage, gave up other things so in their retirement they 
+would have private coverage.
+  On top of keeping prices high and unraveling Medicare, it is 
+estimated by a study group that 143,000 people in the State of Michigan 
+would lose their private coverage. I don't know how in the world I can 
+support that. And I will not.
+  The last thing this does, there are 6.4 million low-income seniors 
+and disabled who will lose access to the drugs they need. Many of them 
+will actually pay more. How in the world does it make any sense that we 
+would have a prescription drug benefit that has been described as 
+helping our low-income seniors the most, but actually costs people more 
+out of pocket, people who are currently on Medicaid, who find 
+themselves under Medicare with a different system, a different asset 
+test, different copays, and would actually pay more.
+  We should be focusing on and helping the people who really are 
+choosing every day whether or not to eat or get their medicine or pay 
+the electric bill.
+  When we look at this whole picture, as much as I would love to say 
+this is a great deal, this is a bad deal. My colleagues say this is a 
+first step. There is an old saying: Beware of the first step. I think 
+the first step is right off the cliff on this legislation for too many 
+people.
+  In closing, there is one important piece in this bill that has strong 
+if not unanimous bipartisan support that I wish we were passing 
+separately this evening. That is the issue I have talked about a number 
+of times: what is happening to our doctors, our hospitals, our home 
+health agencies, nursing homes, and others who have been cut 
+consistently in the reimbursements they receive, whether they be rural 
+or urban providers.
+
+  Those who care for our seniors and the disabled have seen resources 
+cut. That, in turn, is cutting access. We have known that cuts were 
+coming now for the last 3 years, and instead of doing something about 
+it sooner because our doctors and other providers desperately needed us 
+to, it gets rolled into this legislation that is highly controversial. 
+I regret that. I have offered separate legislation pulling out all of 
+these provisions. I offered it on Saturday, and I asked unanimous 
+consent we take it up immediately and pass it. It was objected to on 
+the other side. I regret that, as well.
+  The reality is, in the middle of this bill I believe there are some 
+very important providers being held hostage, folks I want to support, 
+whom I have supported, and I will support in the future; folks for whom 
+I have fought, and unfortunately because of the fact that this is in 
+the middle of this bill to unravel Medicare and hurt them in the long 
+run and increase cuts in the long run for all of them, I am not going 
+to be able to support this bill. However, I do want the record to 
+reflect that our doctors and hospitals and others who have been cut too 
+much are cancer care providers. They are still cut too much in this 
+legislation. I am extremely upset that is the case.
+  But we do have in this bill provisions for rural hospitals, urban 
+hospitals, and others that are desperately needed. I am at least 
+pleased there are provisions there recognizing the desperate needs our 
+providers feel.
+  In conclusion, when we look at the broad bill before the Senate that 
+unravels Medicare, keeps prices high, causes people to lose their 
+health insurance in the private sector, and causes the most vulnerable 
+seniors to pay more, this is a bad deal. I am hopeful, still, that 
+those listening this evening will call their Members before the vote 
+that I believe is coming tomorrow morning. Tell the Members to go back 
+to the drawing board. We can do better than this for people. I am still 
+very hopeful this will be stopped and we will get back to the drawing 
+board and get it right.
+
+
+                              Section 641
+
+  Mr. CONRAD. Mr. President, I want to thank Senator Grassley and 
+Senator Baucus for all of their work on this bill. Prescription drug 
+coverage under Medicare is long overdue, and I am pleased that we are 
+near to final passage on a drug benefit that will provide our seniors 
+and disabled with help they sorely need. That we have made it this far 
+is in no small measure to the important work of Senators Grassley and 
+Baucus.
+
+[[Page S15740]]
+
+  As we continue to debate the Medicare conference report, I want to 
+make particular note of the efforts of Senators Baucus, Grassley and 
+Murray to address the Medicare bias against self injectable biologics 
+and oral anti-cancer drugs without an injectable equivalent. These 
+biases can mean that Medicare pays for treatments that are more costly 
+and that require patients to travel long distances for treatment. 
+Working together, we have pushed hard for providing coverage of these 
+drugs for an interim period, until the Part D drug benefit begins. This 
+immediate coverage would make a real difference for thousands of 
+seniors suffering from cancer as well as various chronic illnesses, 
+such as rheumatoid arthritis and multiple sclerosis.
+  While I am pleased that the Medicare conference includes measures to 
+provide coverage of these medications over the next 2 years, I am 
+disappointed that the funding for this policy was limited and the 
+number of beneficiaries who will be allowed to benefit from this 
+coverage was capped. Also, I am very concerned that the Medicare 
+conference report language does not accurately reflect the intent of 
+the conferees, which is clearly laid out in the statute of the 
+conference report. I would like to ask my colleagues to comment further 
+on this issue.
+  Mrs. MURRAY. I also want to thank Senators Baucus and Grassley for 
+their support of the Conrad-Murray language that would have eliminated 
+this discrimination against self-injected biologics. Our amendment 
+would reward companies who innovate their treatments to meet their 
+patients needs, not Medicare reimbursement policies. Many of these 
+patients suffer from rheumatoid arthritis and MS, two disabling 
+conditions that can restrict mobility and make it very difficult to 
+even get to a physician's office. As my colleagues know, I have spent 
+the last 4 years working to end this outrageous disincentive in 
+Medicare reimbursement policies.
+  Mr. BAUCUS. It is important to note that without Senator Murray's 
+efforts and leadership on this issue, we would not be here today. I 
+also thank the Senator from North Dakota for all that he has done to 
+realize this important benefit. And I thank both Senators, as well as 
+the chairman, for working with me to level a Medicare reimbursement 
+playing field that has long been biased against rural patients and 
+providers. We have the most comprehensive rural health package in 
+history in this bill, and I am proud of that.
+  With respect to self-injectable biologics and oral anti-cancer 
+medications, let me provide some background. Under current law, 
+Medicare will cover certain drugs that are administered ``incident to 
+physicians' services.'' but self-injectable biologics which are 
+complete replacements for physician administered drugs are not covered 
+by Medicare. In other words, if a doctor is required to inject the 
+drug, you're covered. If not, you're out of luck.
+  A similar situation exists for oral anti-cancer medications. Coverage 
+is available for oral anti-cancer drugs if they are also available in 
+injectable form. But Medicare coverage is denied for anticancer 
+therapies that are available in oral form only. Many new therapies to 
+treat cancer, as well as many that are in various stages of development 
+and approval, are available only in oral form, and therefore are not 
+covered under the Medicare program.
+  Mr. GRASSLEY. I thank my friend from Montana for that explanation. 
+And as he and the Senators from Washington and North Dakota know, we 
+have a demonstration program in this bill that covers, until the Part D 
+drug benefit starts in 2006, self-injectable and oral anti-cancer 
+drugs. This demonstration program is in the statutory language. That is 
+good news. However, the report language is clearly in error and refers 
+to an entirely different provision, not the one we negotiated.
+  Mr. BAUCUS. That is right. And for clarification's sake, we would 
+like to ask you some questions about this demonstration project. First, 
+in negotiations we intended that this demonstration would be available 
+and would operate without limitation to the number of States, correct?
+  Mr. GRASSLEY. Yes.
+  Mrs. MURRAY. Isn't it true that you intended that the demonstration 
+ensure that the Secretary preserve physician and beneficiary treatment 
+options by providing for equitable coverage of all qualifying products?
+  Mr. GRASSLEY. That is correct.
+  Mr. CONRAD. Isn't it true that the conference committee intended to 
+provide $500 million above what Medicare would have expended absent 
+this provision to cover replacement self-injectable medications and 
+oral anti-cancer therapies?
+  Mr. GRASSLEY. Yes, that is right.
+  Mr. BAUCUS. I thank the chairman for the clarification.
+  Mr. CONRAD. I also thank the chairman for that clarification and, 
+again, would like to thank both the chairman and Senator Baucus for 
+their work on this important effort. I also strongly share their view 
+that the rural health provisions in the Medicare conference report are 
+a real victory for not only our States, but for all of rural America.
+  Mrs. MURRAY. I just want to be sure that we provide the greatest 
+degree of relief for patients and their families. I was disappointed to 
+learn of this error in the final report language, and it does undermine 
+the entire negotiations for this provision. It certainly undermines the 
+intent of the Conrad-Murray amendment adopted by the Senate during 
+consideration of S. 1. I appreciate your working with me to rectify 
+that error.
+
+
+                      Cost Containment Provisions
+
+  Mr. BAUCUS. Mr. President, let me take a few moments to provide some 
+background on the cost containment provisions in the Medicare 
+conference agreement.
+  First, let me review current law.
+  Under current law, the Medicare Board of Trustees oversees the 
+financial operations of the Medicare Hospital Insurance--or HI--trust 
+fund--Medicare Part A--and the Medicare Supplementary Medical 
+Insurance--or SMI trust fund--Medicare Part B. The Social Security Act 
+requires Medicare's trustees to submit reports to Congress annually by 
+March 31.
+  Medicare Part A pays for beneficiaries' medical expenses incurred in 
+hospitals, skilled nursing facilities, hospices, and a portion of home 
+health care services. Payroll taxes provide most HI trust fund 
+revenues. Employers and employees each pay 1.45 percent of earnings. 
+Self-employed workers pay 2.9 percent of net income. Other sources of 
+HI revenue include: interest on trust fund investments, the federal 
+income taxes on Social Security benefits raised in 1993, premiums from 
+voluntary enrollees into Part A, railroad retirement account transfers 
+and reimbursement for certain uninsured persons.
+  Medicare Part B pays for physician and other health care practitioner 
+services, other medical and health services, including laboratory and 
+other diagnostic tests, outpatient hospital services and other clinic 
+services, and therapy and ambulance services, durable medical 
+equipment, and home health services not covered under Part A. SMI trust 
+fund revenues come from beneficiary premiums to purchase Part B and 
+general revenues. The Part B premium is set at an amount so that 
+aggregate premiums make up about 25 percent of program costs. The 
+monthly premium for 2003 is $58.70. General revenues make up the 
+remaining 75 percent of Part B program funding.
+  Next, let me note current law on Presidential legislation. Under the 
+State of the Union Clause--article II, section 3, clause 1--of the 
+Constitution, the President has a right to ``recommend to [Congress's] 
+Consideration such Measures as he shall judge necessary and 
+expedient.'' Thus the President can already submit legislation to 
+address Medicare solvency.
+  Current law on House procedures is that the House regularly passes 
+rules that govern House consideration of particular pieces of 
+legislation. The Rules Committee formulates these rules, which the 
+House can then adopt by a majority vote. Thus the House can already 
+establish such procedures as it deems appropriate to consider Medicare 
+legislation.
+  And current law with regard to Senate procedures provides that, under 
+Senate rule XIV, any single Senator can cause a bill to be placed on 
+the calendar.
+  Now let me turn to what was in the House-passed bill. Section 131 of 
+House bill would require the trustees to submit a report on the status 
+of the combined two trust funds and the Prescription Drug Trust Fund. 
+The bill would require the report to include a statement of the amounts 
+spent on benefits
+
+[[Page S15741]]
+
+in the preceding fiscal year from the general revenues and the 
+percentage the Medicare general revenues bore to all other general 
+revenue obligations of the Treasury that year. The bill would require 
+this information for each year from the beginning of Medicare and for 
+10-year and 75-year projections. The bill would also require the report 
+to compare the rate of growth of Medicare general revenue funding to 
+the rate of growth in the gross domestic product. The bill would 
+require the Committees on Ways and Means and Energy and Commerce to 
+publish each report and post it on the Internet.
+  The Senate-passed bill was quite similar. Section 131 of the Senate 
+bill would require the trustees to submit a report on the status of the 
+combined two trust funds and the Prescription Drug Trust Account. The 
+bill would require the report to include a statement of the amounts 
+spent on benefits in the preceding fiscal year from general revenues 
+and the percentage that the Medicare general revenues bore to all other 
+general revenue obligations of the Treasury that year. The trustees 
+would make this calculation separately for Medicare benefits and for 
+administrative and other expenses. The bill would require this 
+information for each year from the beginning of Medicare and for 10-
+year and 50-year projections. The bill would also require the report to 
+compare the rate of growth of Medicare benefits and administrative 
+costs to the rates of growth in the gross domestic product, health 
+insurance costs in the private sector, employment-based health 
+insurance costs in the public and private sectors, and other areas as 
+determined appropriate by the trustees.
+  Section 132 of the Senate bill would require the 2004 reports to 
+include an analysis of the total amount of the unfunded obligations of 
+Medicare. The analysis would compare long-term obligations, including 
+the combined obligations of the HI and SMI trust funds, to the 
+dedicated funding sources for the program--not including transfers of 
+general revenue.
+  With regard to Senate Procedures, the Senate bill would express the 
+sense of the Congress that the committees of jurisdiction would hold 
+hearings on these reports.
+  Now let me turn to the conference agreement before us today. Under 
+the conference agreement, the trustees' report would include a 
+statement of general revenue funding as a percentage of total Medicare 
+spending contributions to the Medicare Program. The report would also 
+include a historical overview of general revenue contributions and 
+estimates of general revenue contributions in 10 years, 50 years, and 
+75 years. The trustees would compare these trends in Medicare funding 
+to growth rates for gross domestic product, private health costs, 
+public health costs, and other appropriate measures. And the trustees 
+would report on the costs of the new drug benefit under Medicare Part 
+D.
+  The report would also include an analysis of Medicare that assumed 
+that general revenue funding would not exceed 45 percent.
+  Starting in 2005, the Medicare trustees would annually determine 
+whether they projected ``excess general revenue funding'' that is, 
+``general revenue funding'' exceeding 45 percent of Medicare outlays 
+during the current year or the next 6 years. If the trustees did so 2 
+years in a row, it would be a ``Medicare funding warning.''
+  Under the conference agreement, ``general revenue Medicare funding'' 
+would mean total Medicare outlays minus ``dedicated sources.'' 
+``Dedicated sources'' would mean funding received from outside the 
+Federal Government, specifically: the HI payroll tax, the income tax 
+raised by the 1993 changes in taxation of OASDI benefits, amounts 
+States pay to the Federal Government on account of dual-eligibles funds 
+collected by the ``claw-back,'' premiums paid by Medicare, and gifts to 
+Medicare. The conference agreement would not include interest on trust 
+fund assets in ``dedicated sources,'' as Republican conferees viewed 
+the general fund as needing to pay these amounts to the trust funds.
+  If, for 2 consecutive years of reports, both covering 7-year periods 
+of projections, the Medicare Trustees projected that excess general 
+revenue funding would be required in any of those 7 years, then the 
+Medicare Program would be subject to special procedures and the 
+trustees would notify the President and Congress. The special 
+procedures would be in force only after the second annual report 
+confirmed that excess general revenue funding would be required.
+  Here is a plausible example of how the system would work. When 
+Medicare's trustees issued their March 31, 2010, report, they would 
+examine fiscal years 2010 through 2016. If the trustees projected that 
+in 2016, general revenues would exceed 45 percent of Medicare funding, 
+then 2010 would be the ``notice'' year. The conference agreement says 
+that ``Congress and the President should address the matter under 
+existing rules and procedures.''
+  When Medicare's trustees issued their March 31, 2011 report, they 
+would examine fiscal years 2011 through 2017. If the trustees once 
+again projected that in at least one year of those 7 years--for 
+example, 2016 or 2017--general revenues would exceed 45 percent of 
+Medicare funding, then 2011 would be the ``warning'' year. The 
+conference agreement would trigger actions in the next year, 2012, the 
+third in this series of years.
+  Next, Presidential legislation: Section 802 of the conference 
+agreement sets out the Presidential response. After 2 consecutive years 
+of trustees' projections that Medicare would have excess general 
+revenue funding, the President would propose legislation in response 
+within 15 days after the President's first annual budget of the next 
+session of Congress. The legislation could use any means to respond, 
+including adding to the dedicated sources. But if the legislation in 
+response did not include matter within the jurisdiction of the Finance 
+Committee, then the Senate discharge procedures would not apply.
+  Now the statutory language says that the bill must ``contain'' matter 
+within the Finance Committee's jurisdiction. The joint statement of 
+managers, based on an earlier draft of the bill, says that the bill 
+must be limited to the Finance Committee's jurisdiction. The joint 
+statement of managers is in error on this point. And of course, the 
+statutory language controls.
+  Mr. FRIST. Will the Senator from Montana yield on that point?
+  Mr. BAUCUS. I yield to the majority leader.
+  Mr. FRIST. Mr. President, I thank the Senator from Montana and rise 
+to say that I concur with his remarks that the statement of managers is 
+in error and that the statutory language must control. The result would 
+be faithful to the intent of the conferees on this measure.
+  Mr. BAUCUS. I thank the Senator.
+  Mr. President, returning to my discussion of the conference 
+agreement's provisions, the conference agreement expresses a sense of 
+Congress that the legislation that the President submits in response 
+should eliminate excess general revenue Medicare funding for the 7-
+fiscal year period. If, during the year in which the trustees issue a 
+warning, Congress enacts legislation that would eliminate excess 
+general revenue Medicare funding for the 7-fiscal year period, then the 
+President would not have to propose legislation in response to the 
+latest warning.
+  The warning would also trigger certain House procedures. Section 803 
+of the conference agreement sets out the procedures for House 
+consideration of the President's legislative proposal. Within 3 days of 
+receiving the President's legislative proposal, the majority leader and 
+minority leader of the House, or their designees, would introduce the 
+proposal. The legislation would be referred to the appropriate 
+committees which would be required to report Medicare funding 
+legislation no later than June 30. The chairman of the Budget Committee 
+would certify whether the Medicare funding legislation would eliminate 
+excess general revenue Medicare funding for the 7-fiscal year period.
+  Unless the House of Representatives has voted on final passage of the 
+legislation by July 30, the conference agreement would provided 
+fallback procedures. After 30 calendar days--and concurrently 5 
+legislative days--after the introduction of the legislation, a motion 
+to discharge any committee to which the legislation has been referred 
+would be in order, under specified circumstances, and debate on the 
+motion to discharge would be limited to one hour.
+
+[[Page S15742]]
+
+  The conference agreement provides for floor consideration in the 
+House of the discharged legislation by the Committee of the Whole no 
+later than 3 legislative days after discharge.
+  Now let me turn to Senate procedures. Section 804 of the conference 
+agreement sets out the procedures for the Senate consideration of the 
+President's legislative proposal. Within 3 days of receiving the 
+President's legislative proposal, the majority leader and minority 
+leader of the Senate, or their designees, would introduce the proposal. 
+The Presiding Officer would refer the legislation to the Finance 
+Committee. If the Finance Committee failed to report the legislation--
+with or without amendment--by June 30, then a single motion to 
+discharge the committee of any Medicare funding legislation would be in 
+order. That motion to discharge would be subject to 2 hours of debate. 
+If Congress enacted legislation that the Budget Committee chairman 
+certified eliminated the excess general revenue, then the motion to 
+discharge would not be available for the rest of that session of 
+Congress.
+  Once legislation got to the calendar, normal Senate rules would 
+govern its consideration. The motion to proceed to the bill would be 
+fully debatable. The bill itself would be fully debatable and 
+amendable.
+  That is all that this procedure would do.
+  Now, let me take a few moments to talk about what the conference 
+agreement on cost control would not do.
+  The conference agreement does not include references to 
+``insolvency.'' Some sought to label Medicare general revenue funding 
+of more than 45 percent as indicative of ``insolvency'' and 
+``unsustainablity.'' The conference agreement contains no such 
+language.
+  The conference agreement does not include a hard cap. Some sought a 
+cap on Medicare spending after general revenues exceeded 45 percent. 
+Congress would have had to vote affirmatively to allow the program to 
+continue above that point. The conference agreement would not be a cap.
+  The conference agreement does not include a new point of order. Some 
+sought a point of order providing that when Medicare general revenues 
+rose above 45 percent during the next 7 years for two consecutive 
+reports, it would not be in order to consider legislation that would 
+increase the general revenue funding. This requirement would be waived 
+or appealed by 60 votes in the Senate. The conference report contains 
+no new points of order.
+  The conference agreement does not eliminate rights to filibuster. 
+Some sought to eliminate the ability of Senators to filibuster the 
+motion to proceed to the Medicare funding bill and to filibuster the 
+bill itself. The conference report does not curtail the right to 
+filibuster either the motion to proceed or the bill itself.
+  In sum, the conference agreement would provide for reports, 
+Presidential legislative proposals, and getting a bill on the calendar. 
+The President or White House staff could get the reports with a phone 
+call. The President could already make a legislative proposal whenever 
+the President chooses. And any single Senator can get a bill on the 
+calendar under current rules.
+  Thus although the conference agreement could provide additional 
+impetus to cause these steps to occur, nothing prevents all of them 
+from occurring under current law.
+  Thus, this is a reasonable set of provisions. And it should not be of 
+concern to those who hold the procedures of the Senate dear.
+
+
+                                S. 1402
+
+  Mr. LAUTENBERG. Mr. President, I thank the leadership of the 
+Committee on Commerce, Science, and Transportation for their resolve in 
+pushing forward with reauthorization for Federal railroad safety 
+programs. The bill reported out of committee, S. 1402, the Federal 
+Railroad Safety Improvement Act, will reauthorize the Federal Railroad 
+Administration, and make many important updates to continue to ensure 
+safety on the Nation's railroads.
+  In particular, I thank the chairman for his commitment to work with 
+me to address a problem that has been brought to my attention regarding 
+the use of railroad police officers. These railroad employees, who are 
+commissioned by States with law enforcement authority on the railroad 
+property, are given certain police powers for protecting railroad 
+employees, railroad property, and the general public. The Federal 
+Government, recognizing that these personnel perform important 
+functions, has taken steps to extend this authority across States 
+borders, as many North American railroads are extensive and traverse 
+State boundaries.
+  In this reauthorization, we look to extend this authority even 
+further, to allow rail police officers to conduct law enforcement 
+activities with respect to railroads other than the rail police 
+officer's employing railroad, as our national system of rail 
+transportation is an interconnected system. While I welcome this 
+extension, as these officers perform an important security function to 
+protect our rail system, I feel we should take a closer look at a 
+related problem--the potential for abuse of this police power. As a 
+special case of law enforcement officer, rail police officers answer to 
+private sector employers and are not directly accountable to the public 
+like most law enforcement officers. I am mindful that this could 
+present potential for abuse--that under guide of State law enforcement 
+authority, these rail police officers could engage in activities 
+unrelated to law enforcement, such as enforcing railroad company 
+policies or even labor agreements.
+  Given the potential for abuse, I was prepared to offer an amendment 
+to the bill during the committee's executive session to address this 
+problem. However, the chairman has graciously committed to working with 
+me to resolve the issue, and I look forward to working with him.
+  Mr. McCAIN. Mr. President, I appreciate the concerns of the Senator 
+from New Jersey and have been working with him to address this issue. 
+It is a complex matter, and one that certainly merits further 
+examination. As such, the ranking member of the committee, Senator 
+Hollings, and I are writing to the Inspector General of the United 
+States Department of Transportation seeking an assessment of the 
+additional duties performed by rail police officers that are not 
+related to law enforcement. We are interested to learn whether such 
+duties are appropriate, and how potential abuses can be avoided. I am 
+confident that the Inspector General's assessment and recommendations 
+will be useful in helping us craft a bipartisan legislative solution 
+should one be necessary.
+  Mr. HOLLINGS. I also thank the chairman and the Senator from New 
+Jersey for their work on this important issue. Reauthorization of 
+Federal railroad safety programs is needed, and the chairman has acted 
+with great diligence in advancing this legislation. The issue the 
+Senator from New Jersey has raised concerning railroad police officers 
+is one that requires a closer examination, and I believe the Inspector 
+General can provide valuable input. I look forward to working with both 
+of them on this issue.
+
+
+                     definition of negotiated price
+
+  Mr. BAUCUS. Mr. President, I rise today to engage the distinguished 
+chairman in a colloquy regarding three sections of the conference 
+report, 1860D-2(d)(1)(B) and 1860D-15(b)(3) as they relate to the new 
+Part D prescription drug benefit, and 1860D-31(e)(1)(A)(ii), in order 
+to clarify the intent of the conferees with respect to the prices paid 
+for prescription drugs, particularly the concept of negotiated price.
+  Mr. GRASSLEY. I thank the Senator from Montana and my Democratic 
+partner in this legislation, Senator Baucus, for seeking to clarify 
+this issue. I would be pleased to engage in a colloquy.
+  Mr. BAUCUS. As I understand the conference report, how the bill 
+defines negotiated price is critical to Medicare beneficiaries, 
+prescription drug plans, and Medicare Advantage plans offering 
+prescription drug coverage. More specifically, I understand in section 
+1860D-2(d)(1)(B) that with respect to drugs purchased under Medicare 
+Part D, the intent is for negotiated prices to include ``any dispensing 
+fees for such drugs.''
+  I also understand in section 1860D-15(b)(3) that ``gross covered 
+prescription drug costs'' includes ``costs directly related to 
+dispensing.'' The issue for me then is how the conference report 
+intends the Secretary to operationalize the concept of dispensing costs 
+especially with respect to
+
+[[Page S15743]]
+
+Medicare Advantage plans whose Medicare members do not fill 
+prescriptions at retail pharmacies.
+  I am referring to plans that operate their own pharmacies and take 
+possession of prescription drugs directly from manufacturers and 
+wholesalers. For these plans, is it the intent of the conferees that 
+dispensing costs include all reasonable costs related to plan 
+activities needed to deliver prescription drugs to their Medicare 
+members, including the costs of delivering this benefit? For example, 
+this would include salaries for pharmacists, and facility- and 
+equipment-related costs.
+  Mr. GRASSLEY. Yes, the distinguished Senator is correct. The intent 
+of the conference report is to recognize that different Medicare 
+Advantage plans are organized in different ways to deliver the new Part 
+D prescription drug benefit and the benefits of the Medicare-endorsed 
+drug discount card.
+  The conferees understand that Medicare members of some Medicare 
+Advantage plans fill their prescription in retail pharmacies and others 
+in a plans' own pharmacies. For Medicare beneficiaries that will be 
+using retail pharmacies to fill their prescriptions, the conferees 
+understand that the prices negotiated between the prescription drug 
+plan or the Medicare Advantage plan plus dispensing-related costs 
+include the pharmacies' reasonable overhead costs.
+  Similarly, it is the conferees' intention that Medicare Advantage 
+plans whose Medicare members do not use retail pharmacies, but instead 
+fill their prescriptions at the plan's pharmacies be reimbursed for the 
+costs they incur in delivering the benefit when reimbursed for the same 
+types of costs.
+
+
+                              section 507
+
+  Mr. BREAUX. I coauthored Section 507 of H.R. 1, the Prescription Drug 
+and Medicare Improvement Act of 2003, which would amend current law 
+regarding physician self-referrals. I would like to engage in a 
+colloquy with my colleague, Mr. Grassley, in relation to the exception 
+language contained in this provision.
+  I would like to clarify congressional intent with regard to the 
+``exception'' language included in S. 1, as this language may 
+ultimately be included in any compromise between the two bills.
+  I would like to discuss the extent to which the Secretary would have 
+discretion to exempt a hospital based on the factors identified in the 
+language. The language in the conference agreement states that, for the 
+purpose of determining whether a hospital qualifies as under 
+development, and therefore exempt from the self-referral limitation, 
+the Secretary:
+
+     . . . shall consider--
+       (1) whether architectural plans have been completed, 
+     funding has been received, zoning requirements have been met, 
+     and necessary approvals from appropriate State agencies have 
+     been received; and
+       (2) any other evidence the Secretary determines would 
+     indicate whether a hospital is under development as of such 
+     date.
+
+  It was my intent in crafting this language that the factors outlined 
+would serve as an illustrative guide to the Secretary. The Secretary 
+``shall consider'' these factors, but will not be required to see that 
+each and every factor is met. Is it your interpretation, that the 
+Secretary would have discretion to make a reasonable determination of 
+whether a specialty hospital is ``under development''?
+  Mr. GRASSLEY. Yes, I believe you are correct in saying that the 
+Secretary would have discretion to consider these factors, but would 
+not be limited to or bound by those factors. The language states that 
+the Secretary ``shall consider,'' which implies that the Secretary 
+shall consider these factors but that he or she should use the factors 
+to make a reasonable decision as to whether a speciality hospital was 
+``under development'' as of a certain date.
+  Mr. BREAUX. Is it your understanding that a specialty hospital that 
+has, as of November 18, 2003, met zoning requirements, received 
+approval from the local planning board, and received partial funding, 
+but has not yet completed all architectural plans would quality for the 
+exception?
+  Mr. GRASSLEY. Yes, it is my understanding that the Secretary would 
+have discretion to determine to what extent the hospital was under 
+development as of November 18, 2003. If the Secretary found that the 
+hospital was ``under development'' despite not having completed all 
+architectural plans, the Secretary could exempt that speciality 
+hospital from the 18-month self-referral limitation.
+  Mr. BREAUX. Similarly, is it your understanding that a specialty 
+hospital that has completed or substantially completed architectural 
+plans but has not yet received full funding would also qualify for the 
+exception?
+  Mr. GRASSLEY. The Secretary would have discretion to exempt a 
+hospital that had completed architectural plans and initiated funding 
+and, in making this determination, would consider the extent to which 
+the other enumerated factors had been completed. It is my understanding 
+that the language included in H.R. 1 is meant to provide guidance to 
+the Secretary, and that the Secretary will ultimately determine to what 
+extent the factors have been met and to what extent the hospital was 
+``under development'' as of November 18, 2003.
+  Mr. BREAUX. I thank my distinguished colleague for engaging in the 
+colloquy.
+
+
+              Retail Pharmacies and Community Pharmacists
+
+  Mr. ENZI. Mr. President, I rise today to engage the distinguished 
+chairman of the Finance Committee, Senator Grassley, in a colloquy 
+regarding benefits that Medicare beneficiaries may receive through 
+retail pharmacies and community pharmacists.
+  Section 1860D-4 of the conference report to accompany the Medicare 
+Prescription Drug, Improvement, and Modernization Act of 2003 states 
+that sponsors of Medicare drug plans or organizations that offer 
+MedicareAdvantage plans shall permit plan enrollees to receive benefits 
+through a pharmacy other than a mail-order pharmacy. These benefits may 
+include a 90-day supply of drugs or biologicals. The conference report 
+states that such enrollees would pay any differential in charge.
+  I offered the amendment to add this language to the Senate version of 
+the Medicare bill during our debate in June. My intent in offering this 
+amendment was to prohibit plans from implementing restrictions that 
+would steer consumers to mail-order pharmacies. The Senate voted 95 to 
+0 in favor of requiring Medicare drug plans and MedicareAdvantage 
+organizations to allow local community pharmacists to fill long-term 
+prescriptions and offer any other services that they are equipped and 
+licensed to provide.
+  The language does permit a Medicare drug plan or MedicareAdvantage 
+organization to charge a different copayment for a mail-order 
+prescription versus a prescription filled by a community pharmacist. 
+This happens today in many health plans.
+  I note that the conference report would require plans to provide 
+clear information about copayments and deductibles. This information 
+would have to include details on the differences in charges between 
+mail-order and retail prescriptions.
+  My concern is that any differences in charges between mail order and 
+retail be reasonable differences, based on the actual cost of 
+delivering the service. I would be concerned if differences in charges 
+were used as a method of steering seniors and the disabled to mail 
+order pharmacies.
+  I know that Chairman Grassley and I both agree that since seniors 
+trust their local pharmacists, they should be allowed to keep those 
+relationships in place.
+  Mr. GRASSLEY. Mr. President, I say to my colleague from Wyoming that 
+Medicare drug plans and MedicareAdvantage organizations should not 
+force seniors or the disabled to choose a mail-order house when they 
+would prefer to patronize their local community pharmacy.
+  The Senator from Wyoming is correct in noting that the conference 
+report permits plans to set a different charge to the beneficiary for a 
+mail-order prescription versus a retail prescription. However, it is my 
+expectation that any differential in charge be reasonable and based on 
+the actual cost of providing the service in or through the setting in 
+which it is provided. I also would expect that the Secretary of Health 
+and Human Services would disapprove of any plan that would impose a 
+differential charge that was intended primarily to steer Medicare 
+beneficiaries to mail-order pharmacies versus retail pharmacies.
+
+[[Page S15744]]
+
+  Mr. ENZI. I thank the distinguished chairman for this clarification.
+  Mr. INOUYE. Mr. President, I have voted today to oppose the 
+termination of debate on the Medicare Conference Report because I have 
+carefully analyzed the report and come to the conclusion that far from 
+being a bipartisan compromise on prescription drug benefits, the report 
+is nothing short of an attempt to compromise the integrity of the 
+Medicare and Medicaid system as we know it.
+  When it comes to health care in America, there are many parties in 
+interest--providers, patients, care facilities, and pharmaceutical 
+suppliers, to name a few. These groups have interests that may, at 
+times, be in conflict, but I believe one overwhelming interest unites 
+them all: providing the American public with the health care services 
+and treatment that it needs. Regrettably, I find that the report we 
+have been asked to consider has abandoned this powerful unifying 
+principle.
+  Worse than abandoning our commitment to the health of our Nation, 
+when viewed as a whole, the report strikes at the foundation of the 
+Medicare and Medicaid system. Rather than buttressing the system of 
+comprehensive care for our senior citizens and disabled persons, the 
+report actually sows the seeds of its demise by undermining its ability 
+to provide a prescription drug benefit, subsidizing competing private 
+health plans, and increasing Medicare premiums without increasing the 
+benefits provided.
+  The overwhelming drive to reconsider the Medicare and Medicaid 
+systems came from listening to our constituents and their frustration 
+with the ever-increasing cost of the medicines they needed. From blood 
+thinners, to antibiotics, to state-of-the-art pharmaceuticals for 
+cancer and HIV/AIDS, the cry for help was clear: the cost of 
+prescription drugs was breaking the backs of the Americans who were 
+paying for these expensive, but life-saving therapies.
+  Far from addressing these needs, however, the report actually makes 
+the problem worse. On the administrative level, the report dilutes the 
+Medicare systems's purchasing power by mandating the purchase of 
+necessary medications by individual Medicare regions, rather than as a 
+whole system. With more individual buyers, pharmaceutical companies are 
+more able than ever to raise their prices, because the individual 
+regions will have less bargaining power.
+  The report will also impact average beneficiaries by potentially 
+depriving them of the specific drugs they need by providing coverage 
+for only one or two of each class of drug. In a world where antibiotic 
+resistant strains of common ailments are on the rise, this could be a 
+very expensive proposition, if the drug you need is not one of the 
+covered drugs in the antibiotic class. Difficulties only escalate in 
+medically complex cases where patients' individual responses to 
+pharmaceutical may vary dramatically, as in treatments for high blood 
+pressure, high cholesterol, cancer, and HIV/AIDS.
+
+  Even worse, what flexibility there is in the report to tailor the 
+limited drug benefit to the needs of individual patients must now be 
+requested and petitioned for by the patients themselves. Placing the 
+paperwork burden on seniors and the disabled only shifts the burden to 
+the people least able to bear it, and I would not be surprised to learn 
+that as a result, more and more beneficiaries will lose access to the 
+medicines they need.
+  Finally, the report strikes a further blow to more than 6 million of 
+our neediest citizens, those who are eligible for both Medicare and 
+Medicaid. At present, States have the statutory flexibility to make any 
+copayments for persons who are ``dual eligible.'' Under the report, 
+however, persons with dual coverage will face increased out-of-pocket 
+expenses because States will lose this flexibility. As a result, 
+Americans who are already below the poverty level would be expected to 
+make copayments between $1 and $3--a great hardship for single persons 
+with incomes of less than $8980 per year, and couples with incomes of 
+less than $12,120 per year.
+  More than failing to provide the promised prescription drug benefit, 
+however, the report actually paves the way for eventually dismantling 
+Medicare and Medicaid altogether. The report establishes a 
+demonstration project for ``premium support'' in six metropolitan 
+areas. ``Premium support'' does not mean, as one might think, 
+additional Federal support for areas where costs are especially high, 
+and premiums are not sufficient to cover all expense. Just the 
+opposite, it is a way of increasing the Medicare premiums Americans pay 
+in order to compensate for rising health care costs. Moreover, with a 
+``demonstration project'' such as this in place, it would be a simple 
+step to broaden the ``project'' to include the entire United States--
+and with an estimate average 25 percent increase in premiums, the costs 
+to American citizens would be substantial.
+  The report would also provide a $12 billion subsidy to private Health 
+Maintenance Organizations and Preferred Provider Organizations--HMOs 
+and PPOs. With a massive subsidy such as this, there will be no 
+question but that HMOs and PPOs will have a competitive edge over 
+Medicare because they will receive more money per plan participant than 
+Medicare will--and with more money, subsidized insurers will be able to 
+provide more benefits.
+  ``Premium support'' and a $12 billion subsidy for private insurers 
+look suspiciously like a one-two punch aimed at Medicare. On the one 
+hand, ``premium support'' will increase the cost of Medicare without 
+raising benefit levels, while on the other, a multi-billion dollar 
+subsidy will allow HMOs and PPOs to slash premiums and provide more 
+services. Add to this a prescription drug benefit that actually leaves 
+millions of Americans worse off than they are now, and it is difficult 
+to see how this conference report responds to the simple unifying 
+principle of our health care system: providing Americans with the 
+health care they need.
+  Mr. SCHUMER. Mr. President, our seniors deserve a comprehensive, 
+meaningful drug benefit under Medicare--it's something that I, like so 
+many of my colleagues, have been fighting for years. The world of 
+health care has changed, and Medicare should be updated to give seniors 
+the services and care they need.
+  I voted for this bill when it first came to the Senate because I 
+thought it was a good start, and I hoped we could build on it in 
+conference. Unfortunately, now that I see the result, I have to say 
+this is not good enough for New York's seniors--in fact, the bad parts 
+outweigh the good.
+  The bill contains some good things--it provides a good benefit for 
+seniors who have low incomes or very high drug costs who have no other 
+drug coverage. But for the average middle class senior with moderate 
+drug costs, the benefit is much too small.
+  In fact, the way this benefit is structured, hundreds of thousands of 
+New Yorkers who currently have coverage may actually end up worse off 
+than they are today--and that doesn't sound like a benefit to me.
+  When I voted for the bill the first time around, I said that if it 
+got any weaker, got any closer to the House version, I could not, in 
+good conscience, support it. And, unfortunately, that seems to be what 
+has happened here.
+  Other than the generic drug provisions--which represent a huge win 
+for consumers across the board--it seems in every other case where the 
+choice was between seniors and the big drug companies, the big drug 
+companies have won.
+  Of all the bad things in this bill, the thing that angers me the most 
+is that Congress has squandered away the single best weapon we have 
+against rising drug costs by forbidding Medicare from using its buying 
+power to negotiate lower drug prices with the drug companies.
+  At a time of rising budget deficits and escalating costs, it really 
+makes you wonder why the Congress would go out of its way to forbid the 
+Federal Government from using its buying power to get prices like we do 
+through the VA.
+  If the Federal Government leveraged its full buying power under 
+Medicare, we might not have a doughnut hole in this benefit at all.
+  The impact of this reckless prohibition is best seen by a Boston 
+University study that shows that the drug companies will earn windfall 
+profits of $139 billion over the next eight years alone from this bill.
+
+[[Page S15745]]
+
+  This bill not only ensures we will be paying the highest possible 
+price for drugs in this country, but it also guts any chance at 
+reimportation--guaranteeing the drug companies a captive audience.
+  Is that the Republicans' idea of cost containment?
+  What this bill does is ensure that the government is gouged by the 
+drug companies while putting a huge bulls-eye on the Medicare program. 
+The prohibition on negotiating and artificial ``cost containment'' 
+mechanisms in this bill will simply help the opponents of Medicare 
+justify shifting more and more costs onto the backs of seniors.
+  Under the drug benefit before the Senate today, the average middle 
+class senior could still be saddled with up to 80 percent of their drug 
+costs. And almost 30 percent of beneficiaries would actually pay more 
+for this Medicare drug benefit than they would be getting back in drug 
+coverage. What kind of relief is that?
+  So this bill represents a paltry benefit--or no benefit at all--for 
+most people who currently have no drug coverage. I had hoped that the 
+bill would--at the very least--help provide a down payment for the one-
+third of New Yorkers who currently have no coverage, but I don't think 
+it even does that.
+  In fact, there is a very good chance this benefit will actually 
+jeopardize access to affordable drugs for New Yorkers who currently 
+have good coverage.
+  Of the 2.7 million Medicare beneficiaries in New York State, 989,000 
+have prescription drug coverage from their former employers; 329,000 
+are enrolled in the state's pharmaceutical program--known as EPIC; and 
+about 537,000 are covered under New York's Medicaid program.
+  First, let's look at the EPIC program. Right now, EPIC is available 
+to individuals with incomes less than $35,000 and couples with incomes 
+less than $50,000. People in EPIC currently have access to nearly any 
+drug their doctors prescribe, and can go to virtually any pharmacy in 
+the state to get their prescriptions filled.
+  I fought to get strong language in the Senate version of the Medicare 
+bill that would have provided these New Yorkers with a benefit better 
+than the one they get through EPIC.
+  The Senate bill would have provided New York State a subsidy equal to 
+about $375 million per year to help it continue the EPIC and even 
+expand it to provide a more generous benefit, to cover the disabled, 
+which the State currently does not do, and to enroll even more people.
+  The watered-down compromise in the conference report leaves far too 
+many questions unanswered.
+  Under the bill, if the State wants to use any of the new Federal 
+investment in Medicare, it has to force EPIC seniors to go and enroll 
+in a Medicare private plan and the State legislature will have to go 
+back to the drawing board and restructure the entire EPIC program to 
+coordinate with the Medicare plans.
+  The end result will be a program so laden with red tape that it is a 
+virtual certainty that seniors fall through the cracks and lose 
+coverage. It will be an administrative nightmare for the State to 
+implement.
+  I have yet to hear one compelling argument for how the bill before 
+the Senate will enhance the EPIC program. The State can't even tell me 
+what will happen to EPIC and the 329,000 seniors who depend on it if 
+this Medicare bill passes.
+  Even more shocking is that the bill gives the private Medicare plans 
+a say in how generous any additional state coverage can be. The way I 
+read it, under the new scheme, the Medicare plans will be able to limit 
+which drugs an enrollee has access to and limit what pharmacies they 
+can go to--no such restrictions currently exist for EPIC enrollees. In 
+short, when it comes to EPIC, many seniors may be worse off with the 
+bill than without it.
+  One of the other major concerns I have about this bill is that it 
+simply doesn't do enough to protect retirees who have good employer-
+sponsored coverage.
+  The conferees made some progress toward reducing the employer drop 
+rate by giving employers a tax break worth an additional $18 billion. 
+However, to truly protect retirees from losing coverage would cost 
+about $65 billion.
+  Even with the change made in conference, an estimated 215,000 New 
+Yorkers will likely lose their retiree coverage if this bill becomes 
+law, and many others may see their options narrowed. That's simply too 
+big a risk for me.
+  In addition, starting in 2005, all Medicare beneficiaries would be 
+saddled with higher deductibles for doctor visits. Under the bill, 
+Medicare premiums would no longer be universal, but higher for all 
+beneficiaries with incomes of $80,000 and up--a provision which 
+disproportionately affects states like New York.
+  In addition, over 500,000 Medicare beneficiaries in New York--living 
+in Rochester, Buffalo, Glens Falls and the Capital Region--may be 
+selected for the premium support demonstration program which would 
+provide seniors with a false choice of entering a private plan or being 
+forced to pay more for traditional Medicare.
+  As I have said, the bill does provide a good benefit for low-income 
+seniors and seniors with very high drug costs who don't have access to 
+any other drug coverage. However, the new assets test in the conference 
+version of the bill means that about 150,000 fewer people will qualify 
+for these low income subsidies than under the Senate bill.
+  Even the seniors who do get this additional assistance will face 
+confusing and difficult choices each year about which Medicare plan to 
+choose.
+  They will face a confounding maze trying to figure out which plan 
+will cover the drugs they use and allow them to continue to go to the 
+drug store down the street. If they are even lucky enough to find such 
+a plan, it could be gone the next year, or change its premiums or its 
+list of covered drugs, and seniors would be back to square one.
+  Of course, despite all of these negatives, there are some very 
+important provisions in this bill which make my decision a very 
+difficult one.
+  The bill includes significant relief for rural, small community and 
+small city hospitals--about $344 million over 10 years for New York's 
+hospitals, which is crucial to ensuring access to high quality care not 
+only in the very rural areas of the state, but also in and around 
+upstate cities like Syracuse, Rochester, and Buffalo.
+  There is also modest relief for the nation's teaching hospitals in 
+the bill--but it is not nearly enough. New York institutions would see 
+an additional $76 million over the next four years, but this only 
+restores about 11 percent of the total cuts they face over that time 
+period.
+  The Nation's teaching hospitals are the backbone of our health care 
+system--they do the research and they train the doctors--and I am 
+worried we will not get another opportunity to provide them the 
+resources they need to do their job.
+  The bill also addresses the crisis in physician payments which was 
+driving so many physicians out of the Medicare program and leaving 
+seniors in the lurch. These provider issues must be addressed--we've 
+fought back the draconian cuts in the Balanced Budget Act for five 
+years now. Our providers are struggling, and it's time to set things 
+straight.
+  I am pleased that the bill includes provisions based on a bill I 
+introduced with Senator Santorum to stabilize the Medicare+Choice 
+program in the short term.
+  The changes will ensure that plans in places like Long Island and 
+Westchester get paid on par with plans in other areas of the country 
+and will help significantly bring down premiums in these areas over the 
+next few years.
+  Perhaps the biggest win in the bill--not only for seniors, but for 
+all consumers, employers, and purchasers of prescription drugs--is the 
+extraordinary victory we have achieved in the face of the unprecedented 
+influence of the big pharmaceutical companies: generic drugs.
+  The generic drug provisions which Senators Gregg, Kennedy, McCain and 
+I have been fighting for over the past few years--and which passed the 
+Senate by a vote of 94-1--represent a huge step forward for all 
+seniors, consumers, and purchasers of prescription drugs.
+
+  The provisions close loopholes in the law and end the abusive 
+practices in the pharmaceutical industry which have kept lower-priced 
+generics off the market and cost consumers billions of dollars.
+
+[[Page S15746]]
+
+  The Gregg-Schumer amendments to the Hatch-Waxman Act, would put an 
+end to the practice of brand companies listing frivolous patents for 
+the sole purpose of automatically delaying generic approval. It would 
+also ensure that the 180-day exclusivity period enjoyed by the first 
+generic to challenge a patent cannot be used as a bottleneck to prevent 
+additional generic competition.
+  First, the Gregg-Schumer provisions would limit brand drug companies 
+to a single 30-month stay of generic approval, and only on patents 
+listed at the FDA before a generic application is filed. This way, the 
+30-month stay--if there is one at all--will run concurrent with FDA 
+approval of the generic application and minimize delay.
+  Second, key to ensuring that patent issues are resolved in a timely 
+way, the provisions clarify that a generic applicant has a right to 
+seek a declaratory judgment that its product does not infringe a patent 
+or that a patent is invalid, and direct courts that they must hear 
+these declaratory judgment cases to the maximum extent permitted by the 
+Constitution.
+  With the removal of the automatic 30-month stay, if the generic 
+company did not have a clear right to seek resolution of potential 
+patent disputes on its own, the brand company could simply file a new 
+patent and sit back and wait--leaving the generic at risk of being sued 
+and having to pay triple the brand's lost profits if it does decide to 
+enter the market. This clarification of the courts' jurisdiction will 
+have an immediate effect on both pending and future declaratory 
+judgment actions brought by generic applicants.
+  Third, the provisions enforce the patent listing requirements at the 
+FDA by allowing a generic applicant, when it has been sued for patent 
+infringement, to file a counterclaim to have the brand drug company 
+delist the patent or correct the patent information in FDA's Orange 
+Book.
+  Fourth, the generic provisions revamp the 180-day exclusivity 
+incentive provided in the Hatch-Waxman Act. Under the act, the first 
+generic drug company to challenge a patent on a brand drug has the 
+exclusive right to market its drug for 6 months before any other 
+generic can compete. This feature encourages generic applicants to 
+challenge weak patents and brings consumers much quicker access to 
+affordable generic drugs.
+  However, at times, brand and generic companies have abused this 
+exclusivity period--both through collusive agreements and use of other 
+tactics that allow the provision to act as a bottleneck to generic 
+competition. The Gregg-Schumer provisions end this abuse because the 
+generic company forfeits its exclusivity if it doesn't go to market in 
+a timely manner.
+  The way the provision works, if another generic applicant has 
+resolved patent disputes on the patents which earned the first to file 
+its exclusivity--either through a court decision, settlement, dismissal 
+because the brand company says it does not intend to sue, or withdrawal 
+of the patent by the brand company--the first generic applicant has to 
+go to market within 75 days or it forfeits its right to the 
+exclusivity.
+  If it forfeits, then the exclusivity is lost and any other generic 
+applicant that is ready to be approved and go to market can go. Either 
+way, the provision ensures that consumers have access to a low-cost 
+generic as soon as possible.
+  I am very pleased that the conferees preserved these important, pro-
+consumer cost containment provisions. Indeed, they are the only part of 
+this bill where consumers, seniors, and taxpayers prevail over the big 
+drug companies.
+  In closing, I had truly hoped this Congress would craft and pass a 
+meaningful Medicare drug benefit for seniors--one which would have 
+protected beneficiaries who have access to good coverage through other 
+programs and which would have provided real relief to seniors with no 
+other choice.
+  While it contains some good provisions, the package before us does 
+neither. I think we can do better, and we owe it to the 40 million 
+seniors in this nation who have waited decades for drug coverage under 
+Medicare to do better than this.
+  Mr. ROCKEFELLER. Mr. President, on July 30, 1965, President Lyndon B. 
+Johnson stood with President Harry Truman and, together, they delivered 
+the Medicare program. They proudly addressed the American people as 
+President Johnson proclaimed, ``No longer will older Americans be 
+denied the healing miracle of modern medicine. No longer will illness 
+crush and destroy the savings that they have so carefully put away over 
+a lifetime so that they might enjoy dignity in their later years.'' 
+Today, those words still move me and yet, if I am to be honest, they 
+also haunt me as we consider the Medicare reform legislation before us. 
+I know that this legislation charts a course that will begin to undo 
+the good works of our former Presidents and of a program that is 
+perhaps the single most effective public initiative in our nation's 
+history. Medicare has literally saved the lives of our seniors, keeping 
+them from poverty and providing the peace of mind that comes with 
+security. For this reason, I have a heavy heart and a sense of near 
+dread about this bill. My heart is heavy because I know that this bill 
+to reform and ``improve'' Medicare is deeply, fundamentally flawed. 
+This is not what Presidents Johnson and Truman wanted for the millions 
+of our parents and grandparents who made America strong, and it is not 
+what I want, either.
+  For many years, we have talked about the need for a prescription drug 
+benefit under Medicare. For a brief moment, I believed we in the Senate 
+were serious about delivering a meaningful benefit. However, I cannot 
+support the Republican Medicare prescription drug bill because it 
+forces seniors to choose between paying more for their own doctor or 
+signing up with an HMO; leaves seniors to pay thousands in out of 
+pocket costs; eliminates employer drug coverage for 2.7 million 
+retirees; prevents efforts to keep drug costs down; and effectively 
+prohibits seniors from importing cheaper drugs from Canada.
+  I recognize that this bill commits $400 billion to a Medicare 
+prescription drug benefit and truly helps some low income seniors who 
+are without coverage today, and I am glad that it gives a critical 
+boost to rural hospitals and doctors. But the fine print matters and 
+will have very dangerous consequences for how much seniors have to pay 
+for their Medicare benefit, whether this drug benefit really serves 
+seniors, and whether we are strengthening or weakening Medicare for the 
+future. I have always said that a Medicare prescription drug bill must 
+be voluntary, affordable and accessible to all Medicare beneficiaries; 
+must truly help with the high cost of prescription drugs; and must 
+strengthen the Medicare program for the future. This bill fails on all 
+counts.
+  West Virginians and many of my colleagues know I have been working on 
+Medicare for 20 years. I sat on the Medicare Commission for a year 
+during which we debated the best way to improve Medicare. Before that, 
+I chaired the U.S. Bipartisan Commission on Comprehensive Health Care, 
+which discussed ways to address the problems of the uninsured and the 
+need for long-term care reform in this country. Today, I am the ranking 
+member of the health subcommittee of the Senate Finance Committee. I 
+was a member of the conference committee on this bill--but in name 
+only, not in practice. Nevertheless, my goal has always been, and 
+continues to be, improving Medicare and the quality of health care 
+available to all Americans. This bill does not improve this program. 
+This bill harms this program--actually harms Medicare.
+  This bill is a tool to force seniors to leave the traditional 
+Medicare program they know and trust in order to obtain the drug 
+benefit they need and deserve. Many people have said that this plan is 
+voluntary and, therefore, if a senior chooses to stay in traditional 
+Medicare and get a drug benefit, he or she can do so. This legislation 
+does not guarantee that in any way. Under this legislation, seniors 
+will have two different options for receiving a drug benefit. The first 
+option is to stay in traditional Medicare for their doctor and hospital 
+services and enroll in a ``drug-only plan'' to receive their drugs. The 
+second option is to give up traditional Medicare and enroll in a HMO or 
+PPO for all of their health care services. You may ask: what is a drug-
+only plan and how does one work? The answer is that we have no idea 
+because no such entity exists today. It is a completely new concept
+
+[[Page S15747]]
+
+which the Administrator of CMS said does not exist in nature and would 
+probably not work in practice. The former head of the Health Insurance 
+Association of America said that drug-only plans are like insuring 
+against haircuts. So, it's completely uncertain whether these plans 
+will emerge, but let's say for a moment that they do. Well, at least 
+seniors should be assured that they can remain in traditional Medicare 
+and get a prescription drug benefit, right? Wrong. There is no limit on 
+what these drug-only plans can charge seniors none at all. These plans 
+could charge seniors $100, $500, or even $1,000 per month. These 
+premiums could be completely prohibitive. West Virginia seniors will 
+certainly not be able to afford premiums that high. If that is the 
+case, seniors will not really have the option to stay in traditional 
+Medicare and get a prescription drug benefit. They will be forced to 
+enroll in an HMO in order to get a drug benefit and that is not what 
+our seniors want.
+  Again, to be fair, this bill has some provisions, including those 
+affecting physician services and rural hospitals that will be helpful 
+to my home State of West Virginia. I fully recognize that; in fact, I 
+pushed for these because I understand that good care is critical to 
+good health, and that we must adequately reimburse Medicare providers 
+for that good care.
+  However, despite this, I have grave concerns about the compromise 
+produced by the Conference Committee charged with reconciling 
+differences between the House- and Senate-passed Medicare reform bills. 
+I was on the conference committee. I understand the arguments on both 
+sides. And now, more than ever, I believe that the Congress needs to 
+pass a meaningful prescription drug benefit that gives seniors more for 
+their money, not less. I do not want to privatize Medicare, undermine 
+existing retiree coverage, or force seniors to flip-flop between plans. 
+Unfortunately, this bill would do all of that and more. Today, 339,000 
+seniors live in West Virginia. Nearly 30,000 West Virginia seniors will 
+lose their employer-sponsored prescription drug coverage simply because 
+of the enactment of this bill. As health savings accounts (HSAs) 
+created by this legislation select and cover healthier, younger 
+seniors, employers will be left to cover sicker, older seniors. 
+Employers will see their health care costs rise and they will be priced 
+out of continuing to provide employees or retirees with coverage, 
+leaving remaining retirees with a benefit that is less desirable than 
+they had before. Meanwhile, 70,000 West Virginia seniors will fall into 
+a $2,800 coverage gap, forcing them to bear the total cost of their 
+drug themselves until they reach the end of that gap. In fact, the 
+available benefit will be so stingy that many seniors will pay more for 
+this drug plan than they will receive in actual drug benefits.
+
+  At the same time, private insurance plans will be assured even 
+greater profits through a $12 billion ``slush fund'' created by this 
+legislation. Proponents argue that this ``slush fund'' is necessary to 
+bring HMOs into rural areas. The fact is that this additional funding 
+is necessary because HMOs have overhead costs. They have to pay their 
+investors, provide a return to their stockholders and they have to pay 
+for good marketing materials because that's the best way to skim off 
+the healthiest seniors. On average, private plans have administrative 
+costs that are about 15 percent of total spending whereas Medicare's 
+administrative costs are 2 to 3 percent of total spending. There is no 
+way that private plans can be as efficient as Medicare. Yet I am not 
+opposed to allowing them to compete fairly with Medicare. However, we 
+should make them compete on a level playing field. We should make them 
+compete by creating efficiencies. We shouldn't take money away from the 
+highly efficient Medicare program and give it to the HMOs to help them 
+instead of seniors. That is not the free-market at work. That is not 
+real competition. And, while a ``premium support'' demonstration, which 
+effectively allows a voucher system instead of a real Medicare 
+prescription drug benefit, will take place in six metropolitan 
+statistical areas (MSAs) initially, I believe we can safely assume that 
+this demonstration is meant to be standard at some point. This 
+demonstration is expected to raise monthly Medicare premiums by 26 
+percent.
+  Perhaps most disturbing, 45,000 ``dual eligible'' beneficiaries will 
+pay more for every prescription drug they receive under this 
+legislation. Dual eligibles are seniors who qualify for Medicaid by 
+virtue of their income. They currently receive drug coverage under 
+Medicaid. In my State of West Virginia, these seniors pay between $0.50 
+and $2.00 per prescription depending on the total cost of the drug. 
+Under this legislation, they could be required to pay twice that much. 
+I want to be clear on this point because I was among those insisting 
+that the dual eligibles be included under the Medicare benefit and not 
+left in Medicaid. I believe this conference report does the right thing 
+by including these seniors in the Medicare benefit. However, this 
+legislation precludes States from ``wrapping around'' Medicare. In 
+other words, States will not receive any Federal dollars for assisting 
+dual eligible beneficiaries with the costs not covered by Medicare. 
+This is unprecedented. For every other benefit covered by Medicaid but 
+not by Medicare, the states receive a Federal match to provide those 
+benefits to our poorest seniors. For example, Medicaid covers long-term 
+care but Medicare does not. So, for those seniors who are also eligible 
+for Medicaid, the Federal Government provides matching dollars to 
+states to provide long-term care to dual eligibles. This conference 
+report completely twists that concept of protecting our poorest seniors 
+against increased costs in an unprecedented way. This arrangement 
+represents a fundamental change in the relationship between Medicare 
+and Medicaid. Many predict that the individuals affected will choose to 
+forgo the prescription drugs that they need rather than try to pay what 
+they cannot afford.
+  In my judgment, this bill represents the greatest threat to the 
+Medicare program since its enactment. While numerous opportunities 
+existed to strengthen it, they were wasted. Instead of devoting $12 
+billion to closing the $2,800 coverage gap, this conference report 
+gives it to HMOs. Instead of protecting the right of our seniors to 
+stay in traditional Medicare and get a prescription drug benefit, this 
+bill protects the rights of the private plans to charge any premium 
+they want. Instead of shoring up retiree coverage for the two to three 
+million beneficiaries across the United States who will lose drug 
+coverage as a result of this bill, this bill includes tax shelters that 
+threaten to undermine the entire employer-based system. This bill is a 
+give-away to special interests, compiled in the dead of night, under 
+wraps. It is shameful. Public policy, like life, is about choices and 
+this bill makes all the wrong choices for our seniors.
+  While I have painted a bleak picture, I strongly believe that we can 
+avoid disaster. We can do so by putting this bill aside and coming back 
+to the table with a proposal that helps seniors and protects the long-
+term viability of what is a truly great program. We can take into 
+account the seniors who won't benefit from the low-income provisions in 
+the bill. We can protect retirees, and we can implement positive reform 
+that is productive, not destructive, confusing, or manipulative. It is 
+not too late. It is not too late. I urge my colleagues to reject this 
+bill and to immediately go back to work for the kind of Medicare drug 
+benefit seniors deserve.
+   Mr. COLEMAN. Mr. President, we stand here today at a historic moment 
+in this country as we begin consideration of the Medicare prescription 
+drug bill. This bill is a triumph not for a party or a President but 
+for America's seniors and their families. This is an incredibly hopeful 
+day for all Americans who long for a national government that can get 
+things done for people.
+   I campaigned on a promise to get things done--deliver to the 
+American people what they need to live better lives and what they are 
+looking to Congress to accomplish to make America a stronger country. 
+Prescription drugs, energy, partial-birth abortion were all at the top 
+of the list of issues that most Americans were looking for Congress to 
+take action. Their seemingly simple request was for us here in 
+Washington to put politics aside and do what is right for the American 
+public.
+   I am proud to say we are seeing that happen with this Medicare bill. 
+This is a bipartisan effort that, although not
+
+[[Page S15748]]
+
+perfect, makes a good start at addressing the needs of Minnesota's 
+seniors and health care providers as well as those across this country.
+   This is the largest and most comprehensive rural health care 
+improvement package ever contemplated by this body. Last year, as I 
+campaigned across Minnesota and spent many hours talking to our rural 
+health care providers, it was apparent to me that most of our hospitals 
+and doctors had given up hope for fair Medicare reimbursement.
+   Thanks to the strong leadership of Chairman Grassley, we have a bill 
+before us that has $26 billion--or $2.6 billion each year for 10 
+years--for rural providers, something that one short year ago seemed 
+nearly impossible.
+   Quality rural health care is one of the foundations of our rural 
+communities--this isn't simply about making sure our rural hospitals 
+are adequately reimbursed. This is about preserving a way of life in 
+America.
+   Without rural hospitals and physicians, it is tough to raise a 
+family and hard to attract new businesses to rural communities. Without 
+access to health care, many of our out-state towns simply couldn't 
+exist.
+   This bill seeks to eliminate many of the disparities in 
+reimbursement rates that have existed too long and crippled the rural 
+health system. Hospitals, physicians, and ambulances, as well as all of 
+those health professionals who work within these systems will not see 
+Medicare reimbursement rates that better reflect the realities of the 
+costs of providing care in rural communities.
+   As I look back on the accomplishments of the first session of the 
+108th Congress, addressing the rural health care payment disparity 
+under the Medicare program will undoubtedly be one of the most 
+meaningful achievements to Minnesotans. Many said it couldn't be done, 
+and today I have the great opportunity to come to the Senate floor and 
+tell my constituents that we will be voting on a bill that takes a 
+major step in providing equality with urban payments that will 
+significantly improve their ability to provide quality care.
+   Minnesota has a long tradition of providing high quality care, but 
+many of our seniors have not had access to this care because of the 
+lack of prescription drug coverage under the Medicare program.
+   Again, I have the great honor coming here and announcing to the 
+seniors back home that help is on the way.
+   Beginning in 2006, the 677,400 Medicare beneficiaries in Minnesota 
+will have access to drug coverage for the first time in the history 
+of the Medicare program, and 187,356 of these people would not 
+otherwise have access to drug coverage.
+
+  That means access to new drug therapies that could never been 
+imagined in 1965 when Medicare was created. It is time to bring this 
+program in line with current medical practices. A 1965 Cadillac is a 
+classic. A 1965 health care benefit is a travesty.
+  This bill will provide prescription drug coverage for 41 million 
+people in this country--41 million people! Is this the perfect benefit? 
+I'm not sure what the perfect benefit realistically looks like. But I 
+do know that the average senior's drug costs will be cut roughly in 
+half under this proposal. That is meaningful assistance for all seniors 
+and the bill provides even more assistance for those low-income seniors 
+who need us to shoulder even more of the burden.
+  Let's not let perfect be the enemy of good. In the words of the AARP, 
+one of the largest senior associations, ``Millions of Americans can't 
+afford to wait for perfect.''
+  And we know that drugs are most effective when used to prevent the 
+onset of a health condition. Right now almost 93 percent of our health 
+care dollars go to treat a person who is sick. While we have amazing 
+screening and early detection capabilities, we have a program that 
+waits for people to develop dangerous and costly conditions before they 
+can receive care.
+  It appears to me that this is a 1965 model of care, not a model that 
+belongs in a 2003 health care system. This bill for the first time 
+includes a ``Welcome to Medicare'' physical that will allow 
+beneficiaries to get an assessment of their health condition and 
+possibly detect conditions that could possibly escalate over time. It 
+also includes cardiovascular screening, blood tests and diabetes 
+screening that will be available without deductibles or co-pays to 
+encourage seniors to take advantage of these benefits.
+  I want to stop for a moment at the word ``encourage.'' It is 
+absolutely critical for every senior to know that they don't have to 
+take advantage of the preventive screenings, they are not required to 
+participate in the prescription drug plan, and most importantly, no 
+seniors under this proposal are forced into a private health plan. 
+Every senior who chooses to remain in traditional Medicare has that 
+equally important option under this bill.
+  This bill is about expanding choice. Time and time again I hear from 
+seniors who have said they want to receive the same benefits that my 
+colleagues and I here and in the House of Representatives enjoy. This 
+bill is about giving seniors the option to participate in a plan that 
+looks very close to the benefits that I and most individuals in the 
+private sector enjoy.
+  This bill is good for our seniors, it is good for health providers, 
+and it is good for the American public who are tired of the partisan 
+battles that have characterized this Congress. I thank Senators 
+Grassley and Baucus and the members of the conference committee who 
+have crafted this bipartisan Medicare package. This is a truly historic 
+time in this body's history.
+  As we look toward completing our work for this first session, I am 
+hopeful that the spirit of cooperation that has led to this bill will 
+be extended to the many important issues we will leave unresolved this 
+year.
+  The Thanksgiving season is upon us. Our work in this session is 
+nearing completion. But our work will not be done until and unless we 
+seize this historic opportunity and bring a prescription drug benefit 
+and hopes for a better and healthier life and make this a Thanksgiving 
+to remember for all the right reasons for our senior citizens and their 
+families.
+  Mr. BYRD. Mr. President, the Republican leadership and even a member 
+of the President's Cabinet twisted arms and bullied individual House 
+Members late in the night and into the wee hours of Saturday morning. A 
+roll call vote was held open for almost 3 hours--the longest House roll 
+call vote in history--until enough Members ignored their conscience, 
+cried ``mercy,'' and voted ``yes'' on the Medicare bill.
+  I believe most Americans would find such tactics repulsive and 
+unbecoming of how Members of Congress should behave. One might expect 
+to see such arm twisting and intimidation during a prisoner 
+interrogation scene in an episode of ``Law & Order,'' not a voting 
+session of Congress--especially on a vote of such great importance to 
+the citizens of this country.
+  What happened the other night was nothing short of a subversion of 
+the democratic process itself and a subversion of the democratic 
+principles our Founders stood for. Is this the manner of legislating 
+that our Founding Fathers had in mind when they so craftily designed 
+the political institutions of this country? I do not believe it is the 
+scenario our Founders envisioned when they created the Senate--to act 
+as the ``saucer,'' as George Washington so wisely said, to absorb the 
+overheated passions pouring out of the House of Representatives.
+  If ever there were a time for the Senate to act as that ``saucer,'' 
+it is now. It is a time when the health care security of 40 million 
+senior citizens, and millions of Americans for years to come, could be 
+on the brink of collapse as a result of this bill. We may even be in a 
+race toward the finish line of Medicare itself. And I am afraid that 
+the race is driven by partisan politics, extreme ideological fervor, 
+and blatant special-interest greed--all at the expense of our Nation's 
+most vulnerable citizens. Will the Bush administration and Republican 
+leadership of this Congress stop at nothing in order to get what they 
+want?
+  I am bewildered as to why we are engaged in such a mad stampede to 
+ram this bill through the Congress--especially when this legislation 
+will not take effect until 2006. I have been around long enough in 
+Congress to know that the actions of today's leadership smack of 
+arrogant politics and calculated indifference.
+  The more I read through this Medicare bill, the more I become 
+convinced
+
+[[Page S15749]]
+
+that history is again repeating itself. I can recall a painful 
+experience during my majority leadership when an outraged citizenry, 
+composed mostly of seniors, forced Congress to repeal the ill-fated 
+Medicare Catastrophic Coverage Act back in 1989. The year before, 
+Congress was engaged in a Medicare debate eerily similar to the one we 
+are having today. An agreement was reached to make the most sweeping 
+change in Medicare's ``then'' 23 years of existence.
+  At that time, Congress agreed to two key changes to the Medicare 
+Program--a prescription drug benefit and a ``stop-loss'' protection 
+from catastrophic medical bills. Facing deficits as we do today, 
+Congress decided that beneficiaries should pay for the new benefits 
+themselves, with the wealthiest paying the most. The new law included a 
+complicated benefit that was too difficult to explain and a lengthy 
+delay in the benefit's taking effect. In the end, seniors saw the bill, 
+and wanted no part of it. After angry protests, it was repealed. We are 
+poised to make the same mistake again.
+  I foresee a great deal of confusion and dismay occurring around 
+kitchen tables across America when people actually start to read beyond 
+the newspaper headlines and see the fine print of this plan three years 
+from now. Seniors may not know whether to laugh or cry. And if seniors 
+reject this new Medicare plan, it will fail and fail miserably.
+  When senior citizens wake up in 2006 and find out what this bill is 
+really about, it will not be the turkey that needs to be eaten on 
+Thanksgiving day, it will be all of us in Congress eating crow.
+  We should not let political ideology drive our Nation's Medicare 
+policy when we are dealing with the health care and lives of the most 
+vulnerable in the country. I am worried that this body is being asked 
+to hand over one of the most popular Government programs in history to 
+private insurance companies. I have been down this tortured road before 
+during my 51-year tenure in Congress. My constituents and others around 
+the Nation are reeling from public programs that have been turned over 
+to the so-called free market. Utility rates, cable rates, airline 
+rates, you name it, the free market has ensured exorbitant prices with 
+diminished service. Pensions and retirement security have taken a 
+similar beating.
+  So here we are again, this time being presented with a rosy scenario 
+about how private industry competition will improve the Medicare 
+program. The rhetoric is familiar: increased competition, lower costs, 
+and greater services will be provided. Yes, the rhetoric is familiar, 
+but so is the reality. This scheme will not deliver what it promises.
+  I fear that we are going to wind up with a patchwork across the 
+country of differing coverages, differing plans, differing copays and 
+differing premiums. No senior will know for sure what they can count 
+on.
+  Analysis of the GOP Medicare bill estimates that 31,000 Medicare 
+beneficiaries in West Virginia will lose their retiree health benefits 
+as a direct result of this package. Nearly 45,000 Medicaid 
+beneficiaries in West Virginia will pay more for the prescription drugs 
+they need. As many as 27,700 fewer seniors in West Virginia will 
+qualify for low-income protections because of the assets test and lower 
+qualifying income levels. More than 7,500 Medicare beneficiaries in 
+West Virginia will pay more in Medicare premiums because of income 
+means-testing.
+  Let's slow down and take a better look at this legislation and the 
+unintended consequences. We need more time to explain this plan to our 
+elderly citizens. Don't we need their feedback? I doubt that our 
+Nation's seniors will be excited about accepting a bill that poisons 
+the well. Seniors will likely want no part of it--especially when they 
+see how it will undermine the rest of Medicare down the road. Just like 
+they did almost 15 years ago, they may revolt, and Members of Congress 
+could be back here scratching their heads and scrambling to find a 
+solution and save their seats.
+  This bill fails our seniors. It sells senior citizens out in exchange 
+for big profits for prescription drug companies. America's senior 
+citizens and disabled citizens deserve more than some new hocus-pocus 
+scheme that leaves them naked to the whims of private insurance 
+companies, and offers only a new-you-see-it, now-you-don't promise of 
+coverage. Instead of selling illusions, Congress ought to go back to 
+work and settle on a good, comprehensive, voluntary Medicare 
+prescription drug benefit.
+  Let's not shortchange our seniors. We owe them much, much better.
+  Mr. CHAMBLISS. Mr. President, I rise today to voice my concerns with 
+the conference agreement on H.R. 1, the Medicare Prescription Drug, 
+Improvement, and Modernization Act of 2003.
+  My original intentions were to work with this body to create and 
+provide a fiscally responsible prescription drug benefit for seniors 
+who are in need. My primary responsibility and obligation through this 
+process was to make sure that Medicare beneficiaries with the lowest 
+monthly income and the highest monthly drug bill were taken care of. 
+That obligation has been fulfilled by this agreement.
+  This bill will provide almost 1 million Georgia seniors with 
+completely voluntary access to a Medicare prescription drug benefit for 
+the first time in the history of the Medicate program. Starting next 
+year, low-income seniors will get drug cards that provide $600 worth of 
+assistance for prescription drugs. Seniors will be covered with access 
+to an initial physical and other new preventive benefits such as 
+cholesterol and diabetes screenings. This legislation creates new 
+Health Savings Accounts, HSAs, to pay for qualified medical expenses, 
+available to all beneficiaries with contributions allowed from 
+employers and family members.
+  Beginning in 2006, all Medicare beneficiaries will be eligible to get 
+prescription drug coverage though a Medicare-approved plan. In exchange 
+for a monthly premium of about $35, seniors who are now paying full 
+retail price for prescription drugs will be able to cut their drug 
+costs roughly in half. Lower-income seniors could qualify for more 
+generous benefits, including reduced premiums, lower deductibles and 
+coinsurance, with no gaps in coverage.
+  With Medicare beneficiaries receiving access to a prescription drug 
+benefit, Medicare instead of Medicaid will be assuming the prescription 
+drug cost of roughly 172,000 beneficiaries in Georgia. This could equal 
+$469 million in added savings over the next eight years for the State 
+of Georgia.
+  The bill also would increase Medicare funding for doctors, hospitals 
+and other health care providers, particularly in rural areas, where 
+reimbursement levels are far below what is paid in urban areas of the 
+country. Additionally, the bill provides cost incentive to encourage 
+companies to retain the health coverage they provide their retirees. I 
+want to voice my support for all of these provisions.
+  Following my review of the conference report, however, I can't help 
+but feel that this is not the best we could do. I feel like we missed 
+the mark on trying to ensure Medicare's solvency. While we are trying 
+to ensure that prescription drug coverage is provided for those seniors 
+who need them, we should also ensure that future generations are not 
+overburdened by the costs of this expanded entitlement program.
+  Attempts to cap the bill's cost have been diluted. Instead of putting 
+cost containment provisions in the legislation, there is a vague 
+transfer of power from today's lawmakers to future lawmakers to handle 
+the cost when it becomes a problem. In 2007, the Congressional Budget 
+Office has estimated that the bill will cost $40.2 billion. By 2013, 
+that price tag hits $65.2 billion. I am not comfortable leaving these 
+problems to be dealt with in the future. If we cannot logically solve 
+them now, how do we expect future Congresses to tackle cost containment 
+while this program is spiraling out of control?
+  Helping today's seniors with access to prescription drugs must be 
+balanced with our responsibility to future generations, our own 
+children and grandchildren. These generations will have to pay, 
+literally, for our miscalculations. They will be able to look back and 
+see clearly when and where we made mistakes. Today, future generations 
+are a main concern of mine because I think this bill lacks some common 
+sense regarding fiscal restraint. It
+
+[[Page S15750]]
+
+has the potential to expand our budget deficit for years to come. 
+Placing the cost burden of an entitlement program on the shoulders of 
+our children's generation seems very unfair. Shouldn't it be possible 
+for this legislative body to create a prescription drug benefit plan 
+that is fiscally responsible? Have we successfully done this? With a 
+cost containment trigger we could have done just that and we have 
+missed the opportunity.
+  In addition to the looming fiscal problems of this measure, I am also 
+very concerned with cuts for the reimbursement of drugs for cancer 
+treatment. Community oncology practices in Georgia and nationwide will 
+be at risk of closing their doors because of these cuts. When 
+approximately 1.4 million people are diagnosed with new cases of cancer 
+each year and approximately 550,000 people die from cancer each year, 
+why are we decreasing these drug reimbursements?
+  Our small town pharmacists may also experience financial risk as a 
+result of the passage of this bill. They play a fundamental role in 
+delivering these benefits to our seniors. Pharmacy Benefit Managers, 
+PBMs, should be required to report all financial concessions they 
+receive from manufacturers such as discounts, rebates, and indirect 
+subsidies and should be audited to ensure accountability. I want to 
+ensure that these pharmacists will be able to compete on the same level 
+as the PBMs and purchasing by mail so that they can continue serving 
+their patients. We also need to acknowledge and protect the role of 
+medication counseling services provided by our pharmacists as this is a 
+valuable benefit to the patient.
+  Another concern is the lack of flexibility within the Medicare 
+program. Competition among private healthcare plans in Medicare will 
+help ensure more up-to-date coverage and gives seniors the ability to 
+choose the healthcare plan that best meets their personal health needs 
+rather than a one-size-fits-all government plan. A Medicare-approved 
+private healthcare plan needs flexibility in designing benefits so that 
+seniors can have the option to choose the coverage that makes the most 
+sense to them and best suits their health needs. Seniors deserve choice 
+and flexibility within their benefits, and this bill does not give 
+seniors the full extent of flexibility they deserve.
+
+  Lastly, the means testing provisions included in this bill are 
+positive but are not strong enough. Our goal should be to help those 
+seniors who cannot afford life saving drugs and currently have to make 
+the difficult choice between putting food on their table and buying the 
+prescriptions they need. We should not waste taxpayer money on 
+subsidizing wealthy seniors who can easily afford to pay for their own 
+medicines.
+  Individuals who fall into the category of 150 percent of Federal 
+poverty level or those with a total income of $13,470 or less will 
+receive great benefits. However, the gaps in coverage for the middle 
+class will make this legislation somewhat effective or possibly even 
+more costly for certain beneficiaries. Protecting those most in need is 
+imperative, but we cannot sacrifice those folks that fall in the 
+middle.
+  The decisions we will make today by voting for this measure will 
+affect the health of every American and significantly impact future 
+taxing and spending of generations to come. I stand before you today 
+burdened by trying to make the best decision for America's seniors, for 
+Medicare solvency, and for the financial security of our children and 
+their future generations.
+  This bipartisan agreement is a necessary step to completing the 
+promise we made to seniors, and that is to provide prescription drug 
+coverage. It is for this reason only that I will vote for this 
+conference report, but I will continuously seek ways to improve this 
+program by seeking stronger cost containment provisions and increasing 
+the flexibility for the plans.
+  Thank you, Mr. President. I yield the floor.
+  Mr. KOHL. Mr. President, I rise today to oppose the Medicare 
+conference report. Once again, the Senate is on the verge of passing a 
+bill that is good for everyone--except the people the bill is supposed 
+to help. Our Nation's seniors rely on Medicare and are asking for 
+Congress' help with a real Medicare drug benefit. This bill doesn't 
+give it to them. Instead, it is a dream package for drug companies, 
+insurance companies, and the people who make TV ads for politicians. 
+And it is a nightmare for too many Medicare beneficiaries.
+  Our elderly and disabled citizens rely on Medicare. They know it and 
+they are comfortable with it. They know it will cover most of their 
+health care needs whether they're healthier or sicker, middle class, 
+affluent, or low income.
+  For years now our seniors have asked us to add a prescription drug 
+benefit to Medicare to help them pay for the costs of their medication. 
+It is a simple, straight-forward request that this bill meets with a 
+confusing, costly, and damaging response. The bill changes Medicare 
+from the reliable, popular program that has worked for seniors since 
+1965 to a Government subsidy program for private insurance companies.
+  The bill fundamentally changes the nature of Medicare. Instead of 
+enhancing the current guaranteed benefit under Medicare with 
+prescription drug coverage, the bill allocates billions to insurance 
+companies to entice them to serve Medicare beneficiaries. In fact, the 
+companies will be paid more than it costs traditional Medicare to cover 
+seniors. And on top of that, there is a new $12 billion slush fund to 
+beg them to enter the program.
+  And what will these insurance companies do with this extra money? 
+They will design their plans to attract the healthiest, wealthiest 
+seniors--and leave poorer, sicker seniors in traditional Medicare 
+facing higher costs.
+  This is no small point. Medicare has worked for decades because it is 
+a universal, reliable program. People believe in it, and it has worked 
+well for them. But this bill, which was supposed to simply add a new 
+prescription drug benefit, instead changes Medicare to a new system of 
+winners and losers.
+  This fundamental weakening of the Medicare system is bad enough, but 
+even worse is the process by which Congress is considering the changes. 
+The conference report was put together by a small group behind closed 
+doors. It is over a thousand pages long and is extremely complicated. 
+But we're being given only four days to read and digest this massive 
+bill--this massive shift in the way we provide health care to our 
+seniors.
+  Why are we rushing to vote? Are we afraid of seniors learning the 
+truth about what's really in this bill? This bill makes the most 
+sweeping changes to Medicare since its creation, and we have barely had 
+time to examine it. Our seniors deserve more than a cursory glance and 
+crossed fingers that everything will work out.
+  Our seniors also deserve a real prescription drug benefit that gets 
+the best prices for their medication. But this bill actually prohibits 
+the Federal Government from negotiating with drug companies for lower 
+prices. What a huge missed opportunity. What a waste of taxpayers' 
+dollars. We could have used the tremendous purchasing power of the 41 
+million Medicare beneficiaries to make sure that prices are fair. 
+Instead, this bill is a windfall for the drug industry. Just look at 
+drug companies' stocks shooting up over the last few days; it is clear 
+who the winners under this bill are.
+  The drug benefit itself is far less generous than seniors expect and 
+deserve--and for many seniors, it will do more harm than good. Many 
+seniors will still be responsible for most of their drug costs. Those 
+with drug costs below $810 a year will actually pay more than they do 
+today if they sign up for the drug benefit. Seniors with drug costs of 
+$5,000 will still pay almost $4,000 themselves--almost 80 percent of 
+the bill. There is a giant hole in the drug benefit--a gap in coverage 
+where seniors continue to pay their monthly premiums but get absolutely 
+no help from Medicare with their drug bills. I voted against the 
+original Senate bill in part because of this gap. Now instead of 
+closing the gap in conference, this bill actually doubles its size.
+  Even worse, this bill will cause many retirees who already have good 
+drug coverage through their former employers to lose it. According to 
+the Congressional Budget Office, 2.7 million seniors nationwide could 
+lose their current coverage, including as many as 60,000 in Wisconsin. 
+These seniors
+
+[[Page S15751]]
+
+worked hard to earn retiree health coverage. That coverage will now be 
+in jeopardy.
+  In addition, while there is additional help for some low-income 
+beneficiaries, millions of poorer seniors will be worse off because of 
+this bill. Up to 6 million seniors who are eligible for both Medicare 
+and Medicaid--the poorest of the poor--will have higher costs. Up to 
+110,000 dually eligible seniors in Wisconsin could be affected. In 
+addition, the bill cuts out the extra help for millions of low-income 
+seniors if they fail a restrictive asset test.
+  There are some good things in this bill. It includes an increase in 
+Medicare payments to Wisconsin that will finally begin to level the 
+playing field for Wisconsin's doctors, hospitals, and seniors. I am 
+pleased that this was included.
+  I know there are some who say we can't afford to wait for a perfect 
+bill. But I believe that this bill is not just far from perfect--it 
+will actually do harm to many of our seniors and will waste billions of 
+taxpayer dollars in a giveaway to the insurance industry and drug 
+companies.
+  This drug benefit is nowhere close to what seniors have asked us to 
+deliver. They wanted to pay less for their prescription drugs. We could 
+have done tremendous good here. We could have brought the price of 
+drugs down using bulk purchasing through Medicare, greater use of 
+generic drugs, and allowing seniors to purchase less expensive drugs 
+from Canada. Instead, we have a complicated and skimpy drug benefit, 
+huge subsidies to drug and insurance companies, and a sea change in the 
+Medicare Program. This is not what seniors asked for, and they will not 
+be fooled. When they learn the details of this bill, they will rightly 
+revolt.
+  There are those who say we have to pass this bill today because we'll 
+never have another chance. That is ridiculous. We have only had four 
+days to look at this 1,000-page bill. We haven't had any time to go 
+back home and discuss this with out constituents. How can we represent 
+the seniors in our States when not one of them has had a chance to see, 
+digest or comment on this bill.
+  This bill doesn't even go into effect until 2006, so why the rush to 
+pass it today? With a mere 4 days of study, we are about to enact 
+historic, sweeping changes to Medicare. The people we represent deserve 
+a much more serious effort.
+  I do not believe that this bill is our last and only chance. If this 
+bill is defeated, we can't and won't give up on a real, effective and 
+smart prescription drug benefit in Medicare. We can't and won't turn 
+our backs on doctors, hospitals and health care providers. We can do 
+better if we have the will and the courage to do it.
+  Mr. KENNEDY. Mr. President, I rise today to say a few words about 
+Section 1101(d), a provision of the Medicare Prescription Drug, 
+Improvement, and Modernization Act of 2003 relating to the Hatch-Waxman 
+Act and the authority of Federal courts to entertain actions for 
+declaratory judgments. This provision originally was added in the 
+Senate, as part of the Greater Access to Affordable Pharmaceuticals 
+Act, and formed Section 702(c) of S. 1, the bill passed by the Senate. 
+I will discuss today some of the changes made to this subsection in 
+conference, and what this provision is intended to accomplish.
+  Lower Federal courts typically have required that a declaratory 
+judgment plaintiff satisfy the ``reasonable apprehension test'' before 
+being allowed to bring declaratory judgment actions in Federal court.
+  Section 1101(d) provides that, so long as a generic drug company has 
+filed an Abbreviated New Drug Application, ANDA, and the patentee has 
+not filed suit within 45 days of receiving notice, ``the courts of the 
+United States shall, to the extent consistent with the Constitution, 
+have subject matter jurisdiction in any action * * * for a declaratory 
+judgment that such patent is invalid or not infringed.'' This 
+subsection will provide relief to alleged patent infringers--at least 
+in the Hatch-Waxman context--in several ways.
+  First, this language sweeps away the type of discretionary barriers 
+to a declaratory judgment action imposed in decisions such as EMC Corp. 
+V. Norand Corp. The Federal Circuit in that case found that the 
+district court actually had jurisdiction to entertain a declaratory-
+judgment suit. It nevertheless allowed the district court to dismiss 
+the action, holding that district courts may do so unless ``there is no 
+real prospect of non-judicial resolution of the dispute.'' The Federal 
+Circuit apparently felt that a patentee should be able to use what may 
+prove to be an invalid patent as a source of ``bargaining power'' in 
+license negotiations.
+  This refusal to entertain a litigant's action where jurisdiction 
+unquestionably exists is, of course, at odds with the rule, announced 
+182 years ago in Cohens v. Virginia, that the Federal courts ``have no 
+more right to decline the exercise of jurisdiction which is given, than 
+to usurp that which is not given.'' Blame for this practice, however, 
+cannot entirely be laid at the feet of the Federal Circuit. The Supreme 
+Court, in the 1995 Wilton v. Seven Falls Company case, affirmed that 
+Federal courts have ``unique and substantial discretion in deciding 
+whether to declare the rights of litigants.'' Wilton identified two 
+sources of this discretion: it found a ``textual commitment to 
+discretion'' in the  Declaratory Judgment Act, emphasizing the act's 
+use of the word ``may.'' And it noted the courts' history of 
+recognizing discretion to decline declaratory-judgment actions.
+
+   Section 1101(d) directly sweeps away the type of discretion allowed 
+in the EMC Corp. case. First, and most importantly, it replaces the 
+word ``May''--the textual source of the discretion identified in Wilton 
+and EMC Corp.--with the word ``shall.'' Second, simply by creating a 
+new source of authority to entertain declaratory judgments in the 
+Hatch-Waxman context, section 1101(d) disentangles such actions from 
+the tradition of discretion associated with the Declaratory Judgment 
+Act. Armed with the word ``shall,'' this new section starts afresh, 
+with no reason to be exempted from the usual (Colorado River) rule that 
+Federal courts have a ``virtually unflagging obligation * * * to 
+exercise the jurisdiction given them.'' With this new provision, 
+generic-drug companies never will be denied access to a declaratory 
+judgment action on the basis of pending or potential license 
+negotiations, at least so long as the suit otherwise is 
+constitutionally sufficient for presentation in an Article III court.
+   This last matter--when the case or controversy requirement for a 
+declaratory judgment action is satisfied--is the subject of the second 
+major aspect of section 1101(d). I and other Senate proponents of this 
+subsection believe that the reasonable-apprehension test demands more 
+than is required by the constitutional case-or-controversy requirement. 
+We are fortified in this view by two letters received by the committee 
+of jurisdiction from Professor John Yoo. Rather than repeat all of 
+Professor Yoo's analysis, I will simply include his letters at the 
+conclusion of my remarks. As Professor Yoo notes in his first letter, 
+the reasonable-apprehension test is ``[not] demanded by the Supreme 
+Court's interpretation of the Declaratory Judgment Act.'' He suggests 
+that the test may be viewed as an exercise of the court's discretionary 
+power.
+   Section 1101(d) shifts the focus of a court's inquiry to whether the 
+requirements of Article III are satisfied. In deciding when a Hatch-
+Waxman declaratory judgment suit may meet the requirements of Article 
+III, the courts should focus on the actual components of the case-or-
+controversy requirement. In the 1998 Steel Company decision, the 
+Supreme Court reiterated that the ``triad of injury in fact, causation, 
+and redressability constitutes the core of Article III's case-or-
+controversy requirement.'' In setting the constitutional standard for 
+allowing declaratory judgments, the Supreme Court in its 1937 Aetna 
+Life Ins. v. Haworth decision focused on the dispute's adverseness, 
+definiteness, concreteness, and the specificity of the claims. this 
+language inevitably invokes the injury-in-fact element of the Article 
+III standing inquiry. It is from the injury-in-fact case law--which 
+asks whether an injury is concrete and particularized, and actual or 
+imminent--that the courts might draw new standards for a 
+constitutionally adequate case or controversy in the declaratory 
+judgment context.
+   It thus bears mention that the Supreme Court has not hesitated to 
+find
+
+[[Page S15752]]
+
+actual Article III injury where a plaintiff forewent a legally 
+cognizable benefit as a result of being actually and reasonably 
+deterred from particular conduct. Just 3 years ago, for example, the 
+court held that even where a defendant's environmental discharges 
+caused no harm to the environment, environmentalist plaintiffs had 
+standing where their ``reasonable concerns about the effects of those 
+discharges, directly affected [their] recreational, aesthetic, and 
+economic interests.'' And in 1979's Babbit v. United Farm Workers, the 
+court found that plaintiffs deterred from constitutionally protected 
+conduct had standing to challenge the offending statute where the 
+threat of its enforcement was ``not imaginary or wholly speculative.'' 
+The Court further specified that the plaintiffs were ``not without some 
+reason in fearing prosecution'' where ``the State has not disavowed an 
+intention'' of enforcement, a fact that rendered the positions of the 
+parties ``sufficiently adverse, * * * to present a case of controversy 
+within the jurisdiction'' of the Federal courts. And--closer to the 
+context of a section 1101(d) plaintiff--the court has inquired, when 
+evaluating commercial plaintiffs standing in 1975's Warth v. Seldin, 
+whether the defendant's actions ``delayed or thwarted any project 
+currently proposed.''
+
+  I would also note that some courts have applied case-or-controversy 
+tests in the declaratory judgment context that, in their standards and 
+focus, are not dissimilar from what is suggested by the Supreme Court's 
+injury-in-fact caselaw. For example, in the 1974 case Blessings Corp. 
+v. Altman, the district court for the Southern District of New York 
+held that ``any lingering possibility of an infringement charge is 
+sufficient to support the finding of an actual controversy so long as 
+the plaintiff can demonstrate some actual harm to its business.'' 
+Similarly, in the 1986 case Research Institute v. Wisconsin Alumni, the 
+district court for the Western District of Wisconsin concluded that ``a 
+perceived threat of infringement is real''--and would satisfy Article 
+III requirements--so long as ``it would be a substantial factor for 
+most business people in their choice to proceed in one direction and 
+not in another.''
+  Congress, of course, does not presume that any of these cases sets 
+the proper case-or-controversy standard in the context of a patent-
+infringement declaratory judgment action, or that 1970s standing 
+decisions still are good law. Nevertheless, these cases do at least 
+suggest the proper focus of inquiry: whether the would-be patent 
+challenger has been reasonably and actually deterred from undertaking a 
+profitable enterprise.
+  Finally, should the courts be unwilling to wholly abandon the 
+reasonable apprehension test for purposes of analyzing the requirements 
+of Article III, the conferees have left them options short of striking 
+down section 1101(d). Unlike the Senate bill, the conference report 
+does not gamble all on the hope that courts will find the filing of an 
+ANDA--which automatically constitutes an act of infringement--to always 
+qualify as a constitutionally adequate case or controversy. The final 
+act leaves the courts with options short of striking down section 
+1101(d), if more is required. By including the language ``to the extent 
+consistent with the Constitution,'' the conferees have allowed the 
+courts to import as much of the reasonable-apprehension test as they 
+feel is constitutionally necessary. As the report language makes clear, 
+this may include the entire reasonable-apprehension test as currently 
+construed by the Federal Circuit. As Federal Circuit Judge Gajarsa 
+observed in his concurrence in the Minnesota Mining case, that test 
+will ordinarily be satisfied in declaratory judgment actions brought by 
+ANDA applicants with respect to patents listed in the Orange Book. In 
+any event, the courts should impose prerequisites to seeking 
+declaratory relief--whether reasonable apprehension, the standing tests 
+suggested here, or any other requirements--only ``to the extent 
+required by the Constitution.''
+  I ask unanimous consent that two letters from Professor Yoo be 
+printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+         Boalt Hall School of Law, University of California at 
+           Berkeley,
+                                      Berkeley, CA, June 14, 2003.
+     Hon. Orrin G. Hatch,
+     Chairman, Committee on the Judiciary,
+     U.S. Senate, Washington, DC.
+       Dear Senator Hatch: I have been asked by the Generic 
+     Pharmaceutical Association to provide my views concerning the 
+     constitutionality of a proposed amendment to the Hatch-Waxman 
+     Act. The amendment would allow a generic drug manufacturer 
+     who has filed an abbreviated new drug application (ANDA) to 
+     seek federal declaratory relief against potential patent 
+     infringement claims. It is my opinion that this provision is 
+     clearly constitutional.
+       Let me begin with a note of introduction. I have long 
+     worked on separation of powers issues involving the courts. 
+     It was my great honor to have served as the General Counsel 
+     to this Committee under your Chairmanship from 1995-96. I 
+     also recently served as Deputy Assistant Attorney General in 
+     the Office of Legal Counsel of the Department of Justice, 
+     which is charged in part with advising the executive branch 
+     on the constitutionality of proposed legislation. I have 
+     clerked for Judge Laurence Silberman of the U.S. Court of 
+     Appeals for the D.C. Circuit and for Justice Clarence Thomas 
+     of the U.S. Supreme Court. I am currently a visiting fellow 
+     at the American Enterprise Institute and a professor of law 
+     at the Boalt Hall School of Law, University of California at 
+     Berkeley, where I have taught and written in the fields of 
+     constitutional law, the separation of powers, and civil 
+     procedure since 1993. The conclusions expressed here are my 
+     own, and do not represent the views of the American 
+     Enterprise Institute or the University of California.
+       In order to evaluate the constitutionality of the proposed 
+     changes, it is necessary to first understand the statutory 
+     framework at issue. Under the Federal Food, Drug, and 
+     Cosmetic Act, a pharmaceutical company that seeks to 
+     manufacture a new drug must file a new drug application (NDA) 
+     with the FDA that includes information about the drug's 
+     safety and effectiveness. 21 U.S.C. Sec. 355(a). The NDA must 
+     also include a list of patents upon which the drug is based. 
+     If the FDA approves the NDA, it publishes the drug and the 
+     patents in the Approved Drug Products with Therapeutic 
+     Equivalence Evaluations (``the Orange Book'').
+       The Hatch-Waxman amendments created a streamlined process 
+     for the FDA to review applications by drug manufacturers to 
+     produce generic versions of drugs previously approved by the 
+     NDA process. Under an ANDA, a generic producer may rely in 
+     part on the NDA of the pioneer manufacturer by showing 
+     bioequivalence with the NDA-approved drug. 21 U.S.C. 
+     Sec. 355(j)(2)(A). Under Hatch-Waxman, it is not patent 
+     infringement to conduct actions necessary to prepare an ANDA, 
+     35 U.S.C. Sec. 271(e)(1), but it is infringement to file the 
+     ANDA itself before the expiration of the patents that include 
+     the pioneer drug, id. Sec. 271(e)(2). An ANDA applicant must 
+     make one of four certifications as to the patents listed in 
+     the Orange Book for the pioneer drug it seeks to manufacture: 
+     i) no patent information has been submitted to the FDA; ii) 
+     the patent has expired; iii) the patent will expire on a 
+     specific date; iv) the patent is invalid and will not be 
+     infringed by the generic drug.
+       When an ANDA makes the fourth certification, known as a 
+     Paragraph IV certification, the applicant must give notice to 
+     the patent holder and explain why the patent is invalid, 
+     unenforceable, or not infringed. 21 
+     U.S.C.Sec. 355(j)(2)(B)(i). The patent holder may sue for 
+     infringement within the next 45 days, id. 
+     Sec. 355(j)(5)(B)(iii), and if it does, the FDA may not 
+     approve the ANDA application until the courts have ruled on 
+     the suit, the relevant patents have expired, or thirty months 
+     have passed from the time of the original notice. Id. During 
+     that 45-day period, ``no action may be brought under section 
+     2201 of Title 28 [the Declaratory Judgment Act], for a 
+     declaratory judgment with respect to the patent.'' Id.
+       The proposal before you would make clear what this last 
+     provision already implies. It would recognize that ``an 
+     actual controversy'' between an ANDA filer and a patent 
+     holder would exist ``sufficient to confer subject matter 
+     jurisdiction in the courts of the United States'' if, after 
+     45 days have passed since the ANDA has been filed, the patent 
+     holder chooses not to bring a patent infringement action. I 
+     do not believe that this provision poses constitutional 
+     problems; in fact, it merely clarifies the proper application 
+     of existing law.
+       To understand why, it is necessary to review the 
+     Declaratory Judgment Act and its interaction with patents. 
+     Article III, Section 2 of the Constitution allows federal 
+     courts to exercise jurisdiction only over the enumerated list 
+     of cases or controversies. U.S. Const. art. III, Sec. 2 
+     (listing cases or controversies). As Marbury v. Madison made 
+     clear, federal courts are courts of limited subject matter 
+     jurisdiction. For many years, it was uncertain whether 
+     declaratory judgment actions fell within the definition of an 
+     Article III case or controversy. Federal jurisdiction 
+     certainly extends to cases in which a plaintiff is entitled 
+     to a coercive remedy based on federal law. Substantial 
+     hardship arises, however, in cases involving ``an actual 
+     dispute about the rights and obligations of the parties, 
+     and yet the controversy may not have ripened to a point at 
+     which an affirmative remedy is needed. Conversely, this 
+     stage may have been reached, but the party entitled to 
+     seek the remedy may fail to take the
+
+[[Page S15753]]
+
+     necessary steps.'' C. Wright & A. Miller, Federal Practice 
+     and Procedure Sec. 2751. In the area of patents, ``the 
+     owner of a patent might assert that a manufacturer was 
+     infringing the owner's monopoly, while the latter 
+     contended that his product was not an infringement or that 
+     the patent was invalid. The manufacturer was helpless, 
+     however, to secure an adjudication of the issue, but had 
+     to await suit for infringement, unless the manufacturer 
+     preferred to yield and discontinue the activity.'' Id.
+       Declaratory judgments acts first arose in the states, but 
+     uncertainty initially remained as to whether such cases could 
+     be heard in federal courts due to the case or controversy 
+     requirements of Article III of the Constitution. Willing v. 
+     Chicago Auditorium Ass'n, 277 U.S. 274 (1928). In 1927, 
+     however, the Court gave res judicata effect to a state 
+     declaratory judgment, Fidelity Nat'l Bank & Trust Co. v. 
+     Swope, 274 U.S. 123 (1927), and in 1933 it upheld a state 
+     court declaratory judgment, Nasville, C. & St. L. Ry. v. 
+     Wallace, 288 U.S. 249 (1933). Immediately after Wallace, 
+     Congress enacted the Declaratory Judgment Act: ``In a case of 
+     actual controversy within its jurisdiction, . . . any court 
+     of the United States, upon the filing of an appropriate 
+     pleading, may declare the rights and other legal relations of 
+     any interested party seeking such declaration, whether or not 
+     further relief is or could be sought. Any such declaration 
+     shall have the force and effect of a final judgment or decree 
+     and shall be reviewable as such.'' Act of June 14, 1934, ch. 
+     512, 48 Stat. 955, codified at 28 U.S.C. Sec. 2201(a). In 
+     essence, this act allows plaintiffs to bring suit against a 
+     defendant who would hold a federal right to seek a coercive 
+     remedy against the plaintiff, if the defendant had chosen to 
+     bring suit first. The legislative history of the Act reflects 
+     that Congress was concerned about the uncertainty in business 
+     and legal relations, including the case in which a patent 
+     holder chose to delay litigation for patent infringement.
+       The Supreme Court soon made clear that the Declaratory 
+     Judgment Act was constitutional, even though the statute 
+     extended federal jurisdiction to cases in which the holder of 
+     the federal right had not yet sought to enforce his 
+     federal right. Finding that declaratory judgment suits met 
+     Article III's case or controversy requirement, the Court 
+     explained: ``The Declaratory Judgment Act of 1934, in its 
+     limitation to `cases of actual controversy,' manifestly 
+     has regard to the constitutional provision and is 
+     operative only in respect to controversies which are such 
+     in the constitutional sense. The word `actual' is one of 
+     emphasis rather than of definition. Thus the operation of 
+     the Declaratory Judgment Act is procedural only. In 
+     providing remedies and defining procedure in relation to 
+     cases and controversies in the constitutional sense the 
+     Congress is acting within its delegated power over the 
+     jurisdiction of the federal courts which the Congress is 
+     authorized to established. . . . Exercising this control 
+     of practice and procedure the Congress is not confined to 
+     traditional forms or traditional remedies.'' Aetna Life 
+     Insurance Company v. Haworth, 300 U.S. 227, 240-41 (1937). 
+     In explaining more precisely why the Declaratory Judgment 
+     Act did not include cases that were actually unripe or 
+     moot, Chief Justice Hughes wrote: ``A `controversy' in the 
+     sense must be one that is appropriate for judicial 
+     determination. . . . A justiciable controversy is thus 
+     distinguished from a difference or dispute of a 
+     hypothetical or abstract character; from one that is 
+     academic or moot. . . . The controversy must be definite 
+     and concrete, touching the legal relations of parties 
+     having adverse legal interests. . . . It must be real and 
+     substantial controversy admitting of specific relief 
+     through a decree of a conclusive character, as 
+     distinguished from an opinion advising what the law would 
+     be upon a hypothetical state of facts. . . . Where there 
+     is such a concrete case admitting of an immediate and 
+     definitive determination of the legal rights of the 
+     parties in an adversary proceeding upon the facts alleged, 
+     the judicial function may be appropriately exercised 
+     although the adjudication of the rights of the litigants 
+     may not require the award of process or the payment of 
+     damages. . . . And as it is not essential to the exercise 
+     of the judicial power that an injunction be sought, 
+     allegations that irreparable injury is threatened are not 
+     required.'' Id. at 240-41. In the wake of Aetna, the lower 
+     courts regularly assumed jurisdiction over declaratory 
+     judgment suits by an alleged patent infringer for a 
+     declaration of non-infringement or patent invalidity, 
+     because the declaratory defendant could have brought a 
+     federal action against the declaratory plaintiff. Edelamnn 
+     & Co. v. Triple-A Specialty Co., 88 F.2d 852 (7th Cir. 
+     1937). In passing, the Supreme Court has approved this 
+     exercise of jurisdiction because a patent infringement 
+     suit by the declaratory defendant would have fallen with 
+     the Article III ``arising under'' jurisdiction. See 
+     Franchise Tax Board of California v. Construction Laborers 
+     Vacation Trust, 463 U.S. 1, 20 n. 19 (1983); Graham v. 
+     John Deere Co, 383 U.S. 1 (1966).
+       In light of these cases, it should be clear that Congress 
+     intended that potential patent infringers be able to seek a 
+     declaration of non-infringement, unenforceability, 
+     or invalidty of a patent. Further, the Supreme Court and 
+     the lower federal courts have interpreted the Declaratory 
+     Judgment Act to allow these suits, and they have also 
+     found such suits to fall within Article III's case or 
+     controversy requirement. The proposal before you clearly 
+     falls within the scope of the Declaratory Judgment Act. A 
+     generic drug company wishes to manufacture and sell a 
+     substance that mimics a pioneer drug for which patents are 
+     listed in the Orange Book. The enforcement of the patent 
+     could prevent the generic drug company from producing and 
+     selling its product, nullifying its investments in 
+     research and production, and potentially subjecting any 
+     profits to the uncertainty of a future lawsuit. In filing 
+     an ANDA, the generic drug company declares its intention 
+     and ability to produce the drug, which renders the dispute 
+     anything but hypothetical. The Hatch-Waxman amendments 
+     even find an ANDA filing to constitute patent 
+     infringement. Were the pioneer drug company to bring a 
+     patent infringement action, the case clearly would fall 
+     within Article III's arising under jurisdiction.
+        It is my view that such actions, as recognized by the 
+     proposed amendment before you, would fall within the proper 
+     application of the Declaratory Judgment Act and, as 
+     interpreted by the Supreme Court and the lower federal 
+     courts, within the Constitution's requirements for an actual 
+     case or controversy. As the Supreme Court explained in Aetna, 
+     ``[t]he controversy must be definite and concrete, touching 
+     the legal relations of parties having adverse legal 
+     interests. . . . It must be a real and substantial 
+     controversy admitting of specific relief through a decree of 
+     a conclusive character, as distinguished from an opinion 
+     advising what the law would be upon a hypothetical state of 
+     facts.'' 300 U.S. at 240-41. Here, there are clear adverse 
+     legal interests between the pioneer drug manufacturer and the 
+     generic drug manufacturer over the validity and application 
+     of a patent. The generic drug manufacturer has invested a 
+     substantial amount of resources to file an ANDA and to 
+     prepare and manufacture the generic drug; that investment 
+     could be lost through a patent infringement action brought by 
+     the pioneer drug company. It is difficult to conceive of a 
+     setting in which application of the Declaratory Judgment Act 
+     would not be more appropriate. Indeed, the proposal before 
+     you strikes me as simply a restatement of the proper 
+     interpretation of current law.
+        Some might argue, however, that the proposal could raise 
+     constitutional concerns under the case law of the U.S. Court 
+     of Appeals for the Federal Circuit. The Federal Circuit has 
+     developed a two-part test to determine whether a potential 
+     patent infringer's suit lies properly within the Declaratory 
+     Judgment Act: ``First, the plaintiff must actually produce or 
+     be prepared to produce an allegedly infringing product. 
+     Second, the patentee's conduct must have created an 
+     objectively reasonable apprehension on the part of the 
+     plaintiff that the patentee will initiate suit if the 
+     activity in question continues.'' EMC Corp. v. Norand Corp., 
+     89 F.3d 807, 811 (Fed. Cir. 1996), cert. denied, 117 S. Ct. 
+     789 (1997); see also Arrowhead Indus. Water, Inc. v. 
+     Ecolochem, Inc., 846 F.2d 731, 736, (Fed. Cir. 1988). The 
+     first prong is easily satisfied in ANDA declaratory judgment 
+     actions: by conducting the research and expending the 
+     resources necessary to complete an ANDA, the generic drug 
+     manufacturer has shown it is prepared to produce the 
+     allegedly infringing product. DuPont Merck Pharmaceutical Co. 
+     v. Bristol-Myers Squibb Co., 62 F.3d 1397, 1401 (Fed. Cir. 
+     1995).
+       Whether an action will meet the Federal Circuit's second 
+     prong will depend on the defendant's conduct. One might 
+     argue, I suppose, that a pioneer drug producer's refusal to 
+     initiate a lawsuit within the 45-day period could be taken as 
+     a sign that there is no ``objectively reasonable 
+     apprehension.'' This conclusion, however, seems doubtful to 
+     me. The Federal Circuit clearly employs a totality of the 
+     circumstances approach toward determining ``reasonable 
+     apprehension,'' one that looks at conduct that falls far 
+     short of simply filing a lawsuit. See Shell Oil Co. v. Amoco 
+     Corp., 970 F.2d 885, 889 (Fed. Cir. 1992). In some cases, the 
+     Federal Circuit has looked to the activity of the patent 
+     holder in regard to third parties, Arrowhead, 846 F.2d at 
+     736-39, express written or oral charges of infringement by 
+     the patent holder, id. at 736; Shell Oil Co., 970 F.2d at 
+     889, or a threat of a suit, BP Chems. Ltd. v. Union Carbide 
+     Corp., 4 F.3d 975, 978 (Fed. Cir. 1993). The proposed 
+     amendment would make clear that conduct that falls short of 
+     filing a lawsuit is still sufficient to support a declaratory 
+     judgment action by a generic drug manufacturer concerned 
+     about potential patent infringement.
+       In any event, even if one were to conclude that the 
+     amendment is inconsistent with the Federal Circuit's two-
+     prong test, this would not render the proposal 
+     unconstitutional. First, it does not appear to me that the 
+     Federal Circuit's approach is required by Article III of the 
+     Constitution, nor is it demanded by the Supreme Court's 
+     interpretation of the Declaratory Judgment Act. Indeed, the 
+     very point of the Declaratory Judgment Act was to allow 
+     parties concerned about the uncertainty in their business and 
+     legal activities created by the holder of a federal cause of 
+     action who refuses to sue. Nothing in the Supreme Court's 
+     case law, which has consistently upheld the constitutionality 
+     of the Declaratory Judgment Act, has suggested that a 
+     declaratory defendant's failure to bring a lawsuit itself 
+     within a certain time period eliminates the ``actual 
+     controversy'' required by both the statute and the 
+     Constitution. If anything, the case here is the reverse: it 
+     is because the declaratory defendant has not brought a 
+     lawsuit that a plaintiff must seek a federal declaratory 
+     action.
+       In this respect, it may be best to conceive of the Federal 
+     Circuit's two-prong test as an exercise of its discretionary 
+     powers under
+
+[[Page S15754]]
+
+     the Declaratory Judgment Act, rather than as a true test of 
+     Article III justiciability. The Act itself states that a 
+     court ``may declare the rights and other legal relations'' of 
+     a party. 28 U.S.C. Sec. 2201 (emphasis added). The Supreme 
+     Court has interpreted this language as allowing the federal 
+     courts to decline to adjudicate a federal declaratory action 
+     even if case or controversy jurisdiction exists. Public Serv. 
+     Comm'n v. Wycoff Co., 344 U.S. 237, 241 (1952); Wilton v. 
+     Seven Falls Co., 515 U.S. 277, 286-87 (1995). It seems to me 
+     that the Federal Circuit's two-prong approach, which does not 
+     derive directly from Article III or the Supreme Court's 
+     interpretation of the Declaratory Judgment Act, therefore 
+     should be seen as an exercise of the Federal Circuit's 
+     discretionary authority. As such, it is clearly subject to 
+     Congress's authority to set the rules of procedure that 
+     govern the federal courts. Indeed, it is that same power that 
+     the Supreme Court found to justify the constitionality of the 
+     Declaratory Judgment Act itself. If Congress wishes to direct 
+     the federal courts to adjudicate Declaratory Judgment Act 
+     cases in certain circumstances, instead of declining as a 
+     matter of prudence to exercise jurisdiction, that is its 
+     prerogative. The proposed amendment may be seen as nothing 
+     more than an effort to do just that.
+       Even if the Federal Circuit's two-prong approach were 
+     thought to be an interpretation of the Article III case or 
+     controversy requirement, that would still not compel a 
+     conclusion that the amendment is unconstitutional. The 
+     Supreme Court has never passed on the Federal Circuit's 
+     ``reasonable apprehension'' test, and in its earlier cases it 
+     has approved more expansive approaches to jurisdiction under 
+     the Declaratory Judgment Act. As an independent, coordinate 
+     branch of government, Congress has the authority to make its 
+     own judgments about the meaning of the Constitution. Congress 
+     has the authority to refuse to enact legislation its believes 
+     to be unconstitutional, even if the courts think otherwise, 
+     and, conversely, it may pass legislation at odds with 
+     previous Supreme Court decisions, as it did in the Religious 
+     Freedom Restoration Act at issue in City of Boerne v. Flores. 
+     To be sure, the Supreme Court has long made clear that 
+     Congress does not have the authority to alter the boundaries 
+     of the federal judicial power as established in Article III 
+     of the Constitution. See Lujan v. Defenders of Wildlife, 504 
+     U.S. 555 (1992). Nonetheless, Congress's authority to 
+     interpret the Constitution, which is fundamental to the 
+     separation of powers, certainly must include the ability to 
+     reject lower court decisions in order to spark Supreme Court 
+     review of whether these courts have properly interpreted 
+     Article III of the Constitution. Of course, this may be 
+     wholly unnecessary because the Federal Circuit has yet to 
+     hold that the absence of a suit during the 45-day period is 
+     sufficient per se to destroy an actual controversy in a 
+     declaratory judgment act by a generic drug manufacturer.
+       Please do not hesitate to contact me if I can provide 
+     further assistance. I may be reached at 202-862-5819, or at 
+     <span class="__cf_email__" data-cfemail="3d4452527d515c4a135f584f565851584413585948">[email protected]</span>.
+           Sincerely,
+                                                         John Yoo,
+     Professor of Law.
+                                  ____
+
+         Boalt Hall School of Law, University of California at 
+           Berkeley,
+                                     Berkeley, CA, August 1, 2003.
+     Hon. Orrin G. Hatch,
+     Chairman, Committee on the Judiciary,
+     U.S. Senate, Washington, DC.
+       Dear Senator Hatch: I have been asked by the Generic 
+     Pharmaceutical Association to review the testimony provided 
+     to your committee by the Department of Justice on August 1, 
+     2003, concerning the constitutionality of the declaratory 
+     judgment provisions of S. 1. The proposal would allow a 
+     generic drug manufacturer who has filed an abbreviated new 
+     drug application (ANDA) to seek relief under the federal 
+     Declaratory Judgment Act, 28 U.S.C. Sec. 2201, against 
+     potential patent infringement claims. This letter follows up 
+     on my June 16, 2003 and June 19, 2003 letters to the Senate 
+     Judiciary Committee and my congressional testimony of June 
+     17, 2003 that concluded that the amendment in question is 
+     constitutional.
+       The Senate amendments to Hatch-Waxman would recognize that 
+     ``an actual controversy'' between an ANDA filer and a patent 
+     holder would exist ``sufficient to confer subject matter 
+     jurisdiction in the courts of the United States'' if, after 
+     45 days have passed since the ANDA has been filed, the patent 
+     holder chooses not to bring a patent infringement action. 
+     DOJ's letter asserts that this amendment would 
+     unconstitutionally expand the jurisdiction of the federal 
+     courts beyond the limits set by Article III of the 
+     Constitution. I have reviewed DOJ's letter, and while I have 
+     the utmost respect for the attorneys who work in the Office 
+     of Legal Counsel (many of whom were my colleagues for the 
+     last two years during my service there as a deputy assistant 
+     attorney general), I disagree with their conclusion.
+       Both the Justice Department and I agree that Congress 
+     cannot expand the jurisdiction of the federal courts beyond 
+     Article III's case or controversy requirement. This is a 
+     principle of federal courts law that has existed ever since 
+     Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803). We also 
+     agree that the Declaratory Judgment Act is constitutional, 
+     and has been so upheld by the Supreme Court in Aetna Life 
+     Insurance Company v. Haworth, 300 U.S. 227 (1937). We also 
+     agree that many cases filed after the 45-day period would 
+     meet Article III's case or controversy requirement. In this 
+     class of cases, therefore, the application of the Senate's 
+     amendments to Hatch-Waxman would be clearly constitutional.
+       Where the Justice Department and I differ is whether 
+     Congress may extend federal subject matter jurisdiction to 
+     the remaining class of cases filed after the 45-day period. 
+     According to the Department, the Federal Circuit's 
+     ``reasonable apprehension'' test--so called because the 
+     plaintiff must have a reasonable apprehension that the 
+     patient holder will sue--will exclude a certain number of 
+     cases that are filed after the 45-day period. In fact, the 
+     Department seems to believe that plaintiffs who file after 
+     the 45 days will almost never satisfy this test, because 
+     ``in light of the statutory benefit conferred on the 
+     patent owner if it sues within the 45-day period, it is 
+     likely that a court would consider the applicant's 
+     reasonable apprehension to be diminished if the patent 
+     holder does not sue for infringement within that time.'' I 
+     believe that Congress may extend federal subject matter 
+     jurisdiction to this class of cases, and that since this 
+     category may not be large, the amendment to Hatch-Waxman 
+     could not be unconstitutional on its face but only as 
+     applied at best.
+       I believe that the Justice Department's opinion is in error 
+     because it does not properly understand why the Declaratory 
+     Judgment Act is constitutional, even though it permits suits 
+     to occur before the holder of the federal right has chosen to 
+     bring a lawsuit. The Act allows plaintiffs to bring suit 
+     against a defendant who would hold a federal right to seek a 
+     coercive remedy against the plaintiff, if the defendant had 
+     chosen to bring suit first. Declaratory judgments acts first 
+     arose in the states, but it was initially suggested that such 
+     cases could not be heard in federal courts due to the case or 
+     controversy requirements of Article III of the Constitution. 
+     Willing v. Chicago Auditorium Ass'n, 277 U.S. 274 (1928). In 
+     1927, however, the Court gave res judicata effect to a state 
+     declaratory judgment, Fidelity Nat'l Bank & Trust Co. v. 
+     Swope, 274 U.S. 123 (1927), and in 1933 it upheld a state 
+     court declaratory judgment, Nashville, C. & St. L. Ry. v. 
+     Wallace, 288 U.S. 249 (1933). Immediately after Wallace, 
+     Congress enacted the Declaratory Judgment Act: ``In a case of 
+     actual controversy within its jurisdiction, . . . any court 
+     of the United States, upon the filing of an appropriate 
+     pleading, may declare the rights and other legal relations of 
+     any interested party seeking such declaration, whether or not 
+     further relief is or could be sought. Any such declaration 
+     shall have the force and effect of a final judgment or decree 
+     and shall be reviewable as such.'' Act of June 14, 1934, ch. 
+     512, 48 Stat. 955, codified at 28 U.S.C. Sec. 2201(a).
+       The legislative history of the Act shows that Congress was 
+     concerned about the uncertainty in business and legal 
+     relations, including the case in which a patent holder chose 
+     to delay litigation for patent infringement. Professor Edson 
+     R. Sunderland, and advocate of the Act, testified before 
+     Congress that: ``I assert that I have a right to use a 
+     certain patent. You claim that you have a patent. What am I 
+     going to do about it? There is no way that I can litigate 
+     my right, which I claim, to use that device, except by 
+     going ahead and using it, and you [the patent holder] can 
+     sit back as long as you please and let me run up just as 
+     high a bill of damages as you wish to have me run up, and 
+     then you may sue me for the damages, and I am ruined, 
+     having acted all the time in good faith and on my best 
+     judgment, but having no way in the world to find out 
+     whether I had a right to use that device or not.''
+       The Supreme Court soon made clear that the Declaratory 
+     Judgment Act was constitutional, even though the statute 
+     extended federal jurisdiction to cases in which the holder of 
+     the federal right had not yet sought to enforce it. Finding 
+     the declaratory judgment suits met Article III's case or 
+     controversy requirement, the Court explained: ``The 
+     Declaratory Judgment Act of 1934, in its limitation to `cases 
+     of actual controversy' manifestly has regard to the 
+     constitutional provision and is operative only in respect to 
+     controversies which are such in the constitutional sense. The 
+     word `actual' is one of emphasis rather than of definition. 
+     Thus the operation of the Declaratory Judgment Act is 
+     procedural only. In providing remedies and defining procedure 
+     in relation to cases and controversies in the constitutional 
+     sense the Congress is acting within its delegated power over 
+     the jurisdiction of the federal courts which the Congress is 
+     authorized to established. . . . Exercising this control of 
+     practice and procedure the Congress is not confined to 
+     traditional forms or traditional remedies.'' Aetna Life 
+     Insurance Company v. Haworth, 300 U.S. 227, 240-41 (1937). In 
+     explaining why the Act did not include cases that were 
+     actually unripe or moot, Chief Justice Hughes wrote: ``A 
+     `controversy' in this sense must be one that is appropriate 
+     for judicial determination. . . . A justiciable controversy 
+     is thus distinguished from a difference or dispute of a 
+     hypothetical or abstract character; from one that is academic 
+     or moot. . . . The controversy must be definite and concrete, 
+     touching the legal relations of parties having adverse legal 
+     interests. . . . It must be a real and substantial 
+     controversy admitting of specific relief through a decree of 
+     a conclusive character, as distinguished from an opinion 
+     advising what the law would be upon a hypothetical
+
+[[Page S15755]]
+
+     state of facts. . . Where there is such a concrete case 
+     admitting of an immediate and definitive determination of the 
+     legal rights of the parties in an adversary proceeding upon 
+     the facts alleged, the judicial function may be appropriately 
+     exercised although the adjudication of the rights of the 
+     litigants may not require the award of process or the payment 
+     of damages. . . And as it is not essential to the exercise of 
+     the judicial power that an injunction be sought, allegations 
+     that irreparable injury is threatened are not required.'' Id. 
+     at 240-41
+       The Justice Department's letter shows no understanding that 
+     the very purpose of the Declaratory Judgment Act is to allow 
+     relief in cases in which a potential patent infringer needs 
+     legal certainty concerning the scope of a patent before it 
+     can proceed with its activities. Indeed, the Department's 
+     approach would suggest that the Act itself is 
+     unconstitutional.
+       There are, however, obvious adverse legal interests between 
+     the patent holder and the generic drug manufacturer over the 
+     validity and application of a patent. The generic drug 
+     manufacturer has invested a substantial amount of resources 
+     to file an ANDA and to prepare and manufacturer the generic 
+     drug. The enforcement of the patent could prevent the generic 
+     drug company from producing and selling its product, 
+     nullifying its investments in research and production, and 
+     potentially subjecting any profits to the uncertainty of a 
+     future lawsuit. In filing an ANDA, the generic drug company 
+     declares its intention and ability to produce the drug, which 
+     renders the dispute anything but hypothetical. Were the 
+     pioneer drug company to bring a patent infringement action, 
+     the case clearly would fall within Article III's arising 
+     under jurisdiction.
+       By failing to understand why generic drug manufacturers 
+     would suffer uncertainty from the possible enforcement of a 
+     patent, the Department errs in concluding that the amendment 
+     would be unconstitutional. The Department asserts that the 
+     amendment ``can have no effect.'' This is because, 
+     apparently, many lawsuits brought after the 45-day period 
+     would meet the Article III's case or controversy requirement 
+     anyway, and those that did not could not fall within Article 
+     III jurisdiction thanks to passage of the amendment. But then 
+     the Department observes that the lack of a lawsuit within the 
+     45-day period would suggest that there is no ``reasonable 
+     apprehension'' present. The Department's opinion assumes 
+     without question that the Federal Circuit's approach to the 
+     Declaratory Judgment Act in this context--the ``reasonable 
+     apprehension'' test--correctly includes all of the possible 
+     cases that would meet Article III's case or controversy 
+     requirement, and that application of this test to those who 
+     do no sue would likely find no reasonable apprehension. 
+     Therefore, according to the Department, cases in which no 
+     suit is filed within 45 days indicate that there is no 
+     reasonable apprehension of a lawsuit, and therefore that 
+     there is no Article III case or controversy requirement.
+       This view is erroneous, however, because it assumes that 
+     any patent holder who does not sue within 45 days will never 
+     sue. As Congress itself believed when it enacted the 
+     Declaratory Judgment Act, patent holders might choose not to 
+     sue in such circumstances for many reasons, such as allowing 
+     the generic drug manufacturer to run up potential damages 
+     while it risks little, creating uncertainty in the market and 
+     among distributors and buyers of the generic drug, and 
+     causing uncertainty about the value of investments and 
+     research by generic manufacturers. Indeed, testimony before 
+     Congress at the time of the passage of the Declaratory 
+     Judgment Act underscored that the more time that passed, the 
+     more damages that a patent holder could potentially 
+     accumulate. By passing the Act, Congress recognized that 
+     merely by refraining to exercise their Federal rights, 
+     regardless of the amount of time that passes, patent holders 
+     created sufficient legal and business uncertainty to harm 
+     manufacturers such as generic drug producers. It is this harm 
+     that brings such cases within the Article III case or 
+     controversy requirement. The Justice Department appears to 
+     have no theory as to why any Declaratory Judgment Act case 
+     satisfies the Article III requirement, and hence cannot 
+     judge whether any new application of the Act would be 
+     constitutional or not.
+       In enacting the Declaratory Judgment Act, Congress did not 
+     give any indication that it required plaintiffs to show they 
+     had a ``reasonable apprehension'' of a lawsuit, nor has the 
+     Supreme Court ever interpreted the Act to require such a 
+     result. Rather, Congress wanted to give those who could be 
+     subject to a lawsuit by the holder of a federal right the 
+     ability to seek legal certainty for all parties involved, so 
+     that business planning and activity could occur in an 
+     environment with clear legal rules.
+       As applied by the Federal Circuit, the ``reasonable 
+     apprehension'' test creates an effect opposite of that 
+     desired by Congress. The Federal Circuit appears to employ an 
+     inherently unpredictable totality of the circumstances 
+     approach to determining whether a potential patent infringer 
+     has a ``reasonable apprehension'' of lawsuit. Such approaches 
+     undermine the very purpose of having clear rules in the area 
+     of federal jurisdiction, and instead invite wasteful and 
+     excessive litigation merely to determine whether a case is 
+     appropriately brought in federal court. It is certainly 
+     within Congress's authority to seek to correct 
+     misinterpretations of its enactments where, as here, the 
+     courts have acted in a way that undermines the very purposes 
+     of the statute it has passed. By adopting the amendment, 
+     Congress would simply be making clear the original purposes 
+     of the Declaratory Judgment Act, which the Supreme Court, 
+     almost immediately after the Act's passage, had upheld as 
+     constitutional. By enacting the amendments to Hatch-Waxman, 
+     Congress is appropriately acting to correct a 
+     misinterpretation of the Declaratory Judgment Act that goes 
+     too far in narrowing its scope. By employing the reasonable 
+     apprehension test, the Federal Circuit may be allowing 
+     declaratory judgment actions in only a subset of the possible 
+     range of cases that could be permitted by Article III's case 
+     or controversy requirement. By enacting this amendment, 
+     Congress would be instructing the courts that it wishes to 
+     expand the exercise of federal subject matter jurisdiction 
+     under the Declaratory Judgment Act to the full extent 
+     permitted by the Constitution.
+       This brings me to another reason why the amendment is 
+     constitutional. As an independent and coordinate branch of 
+     government, Congress certainly has the authority to interpret 
+     the Constitution for itself and to base its enactments on 
+     that interpretation. This is exactly what happened with the 
+     original Declaratory Judgment Act: some doubted whether the 
+     potential defendants of enforcement actions could bring a 
+     suit seeking a declaration that their actions were legal. 
+     Yet, in order to create an environment in which all parties 
+     could conduct their activities with legal certainty, Congress 
+     enacted the Declaratory Judgment Act. In doing so, Congress 
+     acted on its own interpretation of the Article III case or 
+     controversy requirement that such suits were constitutional. 
+     The Supreme Court subsequently agreed. Congress has even 
+     fuller authority where, as here, the Supreme Court as the 
+     final arbiter within the federal judiciary has never examined 
+     whether Article III or the Declaratory Judgment Act impose 
+     any special requirements in patent infringement cases.
+       Please do not hesitate to contact me if I can provide 
+     further assistance. Also, please realize that the views I 
+     express in this letter are mine alone, and do not represent 
+     those of the American Enterprise Institute, where I am 
+     currently a visiting fellow, or of the University of 
+     California at Berkeley, where I have been a law professor 
+     since 1993. I may be reached at 202-862-5819, or at 
+     <span class="__cf_email__" data-cfemail="ceb7a1a18ea2afb9e0acabbca5aba2abb7e0abaabb">[email protected]</span>.
+           Sincerely,
+                                                         John Yoo,
+                                                 Professor of Law.
+
+  Mr. NELSON of Nebraska. Mr. President, I rise today in support of the 
+Medicare bill before the Senate. This is not a perfect bill, far from 
+it. It is not the bill I would write. But it is a bill that will do 
+more for our seniors and one we can build on in the future.
+  For the past decade this body has worked on adding a prescription 
+drug benefit to Medicare. We all know it is desperately needed. The 
+skyrocketing cost of drugs has put meaningful health care treatment out 
+of the reach of many seniors. Medicare simply was not crafted with a 
+prescription drug component. That is not to blame any of the creators 
+of the landmark legislation that created Medicare. They could not have 
+known that science would eventually put the treatments and cures for 
+many diseases in pill form. They did the best they could with the 
+knowledge they had at the time. And that system served seniors well for 
+a very long time.
+  But it does not serve them well today. The lack of prescription drug 
+coverage is a glaring omission in the current Medicare Program. It 
+prevents many seniors from getting the treatments they need and 
+undermines the promise of the Medicare Program--to provide health care 
+benefits to our seniors.
+  And we do not have the excuse that we are unaware of the importance 
+of drug treatments. We know how these medications can improve and 
+prolong the lives of countless seniors. We know that seniors urgently 
+need this benefit and the medicine it will provide.
+  As I said, the bill before us is not perfect, and many people have 
+raised legitimate concerns about its shortcomings. Some have said it is 
+too expensive; some have said it does not cover enough of the drug 
+costs for seniors. There is truth to both statements. And both sides 
+have worked to confuse our seniors. A lot of money has been spent by 
+special interest groups to advance their opinions rather than 
+accurately assess the impact of this bill.
+  Putting all the clutter and spin aside, in a time of rising Federal 
+deficits, this bill does move the ball forward. It takes a concrete 
+step toward providing meaningful coverage. And it does make some 
+efforts to contain long-term costs.
+  This legislation is the first step in covering drug treatments and 
+this is a
+
+[[Page S15756]]
+
+major step for seniors across the country. For example, in my home 
+State of Nebraska, today there are 259,000 Medicare beneficiaries. Of 
+these, about 90,000 do not currently have prescription drug coverage. 
+Through this bill, beginning in 2006, they will all have coverage.
+  The average out-of-pocket cost for drugs for a typical Nebraskan, 
+including premiums, will decrease 35 percent from $760 to $500 per 
+year. Low-income Nebraskans receive a large benefit in this bill. 
+Before the drug benefit is implemented in 2006, low-income Nebraskans 
+will receive $600 a year for their drugs, resulting in Nebraskans 
+receiving $83 million in prescription assistance. After the drug plan 
+is implemented, 108,000 low-income Nebraskans will pay little to 
+nothing in premiums, deductibles and coinsurance. Because Medicare is 
+taking responsibility for dual eligibles, Nebraska will save $167 
+million over 8 years. And the benefits for Nebraska extend beyond the 
+drug benefit.
+  This bill will provide additional reimbursements for rural hospitals 
+and health care providers. Nebraska doctors will receive $57 million 
+over 2 years. Critical access hospitals will receive $11.3 million, and 
+the rest of Nebraska's hospitals will share an additional $108 million 
+over 10 years. This funding will help keep rural health care vital and 
+available to rural seniors.
+  Furthermore, this bill contains a pilot program I pushed to include 
+that will create a new Medicare designation of ``rural community 
+hospitals''. These hospitals will receive cost-based reimbursements for 
+Medicare services. Seven Nebraska hospitals will take part in the 5-
+year program resulting in an additional $22.5 million for these 
+hospitals to help them continue to provide high quality health care in 
+their communities.
+  Rural community hospitals are currently unable to keep pace with 
+their costs. They are too big to qualify for additional Critical Access 
+Hospitals funds, yet too small to take advantage of the volume benefits 
+of larger hospitals. This new pilot program will allow Nebraska's rural 
+community hospitals to immediately benefit from cost-based 
+reimbursements for inpatient services while testing the feasibility of 
+extending the program to similar hospitals across the Nation.
+  The seven hospitals are Beatrice Community Hospital, Box Butte 
+General Hospital in Alliance, Columbus Community Hospital, Community 
+Hospital of McCook, Jennie Melham Memorial Medical Center in Broken 
+Bow, Phelps Memorial Health Center in Holdrege and Tri County Hospital 
+in Lexington.
+  Nationwide, this bill also takes steps to ensure that seniors do not 
+lose their employer-sponsored health coverage. Originally, the 
+conferees only handled this issue halfway through a subsidy covering 28 
+percent of costs to employers $250 and $1000. I, and others, did not 
+believe this would do enough to protect these benefits. So we have made 
+that subsidy non-taxable; increasing the value of the subsidy by a 
+third. Because of this increase, the Congressional Budget Office has 
+stated that the drop rate for seniors could decrease by half; saving 
+these benefits for millions of seniors.
+  The bill before us is not perfect, but it is a start. I do not 
+believe this bill is the beginning of the end of Medicare, nor do I 
+believe that it is the final solution to the skyrocketing costs of 
+health care.
+  With passage of this legislation, for the first time, seniors will 
+have access to prescription drugs through Medicare. And we will be able 
+to use this bill to build better coverage in the future. This bill goes 
+fully into effect in 2 years; time that can be spent studying this 
+coverage, adapting it and making sure it works for our seniors.
+  For too long, seniors have waited for this coverage. Many of those 
+seniors are not here to see it happen today. They are no longer with 
+us; they never got the drug coverage they needed. It is too late for 
+them.
+  But it is not too late for millions of seniors across the country to 
+benefit from this bill. We owe it to them to pass this and get a 
+concrete start on this issue. We can make changes if we need to; but we 
+can't get back the time we will have lost if we do not move forward 
+now.
+  A vote against this bill will leave tens of thousands of seniors in 
+Nebraska without a prescription drug benefit of any kind. Let's pass 
+this bill before it is too late for today's seniors. We may not get an 
+opportunity like this again.
+  Mr. BAUCUS. Mr. President, I want to speak for a moment today about 
+the impact on States from this Medicare prescription drug bill. I have 
+long been concerned about our States' fiscal crisis, and I have 
+supported fiscal relief through the so-called ``FMAP'' increase, 
+through increases in SSBG, and through general revenue sharing. And I 
+am pleased that, in the long term, this bill is expected to result in 
+substantial savings to States more than $17 billion by 2013.
+  But I remain concerned about the impact that this bill will have on 
+States in the short term. Before this bill had been finalized, when 
+there were early indications that States could be harmed by the so-
+called ``holdback'' formula in the first years of the drug benefit, I 
+insisted that the formula be revised. We added $4.5 billion so that the 
+impact on states of the ``woodwork effect,'' new administrative costs, 
+and the ``holdback'' provisions would not ultimately put the States in 
+the red in any year of the drug benefit.
+  As sometimes happens, preliminary budget estimates did not turn out 
+exactly as expected. The overall impact on State Medicaid budgets in 
+the first year of the drug benefit will still result in States spending 
+more than they will save. While I regret that, I firmly believe that, 
+in the long run, this bill will strengthen State budgets and take some 
+pressure off of strained Medicaid programs.
+  If a longer term analysis shows that there are unexpected costs to 
+States in the early years, or the expected costs are higher than we can 
+know today, I pledge to work over the next 2 years to ensure that the 
+States are not harmed when the Medicare drug benefit goes into effect.
+  Mr. President, one of the most important provisions in the rural 
+package in this bill would reauthorize the Rural Hospital Flexibility 
+Grant program for another 5 years. This grant program was created along 
+with the Rural Hospital Flexibility Program, RHFP, in the Balanced 
+Budget Act of 1997.
+  The RHFP is designed to help ensure continued access to medical 
+services in rural and frontier areas of our Nation that otherwise could 
+not sustain hospital services. The BBA created a new category of 
+hospital called a Critical Access Hospital, CAH. In my State of 
+Montana, 36 acute care hospitals have converted to CAH status.
+  The Rural Hospital Flexibility Grant program provides the tools 
+States need to implement the RHFP. The purposes of this grant program 
+are many.
+  First, it provides resources to cash-strapped rural hospitals to help 
+them make the conversion to CAH status.
+  Second, it enables States to provide technical assistance to these 
+facilities as they move through the conversion process.
+  Third, this grant program provides resources to help States further 
+stabilize rural health care by fostering and developing networks of 
+providers in rural areas.
+  Fourth, the program enables States to initiate a variety of other 
+innovative approaches to stabilize and improve health care in rural 
+areas. For example, in my State of Montana, Flex grant funds have 
+enabled the State's CAHs to develop a pioneering quality improvement 
+program.
+  There was strong support for reauthorization of this grant program 
+among the conferees. There was also strong support for clarifying how 
+these funds could be used to ensure that as much of this money as 
+possible was used for the direct benefit of CAHs and other rural 
+providers in the States.
+  In that regard, the bill was intended to specify that no more than 15 
+percent of a State's grant allocation be used for ``indirect'' 
+administrative costs. However, in drafting the bill, the word 
+``indirect'' was inadvertently dropped from the language.
+  I would like to clarify the intention of the conference committee 
+that this 15-percent restriction be applied only to the amount of funds 
+that can be used for ``indirect'' administrative expenses.
+  Mr. KYL. Mr. President, the majority leader, Senator Frist, joins me 
+in this
+
+[[Page S15757]]
+
+explanation of why the conference agreement on the Medicare 
+Prescription Drug and Modernization Act of 2003 does not allow 
+increased importation of drugs from outside the United States. Our 
+explanation provides important background information on this largely 
+misunderstood issue that is vital to the health and safety of 
+Americans.
+  Under current law, the Federal Food, Drug, and Cosmetic Act 
+establishes a system under which prescription drugs must be approved by 
+the FDA and properly labeled, packaged, tested, stored, and distributed 
+pursuant to FDA regulatory requirements. This is the finest and most 
+effective system in the world for ensuring drug safety, effectiveness, 
+and quality.
+  To protect American consumers by ensuring the integrity of this 
+system, the law generally prohibits the importation of prescription 
+drugs. Section 801(a) of the Act prohibits importation of drugs that 
+are unapproved, adulterated, or misbranded. Virtually all prescription 
+drugs manufactured overseas for distribution in foreign countries fail 
+one or more of these standards and, therefore, cannot legally be 
+imported into the United States. It is important to note in this regard 
+that just because a drug is manufactured in a facility that is subject 
+to FDA inspection does not mean that the drug meets FDA approval or 
+other requirements. Different countries have different manufacturing, 
+testing, labeling, packaging, and other requirements from those imposed 
+by the FDA, and in fact the composition of the drug product itself may 
+vary from country to country. Manufacturers may use a single facility 
+to manufacture a drug for several different countries, but they must 
+vary their processes to ensure that each drug lot will satisfy the 
+requirements of the intended destination country.
+  Some drugs available overseas are manufactured in the United States 
+and then exported. Section 801(d) of the Act prohibits the 
+importation--sometimes called reimportation--of these drugs. Congress 
+added section 801(d) through the Prescription Drug Marketing Act in 
+1988 to close a loophole under which counterfeit and substandard drugs 
+were being brought into this country. There is an exception to this 
+prohibition for the original manufacturer, who is part of the U.S. 
+system and subject at all times to FDA authority and oversight. The 
+manufacturer's own importation of drugs that have never been outside 
+its control is comparable to shipments between its manufacturing plants 
+and warehouses within the United States, and is completely different 
+from the importation of drugs that have been placed into the wholesale 
+and retail distribution systems of foreign countries, where they are no 
+longer subject to FDA jurisdiction.
+  In 2000, Congress authorized an additional exception to section 
+801(d) in the Medicine Equity and Drug Safety Act. This law added a new 
+section 804 under which pharmacists and wholesalers would be permitted 
+to import drugs from a list of designated countries, including Canada 
+and the countries of the European Union. In order to protect American 
+consumers, Congress provided that section 804 would not become 
+effective until the Secretary of Health and Human Services demonstrates 
+to Congress that its implementation will ``pose no additional risk to 
+the public's health and safety'' and will ``result in a significant 
+reduction in the cost of covered products to the American consumer.'' 
+Secretary Shalala and Secretary Thompson both concluded that they could 
+not make this demonstration.
+  FDA has a written policy under which it permits an individual to 
+import a small quantity of a prescription drug for personal use, but 
+only if the drug is not available in the United States. This policy is 
+intended to allow seriously ill patients to obtain unapproved drugs to 
+treat potentially life-threatening and similar conditions for which 
+adequate treatment is unavailable in the United States. It does not 
+apply to importation of drugs that are approved in the United States or 
+to any commercial activities, such as Internet or print advertising or 
+importation by persons other than individual patients. Moreover, even 
+importation within the four corners of this policy remains technically 
+illegal; the policy represents only a reasonable and limited exercise 
+of FDA's enforcement discretion in the interest of individual patient 
+treatment.
+  A final, and important, legal requirement is that a prescription drug 
+can only be dispensed to the patient based on a valid prescription. 
+Otherwise, the drug is misbranded and cannot be imported, or shipped 
+domestically. There is extensive evidence documenting the fact that 
+many foreign interest sites ship drugs without requiring any 
+prescription at all, or with an invalid prescription based on a 
+perfunctory questionnaire and without any genuine medical examination--
+co-signing of prescriptions by foreign physicians who have no 
+relationship with the patient does not meet the legal requirements and 
+presents serious risks, as both U.S. and foreign authorities have made 
+clear. These activities put patients at risk by taking the licensed 
+healthcare professional out of the process for deciding whether to 
+initiate or continue treatment. Prescription drugs are classified as 
+such because they cannot safely be used by laypersons without proper 
+professional oversight. Drug importation commonly violates this basic 
+safeguard.
+  Despite the existing prohibitions on drug importation, the volume of 
+importation activity is growing as foreign pharmacies and domestic 
+storefront facilitators advertise for business, and state and local 
+governments and others explore ways to direct American consumers to 
+foreign sources for their needed medicines. All of these activities are 
+illegal, and they pose threats to our health and safety.
+  According to the FDA, imported drugs are too often unapproved, 
+contaminated, counterfeit, and contain different ingredients from those 
+required under agency regulations. These are not mere theoretical 
+concerns. A recent series of spot inspections conducted jointly by the 
+FDA and the U.S. Bureau of Customs and Border Protection found that 88 
+percent of more than 1,000 examined drug packages contained unapproved 
+drugs and that they could pose ``clear safety problems.'' These 
+included an unapproved blood thinner that could cause life-threatening 
+bleeding; unapproved epilepsy, thyroid, and diabetes drugs that could 
+cause life-threatening side effects; drugs that have been withdrawn 
+from the U.S. market because of safety concerns; animal drugs not 
+approved for human use; drugs with dangerous interactions; drugs 
+improperly packaged in sandwich bags and tissue paper; and controlled 
+substances. In another case involving a Web site purporting to ship 
+FDA-approved drugs from Canada, a patient received an unapproved 
+seizure medicine manufactured in India. In another case involving a 
+U.S. storefront operation, the Web site shipped unrefrigerated insulin, 
+which can degrade without changing its appearance and thereby put 
+insulin-dependent diabetic patients at risk. Other examples abound, 
+including deaths from overdoses of drugs obtained from foreign Internet 
+sites, as documented in a recent press report of a year-long 
+investigation into illegal drug importation, counterfeiting, and 
+distribution.
+
+  Another recent study also concludes that drug importation increases 
+the risk of terrorism against the United States. Huge volumes of 
+packages, only a miniscule fraction of which can be inspected, present 
+an inviting target for the deliberate introduction of contaminants and 
+poisons. Last year, in the Public Health Security and Bioterrorism 
+Preparedness and Response Act, Congress gave the FDA substantial new 
+powers to protect the safety of the food supply against terrorist 
+threats. FDA has been implementing this law through new rules requiring 
+advance notice of food importations and similar measures. Imported 
+drugs present comparable threats, yet there is neither an analogous set 
+of prior-notice requirements nor adequate inspection resources to 
+enforce existing legal standards.
+  Proponents of loosening the existing standards for drug importation 
+have argued that we can rely on the Canadian drug regulatory system to 
+ensure the safety of drugs exported from that country to the United 
+States. This is simply wrong. Section 37 of the Canadian Food and Drug 
+Act provides that it does not apply to exports. In a recent letter, the 
+Canadian government made clear that it ``has never stated that it would 
+be responsible for the safety and quality of prescription drugs 
+exported
+
+[[Page S15758]]
+
+from Canada into the United States.'' Health Canada also has described 
+its concerns with cross-border Internet pharmacy sales as relating to 
+the health of Canadians themselves as it should be.
+  While we have no doubt that the Canadian system works for Canadians, 
+FDA Commissioner McClellan has made clear that purchases of drugs by 
+Americans from Canada present entirely different concerns:
+
+       Buying between the U.S. and Canadian systems is not the 
+     same thing as buying within each system. The U.S. and Canada 
+     do not have integrated systems for taking timely action to 
+     protect consumers in the event of a safety problem involving 
+     an illegally imported drug in the U.S. Protections to assure 
+     the appropriateness of a prescription, such as requirements 
+     for physician contact and monitoring, may differ. And each 
+     country has only limited resources to devote to their 
+     existing systems for assuring drug safety for their own 
+     populations, let alone to assuring the safety of an expanded 
+     scope and volume of drug imports. For example, Ontario, 
+     Canada's largest province . . . , has exactly one 
+     investigator tasked with policing all pharmacy operations 
+     there. . .
+
+  In addition, as also documented by the FDA many drugs purporting to 
+come from Canada actually were manufactured in Third World countries 
+and either transshipped through Canada or shipped directly from those 
+countries to the United States, in either case without any oversight 
+from Canadian health officials. Such transshipment is becoming 
+increasingly common, with Canadian sites now obtaining their products 
+from countries such as Bulgaria, Argentina, and Pakistan for sale into 
+the United States.
+  Importation supporters also have suggested that anticounterfeiting 
+technologies can be used to assure the safety of imported drugs. This, 
+too, is a false promise. Optical anticounterfeiting measures are used 
+in our paper currency, yet they have proven inadequate. Even the new 
+$20 bill, which incorporates multiple anticounterfeiting measures, is 
+being counterfeited less than a month after its introduction. 
+Counterfeit drugs, of course, present far greater concerns. The FDA is 
+exploring anticounterfeiting technologies for drugs but, as 
+Commissioner McClellan has made clear, ``there isn't any magic bullet 
+available today,'' and these technologies are ``no substitute for a 
+comprehensive, multi-part system for assuring the safety of the actual 
+drug product.'' Moreover, even the ineffective anticounterfeiting 
+technologies that are available would be very expensive, raising drug 
+costs by an estimated $2 billion in the first year alone.
+  Finally, the question of legal liability for adulterated or 
+counterfeit drugs remains unresolved. American companies should not be 
+held legally responsible for drugs they did not manufacture, or that 
+were adulterated after leaving their control or that they manufactured 
+to comply with foreign country requirements rather than for sale in the 
+United States. The U.S. Government should not be held legally 
+responsible for drugs that it did not actually test and approve, or 
+that were adulterated after the approval process was complete and the 
+drugs were no longer subject to FDA oversight.
+  In short, drug importation presents a wide range of serious safety 
+concerns. We cannot meet these challenges merely by writing 
+prohibitions into the law. The law already requires that drugs be FDA-
+approved, yet it is abundantly clear that unapproved and other 
+violative products are streaming across our borders every day. Changes 
+in the law to relax the current prohibitions on importation will only 
+increase this cross-border traffic and, in the absence of new legal 
+protections and new resources to effectively to enforce them, increase 
+the threat to the American public.
+  The United States has every right under our international agreements 
+to enforce legitimate regulatory requirements relating to the health 
+and safety of our citizens. There is no question that the drug 
+importation provisions of the Federal Food, Drug, and Cosmetic Act meet 
+this standard.
+  Canada and other foreign countries impose price controls on 
+pharmaceuticals as part of their high-tax social welfare systems. No 
+reasonable concept of free trade requires that our country open its 
+borders to drugs whose prices are kept artificially low under these 
+systems. In fact, a leading scholar and supporter of free trade rights, 
+Professor Richard Epstein of the University of Chicago Law School, has 
+described drug importation as ``a perversion of the basic principle of 
+free trade.''
+  Pharmaceutical price controls are a trade issue that must be urgently 
+addressed by our government so that foreign countries and their 
+citizens bear a fair share of research and development costs for new 
+medicines. Price and access controls imposed by foreign countries 
+constitute trade barriers within the meaning of our existing trade 
+laws, and we urge the administration to use the full extent of its 
+authority in bilateral and multilateral negotiations to remove these 
+barriers for the benefit of all Americans. In fact, the legislation we 
+consider today requires the U.S. Trade Representative to develop a 
+strategy for negotiating the elimination of price controls and requires 
+timely Congressional briefings on the subject.
+  Drug coverage, particularly for Medicare beneficiaries as established 
+by this bill, is the most important step we can take to ensure access. 
+For those without coverage, drug importation imposes only great risks 
+and offers little or nothing in the way of savings.
+  There is no evidence to suggest that drug importation actually will 
+save money for American consumers. As the FDA has stated, ``it is 
+likely that the intended cost-savings for consumers would be absorbed 
+by fees charged by exporters, pharmacists, wholesalers, and testing 
+labs.'' This is confirmed by the European experience with parallel 
+importation, which demonstrates that the only real beneficiaries are 
+middlemen in the distribution chain, not the ultimate consumers. Recent 
+experience in Canada also makes clear that Canadians will act to 
+protect the integrity and availability of drug supplies for their own 
+citizens if these are threatened by importation, which will lead to 
+higher prices for imported drugs--as well as increased transshipment 
+from third-world drug supply sources, as discussed above.
+  In any event, claims of enormous cross-border price differentials are 
+widely exaggerated because they do not reflect intelligent comparative 
+shopping or appropriate adjustments for currency and standard-of-living 
+differences. Surveys of legitimate American pharmacy Internet sites and 
+retailers show that substantial discounts can be obtained right here in 
+the United States, with full confidence in product safety, quality, and 
+integrity.
+  The myriad of questions and concerns we have raised here explain why, 
+rather than allow importation of drugs, this legislation calls for a 
+comprehensive study of the risks and benefits of importing drugs and of 
+how trade negotiations can be used to begin bringing down price 
+controls, so that Americans and everyone else in the developed world 
+share fairly in the costs of drug research and development.
+  Mr. VOINOVICH. Mr. President, I rise before the Senate in support of 
+the conference report accompanying the Medicare Prescription Drug and 
+Modernization Act. While the conference report before the Senate is not 
+a perfect bill, it is a good bill that will finally provide seniors a 
+voluntary prescription drug benefit through Medicare.
+  After years of having to carry the burden of high prescription drug 
+costs without any assistance from Medicare, the bill that is before the 
+Senate now, which has the full support of the AARP, will finally 
+provide 40 million Medicare beneficiaries nationwide, 1.6 million in 
+Ohio, access to affordable prescription drugs.
+  I would like to applaud the work of our Leader, Senator Frist; our 
+Finance Committee Chairman, Senator Grassley; and the Finance Committee 
+Ranking Member, Senator Baucus. Through their leadership, the Senate is 
+poised to finally move past politics and provide seniors with a real 
+prescription drug benefit.
+  Unfortunately, we have fiddled around with the issue of Medicare 
+reform for far too long in Washington. The truth is, even if the Senate 
+passes the bill before us today, its full implementation will not occur 
+until 2006. For those of my colleagues who have said that we are moving 
+too quickly in adding a prescription drug benefit, the fact of the 
+matter is that the Senate has not moved quickly enough.
+  As with the rest of the Nation, currently, Ohio's seniors are paying 
+too
+
+[[Page S15759]]
+
+much out-of-pocket for their prescription drugs. The cost of these 
+life-saving drugs is increasingly becoming a large burden for seniors, 
+with some even traveling to Canada to find cheaper drugs. Seniors 
+should not have to go to a foreign country to receive the drugs that 
+their doctors prescribe. It is time seniors receive access to 
+affordable prescription drugs in the United States.
+  This legislation will finally provide Medicare beneficiaries with a 
+voluntary prescription drug benefit. This is especially important to 
+the 400,232 Medicare beneficiaries in Ohio that currently have no 
+public or private prescription drug coverage.
+  For those beneficiaries that already have coverage through another 
+source, such as through a former employer, and would like to keep that 
+coverage, this legislation supports that choice as well.
+  As my colleagues know, approximately 12 million of the 40 million 
+Medicare beneficiaries currently have prescription drug coverage 
+through former employer-based retiree health plans.
+  Many Ohioans that I have spoke to have concerns that the creation of 
+a new Medicare drug benefit may cause many of them to lose their 
+retiree coverage. However, the bipartisan conference report encourages 
+employers to continue to provide coverage to their retirees by 
+providing assistance for retirees' health care costs, including their 
+prescription drugs costs.
+  In fact, the conference report provides $86 billion in subsidies to 
+assist employers who continue to provide their retirees with health 
+care coverage. This is critical because scores of retirees have lost 
+their health care benefits over the past several years. The bottom line 
+is that this bill will help employers to continue to provide their 
+retirees with health care security.
+  Not only will seniors have access to affordable prescription drugs 
+with this bill, they will have access to benefits that a modern health 
+plan should have, such as preventive care and disease management--
+options that Medicare currently does not provide.
+  Moreover, these additional benefits are provided by giving seniors a 
+choice and control over their prescription drug plans and health care 
+providers.
+  While the Senate is on the brink of finally strengthening and 
+modernizing Medicare, I would be remiss if I did not take a step back 
+and point out the roadmap that has lead us to this point.
+  The President has led the way to providing seniors with access to 
+affordable prescription drugs. If my colleagues recall, at the 
+beginning of the year, the President provided in his budget $400 
+billion for Medicare reform, which included adding a prescription drug 
+benefit. This substantial amount illustrated his commitment to our 
+nation's seniors. That was the first step.
+  Following the President was the action taken by Congress to lay out a 
+blueprint for Medicare. During the prescription drug debate in 2002, 
+the Senate operated without a budget resolution--the first time the 
+Senate has not done so since 1974. However, this year Congress operated 
+under a budget resolution.
+  Through these efforts, and those of the Finance Committee, a bill 
+stands before the Senate that strikes a balance between providing 
+seniors and the disabled access to needed prescription drugs today and 
+doing so in a fiscally sensible way that will allow benefits to extend 
+to future generations.
+  And while opponents of the bill claim that the benefits provided are 
+not large enough, $400 billion does buy an awful lot.
+  Beginning in 2004, seniors will receive a prescription drug discount 
+card that will provide immediate savings of 10 to 25 percent on most 
+prescription drug purchases. On top of these discounts, the Federal 
+Government would annually purchase the first $600 in prescription drug 
+costs for those seniors below 135 percent of poverty.
+  The implementation of the full program, which will include a new 
+Medicare Part D and a Medicare Advantage program, will begin in January 
+2006. All Medicare beneficiaries will receive substantial subsidies 
+through these new benefits. However, low-income seniors will receive 
+additional assistance on top of these subsidies. In Ohio, this means 
+624,416 seniors will receive additional assistance.
+  For the 152,470 neediest seniors in my State of Ohio, those who 
+qualify for both Medicare and Medicaid, under this bill they would pay: 
+nothing in premiums; nothing in deductibles; and a nominal cost-share 
+of no more than $1 for a generic drug and no more than $3 for a name-
+brand drug.
+  For the 492,872 seniors in my State of Ohio with incomes below 135 
+percent of poverty, and assets of no more than $6,000 per individual 
+and $9,000 per couple, under this bill they would pay: nothing in 
+premiums; nothing in deductibles; and A nominal cost-share of $2 for a 
+generic drug and $5 for a name-brand drug.
+  For those 131,544 seniors in my State of Ohio with incomes between 
+135 and 150 percent of poverty, and assets of no more than $10,000 per 
+individual and $20,000 per couple, under this bill they would pay: 
+premiums based on a sliding scale but NO MORE than $35 per month; $50 
+annual deductible; and 15 percent co-payments up to $3,600 after 
+$3,600, seniors would pay a nominal cost-share of $2 for a generic drug 
+and $5 for a name-brand drug.
+  For seniors over 150 percent of poverty, the standard subsidized 
+benefit would include: $250 annual deductible; $35 average monthly 
+premium; the government would pick up 75 percent of beneficiary out-of-
+pocket costs for drug expenses up to $2,250; between $2,251 and $3,600, 
+beneficiaries cover all drug expenses out-of-pocket; and the government 
+would pick up 95 percent of beneficiary out-of-pocket costs for drug 
+expenses above $3,600.
+  In addition to the stand-alone benefit under traditional Medicare, 
+the conference report would establish the Medicare Advantage program. 
+All Medicare Advantage plans will be required to offer at least the 
+standard drug benefit established in H.R. 1 and would be encouraged to 
+offer beneficiaries enhanced access to the latest in health care 
+technology through disease management, chronic care, and quality 
+improvement programs.
+  These plans have the opportunity to provide seniors with better 
+coverage at affordable prices. To help ensure participation in rural 
+and urban areas equally, Medicare Advantage plans would submit bids to 
+the Centers on Medicare and Medicaid Services on a regional basis. The 
+Federal Government will share the risk with insurance companies and 
+these plans.
+  It should also be noted that while the thrust of this bill is to 
+provide seniors with access to affordable prescription drugs, the bill 
+also ensures that seniors will continue to have access to current 
+Medicare benefits as well.
+  For instance, while the relationship between a senior and their 
+physician is paramount, last year, Medicare was scheduled to cut 
+physician payments by 4.4 percent, which threatening seniors' access to 
+their doctors. Physicians had already received a 5.4 percent cut in 
+2002.
+  Congress temporarily fixed the formula in 2003 and doctors received a 
+modest increase of 1.6 percent instead of a cut. For 2004, physicians 
+were again scheduled to take a 4.5 percent cut. However, to ensure that 
+seniors have access to their physician of choice, this bill includes 
+modest increase in payments of 1.5 percent for both 2004 and 2005.
+  Additionally, physicians and their staffs have become increasingly 
+inundated with regulations and paperwork from Medicare. Provisions are 
+included in the bill to streamline some of this paperwork so that 
+doctors can spend more time with their patients rather than filling out 
+reams and reams of Government forms.
+  Seniors in rural areas will also be assured of continual access to 
+Medicare benefits. One of the most important aspects of the bill is the 
+rural provider provisions. Through the bill, providers in rural areas 
+will be placed on an equal footing to that of their urban counterparts. 
+Some of the specific rural provisions include: equalization of the 
+urban and rural payments for inpatient hospital services under 
+Medicare; revision of the labor-related share of the wage index used in 
+Medicare's payment system. Rural hospitals, because their local wage 
+levels are lower than urban areas, are adversely affected by a high 
+labor-related share; increase in payments to home health agencies by 
+five percent for services furnished in rural areas; and increase in 
+payment for physicians that serve
+
+[[Page S15760]]
+
+beneficiaries in counties where there are a scarcity of physicians.
+  The House of Representatives has already acted and the President is 
+waiting to sign the bill into law. It is time that the Senate act and 
+pass the Medicare Prescription Drug and Modernization Act.
+  Mr. SPECTER. Mr. President, since Medicare was established in 1965, 
+people are living longer and living better. Today Medicare covers more 
+than 40 million Americans, including 35 million over the age of 65 and 
+nearly 6 million younger adults with permanent disabilities.
+  Congress now has the opportunity to modernize this important Federal 
+entity to create a 21st century Medicare Program that offers 
+comprehensive coverage for pharmaceutical drugs and improves the 
+Medicare delivery system.
+  The Medicare Prescription Drug and Modernization Act would make 
+available a voluntary Medicare prescription drug plan for all seniors. 
+If enacted, Medicare beneficiaries would have access to a discount card 
+for prescription drug purchases starting in 2004. Projected savings 
+from cards for consumers would range between 10 to 25 percent. A $600 
+subsidy would be applied to the card, offering additional assistance 
+for low-income beneficiaries defined as 160 percent or below the 
+Federal poverty level. Effective January 1, 2006, a new optional 
+Medicare prescription drug benefit would be established under Medicare 
+Part D.
+  This bill has the potential to make a dramatic difference for 
+millions of Americans living with lower incomes and chronic health care 
+needs. Low-income Medicare beneficiaries, who make up 44 percent of all 
+Medicare beneficiaries, would be provided with prescription drug 
+coverage with minimal out-of-pocket costs. In Pennsylvania, this 
+benefit would be further enhanced by including the Prescription 
+Assistance Contract for the Elderly (PACE) program which will work in 
+coordination with Medicare to provide increased cost savings for low-
+income beneficiaries.
+  For medical services, Medicare beneficiaries will have the freedom to 
+remain in traditional fee-for-service Medicare, or enroll in a Health 
+Maintenance Organization (HMO) or a Preferred Provider Organization 
+(PPO), also called Medicare Advantage. These programs offer 
+beneficiaries a wide choice of health care providers, while also 
+coordinating health care effectively, especially for those with 
+multiple chronic conditions. Medicare Advantage health plans would be 
+required to offer at least the standard drug benefit, available through 
+traditional fee-for-service Medicare.
+  We already know that there are many criticisms directed to this bill 
+at various levels. Many would like to see the prescription drug program 
+cover all of the costs without deductibles and without copays. There 
+has been allocated in our budget plan $400 billion for prescription 
+drug coverage. That is, obviously, a very substantial sum of money. 
+There are a variety of formulas which could be worked out to utilize 
+this funding. The current plan, depending upon levels of income has 
+several levels of coverage from a deductible to almost full coverage 
+under a ``catastrophic'' illness. One area of concern is the so-called 
+``donut hole'' which requires a recipient to pay the entire cost of rug 
+coverage.
+  As I have reviewed these projections and analyses, it is hard to say 
+where the line ought to be drawn. It is a value judgment as to what 
+deductibles and what the copays ought to be and for whom. Though I am 
+seriously troubled by the so-called donut hole, it is calculated to 
+encourage people to take the medical care they really need, and be 
+affordable for those with lower levels of income. Then, when the costs 
+move into the ``catastrophic'' illness range, the plan would pay for 
+nearly all of the medical costs.
+  I am pleased that this bill contains a number of improvements for the 
+providers of health care to Medicare beneficiaries. Physicians who are 
+scheduled to receive cuts in 2004 and 2005 will receive a 1.5 percent 
+increase over that time. Moreover, rural health care providers will 
+receive much needed increases in Medicare reimbursement through raises 
+to disproportionate share hospitals and standardized amounts, and a 
+decrease in the labor share in the Medicare reimbursement formula. 
+Hospitals across Pennsylvania will benefit from upgrades to the 
+hospital market basket update and increases in the Indirect Medical 
+Education. Furthermore, the bill will provide $900 million for 
+hospitals in metropolitan statistical areas with high labor costs due 
+to their close proximity to urban areas that provide a 
+disproportionately high wage. These hospitals may apply for wage index 
+reclassification for three years starting in 2004.
+  I would note that I do have concerns with this legislation with 
+regard to oncological Medicare reimbursement and the premium support 
+demonstration project for Medicare Part B coverage. Proposed reductions 
+in the average wholesale price for oncological pharmaceuticals may have 
+a grave effect on oncologists' ability to provide cancer care to 
+Medicare Beneficiaries. Every Medicare beneficiary suffering from 
+cancer should have access to oncologists that they desperately need. I 
+will pay close attention to the effects that this provision has on the 
+quality and availability of cancer care for beneficiaries and 
+oncologists' ability to provide that care. Further, the premium support 
+demonstration project for Medicare Part B premiums poses a concern. 
+Some metropolitan areas may face up to a five percent higher premium 
+for fee-for-service care than neighboring areas. While these provisions 
+remain troublesome, we cannot let the perfect become the enemy of the 
+good with this piece of legislation.
+  The Medicare Prescription Drug legislation has been worked on for 
+many years. I believe this bill will provide a significant improvement 
+to the vital health care seniors so urgently need. I congratulate the 
+members of the conference committee including Majority Leader Frist, 
+Senator Grassley, Chairman of the Finance Committee, and the Ranking 
+Member, Senator Baucus, for the outstanding work which they have done 
+on an extraordinary complex bill.
+  The PRESIDING OFFICER. The majority leader.
+  Mr. FRIST. Mr. President, I have a unanimous consent request to 
+clarify plans for at least early in the morning. I ask unanimous 
+consent that when the Senate resumes the conference report to accompany 
+H.R. 1 on Tuesday at 8:15 a.m., the time until 9:15 be equally divided 
+between the chairman or his designee and the Democrat leader or his 
+designee; further, I ask consent at 9:15 the Senate proceed to a vote 
+on the adoption of the conference report, with no intervening action or 
+debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. DURBIN. If the majority leader will yield for a question, is it 
+the intention of the majority leader to adjourn after that vote?
+  Mr. FRIST. Mr. President, through the Chair, we are currently still 
+negotiating and working on the omnibus, and we will continue to work 
+for the next probably 6 to 7 hours. So I will not be able to comment 
+definitively until probably first thing in the morning. Again, we 
+continue to work. Initially, we hoped to make progress even tonight on 
+the omnibus, but we were unable to do that. So we will not be 
+adjourning right afterwards. We will likely be in through tomorrow and 
+would like to get as far as we can with the omnibus at that time.
+  Mr. DURBIN. Mr. President, if the majority leader will yield for 
+another question, will there be an effort to extend unemployment 
+compensation benefits before we adjourn?
+  Mr. FRIST. Mr. President, at this point I really cannot comment 
+intelligently until we further have our discussions through the night 
+in terms of what the plans will be over the course of tomorrow.
+  Mr. DURBIN. I thank the majority leader.
+  Mr. FRIST. Mr. President, over the past few days, we have heard a 
+number of criticisms of the bill. And there is one criticism in 
+particular that I want to address.
+  Opponents have claimed that the bill fails to contain prescription 
+drug costs. I can only presume that this criticism reflects a 
+misunderstanding--because the bipartisan agreement includes a number of 
+critical provisions to lower prescription drug costs.
+  Under the Hatch-Waxman law, generic approval is allowed when a new
+
+[[Page S15761]]
+
+drug's patent and market exclusivity protection expires, or when a 30-
+month stay terminates. The intent is to provide incentives to develop 
+valuable new drug treatments through patent protection, but also to 
+facilitate access to generic versions of the drug after the innovator's 
+patent expires. However, access to generic drugs has sometimes been 
+improperly delayed.
+  Earlier this Summer, the Senate voted 94-1 in favor of reforms 
+developed by Senators Gregg and Schumer to close existing loopholes in 
+the law. And the bipartisan agreement retains these critical reforms, 
+ensuring speedier access to generic drugs for all Americans. Under the 
+bipartisan agreement, a new drug applicant will receive only one 30-
+month stay of approval of a generic's application, for patents 
+submitted to FDA prior to the generic application. The agreement also 
+takes additional steps to reduce or eliminate the delays in the 
+movement of generic drugs to the marketplace.
+  As a result, patients will benefit from grater access to safe, 
+effective, low-cost generic alternatives to brand name medicines. 
+That's why this bill is supported by the Generic Pharmaceutical 
+Association and the Coalition for a Competitive Pharmaceutical Market. 
+I would like to submit their letters of support for the Record.
+  The competition in this bill achieves significant ``bang for the 
+buck'' because it relies on drug plans to negotiate discounts. CBO says 
+the private insurance model has a cost management factor of 25 
+percent--the effect of price discounts, rebates, utilization controls, 
+and other tools that a PDP might use to control spending. By relying on 
+the bargaining power of drug plans, this bill will drive down the costs 
+of prescription drugs.
+  The bipartisan agreement enhances research on the comparative 
+clinical effectiveness of prescription drugs. This information will be 
+quickly disseminated. By giving patients, health care professionals, 
+health plans and the Medicare program better information on the 
+comparative effectiveness of treatment options, this provision will 
+ensure that patients and health care consumers get the most value for 
+their money.
+  The bill includes other key cost containments. Prescription drug 
+negotiations will not be subject to the Medicaid ``best price'' rules. 
+Competing plans will get even better prices for seniors and disabled 
+persons. Last year, the Congressional Budget Office estimated that 
+exempting Medicare from best price rules would save $18 billion between 
+2003 and 2012.
+  The bipartisan Medicare agreement will lower prescription drug costs. 
+That is why it has been endorsed by pro-consumer groups including 
+the American Association of Retired Persons and the Coalition for a 
+Competitive Pharmaceutical Market.
+
+  However, opponents have claimed that this language ``prevents'' the 
+Federal Government from negotiating drug prices.
+  The bill specifies that the government ``may not interfere with the 
+negotiations between drug manufacturers and pharmacies and PDP 
+sponsors'' and ``may not require a particular formulary or institute a 
+price structure.'' In fact, this provision first appeared in May 2000 
+in a Democratic bill. The provision protects patients by keeping the 
+government out of decisions about which medicines they will be able to 
+receive.
+  Through this bill, we are giving seniors new access to affordable 
+prescription drugs. We are speeding the pace of cheaper generic drugs 
+to the market. We are providing for research on the comparative 
+effectiveness of prescription drugs. We are providing a drug discount 
+card and greater relief for low-income seniors. And we are unleashing 
+powerful new market forces that will drive down the costs of 
+prescription drugs.
+  But some continue to advocate for so-called ``reimportation.'' This 
+is unnecessary and unsafe. The FDA has much evidence of counterfeit, 
+expired, mislabeled, subpotent and superpotent drugs shipped into the 
+United States from all over the world. Health Canada is on the record 
+saying that they will not guarantee the safety of drugs sold to 
+Americans. Numerous current and former FDA and law enforcement 
+officials have testified that this is not safe. Just last month, the 
+Washington Post ran a detailed series revealing a vast, complicated 
+network of ``criminal profiteers, unscrupulous wholesalers, rogue 
+Internet sites, and foreign pharmacies.'' The result has been deadly.
+  In St. Charles Missouri, a 61-year-old breast cancer patient was 
+unknowingly sold diluted cancer medication by her local drugstore. 
+Seven months after being sold the phony batch, she was dead. In 
+Sacramento, a wife found her 47-year-old husband on the living room 
+couch dead of an overdose of painkillers. He had obtained the pills 
+from multiple pharmacies all over the world.
+  These disturbing reports bear directly upon the importation of 
+prescription drugs. There is the faulty notion that this is a solution 
+to drug costs. But as real life illustrates, the black market in 
+pharmaceuticals is a very dangerous place.
+  In 2000, Congress passed the Medicine Equity and Drug Safety Act. But 
+in the 3 years and two administrations since the law has been in 
+effect, no Health and Human Services Secretary--either Democrat or 
+Republican--has been willing to verify its safety. So this bill 
+requires the Department of Health and Human Services to undertake an 
+in-depth study on whether there is a safe way to reimport drugs from 
+Canada.
+  What we need are sensible policies. And in the Medicare legislation 
+we have them. The Medicare bill under consideration will make sure that 
+seniors get the prescription drugs they need, with the safety they 
+expect.
+  Mr. President, Medicare beneficiaries have waited too long for this 
+debate. The practice of medicine has changed dramatically since the 
+inception of the Medicare Program in 1965. Unfortunately, the program 
+has seen few changes or improvements.
+  Today we finally consider providing 41 million seniors and Americans 
+with disabilities with access to prescription drug coverage. Currently, 
+9.9 million Medicare beneficiaries have NO drug coverage and many more 
+have only limited coverage.
+  Prescription drugs have become integral in the practice of Medicine 
+and this legislation is critical to the health of current and future 
+beneficiaries. Beginning next year under this bill, seniors will 
+receive immediate, voluntary assistance with their drug costs. All 
+Medicare beneficiaries would receive a discount drug card that will 
+help bring down the cost of prescription drugs by 10-25 percent. 
+Moreover, low-income seniors will receive $600 to help with their drug 
+costs.
+  In 2006, beneficiaries will have access to a comprehensive 
+prescription drug benefit. Seniors with incomes above 150 percent of 
+the Federal poverty level will see savings of about half of their drug 
+costs as a result of this coverage.
+  Low-income seniors will no longer be forced to rely on Medicare for 
+help with their drug costs. This legislation will provide coverage for 
+drug costs for even our lowest-income seniors under the Medicare 
+program. Seniors with incomes below 150 percent of the Federal poverty 
+level will receive coverage for all but a small percentage of their 
+drug costs.
+  Prescription drugs not only treat disease, but they can help to 
+prevent disease when used as part of therapeutic treatment. For this 
+reason I am proud to say that prescription drug coverage is only one of 
+the major improvements we will make to the Medicare Program. For the 
+first time, the Medicare Program will put an emphasis on chronic care 
+coordination and disease management. Beneficiaries will receive 
+coverage for a welcome to Medicare physical. The preventive physical 
+visit is one of the best opportunities physicians have to measure 
+health status, screen for various diseases and educate patients about 
+their health needs.
+  The legislation will also add coverage for screenings for heart 
+disease and diabetes. Moreover, this bill directs the Secretary to 
+integrate disease management and chronic care coordination into the 
+basic Medicare program. Beginning immediately upon enactment with a 
+large-scale pilot program, the Secretary will test methods to help 
+beneficiaries with chronic conditions, ensuring they receive preventive 
+tests, procedures and treatments to better manage their disease and 
+improve their health status and quality of life.
+  This program will put the emphasis on prevention and treatment, 
+rather than acute episodes of care. This is one of the most important 
+reforms in the
+
+[[Page S15762]]
+
+conference agreement.  Beneficiaries with multiple chronic conditions 
+account for the greatest share of Medicare spending. And low-income 
+beneficiaries are more likely to suffer from multiple chronic diseases 
+and to have poorer health outcomes than higher income seniors.
+
+   Diabetes is a good example of how prescription drug coverage and 
+prescription drug therapy along with a regular care regiment promise 
+more effective treatment and outcomes. Approximately 17 million 
+Americans suffer from diabetes and another 16 million adults are at 
+risk for developing diabetes. Undiagnosed and improperly treated, 
+diabetes can and will result in a host of complications that can result 
+in disability and even death. These complications include kidney 
+failure, blindness, heart disease and loss of limb. According to the 
+American Diabetes Association, $91.9 billion dollars was spent last 
+year in direct medical expenses for diabetics.
+   Since 1995, five new classes of medicines have been introduced to 
+treat diabetes. These medicines, coupled with health management and 
+coordinated care programs, are powerful tools to increase health status 
+and reduce complications. For example, a comprehensive disease 
+management program for approximately 7,000 diabetic patients produced 
+savings of $50 per diabetic patient per month. While pharmaceutical 
+costs increased under the program, total health care spending declined. 
+This was due to substantially fewer inpatient hospitalizations and 
+reduced lengths of stay.
+  All that stands between seniors and prescription drug coverage, 
+disease management and improved health coverage is the upcoming Senate 
+vote. I am confident that we will pass this conference report and send 
+the legislation to the President's desk. Seniors deserve no less.
+   Mr. President, millions of Americans experience serious health 
+disparities based on ethnicity, race, gender, or a lack of access to 
+health care. Great progress has been made in narrowing health 
+disparities. Through advances in medical research and public policy, we 
+are working to ensure better access to quality health care for all of 
+our citizens. More, however, needs to be done. Let me list a few 
+examples of where there are still serious disparities in health.
+   The number of diabetes cases among African Americans has tripled 
+since the 1960s. Moreover, African Americans experience higher rates of 
+diabetes' most serious complications: blindness, amputation and kidney 
+failure.
+   One of seven Hispanics have diagnosed or undiagnosed diabetes and 
+the prevalence of type-2 diabetes is twice as high in Hispanic 
+Americans as in non-Hispanic whites.
+   American Indians and Alaska Natives are 2.3 times as likely to have 
+diabetes as non-Hispanic whites of similar age. Diabetes cases are more 
+concentrated among American Indians in the southeastern United States.
+  Asian Americans and other Pacific Islanders are approximately two 
+times as likely to be diagnosed with diabetes as compared to their 
+white counterparts.
+  When it comes to cardiovascular disease, African Americans have the 
+highest rate of high blood pressure of all groups and tend to develop 
+it younger than others.
+  Stroke is the only leading cause of death for which mortality is 
+higher for Asian-American males.
+  Breast and cervical cancer also hit African American women more often 
+than their white counterparts.
+  Although deaths caused by breast cancer have decreased among white 
+women since the 1980s, African American women continue to have higher 
+rates of mortality from breast and cervical cancer. African Americans 
+are more likely to develop cancer than whites and are about 30 percent 
+more likely to die of cancer than whites.
+  In the Medicare legislation before us, we have an opportunity to 
+address the problem of health disparities head on. Today, roughly 20 
+percent of all Medicare beneficiaries are members of minority groups. 
+And the Census projects that, by 2025, minorities will compose 35 
+percent of all seniors. Racial and ethnic minorities covered by 
+Medicare suffer from more illnesses and are more apt to live in poverty 
+than white beneficiaries.
+  So I am pleased that this bill particularly benefits racial and 
+ethnic minorities, and assures that minority seniors and disabled 
+people have access to needed medicines at affordable prices.
+  The bipartisan Medicare agreement will ensure better Medicare 
+coverage for minorities through new disease management services, a new 
+``welcome to Medicare physical'' and new cardiovascular disease and 
+diabetes screening programs. Beginning in 2005, each year, nearly 
+360,000 newly enrolled minority Medicare beneficiaries will be covered 
+for an initial physical examination. The initial preventive physical 
+exam includes measurement of height, weight and blood pressure, and an 
+electrocardiogram, as well as education, counseling and referral 
+related to other preventive services.
+  The bipartisan Medicare agreement includes new cardiovascular and 
+diabetes screening blood tests that do not have deductibles or co-pays, 
+so beneficiaries with limited resources who might not otherwise access 
+these benefits are not deterred by the cost.
+  Disease Management is being introduced into the original Medicare 
+program to provide beneficiaries the tools and support systems to help 
+them manage their chronic illnesses. Through these new benefits, 
+conditions such as obesity, diabetes, heart disease, and asthma could 
+be made far less severe for millions of Medicare beneficiaries, 
+including those racial and ethnic minorities who suffer most from these 
+conditions.
+  The bipartisan agreement provides immediate help to those who need it 
+most: low-income Medicare beneficiaries who do not have prescription 
+drug coverage and do not qualify for Medicaid. This starts with the 
+prescription drug discount card and builds on it to provide needed 
+relief to low-income seniors with a generously subsidized drug benefit 
+in 2006.
+  Over 13 million beneficiaries under 65, across all racial/ethnic 
+groups, have very limited financial means. But these limitations are 
+particularly acute among some populations. In 1999, 46 percent of 
+African Americans and 55 percent of Hispanics had incomes below the 
+Federal poverty level, compared with 15 percent of white beneficiaries. 
+Nearly two-thirds of African-American and Latino beneficiaries have 
+incomes below twice the poverty level, compared with 41 percent of 
+whites.
+  Starting in 2006, more than 1.5 million minority beneficiaries will 
+gain access to new drug coverage, including over a half million 
+Hispanic and nearly 700,000 African-American Medicare beneficiaries. 
+The Bipartisan Agreement will help cut their prescription drug bills in 
+half. The poorest seniors--including nearly 2 million minority 
+beneficiaries--with incomes below 100 percent of the Federal poverty 
+level who are eligible for Medicaid would pay no premiums or 
+deductibles, and would pay only nominal cost-sharing of $1 for a 
+generic drug or a preferred multiple source drug and $3 for all other 
+drugs.
+  2.5 million low-income minority beneficiaries with incomes below 135 
+percent of the Federal poverty level would pay no premiums or 
+deductibles, and would only pay nominal cost-sharing of $2 for a 
+generic drug or a preferred multiple source drug and $5 for any other 
+drug. More than 400,000 minority beneficiaries, with incomes below 150 
+percent of the Federal poverty level would get sliding scale subsidies 
+for their premiums, and pay both a lower deductible and lower cost-
+sharing compared to the standard benefit.
+  In addition to the low-income benefit, the bill provides that the 
+Federal Government will assume the costs of dual-eligible 
+beneficiaries, allowing them to receive their medicines through a 
+private-sector drug plan, remove the stigma of Medicaid coverage, and 
+provide fiscal relief to the States that currently pay for them.
+  Because only a third of African Americans and a quarter of Hispanics 
+have Medigap or employer-sponsored retiree benefits, compared to two-
+thirds of white beneficiaries, they are more likely to rely on Medicaid 
+to supplement Medicare. In fact, 43 percent of dually-eligible 
+beneficiaries are minorities.
+  The bipartisan Medicare agreement improves services available to 
+individuals suffering from these diseases. The agreement particularly 
+improves access to prescription drugs and new services for low-income 
+individuals,
+
+[[Page S15763]]
+
+many of whom are racial and ethnic minorities.
+  The agreement includes critical provisions to study and disseminate 
+the latest research on the comparative clinical effectiveness of 
+prescription drugs and other health care services--including among 
+specific patient subpopulations. This will ensure that patients and 
+providers can make informed choices about their treatment options. It 
+will also make prescription drugs more affordable for all Americans 
+through important provisions, speeding generic drugs to market.
+  Ultimately, by adding much-needed prescription drug coverage to 
+services already covered by Medicare, the agreement ensures that these 
+individuals have access to more comprehensive, higher quality health 
+care and treatment options.
+  The PRESIDING OFFICER. The Senator from Illinois.
+  Mr. DURBIN. Mr. President, I sincerely hope we do something about 
+unemployment compensation benefits. We will be gone for 2 months. Nine 
+million Americans are out of work. Three million have lost their jobs 
+since this President took office. Frankly, many of them have seen their 
+unemployment benefits expire.
+  Historically, traditionally, on a bipartisan basis, we have extended 
+those unemployment benefits. I think it is a sad situation if we 
+adjourn before this holiday season leaving literally millions of 
+American workers without the basics they need to keep their families 
+together. I hope if we do nothing else, we achieve that.
+  Those who may be following this debate may wonder why, at 20 minutes 
+to 10 this evening, on November 24, Senators are still on the floor 
+speaking about this legislation. This bill, which in its totality is 
+about 1,100 pages long--and the sponsor of it, Senator Grassley, my 
+friend, has admonished me not to say that the bill is 1,100 pages long 
+but that the bill and its committee report is that length--is a 
+historic piece of legislation.
+  There are some of us who believe, if this bill passes tomorrow, in 
+the morning, as it is likely to do, that, frankly, for years to come 
+people will be asking questions about how various Senators felt, how 
+they voted, and what they did during the course of this debate. Those 
+who support it believe it will be good and they take great pride in it. 
+Those of us on the other side believe this legislation is an 
+abomination. When we consider the opportunity we had and the challenge 
+we had when this legislation was brought before us, this bill fails to 
+meet the test.
+  It fails in this respect: We started off saying we need to help 
+senior citizens pay for prescription drugs. Medicare did not include 
+that benefit, and it should have. We know now that prescription drugs 
+keep seniors healthy and strong and independent. We should give them a 
+helping hand to pay for those expensive drugs. I think everybody agreed 
+with that premise.
+  Then, when we started the debate, things started to change, because 
+in order to achieve that goal many of us thought the Government would 
+have to step in with some money to help seniors but also we would have 
+to say to the drug companies, you have to charge reasonable prices for 
+your drugs. I think those two go together.
+  To think that the Federal Government is going to somehow subsidize 
+the cost of prescription drugs and do nothing to bring those costs 
+down, frankly, is counterproductive. We cannot appropriate enough money 
+to keep up with the meteoric rise in the cost of prescription drugs 
+that seniors and other families across America face.
+  Sadly, the Senate passed a bill, supported by Democrats and 
+Republicans, which at least moved in the direction of change but did 
+not move far enough. It did not contain any cost containment. It did 
+not challenge the drug companies in America to treat Americans fairly.
+  That bill passed and went to conference committee. We hoped it would 
+be improved, but it was not. In fact, the bill was worsened in many 
+respects.
+  As a result of that, many of us who had hoped for a prescription drug 
+benefit for seniors are going to oppose this particular legislation 
+because it does not achieve that goal.
+  Sadly, it brings another element to the debate, for which many of us 
+never bargained. There are those in the Congress who believe we have to 
+basically dismantle and fundamentally change Medicare.
+  Medicare, a system of health insurance for seniors across America for 
+over 40 years, has given seniors quality of life and quality health 
+care, and statistics prove that it has worked. Seniors live longer. 
+They are more independent. They are healthier. Medicare has proven that 
+if we have Federal leadership, we can have doctors and hospitals 
+providing the best care to our mothers and fathers and our grandmothers 
+and grandfathers.
+  But there are some who opposed it from the beginning, calling it 
+socialized medicine, and others who do not want to meet the obligations 
+of Medicare as the baby boom generation qualifies to receive it. So 
+they have set upon a path to basically change Medicare as we know it.
+  That was never part of the bargain. This was supposed to be about 
+prescription drugs and seniors. Instead, it switched into a new realm. 
+The House Republican leadership pushed into this conference committee a 
+dramatic, and some say drastic, change in Medicare for its future. That 
+has forced many of us to not only oppose this bill but to oppose it 
+strongly, believing our first obligation is to protect Medicare and our 
+second obligation is to give seniors the benefit they need for 
+prescription drugs.
+
+  This bill has failed. This bill will raise Medicare premiums for 
+millions of senior citizens. It will force many senior citizens into 
+HMOs. I do not have to explain HMOs to people who have tried to live 
+with them. A health maintenance organization or similar insurance 
+company basically rations care. It picks the doctor, not the individual 
+covered or insured. But the HMO will pick your doctor and pick your 
+hospital.
+  I think we have all heard the horror stories about HMOs that 
+basically have denied care, denied basic medical procedures because 
+they do not believe it is a worthwhile economic undertaking. So doctors 
+make decisions about what you need to stay healthy, and HMOs overrule 
+the doctors.
+  Senator Kennedy, who is on the floor, and will speak after I do, has 
+been a leader in this Senate, in the Congress, on a Patients' Bill of 
+Rights. Why did we have to create a Patients' Bill of Rights? Because 
+of the abuses of HMOs. And that is no surprise to people who have tried 
+to live with them.
+  Now, this bill, pushed by the Republican leadership, wants to move 
+America's seniors out of Medicare and into these HMOs. They believe 
+that is a better way to go, to ration health care through HMOs. They 
+want the HMOs to pick the doctors and the hospitals. They do not want 
+the seniors to choose them, as they do now under the Medicare plan.
+  The original argument was that these private insurance companies, 
+because they would be competing in the open market, would provide more 
+economical care for seniors. But, of course, that premise was destroyed 
+by this bill because they included in the bill a $12 billion slush 
+fund, $12 billion of Federal tax dollars that will go to subsidize the 
+HMOs. In other words, they not only do not have to prove profitability; 
+they can enjoy a Federal subsidy as they try to lure the healthier 
+seniors out of Medicare, leaving behind poorer and sicker Medicare 
+recipients who will drive up the unit cost of care under that 
+traditional program, making it more expensive to Congress and the 
+American people, and its critics hope will lead it into a period of 
+unpopularity and perhaps abandonment.
+  I believe that is their ultimate goal. I think that is what they are 
+setting out to do. They want to force seniors into HMOs, subsidized, 
+incidentally, by Federal tax dollars. They want to undercut full 
+Government funding of Medicare.
+  That is not why I signed up for this debate. It is not the reason 
+most Senators got involved in it. It, frankly, represents a distorted 
+view of what we were setting out to do.
+  It also is going to eliminate drug coverage for millions of retirees. 
+The Congressional Budget Office, which makes projections, tells us that 
+2.7 million retirees in America who currently have health care 
+benefits, including prescription drugs--2.7 million will lose that 
+coverage because of this bill.
+
+[[Page S15764]]
+
+  There is already a trend in America to take away health coverage for 
+retirees. It is expensive. Many of the companies would like to get rid 
+of it, if they can. The CBO tells us, the Congressional Budget Office 
+tells us, this bill will create a lure and a force to draw these 
+retirees out of their current health care benefits in retirement into a 
+situation where they are not insured--2.7 million.
+  In my home State of Illinois, 100,000 retirees will lose their health 
+care benefits because of this bill. Was that ever part of the bargain? 
+Did we go into the debate saying, we are going to provide prescription 
+drug coverage to seniors but in the process 100,000 in my State are 
+going to lose their health care coverage?
+  That is the result, and not a result on which we are speculating. It 
+is from the Congressional Budget Office, as they reported it to us.
+  There is another element here as well. There is an element that I 
+think really tells the story about why this bill is so popular in some 
+quarters in Washington--not among seniors but with some special 
+interest groups.
+  You should have seen the area right outside the Senate Chamber this 
+afternoon when the key votes were coming down. You could not even walk 
+through. It was packed with lobbyists.
+  Now, there is nothing wrong with lobbyists. Lobbyists perform a 
+valuable function when they come to Government and tell us both sides 
+of the story. As a Member of the House and Senate, I value lobbyists 
+who are honest and tell me their side of the story.
+  But if you took a look at the lobbyists in the hallway outside on 
+this vote, you noticed, overwhelmingly, they were lobbyists supporting 
+this bill and lobbyists representing pharmaceutical companies and HMOs.
+  Why would pharmaceutical companies support a bill that is supposed to 
+lower prescription drug prices for seniors?
+  The obvious reason is that under this bill there is no cost control. 
+There is no cost containment. There is no restraint on those drug 
+companies charging even higher prices. In two particular areas, this 
+bill is going to keep drug prices high, not just for seniors but for 
+families across America. This bill virtually prohibits the 
+reimportation of United States-made drugs from Canada and other 
+countries. We have seen the news reports. Seniors in Minnesota, 
+Michigan, and New England are traveling into Canada to buy drugs, 
+American drugs, at a fraction of the cost. We put a provision in the 
+House version of the bill and the Senate version of the bill to allow 
+that trade to continue so that seniors could take advantage of the 
+lower prices.
+  I have always said that we are not importing drugs from Canada, we 
+are importing political leadership from Canada. Canada and its 
+Government stood up for its people and its senior citizens. Canada said 
+to the drug companies, represented in our hallways by the lobbyists: 
+You can't charge whatever you want to charge. You have to keep your 
+charges reasonable.
+  Because Canada imposed these standards and would not allow the prices 
+to go sky high, they deeply discount the same drugs sold in America. 
+This bill virtually closes the door for importation from Canada. It is 
+the answer to the prayer of our pharmaceutical companies that don't 
+want cheaper drugs coming to this country so they can sell more 
+expensive drugs to Americans currently living here.
+  Also, this bill prohibits Medicare from negotiating lower drug 
+prices. When we started this debate on prescription drugs, virtually 
+every senior I talked to said: Senator, I don't understand why it is 
+taking so long to see the obvious. If Medicare as a program offered 
+prescription drugs, that would be the best approach. It would be a 
+universal voluntary program covering everyone under Medicare. Medicare 
+as a program could bargain for lower drug prices and say to America's 
+drug companies: If you want to sell us a drug for high blood pressure, 
+then you have to give us a reasonable price or we will look to another 
+company with a comparable drug. We do that with the Veterans' 
+Administration. We could have done it with Medicare. But this bill 
+expressly prohibits Medicare from entering into these negotiations to 
+lower prices. Why? Because the same drug companies that fought 
+reimportation of drugs don't want to bargain with Medicare. As a 
+consequence, the seniors are the losers. That is basically what we are 
+going to deal with. We are going to continue to see outrageously high 
+prescription drug costs.
+  Let me give an illustration of one element that I am not sure has 
+been addressed during the course of this debate. That may be hard to 
+believe after 3 full days and more of debate. This bill lacks any 
+serious attempt to lower the cost of prescription drugs. We can 
+reasonably assume that prescription drug prices will continue to rise 
+about 15 percent annually as they have in the past. It is one of the 
+most inflated costs in our health care menu of opportunities, 
+prescription drug prices. One major employer in Illinois, Caterpillar 
+Tractor Company, self-insured for health insurance, told me the price 
+of prescription drugs was the biggest single problem they are facing 
+for employees and retirees.
+  Consider the example of a senior citizen struggling to make ends 
+meet, the kind of senior we were supposed to help with this bill, a 
+senior who in 2006, when this bill will first go into effect, has an 
+income of $20,000 a year. That is probably in the high end for many 
+seniors. Some survive on much less. But for purposes of illustration, 
+this senior has an income of $20,000 and is struggling to devote 25 
+percent of their income to paying a $5,000-a-year pharmaceutical bill. 
+Five thousand a year is a little more than $400 a month. Believe me, I 
+have met seniors who are paying an awful lot more than that.
+
+  So here we have a senior, $20,000 in retirement income, and $5,000 in 
+annual drug costs. Now let's consider what this bill is going to mean 
+to that senior. This bill steps in and cuts that senior's costs by 
+$1,080. That is not much. That is about 22 percent of the senior's 
+costs. I think it ought to do more, but it is something, to cut the 
+$5,000 bill by $1,080. That is what this bill does. But what happens 
+when year after year the senior's income goes up at the rate of 
+inflation, roughly 3 percent, while the pharmaceutical companies' 
+charges for prescription drugs increase at 15 percent a year? Income 
+going up 3 percent; cost of drugs going up 15 percent a year.
+  By the year 2015, 9 years after this bill goes into effect, the 
+senior's income will have grown 30 percent to $26,000. The drug costs 
+of $5,000 when it started will have mushroomed to $17,600, a 15 percent 
+increase unchecked versus a 3 percent increase in income. Do you know 
+how much of that $17,600 will be paid by the Government under this bill 
+when we have this period of time, 9 years after it goes into effect? I 
+can tell you: It is $3,800--22 percent of what the senior is supposed 
+to pay. So the senior's out-of-pocket prescription drug costs, not paid 
+by the Government, would be $13,800, 53 percent of the senior's income. 
+So even with the assistance under this bill, unchecked prescription 
+drug inflation will drive seniors in a decade or more from spending a 
+fourth of their income on prescription drugs to spending more than half 
+of their income under the scenario I have just described.
+  Why? Senior citizens' out-of-pocket drug costs go up even with this 
+bill because the bill does nothing to rein in unsustainable inflation 
+in prescription drug costs. That doesn't help seniors. They need us to 
+take action to bring down the cost of medication.
+  If you take a look at the pharmaceutical companies and their approach 
+on this bill, here is what they wanted when we started this debate. 
+They wanted private-insurer-administered drug benefits that dilute 
+purchasing power. They got it. They wanted financial incentives for 
+HMOs, another step away from Medicare. They got it. They wanted a 
+prohibition on Medicare negotiating prices. They received it, which I 
+think is the fatal flaw in this legislation. They wanted meaningless 
+reimportation. They got it. So getting drugs from Canada becomes even 
+more difficult. They wanted watered down generic drug access 
+provisions. They were successful. They wanted no public scrutiny of 
+secret PhRMA-insurer kickback arrangements. They got that protection. 
+And, finally, they wanted huge windfall profits, and they will get it.
+  Wall Street has already costed this out. Pharmaceutical stocks, which 
+were already the most profitable in America, will continue to be such. 
+The
+
+[[Page S15765]]
+
+loser will be senior citizens who were supposed get the help. That is 
+why the pharmaceutical companies line up outside the door to 
+the Chamber cheering for those who want to vote for this bill--because 
+they know it means more money in the bank.
+
+  What I have given you here is not an extreme example; $5,000 a year 
+for prescription drugs for a senior is sadly a reality. The seniors who 
+will face this without a helping hand from the Government in terms of 
+paying these inflated costs of drugs are going to struggle, and they 
+may not succeed in paying for those drugs.
+  Let me show you this, too. Here are the compensation levels of those 
+who run HMO insurance companies I described earlier. Remember what I 
+said: The intent of this bill is to move seniors out of Medicare into 
+HMOs. These are compensation levels: For companies such as Aetna, here 
+is their CEO, he received $8.9 million; Anthem, $6.8 million; CIGNA, 
+$5.9 million; Coventry, $21.6 million compensation for their CEO; 
+Health Net, $6 million; Humana, $1.6 million; Oxford, $76 million for 
+Mr. Norman Payson, not a bad year; PacifiCare, $3 million; Sierra 
+Health, $4.7 million; and then we get down to United Health Group, this 
+group with a CEO by the name of Mr. Channing Wheeler; he received $9.5 
+million in compensation.
+  I would like to stay with United Health Group for just a moment. This 
+is not just another HMO, this is an HMO that is extraordinarily blessed 
+by this bill. Let me tell you why. In addition to $12 billion in a 
+slush fund to subsidize and underwrite HMOs that are going to compete 
+with Medicare, there is an additional provision in here that gives $6 
+billion for a theory of health insurance called health savings 
+accounts. If you have followed the debate in Washington, you may know 
+that some 9 years ago, a company based in Lawrenceville, IL, the Golden 
+Rule Insurance Company, dreamed up this basic insurance idea that said: 
+We will say to people that if you will take a high deductible health 
+insurance policy and do not use all that you could in terms of health 
+expenses during the course of the year, we will refund some of your 
+money at the end of the year; so it is not only health insurance lite 
+but a chance to recoup your money. They called it medical savings 
+accounts. This was the darling of then-Speaker Newt Gingrich and his 
+conservative Republicans.
+  They believed this was the answer to America's prayers for health 
+insurance. We have eventually put in a demonstration project and said 
+let's at least try this concept and see how many people want to buy 
+into it. It was a dismal failure. Very few people signed up. That 
+didn't stop the efforts to include some provisions to help that concept 
+of medical savings accounts--now called health savings accounts--in 
+this bill--not just to help them get started but a $6 billion slush 
+fund of Federal tax dollars to underwrite health savings accounts.
+  Let me say, it is not a one-way street. In order to win the attention 
+of Congress and $6 billion in Federal subsidy, Golden Rule, over the 
+past 12 years, has been extraordinarily generous to political 
+candidates. They donated $3.6 million to political parties in 
+candidates--90 percent to the Republican Party. Mr. Gingrich received 
+more campaign contributions from Golden Rule than any other Federal 
+officeholder over the past 12 years. In fact, he became their poster 
+child and appeared on their television advertisements. The list goes on 
+and on about Golden Rule and all the political contributions they have 
+made.
+  This bill contains $6 billion for health savings accounts, such as 
+those that have been devised by Golden Rule. This is how it works. 
+Consumers or employers buy high-deductible policies. The deductible is 
+at least $1,000 for individuals, $2,000 for families. The consumer or 
+employer can put as much as $5,000 a year for an individual and $10,000 
+for a couple into the account. The contributions are tax deductible. 
+Money can accumulate tax free. Withdrawal of the money is also tax 
+free. It is virtually an unprecedented tax shelter that is being added 
+here and subsidized with $6 billion. The funds can be withdrawn to pay 
+medical expenses, including items not normally covered, such as 
+cosmetic surgery.
+  The problems are numerous. First, it compromises the current health 
+insurance system. People who purchase high-deductible health insurance 
+policies are the healthiest among us. As they opt out of traditional 
+plans, the risk pools in those traditional plans are compromised, 
+leaving people behind to pay higher premiums.
+  Past research by Rand, the Urban Institute, and the American Academy 
+of Actuaries have found that premiums for comprehensive insurance could 
+more than double if these health insurance accounts become widely used.
+  Second, wealthy Americans are likely to use these as tax shelters.
+  In 1996, HIPAA established a demonstration project of health savings 
+accounts. The GAO evaluation of the investigation showed that 
+investment firms such as Merrill Lynch entered the health savings 
+account market because of insurer perceptions that HSA enrollees were 
+using their accounts primarily as tax-sheltered savings vehicles rather 
+than sources of tax-sheltered funds for paying medical expenses.
+  So here we are setting a new precedent in tax policy. The financial 
+service industry loves it--$6 billion. Now you might ask yourself: What 
+do health savings accounts have to do with prescription drugs for 
+seniors? The answer is nothing. Well, what do health savings accounts 
+have to do with Medicare and seniors in general? The answer is nothing. 
+The $6 billion subsidy in this bill for health savings accounts is 
+making good on a promise by Republican leadership to reward their 
+friends--in this case, Golden Rule. But wait, there is more to the 
+story.
+
+  Golden Rule as an insurance company doesn't exist anymore. It sold 
+out. The purchaser was United Health Group. R. Channing Wheller is 
+their CEO who made $9.5 million. They are basically the architects of 
+the health savings account, this HMO.
+  The story gets even more interesting. This is a publication of AARP. 
+It comes from October of this year. AARP makes a lot of money by 
+selling insurance to seniors. If you open here, this is page 24 and 25, 
+those two pages, you will see three advertisements from AARP on behalf 
+of United Health Care Insurance Company's insurance plans. What is the 
+connection? AARP receives millions of dollars from the sale of health 
+insurance policies and stands to gain under this bill. The AARP 
+insurance-related revenues made up a quarter of their operating 
+revenues last year and one-third in 2001. They receive royalties from 
+policies marketed by United Health Group, the one that purchased Golden 
+Rule. Last year they earned $3.7 billion in premium revenue from their 
+offerings to AARP members--$3.7 billion. This one company.
+  The royalties AARP earned as a result of that amounted to $123 
+million; access fees, $10 million; quality control fees, almost a 
+million dollars. AARP also earns investment income on the premiums 
+received from members. That is a total of $161.7 million in revenue 
+from insurance. According to Advertising Age Magazine, AARP and United 
+Health Group hired a direct marketing agency in May to conduct a 
+marketing campaign that could cost $100 million.
+  United Health Group is going to be one of the biggest winners under 
+this bill we are considering and will vote on tomorrow. It will be a 
+big winner in at least two different directions: First, as an HMO, it 
+is entitled to part of the $12 billion slush fund to lure seniors out 
+of Medicare into their HMO. Secondly, because they have now bought 
+Golden Rule, they will be authors of insurance policies called health 
+savings accounts, which receive another $6 billion subsidy; and guess 
+who is in on it as well. Our friends at AARP.
+  It is curious to me when seniors who belong to AARP have been asked 
+whether they like this bill, they overwhelmingly say no. Let me get 
+this figure right; I don't want to misstate it. When asked last week 
+whether they supported this bill--AARP members nationally, in a poll 
+conducted--56 percent opposed it and 18 percent supported it; 56 
+percent of the seniors in AARP opposed it and 18 percent supported it.
+  Yet Mr. Bill Novelli and AARP have been leading the charge to pass 
+this bill. If it is not that popular among AARP members, what is going 
+on? There is money to be paid. AARP is
+
+[[Page S15766]]
+
+going to be selling insurance through the United Health Group with a 
+massive Federal subsidy, and through the old Golden Rule health savings 
+account with another massive Federal subsidy. They are not listening to 
+seniors; they are listening to the insurance companies, to the HMOs, 
+and that is a sad thing.
+  This bill squanders $6 billion that should have been paid for retiree 
+coverage of prescription drugs, creating these new health savings 
+accounts that ordinary Americans cannot afford, undermining employer-
+based coverage, $6 billion that should have been used to prevent the 
+loss of retiree coverage. As I mentioned earlier, some 25 percent of 
+the revenues going to AARP came off of insurance royalties.
+  So you ask yourself if the membership of this organization doesn't 
+care for this plan and opposes this plan, by a margin of more than 
+three to one, why then is AARP front and center running ads in 
+newspapers, television, and radio across America? Because, frankly, the 
+ads are paid for by HMOs and pharmaceutical companies and represent an 
+effort by the current leadership of AARP to jam down the throats of 
+senior citizens a proposal they do not support.
+  What I suggest to seniors across America who are following this 
+televised debate is this: If you belong to AARP, call them first thing 
+in the morning at 1-800-424-3410 and tell them to stand up for seniors, 
+don't stand up for the insurance companies. Don't stand up for 
+pharmaceutical companies, stand up for seniors across America.
+  I, frankly, went back to Chicago this weekend and met with many 
+people who said they have had it with AARP. They have no idea what 
+happened to an organization created to serve seniors and, frankly, is 
+turning its back on the seniors who needed help the most. That, to me, 
+is a sad commentary. Someone said, basically, if you want to know about 
+legislation, whether it is good or bad, ask the basic question: Who 
+wants it? Who wants this bill, this 1,100-page monstrosity?
+  It isn't senior citizens. Overwhelmingly across America they say we 
+don't want it. They are calling my office and every office on Capitol 
+Hill. They want help to pay for prescription drugs they can understand. 
+They want it under Medicare so the costs can be contained. They didn't 
+want a full-scale attack on the Medicare system itself, and that is 
+what has happened.
+  Sadly, we know who really wants this bill: the pharmaceutical 
+companies that stand to make outrageous profits into the future without 
+any competition, and the HMOs that, with their Federal subsidies, will 
+be luring these seniors out of Medicare.
+  This was an extraordinary and historic opportunity for the Senate and 
+the Congress to do something meaningful. Forty years ago, when we 
+created Medicare, the doctors across America opposed it saying it was 
+socialized medicine. They did not want the Government involved. A few 
+years after the fact, they realized Medicare was not only great for 
+seniors but not bad for the medical profession either. They have been 
+able to expand their practices, create more hospital care, and make for 
+a healthier America.
+  It worked to everyone's advantage, but the special interest group at 
+the time, the AMA, was opposed to it. Today this is a product of 
+special interest groups. This is not a product that was designed for 
+seniors. It was a product that was designed to reward friends--the 
+pharmaceutical companies that have spent $139 million lobbying Congress 
+over the past 6 months, as well as the HMOs, Golden Rule, and all the 
+old buddy network.
+  They may win tomorrow, but this I will predict: When this bill goes 
+into effect in 2006, conveniently after the next Presidential election 
+so that all of the bad impact of it won't be realized, when this bill 
+goes into effect and seniors across America realize they have been had, 
+the telephone calls that Congressmen and Senators are receiving today 
+will pale in comparison.
+  Woe to those Senators and Congressmen who stand for reelection having 
+voted for this bill when it goes into effect in 2006. When the seniors 
+realize how complicated it is, how unfair it is, the gaps in coverage, 
+the fact there is no control on the price of drugs, the fact that the 
+cost of Medicare is going to increase and that they are going to be 
+forced into HMOs with no choice of doctor or hospital, there is going 
+to be a reaction which you will not forget.
+  I served in the House when we passed something called catastrophic 
+insurance. We thought it was a pretty good idea. I voted for it. The 
+seniors read the fine print and rejected it. When they rejected it, we 
+were forced to repeal that law. It is the only time I recall in my 
+congressional career we have done that.
+  Trust me, after this goes into effect in 2006, this Congress is going 
+to be scrambling to repeal the most outrageous portions of this bill. 
+And all those who think we are going to get by with a slogan about 
+prescription drugs for seniors are in for a rude awakening.
+  The seniors across America are men and women who have worked hard all 
+their lives, people of common sense who are not going to fall for what 
+the AARP and so many organizations are now pushing in their faces and 
+saying they must accept. They are going to reject it, and when they 
+reject it, they will reject those who voted for it. I hope my 
+colleagues will think twice before they vote tomorrow morning.
+  Mr. President, I yield the floor.
+  The PRESIDING OFFICER (Mr. Enzi). Who seeks time? The Senator from 
+Massachusetts.
+  Mr. KENNEDY. There was a time in America when our citizens worked 
+hard their entire lives and prepared themselves as well as they could 
+for their own retirement. But for millions of Americans, retirement 
+meant misery, poverty and abandonment. They were on their own with no 
+financial security and no health care in what was called, with great 
+irony, the golden years of their lives. But all that changed in the 
+wake of the Great Depression.
+  The scandalous neglect and serious hardship of the elderly was no 
+longer tolerable. In the 1930s, Congress and the administration made a 
+promise to our people. We guaranteed that any American who works hard, 
+plays by the rules, and pays taxes will earn well-deserved financial 
+security in retirement. A generation later, we added health care to 
+that commitment. And ever since, the two most successful and beloved 
+programs in the nation have been Social Security and Medicare.
+  The legislation before us today is a shameful attempt to break that 
+promise. It's a right wing Republican assault on Medicare in the guise 
+of a prescription drug program, and Republicans know it. They know that 
+this bill will force millions of seniors into HMOs, and deny them their 
+choice of doctor and hospital. They know that this bill does nothing to 
+control the skyrocketing cost of prescription drugs. They know that 
+it's a fat deal for HMOs and pharmaceutical companies--and a raw deal 
+for the elderly. They know it's a dress rehearsal for the coming 
+assault on social security.
+  It's a con job on America's seniors, and they are trying to rush it 
+through Congress before anyone knows what's going on.
+  Why else would Republicans rig a vote to pass it in the House of 
+Representatives in the dead of night?
+  Why else would they shamelessly ram it through the Senate over a 
+weekend?
+  Why else would they vote to overturn the senate rules so that this 
+conference report can pass?
+  In the few hours of this debate, the proponents of this flawed 
+legislation have described their proposal in the most benign--and 
+misleading--terms. They say that this bill gives seniors the freedom to 
+choose among competing plans. They say at least it gives protection to 
+the poorest of seniors. They say it will lower drug prices through 
+competition. They are absolutely wrong on all of these points.
+  This partisan proposal has been carefully and coldly calculated, not 
+to protect Medicare but to destroy it, and leave the millions of senior 
+citizens who rely on it today without a lifeline in the future.
+  It is the first step towards a total dismantling of Medicare. In 
+exchange for destroying Medicare, it offers senior citizens a limited 
+and inadequate drug benefit. The moment it is implemented, it will make 
+nine million senior citizens--almost one quarter of all senior 
+citizens--worse off than they are today.
+  Seniors already have the most important choice they want--the choice 
+of
+
+[[Page S15767]]
+
+the doctors and hospitals they trust. That it the choice they will lose 
+if they are forced to join HMOs or other programs that say an insurance 
+company will choose their doctor for them.
+   Senior citizens already have the choice to join a private insurance 
+plan competing with Medicare if they choose. But nine out of ten prefer 
+to keep their Medicare. The bipartisan bill that passed the Senate 
+earlier this year provided a reasonable additional choice--to receive 
+prescription drug coverage under Medicare, or to receive that coverage 
+through a private-sector drug plan.
+  But the conference report adopted the unacceptable House approach of 
+ending Medicare as we know it. It establishes a massive demonstration 
+program that will subject seven million senior citizens--one out of 
+every six--to a so-called premium support program. The only purpose of 
+premium support is to raise the premium in regular Medicare so that 
+senior citizens will have to join HMOs to get affordable health care. 
+That's not competition. That's compulsion.
+  If that weren't bad enough, the conference report lavishes massive 
+subsidies on HMOs and other private insurers to help them ``compete.'' 
+For every senior citizen who joins an HMO, the government will pay a 25 
+percent mark-up--almost $2,000--more than it would cost to provide that 
+same senior citizen with the same service under Medicare. As a result 
+of this bill, insurance company revenues will increase by $150 billion 
+a year. That's not competition. It's corporate welfare. It's robbing 
+Medicare and robbing senior citizens to enrich powerful special 
+interests and big campaign contributors. It's creating a grossly tilted 
+playing field on which Medicare cannot compete and senior citizens will 
+be the losers.
+
+  Proponents of this plan admit that the benefits for most seniors are 
+small. But, they say, look at how much we are helping low income 
+seniors. What they don't say is that 6 million of the poorest of the 
+poor senior citizens and disabled beneficiaries who currently receive 
+drug benefits under this bill will actually be worse off. Medicaid will 
+be prohibited from supplementing Medicare coverage. These poorest of 
+the poor will find the cost of the drugs they need increased and their 
+access to needed medicines reduced. Their rates of hospitalization, 
+injury, and even death will go up.
+  In addition, almost 3 million seniors, many with low incomes, with 
+good retirement drug coverage today will lose it as the result of this 
+bill. That's not progress. It's a massive retreat. As the old saying 
+goes, our Republican Colleagues really do love the poor, because they 
+are creating so many of them.
+  Some low income seniors may get better drug coverage under this plan, 
+but only at the price of the destruction of the Medicare that all 
+seniors love, low and moderate income alike. No senior citizen should 
+be faced with this Sophie's choice between the drug benefits they need 
+and the dismantled Medicare they will face under the GOP plan. We 
+passed a bipartisan bill in the Senate and that did not sacrifice 
+Medicare on the altar of right-wing ideology. If we voted down the 
+destructive, partisan bill before us, the Senate will have another 
+opportunity to do the job right.
+  The drug industry too will reap a bonanza under this bill. If 
+prescription drug prices continue to rise at double-digit rates, the 
+minimal savings this bill provides to the average senior will be wiped 
+out in no time by higher drug costs. This bill does nothing meaningful 
+to hold prices down. In fact, far from moderating increases in drug 
+costs, the Congressional Budget Office estimates that they will 
+actually rise as the result of this legislation. No wonder the stock of 
+our four leading drug companies went up $8 billion today.
+  It doesn't allow drugs to be imported from Canada. It even bans the 
+Secretary of HHS from bargaining for better drug prices for Medicare.
+  The Senate is on trial today, and we will soon vote on whether to 
+stop this charade. I urge my colleagues to stand up and fight. Fight it 
+for the worker who paid into his company's' retirement fund for 20 
+years. Fight for the three million retirees like him who will lost 
+their health insurance because of this bill.
+  Fight for city workers like those in Springfield, MA, whose brave 
+mayor plans to obtain cheaper prescription drugs for them from Canada.
+  Fight it for the elderly grandmother on Medicaid, and the 7 million 
+poor Americans like her, who count every penny, who can't begin to pay 
+for their prescription drugs under this bill.
+  Fight for the 36 million seniors who want to stay in the Medicare 
+they love, and with the doctors and hospitals they choose.
+  Fight it to keep billions and billions of Medicare dollars that come 
+out of your paycheck from lining the pocketbooks of big drug companies 
+and HMOs. That's your money going to your Medicare, and it should pay 
+for your prescription drugs, not inflated profits of the drug industry 
+and the insurance industry.
+  Fight for a nation that keeps its commitments to our seniors--who 
+fought our wars, raised our families, and built our economy. How can we 
+turn our backs on them now?
+  The more the American people learn about this legislation, the more 
+they dislike it. The more senior citizens learn about it, the more they 
+oppose it. Let us not turn our back on Medicare now. Let us not turn 
+our back on senior citizens so that insurance companies and 
+pharmaceutical companies can earn higher profits. Let us vote no on the 
+disgraceful bill, and come back and do the job right.
+  And we will do that job right, even if it takes the election of a new 
+Congress and a new President to do it.
+  The Democratic Party fought for years to enact Medicare. We will 
+fight for as long as it takes to save Medicare and to provide senior 
+citizens the comprehensive prescription drug benefit they need.
+  We will fight today. We will fight this year. We will fight next 
+year. We will fight this issue in every State and congressional 
+district in 2004--and we'll keep fighting until, once again, the 
+fundamental values of compassion and justice rate higher than more 
+wealth for those who are already wealthy, and more power for those who 
+are already powerful.
+  For those who have not been following this debate in detail, let me 
+review the particulars of this conference report. The more the American 
+people understand what this bill does, the more they will demand that 
+it be rejected.
+  Medicare is a solemn commitment between the government and the 
+people. It says, ``Pay into the system during your working years, and 
+we will guarantee you affordable, quality health care in your 
+retirement years.'' For 40 years, a fundamental part of that commitment 
+is a guarantee that senior citizens can choose the doctors and 
+hospitals they trust to provide them the medical care they need.
+  Today, there are those who want to break that commitment. They want 
+to force the elderly into HMOs, where insurance company bureaucrats, 
+not patients, choose the doctor. They want to replace the solid 
+guarantee of affordable Medicare anywhere in the country with a system 
+where what you pay depends where you live. They want to take our 
+country back to the 19th century, when Government was by the wealthy 
+and powerful and for the wealthy and powerful--and the weak, the poor, 
+the members of working families, and the elderly were left out and left 
+behind.
+  For a number of years, we have been working to improve Medicare by 
+adding a much-needed prescription drug benefit. Democrats and 
+Republicans alike have campaigned on that issue. Democrats and 
+Republicans alike have promised senior citizens and their families to 
+fill the largest gap in Medicare protection--its failure to cover the 
+high cost of prescription drugs. How in the world, the American people 
+are asking, did we get from that non-partisan objective of improving 
+the Medicare program with a prescription drug benefit to a partisan 
+proposal to radically alter Medicare for the benefit of the insurance 
+industry?
+  In July, the United States Senate passed a bipartisan program to add 
+prescription drug coverage to Medicare. Seventy-six members of the 
+Senate, Republicans and Democrats alike voted for the legislation. Ten 
+Republicans and 10 Democrats voted no.
+  By contrast, the House of Representatives passed a bill to radically 
+change Medicare.
+  It included prescription drug coverage--but only as a trojan horse 
+for
+
+[[Page S15768]]
+
+the radical changes that were their real objective. Their bill was 
+designed to privatize Medicare, to force senior citizens to join HMOs 
+and other private insurance plans, and to benefit the wealthy and 
+powerful at the expense of senior citizens. It was a radical program 
+designed to by those who, in their arrogance, believe they know what is 
+best for senior citizens. Senior citizens may not want to join HMOs or 
+other private insurers--but in the view of the writers of this 
+legislation, that's because they just don't know what's good for them.
+  The House bill picked up where President Bush left off. The President 
+proposed that senior citizens couldn't get a prescription drug benefit 
+at all unless they joined an HMO or other private insurance plan. That 
+plan generated such a wave of public outrage that Republicans had to 
+withdraw it. But the House bill achieved the same objective by 
+proposals that were less blatant but equally effective.
+  Because the House bill was about radically restructuring Medicare 
+according to the right wing blueprint, it could not command bipartisan 
+support. It passed by the House by a narrow partisan majority of a 
+single vote.
+  The report the conference produced--with all but two of the 
+Democratic conferees excluded from the deliberations--was the partisan 
+House proposal all over again. That's why the vote in the House this 
+morning was just as partisan, just as narrow, and only achieved by the 
+most extraordinary perversion of House rules. Now it is up to the 
+Senate to prevent this travesty from becoming law.
+  This is no longer a bill to provide senior citizens a drug benefit. 
+It is a bill to reward powerful special interest and to force senior 
+citizens into the unloving arms of HMOs and insurance companies. It is 
+a right wing program to privatize and voucherize Medicare. It asks the 
+elderly to swallow unprecedented and destructive changes to the 
+Medicare program in return for a limited, inadequate, small 
+prescription drug benefit. It does nothing to drug costs. It gives the 
+pharmaceutical industry a free ride--and sticks senior citizens with 
+the bill. And this conference report is so ill-conceived that not only 
+does it put the whole Medicare program at risk; it makes nine million 
+seniors--almost one-quarter of the Medicare population worse off the 
+day this program is implemented than they are today.
+
+  One of the most important of these destructive changes is a concept 
+called ``premium support.'' It should really be called senior citizen 
+coercion support, or maybe it's called ``premium support'' because it 
+uses Medicare premiums to support HMO profits. It replaces the stable, 
+reliable premium that senior citizens pay for Medicare today with an 
+unstable, unaffordable premium.
+  Here's how it works. Today, Medicare premiums are set at 75 percent 
+of the costs for Part B of the Medicare program, the part that pays for 
+doctor care. Beneficiaries pay the remaining 25 percent. The premium is 
+the same no matter where you live. It increases from year to year at 
+the same rate as Medicare doctor costs. It is a stable, reliable 
+amount.
+  Premium support stands this system on its head. The Government 
+contribution to private plans would no longer be based on a fixed 
+amount. Neither would the charges to Medicare beneficiaries. Instead, 
+the Government contribution to both private plans and Medicare would be 
+based on the average of what plans charge and Medicare costs. If plan 
+charges were lower than Medicare costs, the Government payment to 
+Medicare will go down--and Medicare premiums will go up. And instead of 
+Medicare premiums being a single, reliable, fixed amount that goes up 
+only with increases in Medicare costs, Medicare premiums will be 
+different in every county in the country.
+  And they will fluctuate wildly from year to year, depending on what 
+private plans choose to do and how many people enroll in them.
+  We all know what is going on. Insurance companies can make big money 
+by offering low-cost health insurance to healthy senior citizens. This 
+program will drain healthy seniors from Medicare, and leave behind 
+those who are sick and need help the most. It will send Medicare 
+premiums through the roof--and it leave the elderly and disabled in the 
+cellar holding the bag.
+  Under premium support, the administration's own estimates show that 
+average Medicare premiums will initially jump 25 percent. Several years 
+ago, the estimate was a whopping 47 percent. The truth is that no one 
+really knows how high Medicare premiums could rise. But we do know 
+this. Over time, the increase will become higher and higher. And that's 
+just average premiums. Under premium support, how much you pay will 
+depend on where you live and the amount could change dramatically from 
+year to year.
+  In my own state of Massachusetts, a senior citizen who happens to 
+live in Barnstable county will pay $500 a year more for their Medicare 
+than one who lives in Hampden County.
+  In Florida, you will pay $900 in Osceola and $2,000 if you live in 
+Dade County. And it's the same all over the country. In Washington 
+State, you'll pay $1,225 if you live in San Juan and $700 if you live 
+in Clark. In California, you'll pay $1,700 if you live in Los Angeles 
+and $775 if you live in Yolo. In Oregon, you'll pay $1,325 if you live 
+in Yamhill and $675 if you live in Columbia.
+  Why would anyone want to make these destructive changes to the 
+Medicare program that has served senior citizens so well for almost 
+forty years? The answer is a radical ideology that says Medicare is 
+bad. HMOs and PPOs are good. And if senior citizens don't agree, we'll 
+make sure that their premiums keep going up until they are forced to 
+give up the doctors they trust to get the medical care they need.
+  Some of supporters of this program claim it is just a demonstration--
+nothing to get excited about. But it's not a demonstration. It is a 
+vast social experiment using senor citizens as guinea pigs. Under the 
+terms of the demonstration, 7 million senor citizens could be forced 
+into this program. That's one out of every six seniors in the country. 
+Half the States in this chamber have local areas where senior citizens 
+could be forced to take part in this demonstration.
+  And that is just today. Tomorrow, the proponents of this misguided 
+policy will ram through changes that will force 10 million senior 
+citizens, or 20 million, or the whole country into this plan. If we 
+pass this bill, we're not just putting the camel's nose under the tent. 
+We're putting the head and the hump in, too.
+  The people who support this program make no secret of what they want 
+to do. They are on record as thinking the Medicare is outdated, that it 
+should be scrapped, and that seniors should be forced into HMOs. That's 
+the same philosophy the President embraced when he initially proposed 
+to give senior citizens a drug benefit only if they joined an HMO or 
+PPO. I respect their opinions, but it is wrong to use senior citizen's 
+need for prescription drugs as a club to force through a radical change 
+in Medicare that could never pass muster on its own.
+  Premium support is only one of the ways that this plan would 
+privatize Medicare and force senior citizens to choose between the 
+doctors they trust and the prescription drugs they need. The conference 
+report pumps up the payment to private plans to a level where Medicare 
+could be uncompetitive.
+  It's fiscally irresponsible and unfair. It's using the elderly's own 
+Medicare money to destroy the program they depend on.
+  The bill lavishes largesse on the private sector by stealing from 
+Medicare in three ways.
+  First, the payment formula in the conference report is the same as 
+the House's--and it raises payments to private plans so that they are 
+109 percent of Medicare's costs for caring for the same person.
+  Is that not odd? The private sector is supposed to be more efficient 
+and save Medicare money--but Medicare, under this report, is paying 
+them 9 percent more than it would provide Medicare to cover the same 
+services.
+  But that is only the beginning. According to the CMS's own studies, 
+Medicare pays an additional 16 percent in excess of Medicare's own 
+costs to private insurance companies because the senior citizens who 
+join Medicare HMOs are healthier than those who do not.
+  So under this bill, Medicare is going to be paying a 25 percent 
+markup for
+
+[[Page S15769]]
+
+every senior citizen that goes into an HMO--nine percent for the 
+payment differential put into this bill and 16 percent for the health 
+differential--and that is before you add in a $12 billion slush fund 
+for PPOs that this bill also contains.
+  The Medicare trust fund--that today's retirees paid into and rely 
+on--will be robbed to lavish billions of dollars on HMOs and insurance 
+companies. Senior citizens will pay for this largesse not only in the 
+depletion of the Medicare trust fund, not only in lesser resources for 
+benefits they need, but in higher Medicare premiums. Why? So HMOs and 
+insurance companies can profit.
+  Last week, I released a new report by the staff of the Health 
+Committee analyzing the impact of this program on HMO and insurance 
+industry revenues and profits.
+  The data is drawn from the projections of the Medicare actuary, the 
+Medicare Trustee's report, and publicly reported data on the insurance 
+industry. The results are sobering. As the result of this bill, annual 
+revenues of the insurance industry will increase by an incredible $150 
+billion a year. Profits from Medicare business will increase by 500 
+percent. And this huge bonanza to the private insurance industry will, 
+in the words of the Medicare actuary, ``increase Medicare costs 
+significantly.''
+  I ask unanimous consent that the study be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+   The Impact of Republican Medicare Proposals on Insurance Industry 
+                          Revenues and Profits
+
+
+ A Senate Committee on Health, Education, Labor, and Pensions Minority 
+                    Staff Report, November 20, 2003
+
+        H.R. 1, the House Medicare Prescription Drug and 
+     Modernization Bill passed by the House of Representatives 
+     earlier this year, includes a number of provisions described 
+     by its sponsors as intended to enhance Medicare beneficiary 
+     choices and encourage competition. Most of the relevant 
+     provisions of the proposed conference report are identical to 
+     H.R. 1. This report by the minority staff of the Senate 
+     Committee on Health, Education, Labor and Pensions examines 
+     the impact of these proposals on the revenues and profits of 
+     Health Maintenance Organizations (HMOs), Preferred Provider 
+     Organizations (PPOs), and the private health insurance 
+     industry.
+        The report concludes that Medicare revenues of HMOs and 
+     PPOs will increase from $31 billion this year to $181 billion 
+     in 2010 under the Republican plan. Profits will increase by 
+     $4.4 billion based on an average profit margin, or $18 
+     billion based on profits of the most successful plans. 
+     Overall, Medicare revenues and profits of the private 
+     insurance industry will increase by 490 percent in 2010 under 
+     the Republican plan. Increases under the premium support 
+     program, which begins in 2010, will be even higher.
+
+                               Background
+
+     Competition with the Private Sector in the Medicare Program 
+         Today
+        Senior citizens already have a choice today between 
+     Medicare and private insurance plans offering Medicare 
+     benefits through the Medicare+Choice program. The program is 
+     open to most types of insurance plans--HMOs, PPOs, and fee-
+     for-service indemnity plans--but almost all the participating 
+     plans are HMOs. Eleven percent of Medicare beneficiaries are 
+     enrolled in Medicare+Choice plans.
+        Under Medicare+Choice, participating plans must offer 
+     Medicare benefits. They receive a payment from Medicare that 
+     is supposed to represent what it would have cost Medicare to 
+     serve the same enrollees under the regular Medicare program. 
+     Originally, the Medicare payment was set at 95 percent of 
+     Medicare's cost, on the theory that those who would enroll in 
+     private sector plans were healthier than the average Medicare 
+     beneficiary. As a result of subsequent modifications in the 
+     payment formula, Medicare payments to private sector plans 
+     now average 103 percent of Medicare costs.
+       Adjusting for the fact that those who enroll in private 
+     sector plans are healthier than the average Medicare 
+     enrollee, the extra cost to Medicare when a beneficiary 
+     enrolls in a private plan is substantially higher than three 
+     percent. According to a study by the Department of Health and 
+     Human Services, Medicare+Choice plans are overpaid by 16.3 
+     percent, solely because their enrollees are healthier than 
+     those who remain in traditional Medicare. The combination of 
+     the current payment formula and the difference in health 
+     between those who receive services from traditional Medicare 
+     and those who enroll in Medicare HMOs means that private 
+     insurance plans are paid almost 20 percent more than it costs 
+     Medicare to provide the same services.
+     Competition with the private sector under Conference proposal
+       The conference proposal changes the terms of competition 
+     between Medicare and the private sector in three ways: It 
+     establishes a new category of private plans--regional PPOs--
+     eligible to enroll Medicare beneficiaries and receive 
+     Medicare payments for their care. It increases Medicare 
+     payments to private plans to an average of 109 percent of 
+     Medicare costs, compared to 103 percent today. Beginning in 
+     2010, it establishes a new system of payments for both 
+     private plans and Medicare called ``premium support.''
+       Under the premium support system, the Medicare payment to 
+     private plans and the Medicare contribution to the cost of 
+     the Medicare Part B program are no longer fixed amounts 
+     Instead, they are based on a weighted average of the Medicare 
+     ``benchmark''--the payment that would be made to private 
+     plans under the old system--and the charges of the private 
+     plans. If the charges of the private charges and Medicare 
+     will contribute less to the cost of those who enroll in 
+     Medicare--raising the premiums that Medicare would otherwise 
+     charge to beneficiaries. In addition, since the Medicare 
+     premium is now based on the charges of private plans in the 
+     same area, the Medicare premium will vary depending on where 
+     the beneficiaries live. It will no longer be a uniform 
+     nationwide premium.
+     Revenues and Profits of HMOs and Private Health Insurers
+       In 2003, the revenues of HMOs and other private health 
+     insurers are estimated to be $580 billion. Profits are 
+     estimated to be $16.8 billion, and the industry average 
+     profit will be 2.9 percent. Some HMOs have significantly 
+     higher profit margins than the industry average. United 
+     HealthCare's profit margin averaged 8.7 percent in 2002, and 
+     profits are expected to increase by more than a third for 
+     2003, to 12 percent.
+
+   Impact of Conference Proposal on Revenues and Profits of HMO and 
+                        Private Health Insurers
+
+       Revenues. The CMS Medicare Actuary has estimated that if 
+     H.R. 1 is enacted, 43 percent of all Medicare beneficiaries 
+     will be enrolled in private health plans by 2010, an increase 
+     from their current 11 percent enrollment. The relevant 
+     provisions included in the conference report are similar to 
+     H.R. 1. Medicare payments to private health plans are 
+     expected to increase by $150 billion to a total of $181 
+     billion.
+       Profits. Under the average profit assumption, Medicare 
+     profits of the industry will increase by 490 percent to $5.3 
+     billion in 2010. Under the higher profit assumption, Medicare 
+     profits of the industry will increase by 2316 percent to 
+     $21.7 billion. Industry analysts estimate even higher 
+     potential additional profits of $25 billion.
+       Cost to Government. The Medicare Actuary has not provided 
+     an estimate of the impact of H.R. 1 on this cost. However, in 
+     a letter to Congressman Thomas, Chairman of the House Ways 
+     and Means Committee, dated June 4, 2003, the Actuary states 
+     that these provisions of the bill `` would increase Medicare 
+     costs significantly.''
+       Premium Support. The Medicare Actuary has not provided an 
+     estimate of the proportion of Medicare beneficiaries who 
+     would enroll in private insurance plans under the premium 
+     support program. Since the Actuary has estimated that premium 
+     support would raise average Medicare premiums by as much as 
+     25 percent however, it is reasonable to assume that a larger 
+     proportion of beneficiaries would leave Medicare and join 
+     HMOs or other private insurance plans under a full-blown 
+     premium support program, further increasing industry revenues 
+     and profits.
+
+  Mr. KENNEDY. Mr. President, there you have it. This legislation is by 
+the insurance industry, for the insurance industry, and of the 
+insurance industry. It is about privatizing Medicare so that HMOs can 
+improve their bottom line and raise their stock prices. Senior citizens 
+should not be forced to give up the doctors they trust to get the 
+medical care they need. The only rationale for this misguided policy is 
+an ideology that says higher profits for powerful special interests is 
+the highest public good.
+  No wonder President Bush and the Republic leadership is fighting so 
+hard for this bill. No wonder they are insisting on radical changes to 
+Medicare that have nothing to do with prescription drug coverage for 
+senior citizens. And no wonder senior citizens all over this country--
+and the organizations that represent them--are outraged and urging 
+members of Congress to vote no.
+  The two most beloved and effective programs our government has ever 
+created are Medicare and Social Security. Every American should 
+understand that this debate is the dress rehearsal for the coming 
+assault on Social Security. If the Republicans are successful with the 
+legislation we are considering, they will have turned over Medicare to 
+the insurance industry, so that their powerful friends can reap huge 
+profits at the expense of senior citizens. But that is just the 
+beginning. Once the HMOs and health insurance companies get their cut, 
+it will be time for the stock brokers and the bankers.
+
+[[Page S15770]]
+
+  A story in the Washington Post yesterday exposed the Republican plan. 
+It said:
+
+       President Bush's aides are reviving his long-shelved plan 
+     to let workers divert some Social Security taxes into stocks 
+     as a reelection issue, gambling that market drops have not 
+     soured voters on the politically risky idea.
+
+  It goes on:
+
+       A Republican official said the White House has signaled 
+     Capital Hill that Bush's campaign ``wants to spend a lot of 
+     money'' on advertising promoting the issue. A presidential 
+     advisor says that Bush is intent on being able to say that 
+     reworking Social Security is ``part of my mandate.''
+       Aides said Karl Rove, Bush's senior advisor, has argued 
+     internally and to the President's key supporters that recent 
+     polling and election results show that changing Social 
+     Security is no longer the ``third rail of American 
+     politics.''
+
+  The article concludes:
+
+       Republican leadership aides on capital hill said [the 
+     Social Security issue] is more likely to be a winner if 
+     Congress passes the G.O.P. plan to add a prescription drug 
+     benefit to Medicare.
+
+  There it is, in the Republicans own words. Hold on to your hat. 
+Today, Medicare, Tomorrow, Social Security.
+  It is no wonder that the Republican leadership wants to rush this 
+bill through. It is no wonder that the House leadership violated its 
+pledge to allow the members three days to review it. This bill can't 
+stand the light of day. Every hour that passes, we find more outrageous 
+provisions tucked away in this 600 plus page bill.
+  Let me review for the members some of the things that have been 
+uncovered in just the last twenty-four hours.
+  The legislation the Senate approved earlier this year included an 
+effective guarantee that seniors who wanted to remain in traditional 
+Medicare would have a choice of at least two prescription drug only 
+plans. If this simple two-plan test was not met for any reason, the 
+Federal government would provide a fallback plan. This assured that 
+seniors who wanted to stay in Medicare would have a choice of plans to 
+provide their drug benefit--or the Federal Government would provide the 
+benefit directly, as it does other Medicare benefits.
+  The supporters of the conference report claim that they have 
+guaranteed that every senior could stay in Medicare and get their 
+prescription drugs from the government if the private sector doesn't 
+provide a choice of two plans. What they don't say is that their two-
+plan requirement would be fulfilled if there is only one drug only plan 
+and one PPO in an area.
+  That means that seniors have to take what one-drug only plan offers--
+no matter how high-priced, no matter how inadequate the formulary, no 
+matter how poor the service--or be forced to leave Medicare. It looks 
+like President Bush's plan to deny senior citizens drug coverage unless 
+they give up their Medicare and their right to choose a doctor hasn't 
+been scrapped; it has just been repackaged.
+  The supporters of this conference report tout the limited $600 
+benefit that some very low income senior citizens will get next year 
+along with their prescription drug card. But what they don't say is 
+that the price of getting this benefit is your loss of personal 
+privacy. Major corporations will have unfettered access to your tax 
+records--without so much as a ``by your leave?'' All those of you who 
+think that's a good idea will love this bill--but anyone who thinks 
+that drug companies and insurance companies have no business prying 
+into your financial records had better call your Senator to tell them 
+to reject this legislation.
+  To comply with the bill's requirement that these drug benefits are 
+tied to a person's income, the bill allows HHS to disclose a senior's 
+tax records to any ``offices, employees, or contractors'' of the 
+Department of Health and Human Services. That's practically anyone--
+including the huge corporations that run the drug card programs. In the 
+words of the bill, just applying for the card ``shall be deemed 
+consent'' for this monstrous invasion of privacy.
+  Another dirty little secret tucked away in this drug bill is the 
+freedom it gives the insurance companies offering the drug benefit to 
+construct their formularies so that senior citizens can be sure that 
+there will be a drug to meet their needs on the formularies. The 
+conference report says that there must at least two drugs on the 
+formulary in each therapeutic class. The Senate bill says the 
+therapeutic classes must be approved by the Secretary. The conference 
+report says the plan gets to decide. The plan could decide to make a 
+category as broad as pain-killers and leave the senior citizen with a 
+choice of aspirin or Tylenol--and no access to the more sophisticated 
+drugs that so many must use.
+  Whether the issue is choice of drug plans, or privacy of tax records, 
+or availability of drugs the senior needs, or the size of the PPO slush 
+fund, this bill is not what has been advertised. No wonder Republicans 
+want to get the legislation off the Senate floor and onto the 
+President's desk before all the rocks are turned over.
+  One of the most troubling aspects of this legislation is that a 
+program that is supposed to improve the lives of senior citizens will 
+make almost one-quarter of them worse off the day it is implemented.
+  Six million senior citizens and disabled people on Medicaid--the 
+poorest of the poor--will be victimized. Their out-of-pocket payment 
+for drugs will be raised, and they may not even have coverage for the 
+drugs they need the most.
+  The people we are talking about are truly the poorest of the poor. In 
+most cases, their incomes are well below poverty. And the impact of 
+even small co-payments is devastating. Study after study finds that 
+when the poor have to pay more for drugs, they end up hospitalized, in 
+nursing homes, or dead.
+  You couldn't make up some of the provisions that are actually in this 
+bill. It sounds like something out of Charles Dickens to say that the 
+law might force a widow to give up her jewelry or sign away the burial 
+fund she has scraped together to get the prescription medication she 
+needs. People wouldn't believe you if you told them the that Congress 
+is considering a law to force some of America's senior citizens to make 
+those kind of choices.
+  I think everyone would acknowledge that the drug benefit contained in 
+this legislation is inadequate to meet the needs of senior citizens. It 
+has a high deductible and a coverage gap of thousands of dollars. 
+Overall, we are providing only $400 billion toward the $1.8 trillion in 
+drug costs our senior citizens and disabled will incur in the next 10 
+years.
+  Given the limitations on the new Medicare benefit, the last thing we 
+should be doing is causing people with good, solid retirement health 
+coverage to lose it. But that is exactly what this bill does, because 
+it provides a discriminatory benefit. People who have retirement 
+coverage get a lesser Medicare benefit than every other beneficiary. 
+The result: employers will drop the coverage they now provide. The CBO 
+and a new study just released by Professor Ken Thorpe of Emory 
+University show that 2.7 million people--one retiree in four--will lose 
+the good coverage they have today.
+  So between the 7 million poor people on Medicaid who will be worse 
+off and the 3 million retirees who will lose their coverage--almost 
+one-quarter of all Medicare beneficiaries will be worse off the day 
+this bill is implemented than they are today. If this legislation 
+passes, Americans will ask: What were they thinking of? Why would any 
+Senator vote to make 9 million senior citizens and disabled people 
+worse off and undermine Medicare to boot.
+  And finally, this program undermines the health insurance of all 
+Americans.
+  It puts in place an unrestricted program of health savings accounts, 
+what used to be called medical savings accounts. They provide billions 
+of new tax breaks for the healthy and wealthy.
+  This program encourages the healthy and wealthy to take high 
+deductible policies--policies that require you to pay thousands of 
+dollars before you get benefits. That is fine for people who can afford 
+to put money into a tax-free savings account, but it is not good for 
+ordinary working Americans and people who are sick.
+  The Urban Institute and the American Academy of Actuaries have 
+estimated that because the healthiest people are pulled out of the risk 
+pool for regular, comprehensive policies by these health savings 
+accounts, premiums for regular, comprehensive coverage will skyrocket. 
+If this program becomes law and you want to keep your insurance policy, 
+your premiums will increase 60 percent according to
+
+[[Page S15771]]
+
+the Urban Institute and 61 percent according to the American Academy of 
+Actuaries.
+  Isn't that astounding? The Senate started out with a bipartisan 
+program to add prescription drug coverage to Medicare, and now we are 
+asked to vote on a conference report that not only undermines Medicare 
+but could raise health insurance premiums through the roof for younger 
+Americans.
+  Senior citizens do not want this bill. The disabled do not want this 
+bill. This bill is not a drug program for senior citizens. It is an 
+attack on Medicare--and the Senate has the duty to reject it.
+  Mr. President, I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. FRIST. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
