@@ -1,0 +1,53 @@
+---
+granule: CRECB-2003-pt10-Pg14032-2
+date: 2003-06-05
+edition: CRECB
+section: EXTENSIONS
+page: 14032
+---
+
+# TRIBUTE TO THE VAIL HOTEL
+
+```
+                       TRIBUTE TO THE VAIL HOTEL
+
+                                 ______
+                                 
+
+                           HON. SCOTT McINNIS
+
+                              of colorado
+
+                    in the house of representatives
+
+                         Thursday, June 5, 2003
+
+  Mr. McINNIS. Mr. Speaker, I would like to take this opportunity to 
+pay tribute to a longtime landmark of Pubelo, Colorado, the Vail Hotel. 
+Opened in 1911, the Vail Hotel was once known as the most luxurious 
+hotel west of Chicago. Its many custom windows, doorknobs, and its 
+tasteful use of wood and stone, truly make the Vail Hotel an 
+architectural wonder. Over the years, the hotel's beauty attracted 
+President Woodrow Wilson, Clark Gable, Tallulah Bankhead, Jack Benny 
+and generations of Puebloans to its gracious halls.
+  However, without the love of the people of Pueblo, even this great 
+treasure would not be as marvelous as it is today. I am impressed by 
+the numerous craftsmen who labored to restore this magnificent 
+building, from Kathleen Sheard-Hodges, who painstakingly restored many 
+of the jeweled windows and recreated missing ones, to Bill Agnes, who 
+salvaged tiles to restore and extend the lobby's gorgeous mosaic floor. 
+Also among those deserving of praise is Gary Trujillo, the lead 
+architect for the renovation, who restored the building with 
+painstaking attention to its historic past and for its remarkable 
+beauty.
+  Mr. Speaker, it is fitting to mention one of this country's 
+magnificent historic landmarks. The Vail Hotel serves as an example of 
+the pride and hard work that the citizens of Pueblo have dedicated in 
+making their home a more beautiful place. Built by Puebloans, restored 
+by Puebloans, and beloved by all, it gives me great pride to recognize 
+today this historic building, as well as the efforts made to restore 
+it. Its beauty and history enrich the Pueblo community and will be 
+cherished for generations to come.
+
+                          ____________________
+```

@@ -1,0 +1,46 @@
+---
+granule: CRECB-2003-pt10-Pg14031-2
+date: 2003-06-05
+edition: CRECB
+section: EXTENSIONS
+page: 14031
+---
+
+# RECOGNITION OF BRADEN CHRISTIAN
+
+```
+                    RECOGNITION OF BRADEN CHRISTIAN
+
+                                 ______
+                                 
+
+                           HON. JOHN SHIMKUS
+
+                              of illinois
+
+                    in the house of representatives
+
+                         Thursday, June 5, 2003
+
+  Mr. SHIMKUS. Mr. Speaker, I rise today to pay tribute to Braden 
+Christian of Harrisburg, Illinois in honor of his participation in the 
+76th annual Scripps Howard National Spelling Bee.
+  Braden was the winner of the Tri-State Spelling Bee held at Bosse 
+High School in Evansville, Illinois on March 15 earlier this year. His 
+win secured him an invitation to the National Spelling Bee.
+  Today, I would like to congratulate Braden on his victory and wish 
+him luck in the National Competition.
+  The Scripps Howard National Spelling Bee is held annually and 
+features 251 students from grades five through eight from all over the 
+country. Students are quizzed on a large selection of words from the 
+Merriam-Webster's Third New International Dictionary. I would like to 
+commend Braden for his hard work and dedication to pursuing his goal of 
+winning the National Title.
+  In closing, I would like to praise Braden for all of his achievements 
+and also thank his parents and teachers who have nurtured and inspired 
+Braden's desire for excellence and love of knowledge. He is a truly 
+wonderful young man and I look forward to hearing of his future 
+accomplishments. God Bless.
+
+                          ____________________
+```

@@ -1,0 +1,21 @@
+---
+granule: CRECB-2003-pt10-Pg14011
+date: 2003-06-05
+edition: CRECB
+section: SENATE
+page: 14011
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  EXECUTIVE NOMINATION CONFIRMED BY THE SENATE JUNE 5, 2003:
+
+
+                         DEPARTMENT OF JUSTICE
+
+       PETER D. KEISLER, OF MARYLAND, TO BE AN ASSISTANT ATTORNEY 
+     GENERAL.
+```

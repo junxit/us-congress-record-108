@@ -1,0 +1,57 @@
+---
+granule: CRECB-2003-pt10-Pg13974-4
+date: 2003-06-05
+edition: CRECB
+section: SENATE
+page: 13974
+---
+
+# ENROLLED BILL SIGNED
+
+```
+                          ENROLLED BILL SIGNED
+
+  The message also announced that the Speaker has signed the following 
+enrolled bill:
+
+       H.R. 192. An act to amend the Microenterprise for Self-
+     Reliance Act of 2000 and the Foreign Assistance Act of 1961 
+     to increase assistance for the poorest people in developing 
+     countries under microenterprise assistance programs under 
+     those Acts, and for other purposes.
+
+  The enrolled bill was signed subsequently by the President pro 
+tempore (Mr. Stevens).
+  At 5:10 p.m., a message from the House of Representatives, delivered 
+by Mr. Hays, one of its reading clerks, announced that the House has 
+passed the following bill, in which it requests the concurrence of the 
+Senate:
+
+       H.R. 1474. An act to facilitate check truncation by 
+     authorizing substitute checks, to foster innovation in the 
+     check collection system without mandating receipt of checks 
+     in electronic form, and to improve the overall efficiency of 
+     the Nation's payments system, and for other purposes.
+
+  The message also announced that the House has agreed to the following 
+concurrent resolution, in which it requests the concurrence of the 
+Senate:
+
+       H. Con. Res. 190. Concurrent resolution to establish a 
+     joint committee to review House and Senate rules, joint 
+     rules, and other matters assuring continuing representation 
+     and congressional operations for the American people.
+
+  The message further announced that the House has passed the following 
+bills, without amendment:
+
+       S. 222. An act to approve the settlement of the water 
+     rights claims of the Zuni Indian Tribe in Apache County, 
+     Arizona, and for other purposes.
+       S. 273. An act to provide for expeditious completion of the 
+     acquisition of land owned by the State of Wyoming within the 
+     boundaries of Grand Teton National Park, and for other 
+     purposes.
+
+                          ____________________
+```

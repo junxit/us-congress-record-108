@@ -1,0 +1,47 @@
+---
+granule: CRECB-2003-pt10-Pg13972
+date: 2003-06-05
+edition: CRECB
+section: SENATE
+page: 13972
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+   IN CELEBRATION OF THE 25TH ANNIVERSARY OF MARIN SERVICES FOR WOMEN
+
+● Mrs. BOXER. Mr. President, I take this opportunity to 
+recognize the 25th anniversary of Marin Services for Women.
+  Since 1978, Marin Services for Woman MSW, has helped women recover 
+from drug and alcohol abuse. It is the only agency in Marin County that 
+provides alcohol and drug treatment programs designed to meet the 
+specific needs of women and their families.
+  MSW works tirelessly to ensure the physical and emotional health of 
+Bay Area women by working one-on-one with individuals and providing 
+them with specialized treatment. MSW's treatment philosophy is a 
+comprehensive, gender-specific, culturally responsible approach to 
+alcohol and drug recovery. MSW respects and encourages each client's 
+strengths and provides social, economic and political empowerment.
+  Throughout its 25 years of service, MSW has successfully provided a 
+safe haven for women seeking recovery by providing female staff role 
+models who reflect the diversity of the client population; residential 
+and outpatient services that address the addiction patterns of women; 
+and intensive case management to assist with employment status, access 
+to housing, and use of outside health and social services. MSW's 
+success in advancing community recovery by providing specialized 
+treatment tailored to each individual woman has set a standard for care 
+in the Bay Area.
+  For 25 years, Marin Services for Women has served as a beacon for 
+women who have nowhere else to turn. Their dedication to the community 
+is inspiring and impressive. I congratulate Marin Services for Women on 
+their 25th anniversary and wish them another 25 years of 
+success.●
+
+                          ____________________
+```
