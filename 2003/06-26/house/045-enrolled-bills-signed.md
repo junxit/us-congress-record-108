@@ -1,0 +1,71 @@
+---
+granule: CRECB-2003-pt12-Pg16596-5
+date: 2003-06-26
+edition: CRECB
+section: HOUSE
+page: 16596
+---
+
+# ENROLLED BILLS SIGNED
+
+```
+                         ENROLLED BILLS SIGNED
+
+  Mr. Trandahl, Clerk of the House, reported and found truly enrolled 
+bills of the House of the following titles, which were thereupon signed 
+by the Speaker:
+
+       H.R. 825. An act to redesignate the facility of the United 
+     States Postal Service located at 7401 West 100th Place in 
+     Bridgeview, Illinois, as the ``Michael J. Healy Post Office 
+     Building''.
+       H.R. 917. An act to designate the facility of the United 
+     States Postal Service located at 1830 South Lake Drive in 
+     Lexington, South Carolina, as the ``Floyd Spence Post Office 
+     Building''.
+       H.R. 925. An act to redesignate the facility of the United 
+     States Postal Service located at 1859 South Ashland Avenue in 
+     Chicago, Illinois, as the ``Cesar Chavez Post Office''.
+
+[[Page 16597]]
+
+
+       H.R. 981. An act to designate the facility of the United 
+     States Postal Service located at 141 Erie Street in 
+     Linesville, Pennsylvania, as the ``James R. Merry Post 
+     Office''.
+       H.R. 985. An act to designate the facility of the United 
+     States Postal Service located at 111 West Washington Street 
+     in Bowling Green, Ohio, as the ``Delbert L. Latta Post Office 
+     Building''.
+       H.R. 1055. An act to designate the facility of the United 
+     States Postal Service located at 1901 West Evans Street in 
+     Florence, South Carolina, as the ``Dr. Roswell N. Beck Post 
+     Office Building''.
+       H.R. 1368. An act to designate the facility of the United 
+     States Postal Service located at 7554 Pacific Avenue in 
+     Stockton, California, as the ``Norman D. Shumway Post Office 
+     Building''.
+       H.R. 1465. An act to designate the facility of the United 
+     States Postal Service located at 4832 East Highway 27 in Iron 
+     Station, North Carolina, as the ``General Charles Gabriel 
+     Post Office''.
+       H.R. 1596. An act to designate the facility of the United 
+     States Postal Service located at 2318 Woodson Road in St. 
+     Louis, Missouri, as the ``Timothy Michael Gaffney Post Office 
+     Building''.
+       H.R. 1609. An act to designate the facility of the United 
+     States Postal Service located at 201 West Boston Street in 
+     Brookfield, Missouri, as the ``Admiral Donald Davis Post 
+     Office Building''.
+       H.R. 1740. An act to designate the facility of the United 
+     States Postal Service located at 1502 East Kiest Boulevard in 
+     Dallas, Texas, as the ``Dr. Caesar A.W. Clark, Sr. Post 
+     Office Building''.
+       H.R. 2030. An act to designate the facility of the United 
+     States Postal Service located at 120 Baldwin Avenue in Paia, 
+     Maui, Hawaii, as the ``Patsy Takemoto Mink Post Office 
+     Building''.
+
+                          ____________________
+```
