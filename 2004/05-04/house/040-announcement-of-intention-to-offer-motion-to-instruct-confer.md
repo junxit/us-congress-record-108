@@ -1,0 +1,38 @@
+---
+granule: CREC-2004-05-04-pt1-PgH2519-4
+date: 2004-05-04
+edition: CREC
+section: HOUSE
+page: H2519
+citation: 150 Cong. Rec. H2519
+---
+
+# ANNOUNCEMENT OF INTENTION TO OFFER MOTION TO INSTRUCT CONFEREES ON S. CON. RES. 95, CONCURRENT RESOLUTION ON THE BUDGET FOR FISCAL YEAR 2005
+
+**Speaking:** Moore, Dennis (M001140) [D-KS]
+
+**Measures:** S.Con.Res. 95
+
+```
+ ANNOUNCEMENT OF INTENTION TO OFFER MOTION TO INSTRUCT CONFEREES ON S. 
+ CON. RES. 95, CONCURRENT RESOLUTION ON THE BUDGET FOR FISCAL YEAR 2005
+
+  Mr. MOORE. Madam Speaker, subject to rule XXII, clause 7(c), I hereby 
+announce my intention to offer a motion to instruct on S. Con. Res. 95, 
+Concurrent Resolution on the Budget for Fiscal Year 2005.
+  The form of the motion is as follows:
+       I move that the managers on the part of the House at the 
+     conference on the disagreeing votes of the two Houses on the 
+     House amendment to the concurrent resolution S. Con. Res. 95 
+     be instructed to agree to the pay-as-you-go enforcement 
+     provisions within the scope of the conference regarding 
+     direct spending increases and tax cuts in the House and 
+     Senate. In complying with this instruction, such managers 
+     shall be instructed to recede to the Senate on the provisions 
+     contained in section 408 of the Senate concurrent resolution 
+     (relating to the pay-as-you-go point of order regarding all 
+     legislation increasing the deficit as a result of direct 
+     spending increases and tax cuts).
+
+                          ____________________
+```
