@@ -1,0 +1,33 @@
+---
+granule: CREC-2003-04-10-pt1-PgH3055-4
+date: 2003-04-10
+edition: CREC
+section: HOUSE
+page: H3055
+citation: 149 Cong. Rec. H3055
+---
+
+# MESSAGE FROM THE SENATE
+
+**Measures:** S.Con.Res. 31, H.R. 273
+
+```
+                        MESSAGE FROM THE SENATE
+
+  A message from the Senate by Mr. Monahan, one of its clerks, 
+announced that the Senate has passed without amendment a bill of the 
+House of the following title:
+
+       H.R. 273. An act to provide for the eradication and control 
+     of nutria in Maryland and Louisiana.
+
+  The message was announced that the Senate has passed concurrent 
+resolution of the following title in which the concurrence of the House 
+is requested:
+
+       S. Con. Res. 31. Concurrent resolution expressing the 
+     outrage of Congress at the treatment of certain American 
+     prisoners of war by the Government of Iraq.
+
+                          ____________________
+```
