@@ -1,0 +1,116 @@
+---
+granule: CRECB-2004-pt13-Pg17936
+date: 2004-09-09
+edition: CRECB
+section: SENATE
+page: 17936
+---
+
+# HONORING OUR ARMED FORCES
+
+```
+                       HONORING OUR ARMED FORCES
+
+
+                     Specialist Charles E. Odums II
+
+  Mr. DeWINE. Madam President, I come to the Senate today to pay 
+tribute to Army SPC Charles Odums, II,
+
+[[Page 17937]]
+
+who lost his life in the service of our country in Iraq. At times like 
+this, I am reminded of a speech President Ronald Reagan gave on 
+Veterans Day many years ago. He said:
+
+       It is, in a way, an odd thing to honor those who died in 
+     defense of our country, in defense of us, in wars far away. 
+     The imagination plays a trick. We see these soldiers in our 
+     mind as old and wise . . . . But most of them were boys when 
+     they died.
+
+  SPC Charles Odums was 22 years old when he died after an improvised 
+explosive device detonated near his patrol in Baghdad, Iraq. Today, I 
+rise to remember this brave young man, who was taken from us much too 
+soon.
+  Charles, or ``Chuck'' as he was known by family and friends, was an 
+ambitious kid who always tried to do the right thing. Friends lovingly 
+remembered him as the ``sweet and quiet boy who would do anything that 
+was asked of him.'' He came from a close-knit family and developed an 
+especially strong bond with his younger brother, Robert. The two loved 
+to ride their motorcycles and talk of their big plans for the future. 
+They were going to be millionaires.
+  Chuck went to Sandusky High School and graduated in 1999. While 
+there, he played football and participated in track. He was the likable 
+guy everyone wanted to be around. Chuck's coach, Brett Fuqua, 
+remembered him as a hardworking young man who would run a marathon if 
+asked. Chuck was always willing to do whatever needed to be done.
+  After high school, Chuck enrolled at the University of Toledo. While 
+there, he met the love of his life, Melanie, and the two married in 
+December 2001. Chuck remained in college for more than one year, but 
+found that it wasn't for him. After much consideration and much time 
+talking it out with his parents, he decided to enlist in the Army.
+  Though this would be a difficult decision for anyone to make, Chuck 
+knew it was the right one for him. Brett Fuqua described Chuck's 
+reasons for enlisting this way:
+
+       He didn't do it because it was glamorous. He didn't do it 
+     because he would be a hero. He did it because he believed it 
+     was his duty to defend the freedoms that define America: the 
+     freedom to worship, to speak freely, to be safe.
+
+  Chuck was assigned to the 1st Battalion, 8th Cavalry Regiment, 1st 
+Cavalry Division, where he worked as a medic and driver. His comrades 
+called him ``Odie'' or ``Doc,'' and they knew they could trust him with 
+their lives. In fact, during his time in Iraq, Chuck was credited with 
+saving three lives and helping countless others. His commanding officer 
+recalled that Chuck would steer his Humvee in such a way that 
+suspicious bumps in the road would pass under the driver's side--his 
+side--putting Chuck in danger rather than his passengers.
+  While overseas, Chuck made sure to keep in touch with his family by 
+phone or e-mail, and his parents made sure they held on to everything 
+he sent them. In the binder that they now cherish, Annie and Charles 
+Odums have pictures of their son serving in Iraq. In one, Chuck, in 
+full gear, is waiting on a helicopter landing pad for his transport to 
+arrive. In another, he stands guarding an Iraqi man while other 
+soldiers search for a weapons cache. Chuck's e-mail read: ``Well, I'm 
+doing good out here.''
+  While Chuck was in Iraq, he was careful of what he told his mother. 
+He knew she would worry. Chuck missed his parents, his brother and 
+sisters, but especially his wife Melanie. Melanie and Chuck were 
+already planning what they would do when Chuck's enlistment ended. They 
+both wanted to start a family. Chuck had dreams of becoming a police 
+officer. No matter what they decided to do, Chuck and Melanie were 
+looking forward to being together.
+  After Chuck was killed, in his hometown of Sandusky, OH, thousands of 
+people gathered to show their support for the Odums family and to honor 
+Chuck. They lined the street for the funeral procession and placed 
+flags in their yards. One woman held a sign that read: ``Thank you, 
+Charles, God bless America.'' Veterans groups saluted the fallen 
+comrade and many held their hands over their hearts.
+  One Sandusky native, Debra Churchwell, took her grandchildren, 
+nieces, and nephews to watch the funeral procession. When asked why she 
+brought her family, she replied: ``I want them to see a part of history 
+because they'll never see this again. I pray to God they never see this 
+again.'' No one wants to see this again.
+  I know Chuck will live on in the hearts of his many friends and his 
+family, especially his wife Melanie, his mother Annie, father Charles, 
+brother Robert, and sisters Janel, Sophia, Candie, and Tashica. Chuck 
+is an American hero who will live on in all our hearts.
+  Madam President, I thank the Chair and yield the floor.
+  I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. LOTT. Madam President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. LOTT. Madam President, I would like to inquire about the time 
+remaining and how it is divided.
+  The PRESIDING OFFICER. There is 7 minutes remaining on the Republican 
+side and 30 minutes remaining on the Democratic side.
+  Mr. LOTT. Madam President, I do not want to use all that time if 
+others have a need to come and make comments, but I do have a couple 
+issues I would like to speak on briefly this morning.
+
+                          ____________________
+```

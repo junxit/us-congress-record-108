@@ -1,0 +1,25 @@
+---
+granule: CRECB-2004-pt13-Pg17915-3
+date: 2004-09-09
+edition: CRECB
+section: HOUSE
+page: 17915
+---
+
+# SPECIAL ORDERS
+
+```
+                              {time}  1900
+                             SPECIAL ORDERS
+
+  The SPEAKER pro tempore (Mr. Hastings of Washington). Under the 
+Speaker's announced policy of January 7, 2003, and under a previous 
+order of the House, the following Members will be recognized for 5 
+minutes each.
+
+[[Page 17916]]
+
+
+
+                          ____________________
+```
