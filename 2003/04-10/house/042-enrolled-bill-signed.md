@@ -1,0 +1,25 @@
+---
+granule: CRECB-2003-pt7-Pg9289-4
+date: 2003-04-10
+edition: CRECB
+section: HOUSE
+page: 9289
+---
+
+# ENROLLED BILL SIGNED
+
+```
+                          ENROLLED BILL SIGNED
+
+  Mr. Trandahl, Clerk of the House, reported and found truly an 
+enrolled bill of the House of the following title, which was thereupon 
+signed by the Speaker:
+
+
+[[Page 9290]]
+
+       H.R. 273. An act to provide for the eradication and control 
+     of nutria in Maryland and Louisiana.
+
+                          ____________________
+```
