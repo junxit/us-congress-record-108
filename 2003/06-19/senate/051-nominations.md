@@ -1,0 +1,49 @@
+---
+granule: CRECB-2003-pt11-Pg15587-3
+date: 2003-06-19
+edition: CRECB
+section: SENATE
+page: 15587
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate June 19, 2003:
+
+
+                          DEPARTMENT OF STATE
+
+       JACKIE WOLCOTT SANDERS, FOR THE RANK OF AMBASSADOR DURING 
+     HER TENURE OF SERVICE AS UNITED STATES REPRESENTATIVE TO THE 
+     CONFERENCE ON DISARMAMENT AND THE SPECIAL REPRESENTATIVE OF 
+     THE PRESIDENT OF THE UNITED STATES FOR NON-PROLIFERATION OF 
+     NUCLEAR WEAPONS.
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT AS CHIEF OF 
+     CHAPLAINS, UNITED STATES NAVY, AND APPOINTMENT TO THE GRADE 
+     INDICATED UNDER TITLE 10, U.S.C., SECTION 5142:
+
+                           To be rear admiral
+
+REAR ADM. (LH) LOUIS V. IASIELLO
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY UNDER TITLE 10, U.S.C. 
+     SECTION 624:
+
+                        To be lieutenant colonel
+
+WILLIAM R. GLADBACH
+MALCOLM K. WALLACE JR.
+
+                          ____________________
+```
