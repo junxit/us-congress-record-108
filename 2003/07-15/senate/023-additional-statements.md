@@ -1,0 +1,84 @@
+---
+granule: CRECB-2003-pt13-Pg17996
+date: 2003-07-15
+edition: CRECB
+section: SENATE
+page: 17996
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+  (At the request of Mr. Daschle, the following statement was ordered 
+to be printed in the Record.)
+
+                   FREE TRADE AND WORKER PROTECTIONS
+
+● Mr. KERRY. Mr. President, the Senate will soon consider 
+implementing legislation for the Chile and Singapore Free Trade 
+Agreements. These FTAs are comprehensive in nature and will serve well 
+the interests of the United States and these two very important trading 
+partners.
+  However, I am increasingly concerned with the notion that the Chile 
+and Singapore FTAs should serve as models or templates for future trade 
+negotiations. I feel strongly that future negotiations must reflect the 
+particular concerns and uniqueness of each trading partner. This seems 
+obvious, but those who follow trade negotiations have warned that the 
+Bush administration may claim that the standards of the Chile and 
+Singapore agreements are universally applicable. I hope those warnings 
+are wrong because provisions that are acceptable given the 
+circumstances in Chile and Singapore may not be acceptable in 
+agreements with countries in very different situations.
+  International trade enhances economic opportunity and can serve to 
+improve workers' rights. As such, future trade agreements must build 
+upon the progress made to date by including comprehensive worker 
+protections and strong enforcement provisions.
+  Over the past decade, the treatment of labor and environmental issues 
+in trade agreements has evolved both in emphasis and enforcement. NAFTA 
+represents an early stage in this evolution, addressing labor and 
+environmental issues in the context of the agreement, albeit in side 
+accords. The United States-Jordan Free Trade Agreement was the first 
+FTA to include labor provisions in the actual text of the agreement and 
+to subject those provisions to the same dispute settlement procedure as 
+all other elements of the agreement.
+  Although the Chile and Singapore agreements should be the next step 
+forward in this evolution towards strong and effectively enforced labor 
+and environmental standards, they are in fact a step back. Unlike the 
+United States-Jordan FTA, the only labor provision subject to dispute 
+settlement is the requirement that each trading partner enforce its 
+existing labor laws. Furthermore, there is no enforcement mechanism to 
+ensure that Chile and Singapore will strive to uphold basic 
+international labor rights.
+  As we pursue future trade agreements, we must encourage policies that 
+avoid a downward spiral in working or environmental conditions. Trade 
+agreements must be a catalyst to improve these standards. To achieve 
+this end, American trade policy must be flexible: we must maintain a 
+broad adherence to basic principles and at the same time address the 
+unique characteristics of each trading partner.
+  Maintaining this flexibility is of utmost importance in our ongoing 
+trade negotiations with six Central American countries. These countries 
+provide an entirely different set of political and economic conditions 
+than Chile, Singapore, and our other FTA partners. The administration 
+must not ignore the fact that critical differences exist between the 
+CAFTA countries and Chile and Singapore in labor and environmental 
+areas. A fully enforceable obligation to adopt and enforce basic labor 
+standards will improve the broader socioeconomic dynamics in Central 
+America. I have recently written to Ambassador Zoellick on this topic, 
+along with Senators Baucus, Bingaman, and Jeffords. We expressed 
+concern that the labor rights situation in a number of the Central 
+American countries presents concerns of a significant degree different 
+from those underlying the negotiations of the United States-Singapore 
+and United States-Chile FTAs and urged that the CAFTA negotiations 
+ought not be tied to previously negotiated agreements.
+  I will monitor progress of future trade negotiations closely and 
+fully expect to see substantial progress in several areas. In 
+particular, the inclusion of basic worker protections, as well as 
+strong monitoring and enforcement provisions, are necessary to meet the 
+challenges of an inclusive and progressive trade policy. ●
+
+                          ____________________
+```
