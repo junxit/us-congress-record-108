@@ -1,0 +1,24 @@
+---
+granule: CRECB-2003-pt8-Pg10765-4
+date: 2003-05-07
+edition: CRECB
+section: SENATE
+page: 10765
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nomination received by the Senate May 7, 2003:
+
+
+                          DEPARTMENT OF STATE
+
+       RICHARD W. ERDMAN, OF MARYLAND, A CAREER MEMBER OF THE 
+     SENIOR FOREIGN SERVICE, CLASS OF MINISTER-COUNSELOR, TO BE 
+     AMBASSADOR EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED 
+     STATES OF AMERICA TO THE PEOPLE'S DEMOCRATIC REPUBLIC OF 
+     ALGERIA.
+```
