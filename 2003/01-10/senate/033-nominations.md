@@ -1,0 +1,24 @@
+---
+granule: CRECB-2003-pt1-Pg416-2
+date: 2003-01-10
+edition: CRECB
+section: SENATE
+page: 416
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate January 10, 2003:
+
+
+                    DEPARTMENT OF HOMELAND SECURITY
+
+       CLARK KENT ERVIN, OF TEXAS, TO BE INSPECTOR GENERAL, 
+     DEPARTMENT OF HOMELAND SECURITY. (NEW POSITION)
+       ASA HUTCHINSON, OF ARKANSAS, TO BE UNDER SECRETARY FOR 
+     BORDER AND TRANSPORTATION, DEPARTMENT OF HOMELAND SECURITY. 
+     (NEW POSITION)
+```
