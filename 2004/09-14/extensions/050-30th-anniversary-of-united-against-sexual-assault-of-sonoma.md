@@ -1,0 +1,64 @@
+---
+granule: CRECB-2004-pt14-Pg18631
+date: 2004-09-14
+edition: CRECB
+section: EXTENSIONS
+page: 18631
+---
+
+# 30TH ANNIVERSARY OF UNITED AGAINST SEXUAL ASSAULT OF SONOMA COUNTY
+
+```
+   30TH ANNIVERSARY OF UNITED AGAINST SEXUAL ASSAULT OF SONOMA COUNTY
+
+                                 ______
+                                 
+
+                          HON. LYNN C. WOOLSEY
+
+                             of california
+
+                    in the house of representatives
+
+                      Tuesday, September 14, 2004
+
+  Ms. WOOLSEY. Mr. Speaker, I rise today to honor United Against Sexual 
+Assault (UASA) of Sonoma County on the occasion of its 30th 
+anniversary. Founded in 1974 as Women Against Rape, the agency 
+consisted of a phone number to call for emotional support. Today that 
+crisis line operates 24 hours a day, and the organization has 12 board 
+members, 14 paid staff, and more than 40 volunteers who address the 
+problems related to all forms of sexual assault.
+  Over the past 30 years, UASA as greatly expanded the services offered 
+to the people of Sonoma County. It provides extensive training on 
+helping victims, including not only women and girls, but also men, 
+children, and the families of victims. Staff and volunteers also 
+accompany victims and their families for police reporting, court 
+appearances, medical exams, or other personal situations.
+  Prevention programs include outreach to elementary through high 
+school youths, reaching approximately 6,000 young people every year, as 
+well as parents and school personnel. Other efforts include bilingual 
+outreach to Hispanic teens, teen peer education training, anti-racism 
+curriculum which deals with violence against the Lesbian/Gay/Bisexual/
+Transgender community, and a unique men's program featuring men 
+educating men. All services are offered at no cost.
+  UASA also plays a key role in the county's pioneering SART (sexual 
+assault response team) which unites law enforcement, mental health, 
+legal, and advocacy programs to support victims and families. This 
+collaborative project makes services easily accessible and minimizes 
+the stress felt by victims. The agency is also working with the 
+District Attorney's office to establish a county-wide Family Justice 
+Center by 2005.
+  In May 2004, Executive Director Gloria Young was named ``Outstanding 
+Director of the Year'' by the California Coalition Against Sexual 
+Assault for shepherding the agency through many of these transitions.
+  Mr. Speaker, UASA's long-term mission is to eliminate all forms of 
+sexual assault. I know that with its inspired leadership, dedicated 
+staff, and committed volunteers United Against Sexual Assault of Sonoma 
+County has brought our community a long way toward achieving this goal 
+and will not be satisfied until they have reached it. I salute UASA on 
+their 30th anniversary and look forward to the day when their services 
+are no longer needed.
+
+                          ____________________
+```
