@@ -1,0 +1,58 @@
+---
+granule: CREC-2003-08-01-pt1-PgS10939
+date: 2003-08-01
+edition: CREC
+section: SENATE
+page: S10939
+citation: 149 Cong. Rec. S10939
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate August 1, 2003:
+
+
+                   Executive Office of the President
+
+       JOSETTE SHEERAN SHINER, OF VIRGINIA, TO BE A DEPUTY UNITED 
+     STATES TRADE REPRESENTATIVE, WITH THE RANK OF AMBASSADOR.
+
+
+                         Department of Commerce
+
+       James J. Jochum, of Virginia, to be an Assistant Secretary 
+     of Commerce.
+
+
+                       Department of the Treasury
+
+       ROBERT STANLEY NICHOLS, OF WASHINGTON, TO BE AN ASSISTANT 
+     SECRETARY OF THE TREASURY.
+       THE ABOVE NOMINATIONS WERE APPROVED SUBJECT TO THE 
+     NOMINEES' COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND 
+     TESTIFY BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+
+
+                          DEPARTMENT OF STATE
+
+       JEFFREY A. MARCUS, OF TEXAS, TO BE AMBASSADOR EXTRAORDINARY 
+     AND PLENIPOTENTIARY OF THE UNITED STATES OF AMERICA TO 
+     BELGIUM.
+
+
+                       DEPARTMENT OF THE TREASURY
+
+       TERESA M. RESSEL, OF VIRGINIA, TO BE AN ASSISTANT SECRETARY 
+     OF THE TREASURY.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       RENE ACOSTA, OF VIRGINIA, TO BE AN ASSISTANT ATTORNEY 
+     GENERAL.
+       PAUL MICHAEL WARNER, OF UTAH, TO BE UNITED STATES ATTORNEY 
+     FOR THE DISTRICT OF UTAH FOR THE TERM OF FOUR YEARS.
+```
