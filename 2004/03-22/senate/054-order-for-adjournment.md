@@ -1,0 +1,31 @@
+---
+granule: CRECB-2004-pt4-Pg4789
+date: 2004-03-22
+edition: CRECB
+section: SENATE
+page: 4789
+---
+
+# ORDER FOR ADJOURNMENT
+
+```
+                         ORDER FOR ADJOURNMENT
+
+  Mr. McCONNELL. Mr. President, if there is no further business to come 
+before the Senate, I ask unanimous consent that the Senate stand in 
+adjournment under the previous order following the remarks of our 
+friend from Illinois, Senator Durbin, for up to 20 minutes.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. REID. Mr. President, I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. DURBIN. I ask unanimous consent that the order for the quorum 
+call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. DURBIN. Mr. President, I know I have been given permission to 
+speak in morning business. I have two separate issues totally 
+unrelated, and I would like to address each of them.
+  The PRESIDING OFFICER. The Senator from Illinois.
+
+                          ____________________
+```
