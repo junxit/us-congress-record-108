@@ -1,0 +1,630 @@
+---
+granule: CREC-2004-07-20-pt1-PgH6089-2
+date: 2004-07-20
+edition: CREC
+section: HOUSE
+page: H6089
+citation: 150 Cong. Rec. H6089
+---
+
+# JUNK FAX PREVENTION ACT OF 2004
+
+**Speaking:** Upton, Fred (U000031) [R-MI], Markey, Edward J. (M000133) [D-MA], Dingell, John D. (D000355) [D-MI]
+
+**Measures:** H.R. 4600
+
+```
+                    JUNK FAX PREVENTION ACT OF 2004
+
+  Mr. UPTON. Mr. Speaker, I move to suspend the rules and pass the bill 
+(H.R. 4600) to amend Section 227 of the Communications Act of 1934 to 
+clarify the prohibition on junk fax transmissions, as amended.
+  The Clerk read as follows:
+
+                               H.R. 4600
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Junk Fax Prevention Act of 
+     2004''.
+
+     SEC. 2. PROHIBITION ON FAX TRANSMISSIONS CONTAINING 
+                   UNSOLICITED ADVERTISEMENTS.
+
+       (a) Prohibition.--Subparagraph (C) of section 227(b)(1) of 
+     the Communications Act of 1934 (47 U.S.C. 227(b)(1)(C)) is 
+     amended to read as follows:
+       ``(C) to use any telephone facsimile machine, computer, or 
+     other device to send, to a telephone facsimile machine, an 
+     unsolicited advertisement, unless--
+       ``(i) the unsolicited advertisement is from a sender with 
+     an established business relationship with the recipient, and
+
+[[Page H6090]]
+
+       ``(ii) the unsolicited advertisement contains a notice 
+     meeting the requirements under paragraph (2)(D),
+
+     except that the exception under clauses (i) and (ii) shall 
+     not apply with respect to an unsolicited advertisement sent 
+     to a telephone facsimile machine by a sender to whom a 
+     request has been made not to send future unsolicited 
+     advertisements to such telephone facsimile machine that 
+     complies with the requirements under paragraph (2)(E); or''.
+       (b) Definition of Established Business Relationship.--
+     Subsection (a) of section 227 of the Communications Act of 
+     1934 (47 U.S.C. 227(a)) is amended--
+       (1) by redesignating paragraphs (2) through (4) as 
+     paragraphs (3) through (5), respectively; and
+       (2) by inserting after paragraph (1) the following new 
+     paragraph:
+       ``(2) The term `established business relationship', for 
+     purposes only of subsection (b)(1)(C)(i), shall have the 
+     meaning given the term in section 64.1200 of the Commission's 
+     regulations, as in effect on January 1, 2003, except that--
+       ``(A) such term shall include a relationship between a 
+     person or entity and a business subscriber subject to the 
+     same terms applicable under such section to a relationship 
+     between a person or entity and a residential subscriber; and
+       ``(B) an established business relationship shall be subject 
+     to any time limitation established pursuant to paragraph 
+     (2)(G).''.
+       (c) Required Notice of Opt-Out Opportunity.--Paragraph (2) 
+     of section 227(b) of the Communications Act of 1934 (47 
+     U.S.C. 227(b)(2)) is amended--
+       (1) in subparagraph (B), by striking ``and'' at the end;
+       (2) in subparagraph (C), by striking the period at the end 
+     and inserting a semicolon; and
+       (3) by adding at the end the following new subparagraph:
+       ``(D) shall provide that a notice contained in an 
+     unsolicited advertisement complies with the requirements 
+     under this subparagraph only if--
+       ``(i) the notice is clear and conspicuous and on the first 
+     page of the unsolicited advertisement;
+       ``(ii) the notice states that the recipient may make a 
+     request to the sender of the unsolicited advertisement not to 
+     send any future unsolicited advertisements to a telephone 
+     facsimile machine or machines and that failure to comply, 
+     within the shortest reasonable time, as determined by the 
+     Commission, with such a request meeting the requirements 
+     under subparagraph (E) is unlawful;
+       ``(iii) the notice sets forth the requirements for a 
+     request under subparagraph (E);
+       ``(iv) the notice includes--
+
+       ``(I) a domestic contact telephone and facsimile machine 
+     number for the recipient to transmit such a request to the 
+     sender; and
+       ``(II) a cost-free mechanism for a recipient to transmit a 
+     request pursuant to such notice to the sender of the 
+     unsolicited advertisement; the Commission shall by rule 
+     require the sender to provide such a mechanism and may, in 
+     the discretion of the Commission and subject to such 
+     conditions as the Commission may prescribe, exempt certain 
+     classes of small business senders, but only if the Commission 
+     determines that the costs to such class are unduly burdensome 
+     given the revenues generated by such small businesses;
+
+       ``(v) the telephone and facsimile machine numbers and the 
+     cost-free mechanism set forth pursuant to clause (iv) permit 
+     an individual or business to make such a request during 
+     regular business hours; and
+       ``(vi) the notice complies with the requirements of 
+     subsection (d);''.
+       (d) Request To Opt-Out of Future Unsolicited 
+     Advertisements.--Paragraph (2) of section 227(b) of the 
+     Communications Act of 1934 (47 U.S.C. 227(b)(2)), as amended 
+     by subsection (c) of this section, is further amended by 
+     adding at the end the following new subparagraph:
+       ``(E) shall provide, by rule, that a request not to send 
+     future unsolicited advertisements to a telephone facsimile 
+     machine complies with the requirements under this 
+     subparagraph only if--
+       ``(i) the request identifies the telephone number or 
+     numbers of the telephone facsimile machine or machines to 
+     which the request relates;
+       ``(ii) the request is made to the telephone or facsimile 
+     number of the sender of such an unsolicited advertisement 
+     provided pursuant to subparagraph (D)(iv) or by any other 
+     method of communication as determined by the Commission; and
+       ``(iii) the person making the request has not, subsequent 
+     to such request, provided express invitation or permission to 
+     the sender, in writing or otherwise, to send such 
+     advertisements to such person at such telephone facsimile 
+     machine;''.
+       (e) Authority To Establish Nonprofit Exception.--Paragraph 
+     (2) of section 227(b) of the Communications Act of 1934 (47 
+     U.S.C. 227(b)(2)), as amended by subsections (c) and (d) of 
+     this section, is further amended by adding at the end the 
+     following new subparagraph:
+       ``(F) may, in the discretion of the Commission and subject 
+     to such conditions as the Commission may prescribe, allow 
+     professional or trade associations that are tax-exempt 
+     nonprofit organizations to send unsolicited advertisements to 
+     their members in furtherance of the association's tax-exempt 
+     purpose that do not contain the notice required by paragraph 
+     (1)(C)(ii), except that the Commission may take action under 
+     this subparagraph only by regulation issued after public 
+     notice and opportunity for public comment and only if the 
+     Commission determines that such notice required by paragraph 
+     (1)(C)(ii) is not necessary to protect the ability of the 
+     members of such associations to stop such associations from 
+     sending any future unsolicited advertisements; and''.
+       (f) Authority To Establish Time Limit on Established 
+     Business Relationship Exception.--Paragraph (2) of section 
+     227(b) of the Communications Act of 1934 (47 U.S.C. 
+     227(b)(2)), as amended by subsections (c), (d), and (e) of 
+     this section, is further amended by adding at the end the 
+     following new subparagraph:
+       ``(G)(i) may, consistent with clause (ii), limit the 
+     duration of the existence of an established business 
+     relationship to a period not shorter than 5 years and not 
+     longer than 7 years after the last occurrence of an action 
+     sufficient to establish such a relationship, but only if--
+
+       ``(I) the Commission determines that the existence of the 
+     exception under paragraph (1)(C) relating to an established 
+     business relationship has resulted in a significant number of 
+     complaints to the Commission regarding the sending of 
+     unsolicited advertisements to telephone facsimile machines;
+       ``(II) upon review of such complaints referred to in 
+     subclause (I), the Commission has reason to believe that a 
+     significant number of such complaints involve unsolicited 
+     advertisements that were sent on the basis of an established 
+     business relationship that was longer in duration than the 
+     Commission believes is consistent with the reasonable 
+     expectations of consumers;
+       ``(III) the Commission determines that the costs to senders 
+     of demonstrating the existence of an established business 
+     relationship within a specified period of time do not 
+     outweigh the benefits to recipients of establishing a 
+     limitation on such established business relationship; and
+       ``(IV) the Commission determines that, with respect to 
+     small businesses, the costs are not unduly burdensome, given 
+     the revenues generated by small businesses, and taking into 
+     account the number of specific complaints to the Commission 
+     regarding the sending of unsolicited advertisements to 
+     telephone facsimile machines by small businesses; and
+
+       ``(ii) may not commence a proceeding to determine whether 
+     to limit the duration of the existence of an established 
+     business relationship before the expiration of the 3-year 
+     period that begins on the date of the enactment of the Junk 
+     Fax Prevention Act of 2004.''.
+       (g) Unsolicited Advertisement.--Paragraph (5) of section 
+     227(a) of the Communications Act of 1934 (47 U.S.C. 
+     227(a)(4)), as so redesignated by subsection (b)(1) of this 
+     section, is amended by inserting ``, in writing or 
+     otherwise'' before the period at the end.
+       (h) Regulations.--Except as provided in clause (ii) of 
+     section 227(b)(2)(G) of the Communications Act of 1934 (as 
+     added by subsection (f) of this section), not later than 270 
+     days after the date of the enactment of this Act, the Federal 
+     Communications Commission shall issue regulations to 
+     implement the amendments made by this section.
+
+     SEC. 3. FCC ANNUAL REPORT REGARDING JUNK FAX ENFORCEMENT.
+
+       Section 227 of the Communications Act of 1934 (47 U.S.C. 
+     227) is amended by adding at the end the following new 
+     subsection:
+       ``(g) Junk Fax Enforcement Report.--The Commission shall 
+     submit a report to the Congress for each year regarding the 
+     enforcement of the provisions of this section relating to 
+     sending of unsolicited advertisements to telephone facsimile 
+     machines, which shall include the following information:
+       ``(1) The number of complaints received by the Commission 
+     during such year alleging that a consumer received an 
+     unsolicited advertisement via telephone facsimile machine in 
+     violation of the Commission's rules.
+       ``(2) The number of such complaints received during the 
+     year on which the Commission has taken action.
+       ``(3) The number of such complaints that remain pending at 
+     the end of the year.
+       ``(4) The number of citations issued by the Commission 
+     pursuant to section 503 during the year to enforce any law, 
+     regulation, or policy relating to sending of unsolicited 
+     advertisements to telephone facsimile machines.
+       ``(5) The number of notices of apparent liability issued by 
+     the Commission pursuant to section 503 during the year to 
+     enforce any law, regulation, or policy relating to sending of 
+     unsolicited advertisements to telephone facsimile machines.
+       ``(6) For each such notice--
+       ``(A) the amount of the proposed forfeiture penalty 
+     involved;
+       ``(B) the person to whom the notice was issued;
+       ``(C) the length of time between the date on which the 
+     complaint was filed and the date on which the notice was 
+     issued; and
+       ``(D) the status of the proceeding.
+       ``(7) The number of final orders imposing forfeiture 
+     penalties issued pursuant to section 503 during the year to 
+     enforce any law, regulation, or policy relating to sending of 
+     unsolicited advertisements to telephone facsimile machines.
+       ``(8) For each such forfeiture order--
+       ``(A) the amount of the penalty imposed by the order;
+       ``(B) the person to whom the order was issued;
+       ``(C) whether the forfeiture penalty has been paid; and
+       ``(D) the amount paid.
+       ``(9) For each case in which a person has failed to pay a 
+     forfeiture penalty imposed by such a final order, whether the 
+     Commission referred such matter for recovery of the penalty.
+       ``(10) For each case in which the Commission referred such 
+     an order for recovery--
+       ``(A) the number of days from the date the Commission 
+     issued such order to the date of such referral;
+       ``(B) whether an action has been commenced to recover the 
+     penalty, and if so, the number of days from the date the 
+     Commission referred such order for recovery to the date of 
+     such commencement; and
+
+[[Page H6091]]
+
+       ``(C) whether the recovery action resulted in collection of 
+     any amount, and if so, the amount collected.''.
+
+     SEC. 4. GAO STUDY OF JUNK FAX ENFORCEMENT.
+
+       (a) In General.--The Comptroller General of the United 
+     States shall conduct a study regarding complaints received by 
+     the Federal Communications Commission concerning unsolicited 
+     advertisements sent to telephone facsimile machines, which 
+     shall determine--
+       (1) the mechanisms established by the Commission to 
+     receive, investigate, and respond to such complaints;
+       (2) the level of enforcement success achieved by the 
+     Commission regarding such complaints;
+       (3) whether complainants to the Commission are adequately 
+     informed by the Commission of the responses to their 
+     complaints; and
+       (4) whether additional enforcement measures are necessary 
+     to protect consumers, including recommendations regarding 
+     such additional enforcement measures.
+       (b) Additional Enforcement Remedies.--In conducting the 
+     analysis and making the recommendations required under 
+     paragraph (7) of subsection (a), the Comptroller General 
+     shall specifically examine--
+       (1) the adequacy of existing statutory enforcement actions 
+     available to the Commission;
+       (2) the adequacy of existing statutory enforcement actions 
+     and remedies available to consumers;
+       (3) the impact of existing statutory enforcement remedies 
+     on senders of facsimiles;
+       (4) whether increasing the amount of financial penalties is 
+     warranted to achieve greater deterrent effect; and
+       (5) whether establishing penalties and enforcement actions 
+     for repeat violators or abusive violations similar to those 
+     established by section 4 of the CAN-SPAM Act of 2003 (15 
+     U.S.C. 7703) would have a greater deterrent effect.
+       (c) Report.--Not later than 270 days after the date of the 
+     enactment of this Act, the Comptroller General shall submit a 
+     report on the results of the study under this section to 
+     Committee on Energy and Commerce of the House of 
+     Representatives and the Committee on Commerce, Science, and 
+     Transportation of the Senate.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Michigan (Mr. Upton) and the gentleman from Massachusetts (Mr. Markey) 
+each will control 20 minutes.
+  The Chair recognizes the gentleman from Michigan (Mr. Upton).
+
+
+                             General Leave
+
+  Mr. UPTON. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days within which to revise and extend their remarks 
+and include extraneous material on H.R. 4600, as amended.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Michigan?
+  There was no objection.
+  Mr. UPTON. Mr. Speaker, I reserve the balance of my time.
+  Mr. MARKEY. Mr. Speaker, I yield myself such time as I may consume, 
+and it is to make this point: That the majority worked very well with 
+the minority on this issue. The gentleman from Michigan (Mr. Dingell) 
+and I and all the Members on our side want to thank the gentleman from 
+Michigan (Mr. Upton) and the gentleman from Texas (Mr. Barton) for 
+their cooperation on this legislation.
+  I was the principal House sponsor of the original junk fax bill back 
+in 1991. That bill worked quite well, but we need to update it, and 
+this legislation will help to give the additional protections to 
+American consumers so that they can protect themselves against the 
+tsunami of unwanted junk faxes which go into their homes.
+  After all, what could be worse than to have something come into your 
+home, consume paper in your fax machine that you have to pay for, and 
+then not have an ability to be able to stop that person from sending 
+any more junk faxes into your home?
+  That is what this bill will help to ensure does not occur in our 
+country. The provisions in it, I think, are solid, they are sound, and 
+they are the product of a bipartisan bill.
+  Mr. Speaker, I rise in support of this bill. This legislation 
+reflects a compromise that was negotiated out between both Democratic 
+and Republican Members over a number of weeks and I encourage Members 
+to support this legislation today.
+  First, let me state that I was the principal House sponsor of the 
+Telephone Consumer Protection Act (TCPA) of 1991, which contained the 
+original junk fax prohibition. Congress endorsed my call in 1991 for a 
+general prohibition against junk faxes because of the intrusive nature 
+of that form of advertising. Junk faxes represent a form of advertising 
+in which the ad is essentially paid for by the recipient. The recipient 
+of a junk fax pays for the fax paper and printer costs, pays in the 
+form of precious lost time as the machine is tied up, and also in the 
+form of the clutter in which important faxes are lost in the midst of a 
+pile of junk faxes.
+  I think it is important to emphasize that the bill we bring to the 
+House floor today retains the general prohibition against sending junk 
+faxes. In other words, sending an unsolicited facsimile advertisement 
+is against the law. We are not changing the law or the policy with 
+respect to this--sending a junk fax was illegal and remains illegal 
+under this bill. Neither are we changing any of the statutory 
+enforcement mechanisms available to the FCC or consumers in this bill.
+  The legislation we are proposing will address certain provisions 
+affecting an exception to the general prohibition against sending junk 
+faxes and will improve the bill in these areas. Since the FCC 
+originally implemented the 1991 junk fax provisions of the TCPA, 
+Commission regulations contained an exception for faxes that were sent 
+because an ``established business relationship'' existed between the 
+sender and the recipient. These regulations were in place and the 
+ability to send junk faxes based upon the exception was permitted by 
+the Commission for over a decade.
+
+  This concept of an ``established business relationship'' permitted a 
+commercial entity to invoke its ability to prove such a relationship 
+with a consumer in order to contact that consumer in spite of the 
+general prohibitions of the law. The FCC has more recently determined 
+that the term ``established business relationship'' was not 
+specifically included in the provisions addressing junk faxes in the 
+TCPA and therefore changed its regulations. The new rules require 
+``written'' permission from consumers and these new rules have been 
+stayed from going into effect until January of 2005.
+  The legislation before us is designed to put specific language into 
+the statute permitting an ``established business relationship'' 
+exception to the general prohibition against junk faxes. Many 
+businesses have complained that written permission is too onerous a 
+regulatory requirement for many of the faxes that they stipulate are 
+routinely sent in the ordinary course of business, presumably without 
+complaints from the recipients of such faxes. The draft bill is 
+responsive to these complaints.
+  We must recognize, however, that many small businesses and 
+residential consumers find many of these unsolicited faxes, including 
+those faxes sent because a valid claim of an ``established business 
+relationship'' was being asserted in order to send them, to be a 
+considerable irritant and strongly object to receiving them. The 
+legislation, therefore, addresses additional issues, including putting 
+into the statute an ``opt-out'' ability for consumers to object to 
+receiving junk faxes, even when such faxes are sent to them based on an 
+established business relationship. For the decade that the original FCC 
+regulations were in place, many consumers simply were not aware of the 
+FCC's established business relationship exception, nor did very many 
+know they had an ability to stop these faxes or any clear way in which 
+to effectuate such a request.
+
+  The bill the House is considering includes new provisions requiring 
+an ``opt-out'' notice and policy that we will add to the statute. The 
+bill requires junk faxes to include, on the first page, a clear and 
+conspicuous notice to consumers that they have the right not to receive 
+future junk faxes from the sender. Second, the notice must include a 
+domestic contact telephone number an fax number for consumers to 
+transmit a request not to receive future faxes. Third, the bill 
+stipulates that consumers must be able to make such requests during 
+normal business hours. Fourth, the bill requires the notice to conform 
+with the Commission's technical and procedural standards for sending 
+faxes under Section 227(d) of the law, which include the requirement to 
+identify the entity sending the facsimile advertisement.
+  This is an important provision because one of the biggest complains 
+from the FCC at the hearing, and with other law enforcement entities 
+and aggrieved consumers, is that they have had difficulty legally 
+identifying the source of many of the unsolicited faxes. In addition, 
+there were some senders of junk faxes who evidently and falsely 
+believed that simply because they were sending an unsolicited fax based 
+upon their ability to prove they had a ``established business 
+relationship'' with a consumer, and thus did not have to abide by the 
+general prohibition against such faxes, that this also meant they did 
+not have to abide by the other FCC and statutory technical rules. These 
+statutory and regulatory rules include requirements that junk fax 
+senders identify themselves in such faxes. Law enforcement entities and 
+consumers need to be able to find the legal business name or widely 
+recognized trade name of the entity sending a junk fax in violation of 
+the rules in order to pursue enforcement actions.
+
+  Fifth, this bill makes it clear that a consumer can ``opt-out'' of 
+receiving faxes to multiple machines, if they have more than one, 
+rather than opting out solely for the particular machine that received 
+the junk fax. Sixth, in this
+
+[[Page H6092]]
+
+legislation the Commission is tasked with exploring additional 
+mechanisms by which a consumer might opt-out, such as in person or by 
+e-mail or regular mail, and also requests that the Commission 
+established cost-free ways by which consumers can opt-out. These notice 
+and opt-out requirements all represent new provisions to the law for 
+which existing enforcement remedies will apply.
+  This legislation also includes the ability for the FCC to limit the 
+duration of an established business relationship notwithstanding the 
+fact that the law would include an opt-out notice and ability which 
+avails consumers of the right to opt-out of receiving faxes at any 
+point in time. I believe this is an important concept and one which 
+deals with the legitimate expectations of consumers. If a consumer buys 
+something from a store, consumers might expect to hear from that store 
+within a reasonable period of time under the notion that they have an 
+established business relationship and the store was sending an 
+unsolicited fax based upon that fact. Over time however, a consumer's 
+expectation changes and there is a time after which the established 
+business relationship can be said to have lapsed.
+  There are some who believe that no time limit is necessary, in light 
+of the fact that we are now adding a clear way by which consumers may 
+opt-out of receiving junk faxes at any time. There are others who 
+believe that a time limit is necessary for consumer protection, and 
+many of us have different views over what period of time is reasonable. 
+While it is not the preferred resolution for any of us, the bill 
+contains a new provision which tries to bridge the gap between our 
+different perspectives on this issue. The legislation will permit the 
+Commission to put in place a sunset of the established business 
+relationship, after the FCC implements the new opt-out policy and it 
+gets a track record on what is happening in the marketplace. In 
+particular, the Commission will examine consumer complaints to the 
+agency during this period with an analysis as to whether junk faxes 
+from entities with whom consumers have an established business 
+relationship constitute a significant number of complaints. If so, the 
+Commission may establish a limit, between 5 and 7 years, for the 
+duration of an established business relationship. If it does so, then 
+after the limit, entities would not be able to send junk faxes because 
+they can prove an established business relationship with a consumer. In 
+other words, the relationship would end for purposes of the exception 
+and the policy would revert back to the general prohibition against 
+sending the junk fax for that consumer.
+
+  Finally, I think it is important to take a comprehensive look at 
+overall enforcement of the junk fax law. I am concerned that some of 
+the most egregious junk fax operations, the entities that broadcast 
+such faxes to millions, often escape enforcement. They may be found 
+guilty, cited by the FCC and sometimes fined--but often it appears as 
+if they either ignore the fines, skip town, or live overseas. For these 
+reasons the bill includes provisions that will give us an annual 
+accounting of the FCC's enforcement activities as well as a GAO 
+analysis of what additional enforcement tools may be necessary to 
+provide sufficient deterrent, especially to the most egregious and 
+abusive junk fax senders.
+  Again, I want to commend Chairman Upton and Chairman Barton for their 
+work on this bill, and in particular for their willingness and openness 
+in working with me and Mr. Dingell in crafting the compromises needed 
+to achieve consensus. I encourage all the members to support it.
+  Mr. UPTON. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, today we are considering the Junk Fax Prevention Act of 
+2004, bipartisan legislation which I introduced along with the 
+gentleman from Massachusetts (Mr. Markey), the gentleman from Texas 
+(Mr. Barton) and the gentleman from Michigan (Mr. Dingell). I want to 
+thank those Members for their hard work and bipartisan cooperation.
+  In 1991, Congress passed the Telephone Consumer Protection Act, which 
+included landmark legislation that protected consumers from receiving 
+unwanted and unsolicited commercial faxes. For over 10 years, the FCC 
+had interpreted that law to provide businesses with an exception to the 
+general ban when they faxed commercial or advertising material to an 
+existing business customer.
+  Then, in 2003, the FCC made a major change in their interpretation of 
+the law. Under the new FCC rules, every business, every single one, 
+small, large, home-based, every association, every nonprofit 
+organization, every charity, would be required to obtain prior written 
+approval from each individual before it sent a commercial fax.
+
+                              {time}  1900
+
+  The logistical and financial costs of the new FCC rules, particularly 
+to small business and nonprofit associations, would be enormous.
+  For instance, the survey of the U.S. Chamber of Commerce suggested 
+that the cost to the average small business would be at least $5,000 in 
+the first year and more than $3,000 each year thereafter. The survey 
+further indicated that it would take, on average, more than 27 hours of 
+staff time to obtain the initial written consent from their customers, 
+and an additional 20 hours each year to keep those forms current. A 
+recent survey by the National Association of Wholesalers-Distributors 
+revealed that its member companies expected to pay an average of 
+$22,500 just to obtain the consent forms. With our economy in the 
+fragile stages of an economic recovery, I would much rather see those 
+dollars going towards production and job creation.
+  Given the dramatic impact which the new rules would have, last 
+August, just before the new rules were to go into effect, the gentleman 
+from Louisiana (Mr. Tauzin), the then chairman of the Committee on 
+Energy and Commerce, and I wrote the FCC and requested that the FCC 
+delay the effective date of the new rules. Thankfully, the FCC did. In 
+fact, they stayed the effective date until January of 2005.
+  Moreover, while the FCC currently has the new rules under 
+reconsideration, I think it is the wisest course for Congress to step 
+in and fix the law to resolve any lingering statutory interpretation 
+problems which led to the FCC's new rules, and that is why we are here 
+today.
+  Let me start by stating what the Junk Fax Prevention Act of 2004 
+would not do. The bill does not overturn the ban on the faxing of 
+unsolicited advertisements. That has been outlawed since the passage of 
+the Telephone Consumer Protection Act of 1991, and this bill does 
+nothing to change that.
+  This bill does not protect the senders of those annoying, unsolicited 
+faxed advertisements which so many of us get from companies with whom 
+we have never done business, often sent to us randomly by blast fax, 
+and do not properly identify themselves in the fax transmission.
+  Rather, the bill with clearly reinstate the established business 
+relationship exemption to allow businesses, associations, and charities 
+to send commercial faxes to their customers and members without first 
+receiving written permission. Additionally and importantly, the bill 
+would establish new opt-out safeguards to provide additional 
+protections for fax recipients. Under the bill, senders of faxes must 
+alert recipients clearly and conspicuously on the first page, of their 
+right to opt-out of future faxes, and senders must abide by those 
+requests. This is a level of protection that consumers never had under 
+the FCC rules. Finally, the bill sets out the FCC reporting 
+requirements so that Congress can monitor the FCC's enforcement 
+activity.
+  The Junk Fax Prevention Act is commonsense, regulatory relief; and 
+time is of the essence for Congress to pass it, since many businesses 
+will very soon need to begin making arrangements to be in compliance 
+with the new rules by January of 2005.
+  I want to thank my friends, the gentleman from Massachusetts (Mr. 
+Markey), the gentleman from Texas (Mr. Barton), and the gentleman from 
+Michigan (Mr. Dingell), for their sincere bipartisan cooperation on the 
+bill. I also want to thank the staff on both sides of the aisle, Kelly 
+Cole, Howard Waltzman, Pete Filon, Colin Crowell, Will Carty, and 
+certainly Will Nordwind for all of their superb efforts.
+  I urge my colleagues to support this measure. I look forward to 
+working with my colleagues on the other side of the Capitol to ensure 
+that we get this must-pass legislation to the President's desk as 
+expeditiously as possible this year.
+   Mr. DINGELL. Mr. Speaker, I rise in support of H.R. 4600, the Junk 
+Fax Prevention Act of 2004. The bill strikes a proper balance between 
+protecting consumers from unwanted junk faxes and permitting legitimate 
+business communications, and I would commend Chairmen Barton and Upton, 
+and Ranking Member Markey for their bipartisan work.
+   H.R. 4600 is necessary because the Federal Communications Commission 
+(FCC), as part of its Do-Not-Call order last year, reversed its 
+existing business relationship (EBR) policy regarding junk faxes. 
+Starting in January 2005, permission to receive junk faxes
+
+[[Page H6093]]
+
+must be in writing and include the recipient's signature.
+   This rule will have a perverse effect on legitimate business 
+communications. For example, under the Commission's new policy, if I 
+would like my travel agent to send me a description of various vacation 
+packages, I must first deliver to my agent a signed waiver requesting 
+the fax. Likewise, my favorite restaurant would have to obtain a 
+similar waiver in order to fax me its updated menu. Not surprisingly, 
+commercial enterprises, especially small businesses and trade 
+associations, are justifiably concerned about the impact of the FCC's 
+new junk fax rules.
+   H.R. 4600 takes the corrective step of codifying a modified version 
+of the FCC's current 12-year-old junk fax EBR policy that is set to end 
+this year. To provide further protection to consumers, however, that 
+policy will be changed to provide consumers with the right to opt out 
+from receiving such faxes from a particular sender. Further, consumers 
+must be provided clear and conspicuous notice of their new opt-out 
+right. Additional protections for consumers include enabling recipients 
+to opt out using a cost-free mechanism and giving the FCC the authority 
+to sunset the EBR.
+   In an effort to focus on enforcement against those who illegally 
+send junk faxes, the legislation requires the Commission to report to 
+the Congress each year on the number of junk fax complaints it has 
+received and on the enforcement actions taken against those who violate 
+the agency's rules. This report should assist the commission in 
+maintaining proper vigilance on those who fail to respect consumer 
+privacy. Moreover, the bill requires the Government Accountability 
+Office to study the junk fax issue and make recommendations to the 
+Committee on additional enforcement measures that can be taken to 
+protect consumers from unwanted junk faxes.
+   Mr. Speaker, consumers are fed up with the unwanted and intrusive 
+junk faxes that clog up their fax machines. H.R. 4600 will help protect 
+consumers from receiving these faxes while ensuring that businesses can 
+continue to use the fax machine to communicate with their customers. I 
+urge my colleagues to support this bill.
+  Mr. UPTON. Mr. Speaker, I have no further requests for time, and I 
+yield back the balance of my time.
+  The SPEAKER pro tempore (Mr. Hensarling). The question is on the 
+motion offered by the gentleman from Michigan (Mr. Upton) that the 
+House suspend the rules and pass the bill, H.R. 4600, as amended.
+  The question was taken; and (two-thirds having voted in favor 
+thereof) the rules were suspended and the bill, as amended, was passed.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
