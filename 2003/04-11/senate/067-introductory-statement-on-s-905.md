@@ -1,0 +1,571 @@
+---
+granule: CREC-2003-04-11-pt2-PgS5358
+date: 2003-04-11
+edition: CREC
+section: SENATE
+page: S5358
+citation: 149 Cong. Rec. S5358
+---
+
+# Introductory Statement on S. 905
+
+**Speaking:** Rockefeller, John D., IV (R000361) [D-WV]
+
+**Measures:** S. 905
+
+```
+      By Mr. ROCKEFELLER (for himself, Ms. Snowe, Mr. Baucus, Mr. 
+        Hatch, Mr. Conrad, Mr. Kennedy, Ms. Stabenow, Mr. Breaux, Mrs. 
+        Murray, Mr. Dayton, Mr. Leahy, Mr. Schumer, and Mr. Burns):
+  S. 905. A bill to amend the Internal Revenue Code of 1986 to provide 
+a broadband Internet access tax credit; to the Committee on Finance.
+  Mr. ROCKEFELLER. Mr. President, I rise today to introduce the 
+Broadband Internet Access Act of 2003. Last year, this bill had broad 
+bipartisan support with 65 cosponsors. Its companion legislation in the 
+House of Representatives had 227 cosponsors. If the Senate considers an 
+appropriately targeted and sized economic growth package, which 
+includes investment incentives for businesses, this legislation should 
+be a priority for inclusion in that legislation as it will help jump 
+start a struggling sector of the economy.
+  The convergence of computing and communications has fundamentally and 
+forever changed the way America lives and works. Individuals, 
+businesses, schools, libraries, hospitals, and many others, reap the 
+benefits of advanced networked communications exponentially each year. 
+However, where just a decade ago access to low bandwidth telephone 
+facilities met our communications needs, today many people, businesses 
+and other organizations require the ability to transmit and receive 
+large amounts of data quickly--as part of electronic commerce, distance 
+learning, telemedicine, and even for mere access to many web sites. 
+This need will only continue to grow. In the near future, access to 
+broadband services will be as critical as having a telephone.
+  Over the last several years, companies have built networks that meet 
+today's broadband need as fast as they can. Even with the recent 
+downturn in the telecommunications industry, technology companies 
+continue to roll out the current generation of broadband facilities in 
+urban and suburban areas. They continue to tear up streets to install 
+fiber optics, convert cable TV facilities to broadband telecom 
+applications and develop innovative new DSL technologies. As the 
+economy improves, these companies will greatly expand the rate of 
+deployment of these and other technologies for urban and suburban 
+consumers providing them access to the cutting-edge technologies and 
+services.
+  Other areas of this country are not as fortunate. In rural and inner 
+city areas access to even the current generation of broadband 
+communications is limited. Investment continues to lag behind wealthier 
+urban and suburban communities. This imbalance has only been 
+exacerbated due to the telecommunications industry's recent financial 
+troubles. In fact, only a limited number of broadband providers exist 
+outside the prosperous areas of big cities and suburban areas 
+nationwide. A few positive signs are occurring though. Small rural 
+telecommunications companies are slowly expanding into providing these 
+services. They are limited in their ability to provide these services 
+because of the expense of installing the infrastructure. This is 
+because in many cases rural areas are more expensive to serve, terrain 
+is difficult and populations are widely dispersed. Importantly, many of 
+our current broadband technologies cannot serve people who live more 
+than eighteen thousand feet from a phone company's central office--
+which is the case for most rural Americans. In inner cities, companies 
+may believe that lower household income levels will not support a 
+market for their services, so they choose not to invest in these 
+communities. This is a classic situation of market failure that we must 
+address.
+
+  The implications for the country if we allow this broadband disparity 
+to continue are alarming. People and businesses in well served 
+communications and computing regions, often located in prosperous urban 
+and suburban communities, will be able to build upon the inherent 
+advantages of a networked economy. People and businesses in other 
+areas, often in rural areas as in inner cities, including many areas in 
+my State of West Virginia, would continue to be at an economic and 
+educational disadvantage.
+  We have seen how savvy businesses have crushed their competitors who 
+failed to take advantage of technological innovations, businesses in 
+infrastructure-rich areas that already have an advantage, ultimately 
+could crush competitors in infrastructure-poor areas. This is equally 
+true for rural and inner city students, workers trying to gain new 
+skills, and regular individuals who want to participate in the 
+information-based New Economy compete against their non-rural peers. 
+The result could be devastating for Americans who live in rural areas 
+or in our inner cities: job loss, tax revenue loss, brain drain, and 
+business failure concentrated in their communities.
+  Denying Americans who live in rural areas and inner cities a chance 
+to participate in our information-based global economy is also bad for 
+the national economy. Businesses will be forced to locate their 
+operations and hire their employees in urban locations that have 
+adequate broadband infrastructure, rather than in rural or inner city 
+locations that are otherwise more efficient due to the location of 
+their customers or suppliers, a stable or better workforce, and cheaper 
+production environments. It is not an understatement to say that the 
+deployment of technology could fundamentally transform the future of 
+rural and inner city America.
+
+  We have to make a decision on whether or not rural and inner city 
+communities are going to have the same opportunities as their wealthier 
+urban and suburban counterparts. I, along with many of my colleagues, 
+believe they should and must. The Broadband Internet Access Act of 2003 
+would address this disparity.
+  The Act would give companies the incentive to build current 
+generation broadband facilities in rural areas by using a very targeted 
+tax credit. It would offer any company that invests in broadband 
+facilities in rural or inner city areas a tax credit equal to ten 
+percent of their investments over the next 5 years. This tax credit 
+will help fight the growing disparity in technology that I just 
+described. The credit is also restricted to investments needed for 
+high-speed broadband telecommunications services. This means that only 
+powerful broadband services are covered. Companies cannot claim that 
+inferior services qualify for the credit. Only facilities that can 
+download data at a rate of speed of 1.0 megabytes per second, and 
+upload data at 180 kilobytes per second qualify. These speeds will 
+allow the broadest possible number of technologies to be eligible for 
+the credit.
+
+[[Page S5359]]
+
+  In addition, the bill provides a 20 percent tax credit for companies 
+that invest in next generation broadband services. These powerful new 
+services that can deliver data capacities of 22 megabytes per second 
+download and 5 megabytes per second upload will be the infrastructure 
+the economy requires as the digital economy expands. We need to reward 
+the companies who have the foresight to invest in these next generation 
+broadband services--they will benefit the whole country. These limited 
+credits will provide the market the ability to affordably and 
+profitably serve rural and inner city communities.
+  The Broadband Internet Access Act of 2003 is part of the solution to 
+the critically important digital divide problem. Rural Americans and 
+Americans living in inner cities must have the chance to participate in 
+the technological revolution that shows no signs of abating. Without 
+access to broadband services they will not have this chance. I hope 
+that the Members of this body will support this important bill.
+  I ask unanimous consent that the text of the bill be printed in the 
+Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                 S. 905
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. BROADBAND INTERNET ACCESS TAX CREDIT.
+
+       (a) In General.--Subpart E of part IV of chapter 1 of the 
+     Internal Revenue Code of 1986 (relating to rules for 
+     computing investment credit) is amended by inserting after 
+     section 48 the following new section:
+
+     ``SEC. 48A. BROADBAND INTERNET ACCESS CREDIT.
+
+       ``(a) General Rule.--For purposes of section 46, the 
+     broadband credit for any taxable year is the sum of--
+       ``(1) the current generation broadband credit, plus
+       ``(2) the next generation broadband credit.
+       ``(b) Current Generation Broadband Credit; Next Generation 
+     Broadband Credit.--For purposes of this section--
+       ``(1) Current generation broadband credit.--The current 
+     generation broadband credit for any taxable year is equal to 
+     10 percent of the qualified expenditures incurred with 
+     respect to qualified equipment providing current generation 
+     broadband services to qualified subscribers and taken into 
+     account with respect to such taxable year.
+       ``(2) Next generation broadband credit.--The next 
+     generation broadband credit for any taxable year is equal to 
+     20 percent of the qualified expenditures incurred with 
+     respect to qualified equipment providing next generation 
+     broadband services to qualified subscribers and taken into 
+     account with respect to such taxable year.
+       ``(c) When Expenditures Taken Into Account.--For purposes 
+     of this section--
+       ``(1) In general.--Qualified expenditures with respect to 
+     qualified equipment shall be taken into account with respect 
+     to the first taxable year in which--
+       ``(A) current generation broadband services are provided 
+     through such equipment to qualified subscribers, or
+       ``(B) next generation broadband services are provided 
+     through such equipment to qualified subscribers.
+       ``(2) Limitation.--
+       ``(A) In general.--Qualified expenditures shall be taken 
+     into account under paragraph (1) only with respect to 
+     qualified equipment--
+       ``(i) the original use of which commences with the 
+     taxpayer, and
+       ``(ii) which is placed in service,
+     after December 31, 2002.
+       ``(B) Sale-leasebacks.--For purposes of subparagraph (A), 
+     if property--
+       ``(i) is originally placed in service after December 31, 
+     2002, by any person, and
+       ``(ii) sold and leased back by such person within 3 months 
+     after the date such property was originally placed in 
+     service,
+
+     such property shall be treated as originally placed in 
+     service not earlier than the date on which such property is 
+     used under the leaseback referred to in clause (ii).
+       ``(d) Special Allocation Rules.--
+       ``(1) Current generation broadband services.--For purposes 
+     of determining the current generation broadband credit under 
+     subsection (a)(1) with respect to qualified equipment through 
+     which current generation broadband services are provided, if 
+     the qualified equipment is capable of serving both qualified 
+     subscribers and other subscribers, the qualified expenditures 
+     shall be multiplied by a fraction--
+       ``(A) the numerator of which is the sum of the number of 
+     potential qualified subscribers within the rural areas and 
+     the underserved areas which the equipment is capable of 
+     serving with current generation broadband services, and
+       ``(B) the denominator of which is the total potential 
+     subscriber population of the area which the equipment is 
+     capable of serving with current generation broadband 
+     services.
+       ``(2) Next generation broadband services.--For purposes of 
+     determining the next generation broadband credit under 
+     subsection (a)(2) with respect to qualified equipment through 
+     which next generation broadband services are provided, if the 
+     qualified equipment is capable of serving both qualified 
+     subscribers and other subscribers, the qualified expenditures 
+     shall be multiplied by a fraction--
+       ``(A) the numerator of which is the sum of--
+       ``(i) the number of potential qualified subscribers within 
+     the rural areas and underserved areas, plus
+       ``(ii) the number of potential qualified subscribers within 
+     the area consisting only of residential subscribers not 
+     described in clause (i),
+
+     which the equipment is capable of serving with next 
+     generation broadband services, and
+       ``(B) the denominator of which is the total potential 
+     subscriber population of the area which the equipment is 
+     capable of serving with next generation broadband services.
+       ``(e) Definitions.--For purposes of this section--
+       ``(1) Antenna.--The term `antenna' means any device used to 
+     transmit or receive signals through the electromagnetic 
+     spectrum, including satellite equipment.
+       ``(2) Cable operator.--The term `cable operator' has the 
+     meaning given such term by section 602(5) of the 
+     Communications Act of 1934 (47 U.S.C. 522(5)).
+       ``(3) Commercial mobile service carrier.--The term 
+     `commercial mobile service carrier' means any person 
+     authorized to provide commercial mobile radio service as 
+     defined in section 20.3 of title 47, Code of Federal 
+     Regulations.
+       ``(4) Current generation broadband service.--The term 
+     `current generation broadband service' means the transmission 
+     of signals at a rate of at least 1,000,000 bits per second to 
+     the subscriber and at least 128,000 bits per second from the 
+     subscriber.
+       ``(5) Multiplexing or demultiplexing.--The term 
+     `multiplexing' means the transmission of 2 or more signals 
+     over a single channel, and the term `demultiplexing' means 
+     the separation of 2 or more signals previously combined by 
+     compatible multiplexing equipment.
+       ``(6) Next generation broadband service.--The term `next 
+     generation broadband service' means the transmission of 
+     signals at a rate of at least 22,000,000 bits per second to 
+     the subscriber (or its equivalent when the data rate is 
+     measured before being compressed for transmission) and at 
+     least 5,000,000 bits per second from the subscriber (or its 
+     equivalent as so measured).
+       ``(7) Nonresidential subscriber.--The term `nonresidential 
+     subscriber' means any person who purchases broadband services 
+     which are delivered to the permanent place of business of 
+     such person.
+       ``(8) Open video system operator.--The term `open video 
+     system operator' means any person authorized to provide 
+     service under section 653 of the Communications Act of 1934 
+     (47 U.S.C. 573).
+       ``(9) Other wireless carrier.--The term `other wireless 
+     carrier' means any person (other than a telecommunications 
+     carrier, commercial mobile service carrier, cable operator, 
+     open video system operator, or satellite carrier) providing 
+     current generation broadband services or next generation 
+     broadband service to subscribers through the wireless 
+     transmission of energy through radio or light waves.
+       ``(10) Packet switching.--The term `packet switching' means 
+     controlling or routing the path of a digitized transmission 
+     signal which is assembled into packets or cells.
+       ``(11) Provider.--The term `provider' means, with respect 
+     to any qualified equipment any--
+       ``(A) cable operator,
+       ``(B) commercial mobile service carrier,
+       ``(C) open video system operator,
+       ``(D) satellite carrier,
+       ``(E) telecommunications carrier, or
+       ``(F) other wireless carrier,
+
+     providing current generation broadband services or next 
+     generation broadband services to subscribers through such 
+     qualified equipment.
+       ``(12) Provision of services.--A provider shall be treated 
+     as providing services to 1 or more subscribers if--
+       ``(A) such a subscriber has been passed by the provider's 
+     equipment and can be connected to such equipment for a 
+     standard connection fee,
+       ``(B) the provider is physically able to deliver current 
+     generation broadband services or next generation broadband 
+     services, as applicable, to such a subscriber without making 
+     more than an insignificant investment with respect to such 
+     subscriber,
+       ``(C) the provider has made reasonable efforts to make such 
+     subscribers aware of the availability of such services,
+       ``(D) such services have been purchased by 1 or more such 
+     subscribers, and
+       ``(E) such services are made available to such subscribers 
+     at average prices comparable to those at which the provider 
+     makes available similar services in any areas in which the 
+     provider makes available such services.
+       ``(13) Qualified equipment.--
+       ``(A) In general.--The term `qualified equipment' means 
+     equipment which provides current generation broadband 
+     services or next generation broadband services--
+
+[[Page S5360]]
+
+       ``(i) at least a majority of the time during periods of 
+     maximum demand to each subscriber who is utilizing such 
+     services, and
+       ``(ii) in a manner substantially the same as such services 
+     are provided by the provider to subscribers through equipment 
+     with respect to which no credit is allowed under subsection 
+     (a)(1).
+       ``(B) Only certain investment taken into account.--Except 
+     as provided in subparagraph (C) or (D), equipment shall be 
+     taken into account under subparagraph (A) only to the extent 
+     it--
+       ``(i) extends from the last point of switching to the 
+     outside of the unit, building, dwelling, or office owned or 
+     leased by a subscriber in the case of a telecommunications 
+     carrier,
+       ``(ii) extends from the customer side of the mobile 
+     telephone switching office to a transmission/receive antenna 
+     (including such antenna) owned or leased by a subscriber in 
+     the case of a commercial mobile service carrier,
+       ``(iii) extends from the customer side of the headend to 
+     the outside of the unit, building, dwelling, or office owned 
+     or leased by a subscriber in the case of a cable operator or 
+     open video system operator, or
+       ``(iv) extends from a transmission/receive antenna 
+     (including such antenna) which transmits and receives signals 
+     to or from multiple subscribers, to a transmission/receive 
+     antenna (including such antenna) on the outside of the unit, 
+     building, dwelling, or office owned or leased by a subscriber 
+     in the case of a satellite carrier or other wireless carrier, 
+     unless such other wireless carrier is also a 
+     telecommunications carrier.
+       ``(C) Packet switching equipment.--Packet switching 
+     equipment, regardless of location, shall be taken into 
+     account under subparagraph (A) only if it is deployed in 
+     connection with equipment described in subparagraph (B) and 
+     is uniquely designed to perform the function of packet 
+     switching for current generation broadband services or next 
+     generation broadband services, but only if such packet 
+     switching is the last in a series of such functions performed 
+     in the transmission of a signal to a subscriber or the first 
+     in a series of such functions performed in the transmission 
+     of a signal from a subscriber.
+       ``(D) Multiplexing and demultiplexing equipment.--
+     Multiplexing and demultiplexing equipment shall be taken into 
+     account under subparagraph (A) only to the extent it is 
+     deployed in connection with equipment described in 
+     subparagraph (B) and is uniquely designed to perform the 
+     function of multiplexing and demultiplexing packets or cells 
+     of data and making associated application adaptions, but only 
+     if such multiplexing or demultiplexing equipment is located 
+     between packet switching equipment described in subparagraph 
+     (C) and the subscriber's premises.
+       ``(14) Qualified expenditure.--
+       ``(A) In general.--The term `qualified expenditure' means 
+     any amount--
+       ``(i) chargeable to capital account with respect to the 
+     purchase and installation of qualified equipment (including 
+     any upgrades thereto) for which depreciation is allowable 
+     under section 168, and
+       ``(ii) incurred after December 31, 2002, and before January 
+     1, 2008.
+       ``(B) Certain satellite expenditures excluded.--Such term 
+     shall not include any expenditure with respect to the 
+     launching of any satellite equipment.
+       ``(C) Leased equipment.--Such term shall include so much of 
+     the purchase price paid by the lessor of equipment subject to 
+     a lease described in subsection (c)(2)(B) as is attributable 
+     to expenditures incurred by the lessee which would otherwise 
+     be described in subparagraph (A).
+       ``(15) Qualified subscriber.--The term `qualified 
+     subscriber' means--
+       ``(A) with respect to the provision of current generation 
+     broadband services--
+       ``(i) any nonresidential subscriber maintaining a permanent 
+     place of business in a rural area or underserved area, or
+       ``(ii) any residential subscriber residing in a dwelling 
+     located in a rural area or underserved area which is not a 
+     saturated market, and
+       ``(B) with respect to the provision of next generation 
+     broadband services--
+       ``(i) any nonresidential subscriber maintaining a permanent 
+     place of business in a rural area or underserved area, or
+       ``(ii) any residential subscriber.
+       ``(16) Residential subscriber.--The term `residential 
+     subscriber' means any individual who purchases broadband 
+     services which are delivered to such individual's dwelling.
+       ``(17) Rural area.--The term `rural area' means any census 
+     tract which--
+       ``(A) is not within 10 miles of any incorporated or census 
+     designated place containing more than 25,000 people, and
+       ``(B) is not within a county or county equivalent which has 
+     an overall population density of more than 500 people per 
+     square mile of land.
+       ``(18) Rural subscriber.--The term `rural subscriber' means 
+     any residential subscriber residing in a dwelling located in 
+     a rural area or nonresidential subscriber maintaining a 
+     permanent place of business located in a rural area.
+       ``(19) Satellite carrier.--The term `satellite carrier' 
+     means any person using the facilities of a satellite or 
+     satellite service licensed by the Federal Communications 
+     Commission and operating in the Fixed-Satellite Service under 
+     part 25 of title 47 of the Code of Federal Regulations or the 
+     Direct Broadcast Satellite Service under part 100 of title 47 
+     of such Code to establish and operate a channel of 
+     communications for distribution of signals, and owning or 
+     leasing a capacity or service on a satellite in order to 
+     provide such distribution.
+       ``(20) Saturated market.--The term `saturated market' means 
+     any census tract in which, as of the date of the enactment of 
+     this section--
+       ``(A) current generation broadband services have been 
+     provided by a single provider to 85 percent or more of the 
+     total number of potential residential subscribers residing in 
+     dwellings located within such census tract, and
+       ``(B) such services can be utilized--
+       ``(i) at least a majority of the time during periods of 
+     maximum demand by each such subscriber who is utilizing such 
+     services, and
+       ``(ii) in a manner substantially the same as such services 
+     are provided by the provider to subscribers through equipment 
+     with respect to which no credit is allowed under subsection 
+     (a)(1).
+       ``(21) Subscriber.--The term `subscriber' means any person 
+     who purchases current generation broadband services or next 
+     generation broadband services.
+       ``(22) Telecommunications carrier.--The term 
+     `telecommunications carrier' has the meaning given such term 
+     by section 3(44) of the Communications Act of 1934 (47 U.S.C. 
+     153(44)), but--
+       ``(A) includes all members of an affiliated group of which 
+     a telecommunications carrier is a member, and
+       ``(B) does not include any commercial mobile service 
+     carrier.
+       ``(23) Total potential subscriber population.--The term 
+     `total potential subscriber population' means, with respect 
+     to any area and based on the most recent census data, the 
+     total number of potential residential subscribers residing in 
+     dwellings located in such area and potential nonresidential 
+     subscribers maintaining permanent places of business located 
+     in such area.
+       ``(24) Underserved area.--The term `underserved area' means 
+     any census tract which is located in--
+       ``(A) an empowerment zone or enterprise community 
+     designated under section 1391,
+       ``(B) the District of Columbia Enterprise Zone established 
+     under section 1400,
+       ``(C) a renewal community designated under section 1400E, 
+     or
+       ``(D) a low-income community designated under section 45D.
+       ``(25) Underserved subscriber.--The term `underserved 
+     subscriber' means any residential subscriber residing in a 
+     dwelling located in an underserved area or nonresidential 
+     subscriber maintaining a permanent place of business located 
+     in an underserved area.''.
+       (b) Credit To Be Part of Investment Credit.--Section 46 of 
+     the Internal Revenue Code of 1986 (relating to the amount of 
+     investment credit) is amended by striking ``and'' at the end 
+     of paragraph (2), by striking the period at the end of 
+     paragraph (3) and inserting ``, and'', and by adding at the 
+     end the following:
+       ``(4) the broadband Internet access credit.''
+       (c) Special Rule for Mutual or Cooperative Telephone 
+     Companies.--Section 501(c)(12)(B) of the Internal Revenue 
+     Code of 1986 (relating to list of exempt organizations) is 
+     amended by striking ``or'' at the end of clause (iii), by 
+     striking the period at the end of clause (iv) and inserting 
+     ``, or'', and by adding at the end the following new clause:
+       ``(v) from the sale of property subject to a lease 
+     described in section 48A(c)(2)(B), but only to the extent 
+     such income does not in any year exceed an amount equal to 
+     the credit for qualified expenditures which would be 
+     determined under section 48A for such year if the mutual or 
+     cooperative telephone company was not exempt from taxation 
+     and was treated as the owner of the property subject to such 
+     lease.''.
+       (d) Conforming Amendment.--The table of sections for 
+     subpart E of part IV of subchapter A of chapter 1 of the 
+     Internal Revenue Code of 1986 is amended by inserting after 
+     the item relating to section 48 the following:
+
+``Sec. 48A. Broadband internet access credit.''.
+
+       (e) Designation of Census Tracts.--
+       (1) In general.--The Secretary of the Treasury shall, not 
+     later than 90 days after the date of the enactment of this 
+     Act, designate and publish those census tracts meeting the 
+     criteria described in paragraphs (17) and (24) of section 
+     48A(e) of the Internal Revenue Code of 1986 (as added by this 
+     section). In making such designations, the Secretary of the 
+     Treasury shall consult with such other departments and 
+     agencies as the Secretary determines appropriate.
+       (2) Saturated market.--
+       (A) In general.--For purposes of designating and publishing 
+     those census tracts meeting the criteria described in 
+     subsection (e)(20) of such section 48A--
+       (i) the Secretary of the Treasury shall prescribe not later 
+     than 30 days after the date of the enactment of this Act the 
+     form upon which any provider which takes the position that it 
+     meets such criteria with respect to any census tract shall 
+     submit a list of such census tracts (and any other 
+     information required by the Secretary) not later than 60 days 
+     after the date of the publication of such form, and
+       (ii) the Secretary of the Treasury shall publish an 
+     aggregate list of such census tracts submitted and the 
+     applicable providers not later than 30 days after the last 
+     date such submissions are allowed under clause (i).
+
+[[Page S5361]]
+
+       (B) No subsequent lists required.--The Secretary of the 
+     Treasury shall not be required to publish any list of census 
+     tracts meeting such criteria subsequent to the list described 
+     in subparagraph (A)(ii).
+       (C) Authority to disregard false submissions.--In addition 
+     to imposing any other applicable penalties, the Secretary of 
+     the Treasury shall have the discretion to disregard any form 
+     described in subparagraph (A)(i) on which a provider 
+     knowingly submitted false information.
+       (f) Other Regulatory Matters.--
+       (1) Prohibition.--No Federal or State agency or 
+     instrumentality shall adopt regulations or ratemaking 
+     procedures that would have the effect of confiscating any 
+     credit or portion thereof allowed under section 48A of the 
+     Internal Revenue Code of 1986 (as added by this section) or 
+     otherwise subverting the purpose of this section.
+       (2) Treasury regulatory authority.--It is the intent of 
+     Congress in providing the broadband Internet access credit 
+     under section 48A of the Internal Revenue Code of 1986 (as 
+     added by this section) to provide incentives for the 
+     purchase, installation, and connection of equipment and 
+     facilities offering expanded broadband access to the Internet 
+     for users in certain low income and rural areas of the United 
+     States, as well as to residential users nationwide, in a 
+     manner that maintains competitive neutrality among the 
+     various classes of providers of broadband services. 
+     Accordingly, the Secretary of the Treasury shall prescribe 
+     such regulations as may be necessary or appropriate to carry 
+     out the purposes of section 48A of such Code, including--
+       (A) regulations to determine how and when a taxpayer that 
+     incurs qualified expenditures satisfies the requirements of 
+     section 48A of such Code to provide broadband services, and
+       (B) regulations describing the information, records, and 
+     data taxpayers are required to provide the Secretary to 
+     substantiate compliance with the requirements of section 48A 
+     of such Code.
+       (g) Effective Date.--The amendments made by this section 
+     shall apply to expenditures incurred after December 31, 2002.
+                                 ______
+```
