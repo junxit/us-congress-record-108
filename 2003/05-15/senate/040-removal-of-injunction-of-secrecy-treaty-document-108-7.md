@@ -1,0 +1,76 @@
+---
+granule: CRECB-2003-pt9-Pg11920-3
+date: 2003-05-15
+edition: CRECB
+section: SENATE
+page: 11920
+---
+
+# REMOVAL OF INJUNCTION OF SECRECY--TREATY DOCUMENT 108-7
+
+```
+        REMOVAL OF INJUNCTION OF SECRECY--TREATY DOCUMENT 108-7
+
+  Mr. FRIST. Mr. President, as in executive session, I ask unanimous 
+consent that the injunction of secrecy be removed from the following 
+treaty transmitted to the Senate on May 15, 2003, by the President of 
+the United States:
+
+       Protocol of 1997 amending Marpol Treaty (Treaty Document 
+     No. 108-7).
+
+  I further ask that the treaty be considered as having been read the 
+first time, that it be referred with accompanying papers to the 
+Committee on Foreign Relations and ordered to be printed, and that the 
+President's message be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The President's message is as follows:
+To the Senate of the United States:
+  I transmit herewith, for the advice and consent of the Senate to its 
+ratification, the Protocol of 1997 to Amend the International 
+Convention for the Prevention of Pollution from Ships, 1973, as 
+Modified by the Protocol of 1978 thereto (hereinafter the ``Protocol of 
+1997''). The Protocol of 1997, which would add Annex VI, Regulations 
+for the Prevention of Air Pollution from Ships, to the International 
+Convention for the Prevention of Pollution from Ships, 1973, as 
+Modified by the Protocol of 1978 (hereinafter the ``MARPOL 
+Convention''), was signed by the United States on December 22, 1998. I 
+also enclose, for the information of the Senate, the report of the 
+Department of State and its attached analysis of the Protocol of 1997, 
+as well as Resolution 2 of the 1997 MARPOL Conference with its annexed 
+Technical Code on Control of Emission of Nitrogen Oxides from Marine 
+Diesel Engines.
+  The MARPOL Convention is the global agreement to control pollution 
+from ships. MARPOL Annex VI regulates the emission into the atmosphere 
+of specified pollutants from ships. It complements the other annexes to 
+the MARPOL Convention, which relate to the transport of oil (Annex I), 
+harmful substances carried in bulk (Annex II), harmful substances in 
+packaged form (Annex III), ship-generated sewage (Annex IV) and garbage 
+(Annex V). The United States is a party to all of these annexes with 
+the exception of Annex IV.
+  MARPOL Annex VI regulates the prevention of air pollution from ships 
+by limiting the discharge of nitrogen oxides from large marine diesel 
+engines, governing the sulfur content of marine diesel fuel, 
+prohibiting the emission of ozone-depleting substances, regulating the 
+emission of volatile organic compounds during the transfer of cargoes 
+between tankers and terminals, setting standards for shipboard 
+incinerators and fuel oil quality, and establishing requirements for 
+platforms and drilling rigs at sea.
+  MARPOL Annex VI is an important step toward controlling and 
+preventing emissions of harmful air pollutants from ships. U.S. 
+ratification of the Protocol of 1997 will demonstrate U.S. commitment 
+to an international solution and should hasten the entry into force of 
+the Protocol of 1997. Ratification will also enhance our ability to 
+work within the treaty framework to obtain subsequent amendments that 
+will require further reductions in emissions of nitrogen oxides that 
+are now achievable through the use of modern control technologies which 
+the United States strongly supports.
+  I recommend that the Senate give early and favorable consideration to 
+the Protocol of 1997 and give its advice and consent to ratification, 
+subject to the declarations and understanding set out in the 
+accompanying report of the Secretary of State.
+                                                      George W. Bush,  
+The White House, May 15, 2003.
+
+                          ____________________
+```

@@ -1,0 +1,21 @@
+---
+granule: CRECB-2003-pt9-Pg11961-3
+date: 2003-05-15
+edition: CRECB
+section: HOUSE
+page: 11961
+---
+
+# EXCHANGE OF SPECIAL ORDER TIME
+
+```
+                     EXCHANGE OF SPECIAL ORDER TIME
+
+  Ms. WOOLSEY. Mr. Speaker, I ask unanimous consent to claim the time 
+of the gentleman from Florida (Mr. Meek).
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from California?
+  There was no objection.
+
+                          ____________________
+```
