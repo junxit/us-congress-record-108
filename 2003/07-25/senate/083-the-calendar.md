@@ -1,0 +1,29 @@
+---
+granule: CREC-2003-07-25-pt1-PgS9986-5
+date: 2003-07-25
+edition: CREC
+section: SENATE
+page: S9986
+citation: 149 Cong. Rec. S9986
+---
+
+# THE CALENDAR
+
+**Speaking:** Hatch, Orrin G. (H000338) [R-UT]
+
+```
+                              THE CALENDAR
+
+  Mr. HATCH. Madam President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of Calendar Nos. 229, 230, and 
+231, en bloc.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. HATCH. Madam President, I ask unanimous consent that the 
+resolutions be agreed to, en bloc; that the preambles be agreed to, en 
+bloc; that the motions to reconsider be laid upon the table, en bloc; 
+and that any statements relating to these measures be printed in the 
+Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```

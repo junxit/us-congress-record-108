@@ -1,0 +1,97 @@
+---
+granule: CREC-2003-07-25-pt1-PgS9988-2
+date: 2003-07-25
+edition: CREC
+section: SENATE
+page: S9988
+citation: 149 Cong. Rec. S9988
+---
+
+# NATIONAL PROSTATE CANCER AWARENESS MONTH
+
+**Speaking:** Hatch, Orrin G. (H000338) [R-UT]
+
+**Measures:** S.Res. 201
+
+```
+                NATIONAL PROSTATE CANCER AWARENESS MONTH
+
+  Mr. HATCH. Madam President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of S. Res. 201, which was 
+submitted earlier today.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 201) designating the month of 
+     September 2003 as ``National Prostate Cancer Awareness 
+     Month''.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. HATCH. Madam President, I ask unanimous consent that the 
+resolution be agreed to; that the preamble be agreed to; that the 
+motion to reconsider be laid upon the table; and that any statement 
+relating to the resolution be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 201) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+       Whereas countless families in the United States have a 
+     family member living with prostate cancer;
+       Whereas in the United States, 1 man in 6 will be diagnosed 
+     with prostate cancer in his lifetime;
+       Whereas between 1993 and 2003, prostate cancer has been the 
+     most commonly diagnosed nonskin cancer and the second most 
+     common cancer killer of men in the United States;
+       Whereas the American Cancer Society estimates that in the 
+     United States, 220,900 men will be diagnosed with prostate 
+     cancer and 28,900 men will die of prostate cancer in 2003;
+       Whereas 30 percent of new cases of prostate cancer occur in 
+     men under the age of 65;
+       Whereas in the United States, as the population ages, the 
+     occurrence of prostate cancer will also increase;
+       Whereas African Americans suffer from a prostate cancer 
+     incidence rate that is up to 60-percent higher than White 
+     males and are more than twice as likely as White males to die 
+     of the disease;
+       Whereas in the United States, a man with 1 family member 
+     diagnosed with prostate cancer has double the risk of 
+     developing prostate cancer, a man with 2 such family members 
+     has 5 times the risk, and a man with 3 such family members 
+     has a 97-percent risk of developing the disease;
+       Whereas screening by both digital rectal examination (DRE) 
+     and prostate specific antigen blood test (PSA) can diagnose 
+     the disease in earlier and more treatable stages, thus 
+     reducing prostate cancer mortality;
+       Whereas developing research promises further improvements 
+     in prostate cancer prevention, early detection, and 
+     treatment; and
+       Whereas educating the people of the United States, 
+     including health care providers, about prostate cancer and 
+     early detection strategies is crucial to saving the lives of 
+     men and preserving and protecting families: Now, therefore, 
+     be it
+       Resolved, That the Senate--
+       (1) designates the month of September 2003 as ``National 
+     Prostate Cancer Awareness Month'';
+       (2) declares that the Federal Government has a 
+     responsibility--
+       (A) to raise awareness about the importance of screening 
+     methods and the treatment of prostate cancer;
+       (B) to increase research funding that is commensurate with 
+     the burden of the disease so that the causes of, and improved 
+     screening, treatments, and a cure for, prostate cancer may be 
+     discovered; and
+       (C) to continue to consider ways for improving access to, 
+     and the quality of, health care services for detecting and 
+     treating prostate cancer; and
+       (3) requests the President to issue a proclamation calling 
+     upon the people of the United States, interested groups, and 
+     affected persons to promote awareness of prostate cancer, to 
+     take an active role in the fight to end the devastating 
+     effects of prostate cancer on individuals, their families, 
+     and the economy, and to observe the month of September 2003 
+     with appropriate ceremonies and activities.
+
+                          ____________________
+```
