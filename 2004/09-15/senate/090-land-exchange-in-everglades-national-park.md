@@ -1,0 +1,149 @@
+---
+granule: CRECB-2004-pt14-Pg18602
+date: 2004-09-15
+edition: CRECB
+section: SENATE
+page: 18602
+---
+
+# LAND EXCHANGE IN EVERGLADES NATIONAL PARK
+
+```
+               LAND EXCHANGE IN EVERGLADES NATIONAL PARK
+
+  The Senate proceeded to consider the bill (S. 2046) to authorize the 
+exchange of certain land in Everglades National Park, which had been 
+reported from the Committee on Energy and Natural Resources, with an 
+amendment to strike all after the enacting clause and insert in lieu 
+thereof the following:
+
+       (Strike the part shown in black brackets and insert the 
+     part shown in italic.)
+
+                                S. 2046
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     [SECTION 1. EVERGLADES NATIONAL PARK LAND EXCHANGE.
+
+       [Section 102 of the Everglades National Park Protection and 
+     Expansion Act of 1989 (16 U.S.C. 410r-6) is amended by adding 
+     at the end the following:
+       [``(h) Land Exchange.--
+       [``(1) Definitions.--In this subsection:
+       [``(A) District.--The term `District' means the South 
+     Florida Water Management District.
+       [``(B) Federal land.--The term `Federal land' means the 
+     approximately 1,054 acres of land located in the Rocky Glades 
+     area of the park and identified on the map as `NPS Exchange 
+     Lands'.
+       [``(C) Map.--The term `map' means the map entitled 
+     `Boundary Modification for C-111 Project, Everglades National 
+     Park', numbered 160/80,007, and dated April 30, 2002.
+       [``(D) Non-federal land.--The term `non-Federal land' means 
+     the approximately 1,054 acres of District land located in the 
+     Southern Glades Wildlife and Environmental Area and 
+     identified on the map as `South Florida Water Management 
+     District Exchange Lands'.
+       [``(2) Exchange.--The Secretary shall convey to the 
+     District the fee title to the Federal land in exchange for 
+     the fee title to the non-Federal land.
+       [``(3) Availability of map.--The map shall be on file and 
+     available for public inspection in the appropriate offices of 
+     the National Park Service.
+       [``(4) Use of federal land.--The Federal land conveyed to 
+     the District shall be used by the District compatible with 
+     the purposes of the C-111 project, including restoration of 
+     the Everglades natural system.
+       [``(5) Boundary adjustment.--On completion of the land 
+     exchange under paragraph (2), the Secretary shall modify the 
+     boundary of the park to reflect the exchange of the Federal 
+     land and non-Federal land.''.]
+
+     SECTION 1. EVERGLADES NATIONAL PARK.
+
+       Section 102 of the Everglades National Park Protection and 
+     Expansion Act of 1989 (16 U.S.C. 410r-6) is amended--
+       (1) in subsection (a)--
+       (A) by striking ``The park boundary'' and inserting the 
+     following:
+       ``(1) In general.--The park boundary'';
+       (B) by striking ``The map'' and inserting the following:
+       ``(2) Availability of map.--The map''; and
+       (C) by adding at the end the following:
+       ``(3) Acquisition of additional land.--
+       ``(A) In general.--The Secretary may acquire from 1 or more 
+     willing sellers not more than 10 acres of land located 
+     outside the boundary of the park and adjacent to or near the 
+     East Everglades area of the park for the development of 
+     administrative, housing, maintenance, or other park purposes.
+       ``(B) Administration; applicable law.--On acquisition of 
+     the land under subparagraph (A), the land shall be 
+     administered as part of the park in accordance with the laws 
+     (including regulations) applicable to the park.''; and
+       (2) by adding at the end the following:
+       ``(h) Land Exchanges.--
+       ``(1) Definitions.--In this subsection:
+       ``(A) Administrator.--The term `Administrator' means the 
+     Administrator of General Services.
+       ``(B) County.--The term `County' means Miami-Dade County, 
+     Florida.
+       ``(C) County land.--The term `County land' means the 2 
+     parcels of land owned by the County totaling approximately 
+     152.93 acres that are designated as `Tract 605-01' and `Tract 
+     605-03'.
+       ``(D) District.--The term `District' means the South 
+     Florida Water Management District.
+       ``(E) District land.--The term `District land' means the 
+     approximately 1,054 acres of District land located in the 
+     Southern Glades Wildlife and Environmental Area and 
+     identified on the map as `South Florida Water Management 
+     District Exchange Lands'.
+       ``(F) General services administration land.--The term 
+     `General Services Administration land' means the 
+     approximately 595.28 acres of land designated as `Site Alpha' 
+     that is declared by the Department of the Navy to be excess 
+     land.
+       ``(G) Map.--The term `map' means the map entitled `Boundary 
+     Modification for C-111 Project, Everglades National Park', 
+     numbered 160/80,007A, and dated May 18, 2004.
+       ``(H) National park service land.--The term `National Park 
+     Service land' means the approximately 1,054 acres of land 
+     located in the Rocky Glades area of the park and identified 
+     on the map as `NPS Exchange Lands'.
+       ``(2) Exchange of general services administration land and 
+     county land.--The Administrator shall convey to the County 
+     fee title to the General Services Administration land in 
+     exchange for the conveyance by the County to the Secretary of 
+     fee title to the County land.
+       ``(3) Exchange of national park service land and district 
+     land.--
+       ``(A) In general.--As soon as practicable after the 
+     completion of the exchange under paragraph (2), the Secretary 
+     shall convey to the District fee title to the National Park 
+     Service land in exchange for fee title to the District land.
+       ``(B) Use of national park service land.--The National Park 
+     Service land conveyed to the District shall be used by the 
+     District for the purposes of the C-111 project, including 
+     restoration of the Everglades natural system.
+       ``(C) Boundary adjustment.--On completion of the land 
+     exchange under subparagraph (A), the Secretary shall modify 
+     the boundary of the park to reflect the exchange of the 
+     National Park Service land and the District land.
+       ``(4) Availability of map.--The map shall be on file and 
+     available for public inspection in the appropriate offices of 
+     the National Park Service.''.
+
+     SEC. 2. BIG CYPRESS NATIONAL PRESERVE.
+
+       Subsection (d)(3) of the first section of Public Law 93-440 
+     (16 U.S.C. 698f) is amended by striking ``The amount 
+     described in paragraph (1)'' and inserting ``The amount 
+     described in paragraph (2)''.
+
+  The committee amendment in the nature of a substitute was agreed to.
+  The bill (S. 2046), as amended, was read the third time and passed.
+
+                          ____________________
+```
