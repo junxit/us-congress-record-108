@@ -1,0 +1,35 @@
+---
+granule: CREC-2004-07-19-pt1-PgH5979-3
+date: 2004-07-19
+edition: CREC
+section: HOUSE
+page: H5979
+citation: 150 Cong. Rec. H5979
+---
+
+# BILLS PRESENTED TO THE PRESIDENT
+
+**Measures:** H.R. 218, H.R. 3846
+
+```
+                    BILLS PRESENTED TO THE PRESIDENT
+
+  Jeff Trandahl, Clerk of the House reports that on July 14, 2004 he 
+presented to the President of the United States, for his approval, the 
+following bills:
+
+       H.R. 3846. To authorize the Secretary of Agriculture and 
+     the Secretary of the Interior to enter into an agreement or 
+     contract with Indian tribes meeting certain criteria to carry 
+     out projects to protect Indian forest land.
+
+  Jeff Trandahl, Clerk of the House reports that on July 16, 2004 he 
+presented to the President of the United States, for his approval, the 
+following bills:
+
+       H.R. 218. To amend title 18, United States Code, to exempt 
+     qualified current and former law enforcement officers from 
+     State laws prohibiting the carrying of concealed handguns.
+
+                          ____________________
+```
