@@ -1,0 +1,204 @@
+---
+granule: CREC-2004-10-10-pt1-PgS11183-6
+date: 2004-10-10
+edition: CREC
+section: SENATE
+page: S11183
+citation: 150 Cong. Rec. S11183
+---
+
+# TRUMAN FARM HOUSE EXPANSION ACT
+
+**Speaking:** Frist, William H. (F000439) [R-TN]
+
+**Measures:** S. 1433, S. 1466, H.R. 2400, S. 2556, S. 2656, H.R. 3819, H.R. 4481, H.R. 4579
+
+```
+                    TRUMAN FARM HOUSE EXPANSION ACT
+
+  The bill (H.R. 4579) to modify the boundary of the Harry S. Truman 
+National Historic Site in the State of Missouri, and for other 
+purposes, was considered, ordered to a third reading, read the third 
+time, and passed.
+                                 ______
+                                 
+
+                LEWIS AND CLARK NATIONAL HISTORICAL PARK
+
+                                 ______
+                                 
+
+             ALASKA LAND TRANSFER ACCELERATION ACT OF 2003
+
+                                 ______
+                                 
+
+            WILSON'S CREEK NATIONAL BATTLEFIELD IN MISSOURI
+
+                                 ______
+                                 
+
+                     ORGANIC ACT OF GUAM AMENDMENT
+
+                                 ______
+                                 
+
+         PONCE DE LEON DISCOVERY OF FLORIDA QUINCENTENNIAL ACT
+
+                                 ______
+                                 
+
+                UPPER CONNECTICUT RIVER PARTNERSHIP ACT
+
+  Mr. FRIST. Mr. President, I ask unanimous consent that the Energy 
+Committee be discharged from the following bills, en bloc: H.R. 3819, 
+S. 1466, H.R. 4481, H.R. 2400, S. 2656, and S. 1433, and the Senate 
+proceed to their immediate consideration, en bloc.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  There being no objection, the Senate proceeded to consider the bills, 
+en bloc.
+  Mr. FRIST. Mr. President, I ask unanimous consent that the amendments 
+at the desk be agreed to, the bills, as amended, be read a third time 
+and passed, and the motions to reconsider be laid upon the table, en 
+bloc, and that any statements related to the bills be printed in the 
+Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill (H.R. 3819), Lewis and Clark National Historical Park 
+Designation Act of 2004, was read the third time and passed.
+  The Senate proceeded to consider the bill (S. 1466) to facilitate the 
+transfer of
+
+[[Page S11184]]
+
+land in the State of Alaska, and for other purposes.
+  The amendment (No. 4056) was agreed to.
+  (The amendment is printed in today's Record under ``Text of 
+Amendments.'')
+  The bill (S. 1466), as amended, was read the third time and passed.
+  (The bill will be printed in a future edition of the Record.)
+  The bill (H.R. 4481), Wilson's Creek National Battlefield Boundary 
+Adjustment Act of 2004, was read the third time and passed.
+  The bill (H.R. 2400), To amend the Organic Act of Guam for the 
+purposes of clarifying the local judicial structure of Guam was read 
+the third time and passed.
+  The Senate proceeded to consider the bill (S. 2556) to establish a 
+National Commission on the Quincentennial of the discovery of Florida 
+by Ponce de Leon.
+  The amendment (No. 4057) was agreed to.
+  (The amendment is printed in Today's Record under ``Text of 
+Amendments.'')
+  The bill (S. 2556), as amended, was read the third time and passed.
+  (The bill will be printed in a future edition of the Record.)
+  The Senate proceeded to consider the bill (S. 1433) to authorize the 
+Secretary of the Interior to provide assistance in implementing 
+cultural heritage, conservation, and recreational activities in the 
+Connecticut River watershed of the States of New Hampshire and Vermont.
+  The bill (S. 1433) was read the third time and passed, as follows:
+
+                                S. 1433
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Upper Connecticut River 
+     Partnership Act''.
+
+     SEC. 2. FINDINGS AND PURPOSE.
+
+       (a) Findings.--Congress finds that--
+       (1) the upper Connecticut River watershed in the States of 
+     New Hampshire and Vermont is a scenic region of historic 
+     villages located in a working landscape of farms, forests, 
+     and the mountainous headwaters and broad fertile floodplains 
+     of New England's longest river, the Connecticut River;
+       (2) the River provides outstanding fish and wildlife 
+     habitat, recreation, and hydropower generation for the New 
+     England region;
+       (3) the upper Connecticut River watershed has been 
+     recognized by Congress as part of the Silvio O. Conte 
+     National Fish and Wildlife Refuge, established by the Silvio 
+     O. Conte National Fish and Wildlife Refuge Act (16 U.S.C. 
+     668dd note; Public Law 102-212);
+       (4) the demonstrated interest in stewardship of the River 
+     by the citizens living in the watershed led to the 
+     Presidential designation of the River as 1 of 14 American 
+     Heritage Rivers on July 30, 1998;
+       (5) the River is home to the bistate Connecticut River 
+     Scenic Byway, which will foster heritage tourism in the 
+     region;
+       (6) each of the legislatures of the States of Vermont and 
+     New Hampshire has established a commission for the 
+     Connecticut River watershed, and the 2 commissions, known 
+     collectively as the ``Connecticut River Joint Commissions''--
+       (A) have worked together since 1989; and
+       (B) serve as the focal point for cooperation between 
+     Federal agencies, States, communities, and citizens;
+       (7) in 1997, as directed by the legislatures, the 
+     Connecticut River Joint Commissions, with the substantial 
+     involvement of 5 bistate local river subcommittees appointed 
+     to represent riverfront towns, produced the 6-volume 
+     Connecticut River Corridor Management Plan, to be used as a 
+     blueprint in educating agencies, communities, and the public 
+     in how to be good neighbors to a great river;
+       (8) this year, by Joint Legislative Resolution, the 
+     legislatures have requested that Congress provide for 
+     continuation of cooperative partnerships and support for the 
+     Connecticut River Joint Commissions from the New England 
+     Federal Partners for Natural Resources, a consortium of 
+     Federal agencies, in carrying out recommendations of the 
+     Connecticut River Corridor Management Plan;
+       (9) this Act effectuates certain recommendations of the 
+     Connecticut River Corridor Management Plan that are most 
+     appropriately directed by the States through the Connecticut 
+     River Joint Commissions, with assistance from the National 
+     Park Service and United States Fish and Wildlife Service; and
+       (10) where implementation of those recommendations involves 
+     partnership with local communities and organizations, support 
+     for the partnership should be provided by the Secretary.
+       (b) Purpose.--The purpose of this Act is to authorize the 
+     Secretary to provide to the States of New Hampshire and 
+     Vermont (including communities in those States), through the 
+     Connecticut River Joint Commissions, technical and financial 
+     assistance for management of the River.
+
+     SEC. 3. DEFINITIONS.
+
+       In this Act:
+       (1) Secretary.--The term ``Secretary'' means the Secretary 
+     of the Interior.
+       (2) State.--The term ``State'' means--
+       (A) the State of New Hampshire; or
+       (B) the State of Vermont.
+
+     SEC. 4. CONNECTICUT RIVER GRANTS AND TECHNICAL ASSISTANCE 
+                   PROGRAM.
+
+       (a) In General.--The Secretary shall establish a 
+     Connecticut River Grants and Technical Assistance Program to 
+     provide grants and technical assistance to State and local 
+     governments, nonprofit organizations, and the private sector 
+     to carry out projects for the conservation, restoration, and 
+     interpretation of historic, cultural, recreational, and 
+     natural resources in the Connecticut River watershed.
+       (b) Criteria.--The Secretary, in consultation with the 
+     Connecticut River Joint Commissions, shall develop criteria 
+     for determining the eligibility of applicants for, and 
+     reviewing and prioritizing applications for, grants or 
+     technical assistance under the program.
+       (c) Cost-Sharing.--
+       (1) Federal share.--The Federal share of the cost of 
+     carrying out a grant project under subsection (a) shall not 
+     exceed 75 percent.
+       (2) Non-federal share.--The non-Federal share of the cost 
+     of a project may be provided in the form of in-kind 
+     contributions of services or materials.
+
+     SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
+
+       There is authorized to be appropriated to carry out this 
+     Act $1,000,000 for each fiscal year.
+
+                          ____________________
+```
