@@ -1,0 +1,40 @@
+---
+granule: CRECB-2004-pt11-Pg14911
+date: 2004-07-08
+edition: CRECB
+section: SENATE
+page: 14911
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate July 8, 2004:
+
+
+                          In the Marine Corps
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES MARINE CORPS TO THE GRADE INDICATED WHILE ASSIGNED TO 
+     A POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                             To be general
+
+LT. GEN. JAMES E. CARTWRIGHT
+
+
+                              In the Navy
+
+       THE FOLLOWING NAMED OFFICER FOR REAPPOINTMENT AS CHIEF OF 
+     NAVAL OPERATIONS, UNITED STATES NAVY, FOR AN ADDITIONAL TERM 
+     OF TWO YEARS, AND APPOINTMENT TO THE GRADE INDICATED WHILE 
+     ASSIGNED TO A POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER 
+     TITLE 10, U.S.C., SECTIONS 601 AND 5033:
+
+                             To be admiral
+
+ADM. VERNON E. CLARK
+```
