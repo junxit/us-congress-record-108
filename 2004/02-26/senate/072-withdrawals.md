@@ -1,0 +1,29 @@
+---
+granule: CREC-2004-02-26-pt1-PgS1851
+date: 2004-02-26
+edition: CREC
+section: SENATE
+page: S1851
+citation: 150 Cong. Rec. S1851
+---
+
+# WITHDRAWALS
+
+```
+                              WITHDRAWALS
+
+  Executive message transmitted by the President to the Senate on 
+February 26, 2004, withdrawing from further Senate consideration the 
+following nominations:
+
+       JOHN JOSEPH GROSSENBACHER, OF ILLINOIS TO BE A MEMBER OF 
+     THE NUCLEAR REGULATORY COMMISSION FOR THE REMAINDER OF THE 
+     TERM EXPIRING JUNE 30, 2004, WHICH WAS SENT TO THE SENATE ON 
+     JULY 25, 2003.
+       JOHN JOSEPH GROSSENBACHER, OF ILLINOIS TO BE A MEMBER OF 
+     THE NUCLEAR REGULATORY COMMISSION FOR A TERM EXPIRING JUNE 
+     30, 2009, WHICH WAS SENT TO THE SENATE ON JULY 25, 2003.
+       SUSANNE T. MARSHALL, OF VIRGINIA, TO BE CHAIRMAN OF THE 
+     MERIT SYSTEM PROTECTION BOARD, WHICH WAS SENT TO THE SENATE 
+     ON JANUARY 26, 2004.
+```
