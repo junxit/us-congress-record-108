@@ -1,0 +1,67 @@
+---
+granule: CREC-2004-05-19-pt1-PgS5847-5
+date: 2004-05-19
+edition: CREC
+section: SENATE
+page: S5847
+citation: 150 Cong. Rec. S5847
+---
+
+# IRVINE BASIN SURFACE AND GROUNDWATER IMPROVEMENT ACT OF 2003
+
+**Measures:** H.R. 1598
+
+```
+      IRVINE BASIN SURFACE AND GROUNDWATER IMPROVEMENT ACT OF 2003
+
+  The bill (H.R. 1598) to amend the Reclamation Wastewater and 
+Groundwater Study and Facilities Act to authorize the Secretary of the 
+Interior to participate in projects within the San Diego Creek 
+Watershed, California, and for other purposes, was considered, ordered 
+to a third reading, read the third time, and passed.
+
+                               H.R. 1598
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Irvine Basin Surface and 
+     Groundwater Improvement Act of 2003''.
+
+     SEC. 2. PROJECT AUTHORIZATION.
+
+       (a) In General.--The Reclamation Wastewater and Groundwater 
+     Study and Facilities Act (Public Law 102-575, title XVI; 43 
+     U.S.C. 390h et seq.) is amended by inserting after section 
+     1635 the following:
+
+     ``SEC. 1636. IRVINE BASIN GROUNDWATER AND SURFACE WATER 
+                   IMPROVEMENT PROJECTS.
+
+       ``(a) Authorization.--The Secretary, in cooperation with 
+     the Irvine Ranch Water District, California, is authorized to 
+     participate in the design, planning, and construction of 
+     projects to naturally treat impaired surface water, reclaim 
+     and reuse impaired groundwater, and provide brine disposal 
+     within the San Diego Creek Watershed.
+       ``(b) Cost Share.--The Federal share of the costs of the 
+     projects authorized by this section shall not exceed 25 
+     percent of the total cost.
+       ``(c) Limitation.--The Secretary shall not provide funds 
+     for the operation or maintenance of a project authorized by 
+     this section.''.
+
+[[Page S5848]]
+
+       (b) Clerical Amendment.--The table of sections in section 2 
+     of the Reclamation Projects Authorization and Adjustment Act 
+     of 1992 is amended by inserting after the item relating to 
+     section 1635 the following:
+
+``1636. Irvine basin groundwater and surface water improvement 
+              projects.''.
+
+                          ____________________
+```
