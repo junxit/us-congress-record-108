@@ -1,0 +1,97 @@
+---
+granule: CREC-2004-07-21-pt1-PgS8574-8
+date: 2004-07-21
+edition: CREC
+section: SENATE
+page: S8574
+citation: 150 Cong. Rec. S8574
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate July 21, 2004:
+
+
+           United States Agency for International Development
+
+       LLOYD O. PIERSON, OF VIRGINIA, TO BE AN ASSISTANT 
+     ADMINISTRATOR OF THE UNITED STATES AGENCY FOR INTERNATIONAL 
+     DEVELOPMENT, VICE CONSTANCE BERRY NEWMAN.
+
+
+                     African Development Foundation
+
+       LLOYD O. PIERSON, AN ASSISTANT ADMINISTRATOR OF THE UNITED 
+     STATES AGENCY FOR INTERNATIONAL DEVELOPMENT, TO BE A MEMBER 
+     OF THE BOARD OF DIRECTORS OF THE AFRICAN DEVELOPMENT 
+     FOUNDATION FOR A TERM EXPIRING SEPTEMBER 22, 2009, VICE JOHN 
+     F. HICKS, SR., TERM EXPIRED.
+
+
+                            In the Air Force
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES AIR FORCE UNDER TITLE 10, 
+     UNITED STATES CODE, SECTION 9335:
+
+                        To be brigadier general
+
+COL. DANA H. BORN, 0000
+
+
+                              In the Army
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+MAJ. GEN. ROBERT L. VAN ANTWERP JR., 0000
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+LT. GEN. JAMES J. LOVELACE JR., 0000
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED
+
+[[Page S8575]]
+
+     WHILE ASSIGNED TO A POSITION OF IMPORTANCE AND RESPONSIBILITY 
+     UNDER TITLE 10, U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+MAJ. GEN. JAMES M. DUBIK, 0000
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                        To be brigadier general
+
+COL. GERALD F. FERGUSON JR., 0000
+
+
+                              In the Navy
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE OF 
+     ADMIRAL IN THE UNITED STATES NAVY WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601 AND TITLE 50, U.S.C., SECTION 2406:
+
+                             To be admiral
+
+            To be director, Naval Nuclear Propulsion Program
+
+VICE ADM. KIRKLAND H. DONALD, 0000
+
+                          ____________________
+```
