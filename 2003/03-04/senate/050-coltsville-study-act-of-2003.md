@@ -1,0 +1,113 @@
+---
+granule: CRECB-2003-pt4-Pg5048-2
+date: 2003-03-04
+edition: CRECB
+section: SENATE
+page: 5048
+---
+
+# COLTSVILLE STUDY ACT OF 2003
+
+```
+                      COLTSVILLE STUDY ACT OF 2003
+
+  The bill (S. 233) to direct the Secretary of the Interior to conduct 
+a study of Coltsville in the State of Connecticut for potential 
+inclusion in the National Park System was considered, ordered to a 
+third reading, read the third time, and passed, as follows:
+
+                                 S. 233
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Coltsville Study Act of 
+     2003''.
+
+     SEC. 2. FINDINGS.
+
+       Congress finds that--
+       (1) Hartford, Connecticut, home to Colt Manufacturing 
+     Company (referred to in this Act as ``Colt''), played a major 
+     role in the Industrial Revolution;
+       (2) Samuel Colt, founder of Colt, and his wife, Elizabeth 
+     Colt, inspired Coltsville, a community in the State of 
+     Connecticut that flourished during the Industrial Revolution 
+     and included Victorian mansions, an open green area, 
+     botanical gardens, and a deer park;
+       (3) the residence of Samuel and Elizabeth Colt in Hartford, 
+     Connecticut, known as ``Armsmear'', is a national historic 
+     landmark, and the distinctive Colt factory is a prominent 
+     feature of the Hartford, Connecticut, skyline;
+       (4) the Colt legacy is not only about firearms, but also 
+     about industrial innovation and the development of technology 
+     that would change the way of life in the United States, 
+     including--
+       (A) the development of telegraph technology; and
+       (B) advancements in jet engine technology by Francis Pratt 
+     and Amos Whitney, who served as apprentices at Colt;
+       (5) Coltsville--
+       (A) set the standard for excellence during the Industrial 
+     Revolution; and
+       (B) continues to prove significant--
+       (i) as a place in which people of the United States can 
+     learn about that important period in history; and
+       (ii) by reason of the close proximity of Coltsville to the 
+     Mark Twain House, Trinity College, Old North Cemetery, and 
+     many historic homesteads and architecturally renowned 
+     buildings;
+       (6) in 1998, the National Park Service conducted a special 
+     resource reconnaissance study of the Connecticut River Valley 
+     to evaluate the significance of precision manufacturing 
+     sites; and
+       (7) the report on the study stated that--
+       (A) no other region of the United States contains an equal 
+     concentration of resources relating to the precision 
+     manufacturing theme that began with firearms production;
+       (B) properties relating to precision manufacturing 
+     encompass more than merely factories; and
+       (C) further study, which should be undertaken, may 
+     recommend inclusion of churches and other social 
+     institutions.
+
+     SEC. 3. STUDY.
+
+       (a) In General.--Not later than 3 years after the date on 
+     which funds are made available to carry out this Act, the 
+     Secretary of the Interior (referred to in this Act as the 
+     ``Secretary'') shall complete a study of the site in the 
+     State of Connecticut commonly known as ``Coltsville'' to 
+     evaluate--
+       (1) the national significance of the site and surrounding 
+     area;
+
+[[Page 5049]]
+
+       (2) the suitability and feasibility of designating the site 
+     and surrounding area as a unit of the National Park System; 
+     and
+       (3) the importance of the site to the history of precision 
+     manufacturing.
+       (b) Applicable Law.--The study required under subsection 
+     (a) shall be conducted in accordance with Public Law 91-383 
+     (16 U.S.C. 1a-1 et seq.).
+
+     SEC. 4. REPORT.
+
+       Not later than 30 days after the date on which the study 
+     under section 3(a) is completed, the Secretary shall submit 
+     to the Committee on Resources of the House of Representatives 
+     and the Committee on Energy and Natural Resources of the 
+     Senate a report that describes--
+       (1) the findings of the study; and
+       (2) any conclusions and recommendations of the Secretary.
+
+     SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
+
+       There are authorized to be appropriated such sums as are 
+     necessary to carry out this Act.
+
+                          ____________________
+```
