@@ -1,0 +1,3218 @@
+---
+granule: CREC-2004-10-06-pt1-PgS10488-2
+date: 2004-10-06
+edition: CREC
+section: SENATE
+page: S10488
+citation: 150 Cong. Rec. S10488
+---
+
+# COPYRIGHT ROYALTY AND DISTRIBUTION REFORM ACT OF 2004
+
+**Speaking:** Collins, Susan M. (C001035) [R-ME], Hatch, Orrin G. (H000338) [R-UT], Leahy, Patrick J. (L000174) [D-VT]
+
+**Measures:** H.R. 1417
+
+````
+         COPYRIGHT ROYALTY AND DISTRIBUTION REFORM ACT OF 2004
+
+  Ms. COLLINS. Madam President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of Calendar No. 744, H.R. 1417.
+
+[[Page S10489]]
+
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The assistant legislative clerk read as follows:
+
+       A bill (H.R. 1417) to amend title 17, United States Code, 
+     to replace copyright arbitration royalty panels with 
+     Copyright Royalty Judges, and for other purposes.
+
+  There being no objection, the Senate proceeded to consider the bill, 
+which had been reported from the Committee on the Judiciary with an 
+amendment to strike all after the enacting clause and insert in lieu 
+thereof the following:
+  (Insert the part printed in italic.)
+
+                               H.R. 1417
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     [SECTION 1. SHORT TITLE.
+
+       [This Act may be cited as the ``Copyright Royalty and 
+     Distribution Reform Act of 2004''.
+
+     [SEC. 2. REFERENCE.
+
+       [Except as otherwise expressly provided, whenever in this 
+     Act an amendment or repeal is expressed in terms of an 
+     amendment to, or repeal of, a section or other provision, the 
+     reference shall be considered to be made to a section or 
+     other provision of title 17, United States Code.
+
+     [SEC. 3. COPYRIGHT ROYALTY JUDGE AND STAFF.
+
+       [(a) In General.--Chapter 8 is amended to read as follows:
+
+         [``CHAPTER 8--PROCEEDINGS BY COPYRIGHT ROYALTY JUDGES
+
+[``Sec.
+[``801. Copyright Royalty Judges; appointment and functions.
+[``802. Copyright Royalty Judgeships; staff.
+[``803. Proceedings of Copyright Royalty Judges.
+[``804. Institution of proceedings.
+[``805. General rule for voluntarily negotiated agreements.
+
+     [``Sec. 801. Copyright Royalty Judges; appointment and 
+       functions
+
+       [``(a) Appointment.--The Librarian of Congress shall 
+     appoint 3 full-time Copyright Royalty Judges, and shall 
+     appoint one of the three as the Chief Copyright Royalty 
+     Judge. In making such appointments, the Librarian shall 
+     consult with the Register of Copyrights.
+       [``(b) Functions.--Subject to the provisions of this 
+     chapter, the functions of the Copyright Royalty Judges shall 
+     be as follows:
+       [``(1) To make determinations and adjustments of reasonable 
+     terms and rates of royalty payments as provided in sections 
+     112(e), 114, 115, 116, 118, 119 and 1004. The rates 
+     applicable under sections 114(f)(1)(B), 115, and 116 shall be 
+     calculated to achieve the following objectives:
+       [``(A) To maximize the availability of creative works to 
+     the public.
+       [``(B) To afford the copyright owner a fair return for his 
+     or her creative work and the copyright user a fair income 
+     under existing economic conditions.
+       [``(C) To reflect the relative roles of the copyright owner 
+     and the copyright user in the product made available to the 
+     public with respect to relative creative contribution, 
+     technological contribution, capital investment, cost, risk, 
+     and contribution to the opening of new markets for creative 
+     expression and media for their communication.
+       [``(D) To minimize any disruptive impact on the structure 
+     of the industries involved and on generally prevailing 
+     industry practices.
+       [``(2) To make determinations concerning the adjustment of 
+     the copyright royalty rates under section 111 solely in 
+     accordance with the following provisions:
+       [``(A) The rates established by section 111(d)(1)(B) may be 
+     adjusted to reflect--
+       [``(i) national monetary inflation or deflation; or
+       [``(ii) changes in the average rates charged cable 
+     subscribers for the basic service of providing secondary 
+     transmissions to maintain the real constant dollar level of 
+     the royalty fee per subscriber which existed as of the date 
+     of October 19, 1976,
+
+     [except that--
+       [``(I) if the average rates charged cable system 
+     subscribers for the basic service of providing secondary 
+     transmissions are changed so that the average rates exceed 
+     national monetary inflation, no change in the rates 
+     established by section 111(d)(1)(B) shall be permitted; and
+       [``(II) no increase in the royalty fee shall be permitted 
+     based on any reduction in the average number of distant 
+     signal equivalents per subscriber.
+
+     [The Copyright Royalty Judges may consider all factors 
+     relating to the maintenance of such level of payments, 
+     including, as an extenuating factor, whether the industry has 
+     been restrained by subscriber rate regulating authorities 
+     from increasing the rates for the basic service of providing 
+     secondary transmissions.
+       [``(B) In the event that the rules and regulations of the 
+     Federal Communications Commission are amended at any time 
+     after April 8, 1976, to permit the carriage by cable systems 
+     of additional television broadcast signals beyond the local 
+     service area of the primary transmitters of such signals, the 
+     royalty rates established by section 111(d)(1)(B) may be 
+     adjusted to insure that the rates for the additional distant 
+     signal equivalents resulting from such carriage are 
+     reasonable in the light of the changes effected by the 
+     amendment to such rules and regulations. In determining the 
+     reasonableness of rates proposed following an amendment of 
+     Federal Communications Commission rules and regulations, the 
+     Copyright Royalty Judges shall consider, among other factors, 
+     the economic impact on copyright owners and users; except 
+     that no adjustment in royalty rates shall be made under this 
+     subparagraph with respect to any distant signal equivalent or 
+     fraction thereof represented by--
+       [``(i) carriage of any signal permitted under the rules and 
+     regulations of the Federal Communications Commission in 
+     effect on April 15, 1976, or the carriage of a signal of the 
+     same type (that is, independent, network, or noncommercial 
+     educational) substituted for such permitted signal; or
+       [``(ii) a television broadcast signal first carried after 
+     April 15, 1976, pursuant to an individual waiver of the rules 
+     and regulations of the Federal Communications Commission, as 
+     such rules and regulations were in effect on April 15, 1976.
+       [``(C) In the event of any change in the rules and 
+     regulations of the Federal Communications Commission with 
+     respect to syndicated and sports program exclusivity after 
+     April 15, 1976, the rates established by section 111(d)(1)(B) 
+     may be adjusted to assure that such rates are reasonable in 
+     light of the changes to such rules and regulations, but any 
+     such adjustment shall apply only to the affected television 
+     broadcast signals carried on those systems affected by the 
+     change.
+       [``(D) The gross receipts limitations established by 
+     section 111(d)(1)(C) and (D) shall be adjusted to reflect 
+     national monetary inflation or deflation or changes in the 
+     average rates charged cable system subscribers for the basic 
+     service of providing secondary transmissions to maintain the 
+     real constant dollar value of the exemption provided by such 
+     section, and the royalty rate specified therein shall not be 
+     subject to adjustment.
+       [``(3)(A) To authorize the distribution, under sections 
+     111, 119, and 1007, of those royalty fees collected under 
+     sections 111, 119, and 1005, as the case may be, to the 
+     extent that the Copyright Royalty Judges have found that the 
+     distribution of such fees is not subject to controversy.
+       [``(B) In cases where the Copyright Royalty Judges 
+     determine that controversy exists, the Copyright Royalty 
+     Judges shall determine the distribution of such fees, 
+     including partial distributions, in accordance with section 
+     111, 119, or 1007, as the case may be.
+       [``(C) the Copyright Royalty Judges shall make a partial 
+     distribution of such fees during the pendency of the 
+     proceeding under subparagraph (B) if all participants under 
+     section 803(b)(2) in the proceeding that are entitled to 
+     receive those fees that are to be partially distributed--
+       [``(i) agree to such partial distribution;
+       [``(ii) sign an agreement obligating them to return any 
+     excess amounts to the extent necessary to comply with the 
+     final determination on the distribution of the fees made 
+     under subparagraph (B); and
+       [``(iii) file the agreement with the Copyright Royalty 
+     Judges.
+       [``(D) The Copyright Royalty Judges and any other officer 
+     or employee acting in good faith in distributing funds under 
+     subparagraph (C) shall not be held liable for the payment of 
+     any excess fees under subparagraph (C). The Copyright Royalty 
+     Judges shall, at the time the final determination is made, 
+     calculate any such excess amounts.
+       [``(4) To accept or reject royalty claims filed under 
+     section 111, 119, and 1007, on the basis of timeliness or the 
+     failure to establish the basis for a claim.
+       [``(5) To accept or reject rate adjustment petitions as 
+     provided in section 804 and petitions to participate as 
+     provided in section 803(b)(1) and (2).
+       [``(6) To determine the status of a digital audio recording 
+     device or a digital audio interface device under sections 
+     1002 and 1003, as provided in section 1010.
+       [``(7)(A) To adopt as the basis for statutory terms and 
+     rates or as a basis for the distribution of statutory royalty 
+     payments, an agreement concerning such matters reached among 
+     some or all of the participants in a proceeding at any time 
+     during the proceeding, except that--
+       [``(i) the Copyright Royalty Judges shall provide to the 
+     other participants in the proceeding under section 803(b)(2) 
+     that would be bound by the terms, rates, distribution, or 
+     other determination set by the agreement an opportunity to 
+     comment on the agreement and object to its adoption as the 
+     basis for statutory terms and rates or as a basis for the 
+     distribution of statutory royalty payments, as the case may 
+     be; and
+       [``(ii) the Copyright Royalty Judges may decline to adopt 
+     the agreement as the basis for statutory terms and rates or 
+     as the basis for the distribution of statutory royalty 
+     payments, as the case may be, if any other participant 
+     described in subparagraph (A) objects to the agreement and 
+     the Copyright Royalty Judges find, based on the record before 
+     them, that the agreement is not likely to meet the statutory 
+     standard for setting the terms and rates, or for distributing 
+     the royalty payments, as the case may be.
+       [``(B) License agreements voluntarily negotiated pursuant 
+     to section 112(e)(5), 114(f)(3), 115(c)(3)(E)(i), 116(c), or 
+     118(b)(2) that do not result in statutory terms and rates 
+     shall not be subject to clauses (i) and (ii) of subparagraph 
+     (A).
+
+[[Page S10490]]
+
+       [``(c) Rulings.--The Copyright Royalty Judges may make any 
+     necessary procedural or evidentiary rulings in any proceeding 
+     under this chapter and may, before commencing a proceeding 
+     under this chapter, make any such rulings that would apply to 
+     the proceedings conducted by the Copyright Royalty Judges. 
+     The Copyright Royalty Judges may consult with the Register of 
+     Copyrights in making any rulings under section 802(f)(1).
+       [``(d) Administrative Support.--The Librarian of Congress 
+     shall provide the Copyright Royalty Judges with the necessary 
+     administrative services related to proceedings under this 
+     chapter.
+       [``(e) Location in Library of Congress.--The offices of the 
+     Copyright Royalty Judges and staff shall be in the Library of 
+     Congress.
+
+     [``Sec. 802. Copyright Royalty Judgeships; staff
+
+       [``(a) Qualifications of Copyright Royalty Judges.--Each 
+     Copyright Royalty Judge shall be an attorney who has at least 
+     7 years of legal experience. The Chief Copyright Royalty 
+     Judge shall have at least 5 years of experience in 
+     adjudications, arbitrations, or court trials. Of the other 
+     two Copyright Royalty Judges, one shall have significant 
+     knowledge of copyright law, and the other shall have 
+     significant knowledge of economics. An individual may serve 
+     as a Copyright Royalty Judge only if the individual is free 
+     of any financial conflict of interest under subsection (h). 
+     In this subsection, `adjudication' has the meaning given that 
+     term in section 551 of title 5, but does not include 
+     mediation.
+       [``(b) Staff.--The Chief Copyright Royalty Judge shall hire 
+     3 full-time staff members to assist the Copyright Royalty 
+     Judges in performing their functions.
+       [``(c) Terms.--The terms of the Copyright Royalty Judges 
+     shall each be 6 years, except of the individuals first 
+     appointed, the Chief Copyright Royalty Judge shall be 
+     appointed to a term of 6 years, and of the remaining 
+     Copyright Royalty Judges, one shall be appointed to a term of 
+     2 years, and the other shall be appointed to a term of 4 
+     years. An individual serving as a Copyright Royalty Judge may 
+     be reappointed to subsequent terms. The term of a Copyright 
+     Royalty Judge shall begin when the term of the predecessor of 
+     that Copyright Royalty Judge ends. When the term of office of 
+     a Copyright Royalty Judge ends, the individual serving that 
+     term may continue to serve until a successor is selected.
+       [``(d) Vacancies or Incapacity.--
+       [``(1) Vacancies.--If a vacancy should occur in the 
+     position of Copyright Royalty Judge, the Librarian of 
+     Congress shall act expeditiously to fill the vacancy, and may 
+     appoint an interim Copyright Royalty Judge to serve until 
+     another Copyright Royalty Judge is appointed under this 
+     section. An individual appointed to fill the vacancy 
+     occurring before the expiration of the term for which the 
+     predecessor of that individual was appointed shall be 
+     appointed for the remainder of that term.
+       [``(2) Incapacity.--In the case in which a Copyright 
+     Royalty Judge is temporarily unable to perform his or her 
+     duties, the Librarian of Congress may appoint an interim 
+     Copyright Royalty Judge to perform such duties during the 
+     period of such incapacity.
+       [``(e) Compensation.--
+       [``(1) Judges.--The Chief Copyright Royalty Judge shall 
+     receive compensation at the rate of basic pay payable for 
+     level AL-1 for administrative law judges pursuant to section 
+     5372(b) of title 5, and each of the other two Copyright 
+     Royalty Judges shall receive compensation at the rate of 
+     basic pay payable for level AL-2 for administrative law 
+     judges pursuant to such section. The compensation of the 
+     Copyright Royalty Judges shall not be subject to any 
+     regulations adopted by the Office of Personnel Management 
+     pursuant to its authority under section 5376(b)(1) of title 
+     5.
+       [``(2) Staff members.--Of the staff members appointed under 
+     subsection (b)--
+       [``(A) the rate of pay of one staff member shall be not 
+     more than the basic rate of pay payable for GS-15 of the 
+     General Schedule;
+       [``(B) the rate of pay of one staff member shall be not 
+     less than the basic rate of pay payable for GS-13 of the 
+     General Schedule and not more than the basic rate of pay 
+     payable for GS-14 of such Schedule; and
+       [``(C) the rate of pay for the third staff member shall be 
+     not less than the basic rate of pay payable for GS-8 of the 
+     General Schedule and not more than the basic rate of pay 
+     payable for GS-11 of such Schedule.
+       [``(f) Independence of Copyright Royalty Judge.--
+       [``(1) In making determinations.--
+       [``(A) In general.--Subject to subparagraph (B), the 
+     Copyright Royalty Judges shall have full independence in 
+     making determinations concerning adjustments and 
+     determinations of copyright royalty rates and terms, the 
+     distribution of copyright royalties, the acceptance or 
+     rejection of royalty claims, rate adjustment petitions, and 
+     petitions to participate, and in issuing other rulings under 
+     this title, except that the Copyright Royalty Judges may 
+     consult with the Register of Copyrights on any matter other 
+     than a question of fact. Any such consultations between the 
+     Copyright Royalty Judges and the Register of Copyright on any 
+     question of law shall be in writing or on the record.
+       [``(B) Novel questions.--(i) Notwithstanding the provisions 
+     of subparagraph (A), in any case in which the Copyright 
+     Royalty Judges in a proceeding under this title are presented 
+     with a novel question of law concerning an interpretation of 
+     those provisions of this title that are the subject of the 
+     proceeding, the Copyright Royalty Judges shall request the 
+     Register of Copyrights, in writing, to submit a written 
+     opinion on the resolution of such novel question. The 
+     Register shall submit and make public that opinion within 
+     such time period as the Copyright Royalty Judges may 
+     prescribe. Any consultations under this subparagraph between 
+     the Copyright Royalty Judges and the Register of Copyrights 
+     shall be in writing or on the record. The opinion of the 
+     Register shall not be binding on the Copyright Royalty 
+     Judges, but the Copyright Royalty Judges shall take the 
+     opinion of the Register into account in making the judges' 
+     determination on the question concerned.
+       [``(ii) In clause (i), a `novel question of law' is a 
+     question of law that has not been determined in prior 
+     decisions, determinations, and rulings described in section 
+     803(a).
+       [``(2) Performance appraisals.--
+       [``(A) In general.--Notwithstanding any other provision of 
+     law or any regulation of the Library of Congress, and subject 
+     to subparagraph (B), the Copyright Royalty Judges shall not 
+     receive performance appraisals.
+       [``(B) Relating to sanction or removal.--To the extent that 
+     the Librarian of Congress adopts regulations under subsection 
+     (h) relating to the sanction or removal of a Copyright 
+     Royalty Judge and such regulations require documentation to 
+     establish the cause of such sanction or removal, the 
+     Copyright Royalty Judge may receive an appraisal related 
+     specifically to the cause of the sanction or removal.
+       [``(g) Inconsistent Duties Barred.--No Copyright Royalty 
+     Judge may undertake duties inconsistent with his or her 
+     duties and responsibilities as Copyright Royalty Judge.
+       [``(h) Standards of Conduct.--The Librarian of Congress 
+     shall adopt regulations regarding the standards of conduct, 
+     including financial conflict of interest and restrictions 
+     against ex parte communications, which shall govern the 
+     Copyright Royalty Judges and the proceedings under this 
+     chapter.
+       [``(i) Removal or Sanction.--The Librarian of Congress may 
+     sanction or remove a Copyright Royalty Judge for violation of 
+     the standards of conduct adopted under subsection (h), 
+     misconduct, neglect of duty, or any disqualifying physical or 
+     mental disability. Any such sanction or removal may be made 
+     only after notice and opportunity for a hearing, but the 
+     Librarian of Congress may suspend the Copyright Royalty Judge 
+     during the pendency of such hearing. The Librarian shall 
+     appoint an interim Copyright Royalty Judge during the period 
+     of any such suspension.
+
+     [``Sec. 803. Proceedings of Copyright Royalty Judges
+
+       [``(a) Proceedings.--
+       [``(1) In general.--The Copyright Royalty Judges shall act 
+     in accordance with this title, and to the extent not 
+     inconsistent with this title, in accordance with subchapter 
+     II of chapter 5 of title 5, in carrying out the purposes set 
+     forth in section 801. The Copyright Royalty Judges shall act 
+     in accordance with regulations issued by the Copyright 
+     Royalty Judges and on the basis of a fully documented written 
+     record, prior decisions of the Copyright Royalty Tribunal, 
+     prior copyright arbitration royalty panel determinations, 
+     rulings by the Librarian of Congress before the effective 
+     date of the Copyright Royalty and Distribution Reform Act of 
+     2004, prior determinations of Copyright Royalty Judges under 
+     this chapter, and decisions of the court in appeals under 
+     this chapter before, on, or after such effective date. Any 
+     participant in a proceeding under subsection (b)(2) may 
+     submit relevant information and proposals to the Copyright 
+     Royalty Judges.
+       [``(2) Judges acting as panel and individually.--The 
+     Copyright Royalty Judges shall preside over hearings in 
+     proceedings under this chapter en banc. The Chief Copyright 
+     Royalty Judge may designate a Copyright Royalty Judge to 
+     preside individually over such collateral and administrative 
+     proceedings, and over such proceedings under paragraphs (1) 
+     through (5) of subsection (b), as the Chief Judge considers 
+     appropriate.
+       [``(3) Determinations.--Final determinations of the 
+     Copyright Royalty Judges in proceedings under this chapter 
+     shall be made by majority vote. A Copyright Royalty Judge 
+     dissenting from the majority on any determination under this 
+     chapter may issue his or her dissenting opinion, which shall 
+     be included with the determination.
+       [``(b) Procedures.--
+       [``(1) Initiation.--
+       [``(A) Call for petitions to participate.--(i) Promptly 
+     upon the filing of a petition for a rate adjustment or 
+     determination under section 804(a) or 804(b)(8), or by no 
+     later than January 5 of a year specified in section 804 for 
+     the commencement of a proceeding if a petition has not been 
+     filed by that date, the Copyright Royalty Judges shall cause 
+     to be published in the Federal Register notice of 
+     commencement of proceedings under this chapter calling for 
+     the filing of petitions to participate in a proceeding under 
+     this chapter for the purpose of making the relevant 
+     determination under section 111, 112, 114, 115, 116, 118, 
+     119, 1004 or 1007, as the case may be.
+       [``(ii) Petitions to participate shall be filed by no later 
+     than 30 days after publication of notice of commencement of a 
+     proceeding, under clause (i), except that the Copyright
+
+[[Page S10491]]
+
+     Royalty Judges may, for substantial good cause shown and if 
+     there is no prejudice to the participants that have already 
+     filed petitions, accept late petitions to participate at any 
+     time up to the date that is 90 days before the date on which 
+     participants in the proceeding are to file their written 
+     direct statements.
+       [``(B) Petitions to participate.--Each petition to 
+     participate in a proceeding shall describe the petitioner's 
+     interest in the subject matter of the proceeding. Parties 
+     with similar interests may file a single petition to 
+     participate.
+       [``(2) Participation in general.--Subject to paragraph (4), 
+     a person may participate in a proceeding under this chapter, 
+     including through the submission of briefs or other 
+     information, only if--
+       [``(A) that person has filed a petition to participate in 
+     accordance with paragraph (1) (either individually or as a 
+     group under paragraph (1)(B)), together with a filing fee of 
+     $150;
+       [``(B) the Copyright Royalty Judges have not determined 
+     that the petition to participate is facially invalid; and
+       [``(C) the Copyright Royalty Judges have not determined, 
+     sua sponte or on the motion of another participant in the 
+     proceeding, that the person lacks a significant interest in 
+     the proceeding.
+       [``(3) Voluntary negotiation period.--
+       [``(A) In general.--Promptly after the date for filing of 
+     petitions to participate in a proceeding, the Copyright 
+     Royalty Judges shall make available to all participants in 
+     the proceeding a list of such participants and shall initiate 
+     a voluntary negotiation period among the participants.
+       [``(B) Length of proceedings.--The voluntary negotiation 
+     period initiated under subparagraph (A) shall be 3 months.
+       [``(C) Determination of subsequent proceedings.--At the 
+     close of the voluntary negotiation proceedings, the Copyright 
+     Royalty Judges shall, if further proceedings under this 
+     chapter are necessary, determine whether and to what extent 
+     paragraphs (4) and (5) will apply to the parties.
+       [``(4) Small claims procedure in distribution 
+     proceedings.--
+       [``(A) In general.--If, in a proceeding under this chapter 
+     to determine the distribution of royalties, a participant in 
+     the proceeding asserts that the contested amount of the claim 
+     is $10,000 or less, the Copyright Royalty Judges shall decide 
+     the controversy on the basis of the filing in writing of the 
+     initial claim, the initial response by any opposing 
+     participant, and one additional response by each such party. 
+     The participant asserting the claim shall not be required to 
+     pay the filing fee under paragraph (2).
+       [``(B) Bad faith inflation of claim.--If the Copyright 
+     Royalty Judges determine that a participant asserts in bad 
+     faith an amount in controversy in excess of $10,000 for the 
+     purpose of avoiding a determination under the procedure set 
+     forth in subparagraph (A), the Copyright Royalty Judges shall 
+     impose a fine on that participant in an amount not to exceed 
+     the difference between the actual amount distributed and the 
+     amount asserted by the participant.
+       [``(5) Paper proceedings in ratemaking proceedings.--The 
+     Copyright Royalty Judges in proceedings under this chapter to 
+     determine royalty rates may decide, sua sponte or upon motion 
+     of a participant, to determine issues on the basis of initial 
+     filings in writing, initial responses by any opposing 
+     participant, and one additional response by each such 
+     participant. Prior to making such decision to proceed on such 
+     a paper record only, the Copyright Royalty Judges shall offer 
+     to all parties to the proceeding the opportunity to comment 
+     on the decision. The procedure under this paragraph--
+       [``(A) shall be applied in cases in which there is no 
+     genuine issue of material fact, there is no need for 
+     evidentiary hearings, and all participants in the proceeding 
+     agree in writing to the procedure; and
+       [``(B) may be applied under such other circumstances as the 
+     Copyright Royalty Judges consider appropriate.
+       [``(6) Regulations.--
+       [``(A) In general.--The Copyright Royalty Judges may issue 
+     regulations to carry out their functions under this title. 
+     Not later than 120 days after Copyright Royalty Judges or 
+     interim Copyright Royalty Judges, as the case may be, are 
+     first appointed after the enactment of the Copyright Royalty 
+     and Distribution Reform Act of 2004, such judges shall issue 
+     regulations to govern proceedings under this chapter.
+       [``(B) Interim regulations.--Until regulations are adopted 
+     under subparagraph (A), the Copyright Royalty Judges shall 
+     apply the regulations in effect under this chapter on the day 
+     before the effective date of the Copyright Royalty and 
+     Distribution Reform Act of 2004, to the extent such 
+     regulations are not inconsistent with this chapter, except 
+     that functions carried out under such regulations by the 
+     Librarian of Congress, the Register of Copyrights, or 
+     copyright arbitration royalty panels that, as of such date of 
+     enactment, are to be carried out by the Copyright Royalty 
+     Judges under this chapter, shall be carried out by the 
+     Copyright Royalty Judges under such regulations.
+       [``(C) Requirements.--Regulations issued under subparagraph 
+     (A) shall include the following:
+       [``(i) The written direct statements of all participants in 
+     a proceeding under paragraph (2) shall be filed by a date 
+     specified by the Copyright Royalty Judges, which may be no 
+     earlier than four months, and no later than five months, 
+     after the end of the voluntary negotiation period under 
+     paragraph (3). Notwithstanding the preceding sentence, a 
+     participant in a proceeding may, within 15 days after the end 
+     of the discovery period specified in clause (iii), file an 
+     amended written direct statement based on new information 
+     received during the discovery process.
+       [``(ii)(I) Following the submission to the Copyright 
+     Royalty Judges of written direct statements by the 
+     participants in a proceeding under paragraph (2), the judges 
+     shall meet with the participants for the purpose of setting a 
+     schedule for conducting and completing discovery. Such 
+     schedule shall be determined by the Copyright Royalty Judges.
+       [``(II) In this chapter, the term `written direct 
+     statements' means witness statements, testimony, and exhibits 
+     to be presented in the proceedings, and such other 
+     information that is necessary to establish terms and rates, 
+     or the distribution of royalty payments, as the case may be, 
+     as set forth in regulations issued by the Copyright Royalty 
+     Judges.
+       [``(iii) Hearsay may be admitted in proceedings under this 
+     chapter to the extent deemed appropriate by the Copyright 
+     Royalty Judges.
+       [``(iv) Discovery in such proceedings shall be permitted 
+     for a period of 60 days, except for discovery ordered by the 
+     Copyright Royalty Judges in connection with the resolution of 
+     motions, orders and disputes pending at the end of such 
+     period.
+       [``(v) Any participant under paragraph (2) in a proceeding 
+     under this chapter to determine royalty rates may, upon 
+     written notice, seek discovery of information and materials 
+     relevant and material to the proceeding. Any objection to any 
+     such discovery request shall be resolved by a motion or 
+     request to compel discovery made to the Copyright Royalty 
+     Judges. Each motion or request to compel discovery shall be 
+     determined by the Copyright Royalty Judges, or by a Copyright 
+     Royalty Judge when permitted under subsection (a)(2), who may 
+     approve the request only if the evidence that would be 
+     produced is relevant and material. A Copyright Royalty Judge 
+     may refuse a request to compel discovery of evidence that has 
+     been found to be relevant and material, only upon good cause 
+     shown. For purposes of the preceding sentence, the basis for 
+     `good cause' may only be that--
+
+       [``(I) the discovery sought is unreasonably cumulative or 
+     duplicative, or is obtainable from another source that is 
+     more convenient, less burdensome, or less expensive;
+       [``(II) the participant seeking discovery has had ample 
+     opportunity by discovery in the action to obtain the 
+     information sought; or
+       [``(III) the burden or expense of the proposed discovery 
+     outweighs its likely benefit, taking into account the needs 
+     and resources of the participants, the importance of the 
+     issues at stake, and the importance of the proposed discovery 
+     in resolving the issues.
+
+       [``(vi) The rules in effect on the day before the effective 
+     date of the Copyright Royalty and Distribution Reform Act of 
+     2004, relating to discovery in proceedings under this title 
+     to determine the distribution of royalty fees, shall continue 
+     to apply to such proceedings on and after such effective 
+     date.
+       [``(vii) The Copyright Royalty Judges may issue subpoenas 
+     requiring the production of evidence or witnesses, but only 
+     if the evidence requested to be produced or that would be 
+     proffered by the witness is relevant and material.
+       [``(viii) The Copyright Royalty Judges shall order a 
+     settlement conference among the participants in the 
+     proceeding to facilitate the presentation of offers of 
+     settlement among the participants. The settlement conference 
+     shall be held during a 21-day period following the end of the 
+     discovery period.
+       [``(c) Determination of Copyright Royalty Judges.--
+       [``(1) Timing.--The Copyright Royalty Judges shall issue 
+     their determination in a proceeding not later than 11 months 
+     after the conclusion of the 21-day settlement conference 
+     period under subsection (b)(3)(C)(vi), but, in the case of a 
+     proceeding to determine successors to rates or terms that 
+     expire on a specified date, in no event later than 15 days 
+     before the expiration of the then current statutory rates and 
+     terms.
+       [``(2) Rehearings.--
+       [``(A) In general.--The Copyright Royalty Judges may, in 
+     exceptional cases, upon motion of a participant under 
+     subsection (b)(2), order a rehearing, after the determination 
+     in a proceeding is issued under paragraph (1), on such 
+     matters as the Copyright Royalty Judges determine to be 
+     appropriate.
+       [``(B) Timing for filing motion.--Any motion for a 
+     rehearing under subparagraph (A) may only be filed within 15 
+     days after the date on which the Copyright Royalty Judges 
+     deliver their initial determination concerning rates and 
+     terms to the participants in the proceeding.
+       [``(C) Participation by opposing party not required.--In 
+     any case in which a rehearing is ordered, any opposing party 
+     shall not be required to participate in the rehearing.
+       [``(D) No negative inference.--No negative inference shall 
+     be drawn from lack of participation in a rehearing.
+       [``(E) Continuity of rates and terms.--(i) If the decision 
+     of the Copyright Royalty Judges on any motion for a rehearing 
+     is not rendered before the expiration of the statutory rates 
+     and terms that were previously in
+
+[[Page S10492]]
+
+     effect, in the case of a proceeding to determine successors 
+     to rates and terms that expire on a specified date, then--
+       [``(I) the initial determination of the Copyright Royalty 
+     Judges that is the subject of the rehearing motion shall be 
+     effective as of the day following the date on which the rates 
+     and terms that were previously in effect expire; and
+       [``(II) in the case of a proceeding under section 
+     114(f)(1)(C) or 114(f)(2)(C), royalty rates and terms shall, 
+     for purposes of section 114(f)(4)(B), be deemed to have been 
+     set at those rates and terms contained in the initial 
+     determination of the Copyright Royalty Judges that is the 
+     subject of the rehearing motion, as of the date of that 
+     determination.
+       [``(ii) The pendency of a motion for a rehearing under this 
+     paragraph shall not relieve persons obligated to make royalty 
+     payments who would be affected by the determination on that 
+     motion from providing the statements of account and any 
+     reports of use, to the extent required, and paying the 
+     royalties required under the relevant determination or 
+     regulations.
+       [``(iii) Notwithstanding clause (ii), whenever royalties 
+     described in clause (ii) are paid to a person other than the 
+     Copyright Office, the entity designated by the Copyright 
+     Royalty Judges to which such royalties are paid by the 
+     copyright user (and any successor thereto) shall, within 60 
+     days after the motion for rehearing is resolved or, if the 
+     motion is granted, within 60 days after the rehearing is 
+     concluded, return any excess amounts previously paid to the 
+     extent necessary to comply with the final determination of 
+     royalty rates by the Copyright Royalty Judges.
+       [``(3) Contents of determination.--A determination of the 
+     Copyright Royalty Judges shall be accompanied by the written 
+     record, and shall set forth the facts that the Copyright 
+     Royalty Judges found relevant to their determination. Among 
+     other terms adopted in a determination, the Copyright Royalty 
+     Judges may specify notice and recordkeeping requirements of 
+     users of the copyrights at issue that apply in lieu of those 
+     that would otherwise apply under regulations.
+       [``(4) Continuing jurisdiction.--The Copyright Royalty 
+     Judges may amend the determination or the regulations issued 
+     pursuant to the determination in order to correct any 
+     technical errors in the determination or to respond to 
+     unforeseen circumstances that preclude the proper 
+     effectuation of the determination.
+       [``(5) Protective order.--The Copyright Royalty Judges may 
+     issue such orders as may be appropriate to protect 
+     confidential information, including orders excluding 
+     confidential information from the record of the determination 
+     that is published or made available to the public, except 
+     that any terms or rates of royalty payments or distributions 
+     may not be excluded.
+       [``(6) Publication of determination.--The Librarian of 
+     Congress shall cause the determination, and any corrections 
+     thereto, to be published in the Federal Register. The 
+     Librarian of Congress shall also publicize the determination 
+     and corrections in such other manner as the Librarian 
+     considers appropriate, including, but not limited to, 
+     publication on the Internet. The Librarian of Congress shall 
+     also make the determination, corrections, and the 
+     accompanying record available for public inspection and 
+     copying.
+       [``(d) Judicial Review.--
+       [``(1) Appeal.--Any determination of the Copyright Royalty 
+     Judges under subsection (c) may, within 30 days after the 
+     publication of the determination in the Federal Register, be 
+     appealed, to the United States Court of Appeals for the 
+     District of Columbia Circuit, by any aggrieved participant in 
+     the proceeding under subsection (b)(2) who fully participated 
+     in the proceeding and who would be bound by the 
+     determination. If no appeal is brought within that 30-day 
+     period, the determination of the Copyright Royalty Judges 
+     shall be final, and the royalty fee or determination with 
+     respect to the distribution of fees, as the case may be, 
+     shall take effect as set forth in paragraph (2).
+       [``(2) Effect of rates.--
+       [``(A) Expiration on specified date.--When this title 
+     provides that the royalty rates and terms that were 
+     previously in effect are to expire on a specified date, any 
+     adjustment or determination by the Copyright Royalty Judges 
+     of successor rates and terms for an ensuing statutory license 
+     period shall be effective as of the day following the date of 
+     expiration of the rates and terms that were previously in 
+     effect, even if the determination of the Copyright Royalty 
+     Judges is rendered on a later date.
+       [``(B) Other cases.--In cases where rates and terms do not 
+     expire on a specified date or have not yet been established, 
+     successor or new rates or terms shall take effect on the 
+     first day of the second month that begins after the 
+     publication of the determination of the Copyright Royalty 
+     Judges in the Federal Register, except as otherwise provided 
+     in this title, and the rates and terms previously in effect, 
+     to the extent applicable, shall remain in effect until such 
+     successor rates and terms become effective.
+       [``(C) Obligation to make payments.--(i) The pendency of an 
+     appeal under this subsection shall not relieve persons 
+     obligated to make royalty payments under section 111, 112, 
+     114, 115, 116, 118, 119, or 1003, who would be affected by 
+     the determination on appeal, from providing the statements of 
+     account (and any report of use, to the extent required) and 
+     paying the royalties required under the relevant 
+     determination or regulations.
+       [``(ii) Notwithstanding clause (i), whenever royalties 
+     described in clause (i) are paid to a person other than the 
+     Copyright Office, the entity designated by the Copyright 
+     Royalty Judges to which such royalties are paid by the 
+     copyright user (and any successor thereto) shall, within 60 
+     days after the final resolution of the appeal, return any 
+     excess amounts previously paid (and interest thereon, if 
+     ordered pursuant to paragraph (3)) to the extent necessary to 
+     comply with the final determination of royalty rates on 
+     appeal.
+       [``(3) Jurisdiction of court.--If the court, pursuant to 
+     section 706 of title 5, modifies or vacates a determination 
+     of the Copyright Royalty Judges, the court may enter its own 
+     determination with respect to the amount or distribution of 
+     royalty fees and costs, and order the repayment of any excess 
+     fees, the payment of any underpaid fees, and the payment of 
+     interest pertaining respectively thereto, in accordance with 
+     its final judgment. The court may also vacate the 
+     determination of the Copyright Royalty Judges and remand the 
+     case to the Copyright Royalty Judges for further proceedings 
+     in accordance with subsection (a).
+       [``(e) Administrative Matters.--
+       [``(1) Deduction of costs of library of congress and 
+     copyright office from filing fees.--
+       [``(A) Deduction from filing fees.--The Librarian of 
+     Congress may, to the extent not otherwise provided under this 
+     title, deduct from the filing fees collected under subsection 
+     (b) for a particular proceeding under this chapter the 
+     reasonable costs incurred by the Librarian of Congress, the 
+     Copyright Office, and the Copyright Royalty Judges in 
+     conducting that proceeding, other than the salaries of the 
+     Copyright Royalty Judges and the 3 staff members appointed 
+     under section 802(b).
+       [``(B) Authorization of appropriations.--There are 
+     authorized to be appropriated such sums as may be necessary 
+     to pay the costs of proceedings under this chapter not 
+     covered by the filing fees collected under subsection (b). 
+     All funds made available pursuant to this subparagraph shall 
+     remain available until expended.
+       [``(2) Positions required for administration of compulsory 
+     licensing.--Section 307 of the Legislative Branch 
+     Appropriations Act, 1994, shall not apply to employee 
+     positions in the Library of Congress that are required to be 
+     filled in order to carry out section 111, 112, 114, 115, 116, 
+     118, or 119 or chapter 10.
+
+     [``Sec. 804. Institution of proceedings
+
+       [``(a) Filing of Petition.--With respect to proceedings 
+     referred to in paragraphs (1) and (2) of section 801(b) 
+     concerning the determination or adjustment of royalty rates 
+     as provided in sections 111, 112, 114, 115, 116, 118, and 
+     1004, during the calendar years specified in the schedule set 
+     forth in subsection (b), any owner or user of a copyrighted 
+     work whose royalty rates are specified by this title, or are 
+     established under this chapter before or after the enactment 
+     of the Copyright Royalty and Distribution Reform Act of 2004, 
+     may file a petition with the Copyright Royalty Judges 
+     declaring that the petitioner requests a determination or 
+     adjustment of the rate. The Copyright Royalty Judges shall 
+     make a determination as to whether the petitioner has such a 
+     significant interest in the royalty rate in which a 
+     determination or adjustment is requested. If the Copyright 
+     Royalty Judges determine that the petitioner has such a 
+     significant interest, the Copyright Royalty Judges shall 
+     cause notice of this determination, with the reasons 
+     therefor, to be published in the Federal Register, together 
+     with the notice of commencement of proceedings under this 
+     chapter. With respect to proceedings under paragraph (1) of 
+     section 801(b) concerning the determination or adjustment of 
+     royalty rates as provided in sections 112 and 114, during the 
+     calendar years specified in the schedule set forth in 
+     subsection (b), the Copyright Royalty Judges shall cause 
+     notice of commencement of proceedings under this chapter to 
+     be published in the Federal Register as provided in section 
+     803(b)(1)(A).
+       [``(b) Timing of Proceedings.--
+       [``(1) Section 111 proceedings.--(A) A petition described 
+     in subsection (a) to initiate proceedings under section 
+     801(b)(2) concerning the adjustment of royalty rates under 
+     section 111 to which subparagraph (A) or (D) of section 
+     801(b)(2) applies may be filed during the year 2005 and in 
+     each subsequent fifth calendar year.
+       [``(B) In order to initiate proceedings under section 
+     801(b)(2) concerning the adjustment of royalty rates under 
+     section 111 to which subparagraph (B) or (C) of section 
+     801(b)(2) applies, within 12 months after an event described 
+     in either of those subsections, any owner or user of a 
+     copyrighted work whose royalty rates are specified by section 
+     111, or by a rate established under this chapter before or 
+     after the enactment of the Copyright Royalty and Distribution 
+     Reform Act of 2004, may file a petition with the Copyright 
+     Royalty Judges declaring that the petitioner requests an 
+     adjustment of the rate. The Copyright Royalty Judges shall 
+     then proceed as set forth in subsection (a) of this section. 
+     Any change in royalty rates made under this chapter pursuant 
+     to this subparagraph may be reconsidered in the year 2005, 
+     and each fifth calendar year thereafter, in accordance with 
+     the provisions in section 801(b)(3)(B) or (C), as the case 
+     may
+
+[[Page S10493]]
+
+     be. A petition for adjustment of rates under section 
+     11(d)(1)(B) as a result of a change is the rules and 
+     regulations of the Federal Communications Commission shall 
+     set forth the change on which the petition is based.
+       [``(C) Any adjustment of royalty rates under section 111 
+     shall take effect as of the first accounting period 
+     commencing after the publication of the determination of the 
+     Copyright Royalty Judges in the Federal Register, or on such 
+     other date as is specified in that determination.
+       [``(2) Certain section 112 proceedings.--Proceedings under 
+     this chapter shall be commenced in the year 2007 to determine 
+     reasonable terms and rates of royalty payments for the 
+     activities described in section 112(e)(1) relating to the 
+     limitation on exclusive rights specified by section 
+     114(d)(1)(C)(iv), to become effective on January 1, 2009. 
+     Such proceedings shall be repeated in each subsequent fifth 
+     calendar year.
+       [``(3) Section 114 and corresponding 112 proceedings.--
+       [``(A) For eligible nonsubscription services and new 
+     subscription services.--Proceedings under this chapter shall 
+     be commenced as soon as practicable after the effective date 
+     of the Copyright Royalty and Distribution Reform Act of 2004 
+     to determine reasonable terms and rates of royalty payments 
+     under sections 114 and 112 for the activities of eligible 
+     nonsubscription transmission services and new subscription 
+     services, to be effective for the period beginning on January 
+     1, 2006, and ending on December 31, 2010. Such proceedings 
+     shall next be commenced in January 2009 to determine 
+     reasonable terms and rates of royalty payments, to become 
+     effective on January 1, 2011. Thereafter, such proceedings 
+     shall be repeated in each subsequent fifth calendar year.
+       [``(B) For preexisting subscription and satellite digital 
+     audio radio services.--Proceedings under this chapter shall 
+     be commenced in January 2006 to determine reasonable terms 
+     and rates of royalty payments under sections 114 and 112 for 
+     the activities of preexisting subscription services, to be 
+     effective during the period beginning on January 1, 2008, and 
+     ending on December 31, 2012, and preexisting satellite 
+     digital audio radio services, to be effective during the 
+     period beginning on January 1, 2007, and ending on December 
+     31, 2012. Such proceedings shall next be commenced in 2011 to 
+     determine reasonable terms and rates of royalty payments, to 
+     become effective on January 1, 2013. Thereafter, such 
+     proceedings shall be repeated in each subsequent fifth 
+     calendar year.
+       [``(C)(i) Notwithstanding any other provision of this 
+     chapter, this subparagraph shall govern proceedings commenced 
+     pursuant to sections 114(f)(1)(C) and 114(f)(2)(C) concerning 
+     new types of services.
+       [``(ii) Not later than 30 days after a petition to 
+     determine rates and terms for a new type of service that is 
+     filed by any copyright owner of sound recordings, or such new 
+     type of service, indicating that such new type of service is 
+     or is about to become operational, the Copyright Royalty 
+     Judges shall issue a notice for a proceeding to determine 
+     rates and terms for such service.
+       [``(iii) The proceeding shall follow the schedule set forth 
+     in such subsections (b), (c), and (d) of section 803, except 
+     that--
+       [``(I) the determination shall be issued by not later than 
+     24 months after the publication of the notice under clause 
+     (ii); and
+       [``(II) the decision shall take effect as provided in 
+     subsections (c)(2) and (d)(2) of section 803 and section 
+     114(f)(4)(B)(ii) and (C).
+       [``(iv) The rates and terms shall remain in effect for the 
+     period set forth in section 114(f)(1)(C) or 114(f)(2)(C), as 
+     the case may be.
+       [``(4) Section 115 proceedings.--A petition described in 
+     subsection (a) to initiate proceedings under section 
+     801(b)(1) concerning the adjustment or determination of 
+     royalty rates as provided in section 115 may be filed in the 
+     year 2006 and in each subsequent fifth calendar year, or at 
+     such other times as the parties have agreed under section 
+     115(c)(3)(B) and (C).
+       [``(5) Section 116 proceedings.--(A) A petition described 
+     in subsection (a) to initiate proceedings under section 
+     801(b) concerning the determination of royalty rates and 
+     terms as provided in section 116 may be filed at any time 
+     within 1 year after negotiated licenses authorized by section 
+     116 are terminated or expire and are not replaced by 
+     subsequent agreements.
+       [``(B) If a negotiated license authorized by section 116 is 
+     terminated or expires and is not replaced by another such 
+     license agreement which provides permission to use a quantity 
+     of musical works not substantially smaller than the quantity 
+     of such works performed on coin-operated phonorecord players 
+     during the 1-year period ending March 1, 1989, the Copyright 
+     Royalty Judges shall, upon petition filed under paragraph (1) 
+     within 1 year after such termination or expiration, commence 
+     a proceeding to promptly establish an interim royalty rate or 
+     rates for the public performance by means of a coin-operated 
+     phonorecord player of nondramatic musical works embodied in 
+     phonorecords which had been subject to the terminated or 
+     expired negotiated license agreement. Such rate or rates 
+     shall be the same as the last such rate or rates and shall 
+     remain in force until the conclusion of proceedings by the 
+     Copyright Royalty Judges, in accordance with section 803, to 
+     adjust the royalty rates applicable to such works, or until 
+     superseded by a new negotiated license agreement, as provided 
+     in section 116(b).
+       [``(6) Section 118 proceedings.--A petition described in 
+     subsection (a) to initiate proceedings under section 
+     801(b)(1) concerning the determination of reasonable terms 
+     and rates of royalty payments as provided in section 118 may 
+     be filed in the year 2006 and in each subsequent fifth 
+     calendar year.
+       [``(7) Section 1004 proceedings.--A petition described in 
+     subsection (a) to initiate proceedings under section 
+     801(b)(1) concerning the adjustment of reasonable royalty 
+     rates under section 1004 may be filed as provided in section 
+     1004(a)(3).
+       [``(8) Proceedings concerning distribution of royalty 
+     fees.--With respect to proceedings under section 801(b)(3) 
+     concerning the distribution of royalty fees in certain 
+     circumstances under section 111, 116, 119, or 1007, the 
+     Copyright Royalty Judges shall, upon a determination that a 
+     controversy exists concerning such distribution, cause to be 
+     published in the Federal Register notice of commencement of 
+     proceedings under this chapter.
+
+     [``Sec. 805. General rule for voluntarily negotiated 
+       agreements
+
+       [``Any rates or terms under this title that--
+       [``(1) are agreed to by participants to a proceeding under 
+     section 803(b)(2),
+       [``(2) are adopted by the Copyright Royalty Judges as part 
+     of a determination under this chapter, and
+       [``(3) are in effect for a period shorter than would 
+     otherwise apply under a determination pursuant to this 
+     chapter,
+
+     [shall remain in effect for such period of time as would 
+     otherwise apply under such determination, except that the 
+     Copyright Royalty Judges shall adjust the rates pursuant to 
+     the voluntary negotiations to reflect national monetary 
+     inflation during the additional period the rates remain in 
+     effect.''.
+       [(b) Conforming Amendment.--The table of chapters for title 
+     17, United States Code, is amended by striking the item 
+     relating to chapter 8 and inserting the following:
+
+[``8. Proceedings by Copyright Royalty Judges................801''.....
+
+     [SEC. 4. DEFINITION.
+
+       [Section 101 is amended by inserting after the definition 
+     of ``copies'' the following:
+       [``A `Copyright Royalty Judge' is a Copyright Royalty Judge 
+     appointed under section 802 of this title, and includes any 
+     individual serving as an interim Copyright Royalty Judge 
+     under such section.''.
+
+     [SEC. 5. TECHNICAL AMENDMENTS.
+
+       [(a) Cable Rates.--Section 111(d) is amended--
+       [(1) in paragraph (2), in the second sentence, by striking 
+     ``a copyright arbitration royalty panel'' and inserting ``the 
+     Copyright Royalty Judges.''; and
+       [(2) in paragraph (4)--
+       [(A) in subparagraph (A), by striking ``Librarian of 
+     Congress'' each place it appears and inserting ``Copyright 
+     Royalty Judges'';
+       [(B) in subparagraph (B)--
+       [(i) in the first sentence, by striking ``Librarian of 
+     Congress shall, upon the recommendation of the Register of 
+     Copyrights,'' and inserting ``Copyright Royalty Judges 
+     shall'';
+       [(ii) in the second sentence, by striking ``Librarian 
+     determines'' and inserting ``Copyright Royalty Judges 
+     determine''; and
+       [(iii) in the third sentence--
+
+       [(I) by striking ``Librarian'' each place it appears and 
+     inserting ``Copyright Royalty Judges''; and
+       [(II) by striking ``convene a copyright arbitration royalty 
+     panel'' and inserting ``conduct a proceeding''; and
+
+       [(C) in subparagraph (C), by striking ``Librarian of 
+     Congress'' and inserting ``Copyright Royalty Judges''.
+       [(b) Ephemeral Recordings.--Section 112(e) is amended--
+       [(1) in paragraph (3)--
+       [(A) by amending the first sentence to read as follows: 
+     ``Voluntary negotiation proceedings initiated pursuant to 
+     section 804(a) for the purpose of determining reasonable 
+     terms and rates of royalty payments for the activities 
+     specified by paragraph (1) shall cover the 5-year period 
+     beginning on January 1 of the second year following the year 
+     in which the proceedings are commenced, or such other period 
+     as the parties may agree.''; and
+       [(B) in the third sentence, by striking ``Librarian of 
+     Congress'' and inserting ``Copyright Royalty Judges'';
+       [(2) in paragraph (4)--
+       [(A) by amending the first sentence to read as follows: 
+     ``In the absence of license agreements negotiated under 
+     paragraphs (2) and (3), the Copyright Royalty Judges shall 
+     commence a proceeding pursuant to chapter 8 to determine and 
+     publish in the Federal Register a schedule of reasonable 
+     rates and terms which, subject to paragraph (5), shall be 
+     binding on all copyright owners of sound recordings and 
+     transmitting organizations entitled to a statutory license 
+     under this subsection during the 5-year period specified in 
+     paragraph (3), or such other period as the parties may 
+     agree.'';
+       [(B) by striking ``copyright arbitration royalty panel'' 
+     each subsequent place it appears and inserting ``Copyright 
+     Royalty Judges'';
+       [(C) in the fourth sentence, by striking ``its decision'' 
+     and inserting ``their decision''; and
+       [(D) in the last sentence, by striking ``Librarian of 
+     Congress'' and inserting ``Copyright Royalty Judges'';
+
+[[Page S10494]]
+
+       [(3) in paragraph (5), by striking ``or decision by the 
+     Librarian of Congress'' and inserting ``, decision by the 
+     Librarian of Congress, or determination by the Copyright 
+     Royalty Judges'';
+       [(4) by striking paragraph (6) and redesignating paragraphs 
+     (7), (8), and (9), as paragraphs (6), (7), and (8), 
+     respectively; and
+       [(5) in paragraph (6)(A), as so redesignated, by striking 
+     ``Librarian of Congress'' and inserting ``Copyright Royalty 
+     Judges''.
+       [(c) Scope of Exclusive Rights in Sound Recordings.--
+     Section 114(f) is amended--
+       [(1) in paragraph (1)--
+       [(A) in subparagraph (A)--
+       [(i) by amending the first sentence to read as follows: 
+     ``Voluntary negotiation proceedings initiated pursuant to 
+     section 804(a) for the purpose of determining reasonable 
+     terms and rates of royalty payments for subscription 
+     transmissions by preexisting subscription services and 
+     transmissions by preexisting satellite digital audio radio 
+     services shall cover the 5-year period beginning on January 1 
+     of the year following the second year in which the 
+     proceedings are commenced, except where differential 
+     transitional periods are provided in section 804(b)(3), or 
+     such other period as the parties may agree.''; and
+       [(ii) in the third sentence, by striking ``Librarian of 
+     Congress'' and inserting ``Copyright Royalty Judges'';
+       [(B) in subparagraph (B)--
+       [(i) by amending the first sentence to read as follows: 
+     ``In the absence of license agreements negotiated under 
+     subparagraph (A), the Copyright Royalty Judges shall commence 
+     a proceeding pursuant to chapter 8 to determine and publish 
+     in the Federal Register a schedule of rates and terms which, 
+     subject to paragraph (3), shall be binding on all copyright 
+     owners of sound recordings and entities performing sound 
+     recordings affected by this paragraph during the 5-year 
+     period specified in subparagraph (A), or such other date as 
+     the parties may agree.''; and
+       [(ii) in the second sentence, by striking ``copyright 
+     arbitration royalty panel'' and inserting ``Copyright Royalty 
+     Judges''; and
+       [(C) by amending subparagraph (C) to read as follows:
+       [``(C) The procedures under subparagraphs (A) and (B) also 
+     shall be initiated pursuant to a petition filed by any 
+     copyright owners of sound recordings, any preexisting 
+     subscription services, or any preexisting satellite digital 
+     audio radio services indicating that a new type of 
+     subscription digital audio transmission service on which 
+     sound recordings are performed is or is about to become 
+     operational, for the purpose of determining reasonable terms 
+     and rates of royalty payments with respect to such new type 
+     of transmission service for the period beginning with the 
+     inception of such new type of service and ending on the date 
+     on which the royalty rates and terms for subscription digital 
+     audio transmission services most recently determined under 
+     subparagraph (A) or (B) and chapter 8 expire, or such other 
+     period as the parties may agree.'';
+       [(2) in paragraph (2)--
+       [(A) in subparagraph (A)--
+       [(i) by amending the first sentence to read as follows: 
+     ``Voluntary negotiation proceedings initiated pursuant to 
+     section 804(a) for the purpose of determining reasonable 
+     terms and rates of royalty payments for public performances 
+     of sound recordings by means of eligible nonsubscription 
+     transmissions and transmissions by new subscription services 
+     specified by subsection (d)(2) shall cover the 5-year period 
+     beginning on January 1 of the second year following the year 
+     in which the proceedings are commenced, except where 
+     different transitional periods are provided in section 
+     804(b)(3)(A), or such other period as the parties may 
+     agree.''; and
+       [(ii) in the third sentence, by striking ``Librarian of 
+     Congress'' and inserting ``Copyright Royalty Judges'';
+       [(B) in subparagraph (B)--
+       [(i) by amending the first sentence to read as follows: 
+     ``In the absence of license agreements negotiated under 
+     subparagraph (A), the Copyright Royalty Judges shall commence 
+     a proceeding pursuant to chapter 8 to determine and publish 
+     in the Federal Register a schedule of rates and terms which, 
+     subject to paragraph (3), shall be binding on all copyright 
+     owners of sound recordings and entities performing sound 
+     recordings affected by this paragraph during the period 
+     specified in subparagraph (A), or such other period as the 
+     parties may agree.''; and
+       [(ii) by striking ``copyright arbitration royalty panel'' 
+     each subsequent place it appears and inserting ``Copyright 
+     Royalty Judges''; and
+       [(C) by amending subparagraph (C) to read as follows:
+       [``(C) The procedures under subparagraphs (A) and (B) shall 
+     also be initiated pursuant to a petition filed by any 
+     copyright owners of sound recordings or any eligible 
+     nonsubscription service or new subscription service 
+     indicating that a new type of eligible nonsubscription 
+     service or new subscription service on which sound recordings 
+     are performed is or is about to become operational, for the 
+     purpose of determining reasonable terms and rates of royalty 
+     payments with respect to such new type of service for the 
+     period beginning with the inception of such new type of 
+     service and ending on the date on which the royalty rates and 
+     terms for preexisting subscription digital audio transmission 
+     services or preexisting satellite digital radio audio 
+     services, as the case may be, most recently determined under 
+     subparagraph (A) or (B) and chapter 8 expire, or such other 
+     period as the parties may agree.'';
+       [(3) in paragraph (3), by striking ``or decision by the 
+     Librarian of Congress'' and inserting ``, decision by the 
+     Librarian of Congress, or determination by the Copyright 
+     Royalty Judges''; and
+       [(4) in paragraph (4), by striking ``Librarian of 
+     Congress'' each place it appears and inserting ``Copyright 
+     Royalty Judges''.
+       [(d) Phonorecords of Nondramatic Musical Works.--Section 
+     115(c)(3) is amended--
+       [(1) in subparagraph (A)(ii), by striking ``(F)'' and 
+     inserting ``(E)'';
+       [(2) in subparagraph (B)--
+       [(A) by striking ``under this paragraph'' and inserting 
+     ``under this section''; and
+       [(B) by striking ``subparagraphs (B) through (F)'' and 
+     inserting ``this subparagraph and subparagraphs (B) through 
+     (E)'';
+       [(3) in subparagraph (C)--
+       [(A) by amending the first sentence to read as follows: 
+     ``Voluntary negotiation proceedings initiated pursuant to a 
+     petition filed under section 804(a) for the purpose of 
+     determining reasonable terms and rates of royalty payments 
+     for the activities specified by this section shall cover the 
+     period beginning with the effective date of such terms and 
+     rates, but not earlier than January 1 of the second year 
+     following the year in which the petition is filed, and ending 
+     on the effective date of successor terms and rates, or such 
+     other period as the parties may agree.''; and
+       [(B) in the third sentence, by striking ``Librarian of 
+     Congress'' and inserting ``Copyright Royalty Judges'';
+       [(4) in subparagraph (D)--
+       [(A) by amending the first sentence to read as follows: 
+     ``In the absence of license agreements negotiated under 
+     subparagraphs (B) and (C), the Copyright Royalty Judges shall 
+     commence proceedings pursuant to chapter 8 to determine and 
+     publish in the Federal Register a schedule of rates and terms 
+     which, subject to subparagraph (E), shall be binding on all 
+     copyright owners of nondramatic musical works and persons 
+     entitled to obtain a compulsory license under subsection 
+     (a)(1) during the period specified in subparagraph (C) or 
+     such other period as may be determined pursuant to 
+     subparagraphs (B) and (C), or such other period as the 
+     parties may agree.'';
+       [(B) in the third sentence, by striking ``copyright 
+     arbitration royalty panel'' and inserting ``Copyright Royalty 
+     Judges''; and
+       [(C) in the last sentence, by striking ``Librarian of 
+     Congress'' and inserting ``Copyright Royalty Judges'';
+       [(5) in subparagraph (E)--
+       [(A) in clause (i)--
+       [(i) in the first sentence, by striking ``the Librarian of 
+     Congress'' and inserting ``a copyright arbitration royalty 
+     panel, the Librarian of Congress, or the Copyright Royalty 
+     Judges''; and
+       [(ii) in the second sentence, by striking ``(C), (D) or (F) 
+     shall be given effect'' and inserting ``(C) or (D) shall be 
+     given effect as to digital phonorecord deliveries''; and
+       [(B) in clause (ii)(I), by striking ``(C), (D) or (F)'' 
+     each place it appears and inserting ``(C) or (D)''; and
+       [(6) by striking subparagraph (F) and redesignating 
+     subparagraphs (G) through (L) as subparagraphs (F) through 
+     (K), respectively.
+       [(e) Coin-Operated Phonorecord Players.--Section 116 is 
+     amended--
+       [(1) in subsection (b), by amending paragraph (2) to read 
+     as follows:
+       [``(2) Chapter 8 proceeding.--Parties not subject to such a 
+     negotiation may have the terms and rates and the division of 
+     fees described in paragraph (1) determined in a proceeding in 
+     accordance with the provisions of chapter 8.''; and
+       [(2) in subsection (c)--
+       [(A) in the subsection heading, by striking ``Copyright 
+     Arbitration Royalty Panel Determinations'' and inserting 
+     ``Determinations by Copyright Royalty Judges''; and
+       [(B) by striking ``a copyright arbitration royalty panel'' 
+     and inserting ``the Copyright Royalty Judges''.
+       [(f) Use of Certain Works in Connection With Noncommercial 
+     Broadcasting.--Section 118 is amended--
+       [(1) in subsection (b)--
+       [(A) in paragraph (1)--
+       [(i) in the first sentence, by striking ``Librarian of 
+     Congress'' and inserting ``Copyright Royalty Judges''; and
+       [(ii) by striking the second and third sentences;
+       [(B) in paragraph (2), by striking ``the Librarian of 
+     Congress:'' and all that follows through the end of the 
+     sentence and inserting ``a copyright arbitration royalty 
+     panel, the Librarian of Congress, or the Copyright Royalty 
+     Judge, if copies of such agreements are filed with the 
+     Copyright Royalty Judges within 30 days of execution in 
+     accordance with regulations that the Copyright Royalty Judges 
+     shall issue.''; and
+       [(C) in paragraph (3)--
+       [(i) in the second sentence--
+
+       [(I) by striking ``copyright arbitration royalty panel'' 
+     and inserting ``Copyright Royalty Judges''; and
+
+       [(II) by striking ``paragraph (2).'' and inserting 
+     ``paragraph (2) or (3).'';
+
+       [(ii) in the last sentence, by striking ```Librarian of 
+     Congress'' and inserting ``Copyright Royalty Judges''; and
+       [(iii) by striking ``(3) In'' and all that follows through 
+     the end of the first sentence and inserting the following:
+       [``(3) Voluntary negotiation proceedings initiated pursuant 
+     to a petition filed under
+
+[[Page S10495]]
+
+     section 804(a) for the purpose of determining a schedule of 
+     terms and rates of royalty payments by public broadcasting 
+     entities to copyright owners in works specified by this 
+     subsection and the proportionate division of fees paid among 
+     various copyright owners shall cover the 5-year period 
+     beginning on January 1 of the second year following the year 
+     in which the petition is filed. The parties to each 
+     negotiation proceeding shall bear their own costs.
+       [``(4) In the absence of license agreements negotiated 
+     under paragraph (2) or (3), the Copyright Royalty Judges 
+     shall, pursuant to chapter 8, conduct a proceeding to 
+     determine and publish in the Federal Register a schedule of 
+     rates and terms which, subject to paragraph (2), shall be 
+     binding on all owners of copyright in works specified by this 
+     subsection and public broadcasting entities, regardless of 
+     whether such copyright owners have submitted proposals to the 
+     Copyright Royalty Judges.'';
+       [(2) by striking subsection (c) and redesignating 
+     subsections (d) through (g) as subsections (c) through (f), 
+     respectively;
+       [(3) in subsection (c), as so redesignated, in the matter 
+     preceding paragraph (1)--
+       [(A) by striking ``(b)(2)'' and inserting ``(b)(2) or 
+     (3)'';
+       [(B) by striking ``(b)(3)'' and inserting ``(b)(4)''; and
+       [(C) by striking ``a copyright arbitration royalty panel'' 
+     and inserting ``the Copyright Royalty Judges'';
+       [(4) in subsection (d), as so redesignated--
+       [(A) by striking ``in the Copyright Office'' and inserting 
+     ``with the Copyright Royalty Judges''; and
+       [(B) by striking ``Register of Copyrights'' and inserting 
+     ``Copyright Royalty Judges''; and
+       [(5) in subsection (f), as so redesignated, by striking 
+     ``(d)'' and inserting ``(c)''.
+       [(g) Secondary Transmissions by Satellite Carriers.--
+     Section 119(b) is amended--
+       [(1) in paragraph (3), by striking ``Librarian of 
+     Congress'' and inserting ``Copyright Royalty Judges''; and
+       [(2) in paragraph (4)--
+       [(A) in subparagraph (A), by striking ``Librarian of 
+     Congress'' each place it appears and inserting ``Copyright 
+     Royalty Judges''; and
+       [(B) by amending subparagraphs (B) and (C) to read as 
+     follows:
+       [``(B) Determination of controversy; distributions.--After 
+     the first day of August of each year, the Copyright Royalty 
+     Judges shall determine whether there exists a controversy 
+     concerning the distribution of royalty fees. If the Copyright 
+     Royalty Judges determine that no such controversy exists, the 
+     Librarian of Congress shall, after deducting reasonable 
+     administrative costs under this paragraph, distribute such 
+     fees to the copyright owners entitled to receive them, or to 
+     their designated agents. If the Copyright Royalty Judges find 
+     the existence of a controversy, the Copyright Royalty Judges 
+     shall, pursuant to chapter 8 of this title, conduct a 
+     proceeding to determine the distribution of royalty fees.
+       [``(C) Withholding of fees during controversy.--During the 
+     pendency of any proceeding under this subsection, the 
+     Copyright Royalty Judges shall withhold from distribution an 
+     amount sufficient to satisfy all claims with respect to which 
+     a controversy exists, subject to any distributions made under 
+     section 801(b)(3).''.
+       [(h) Digital Audio Recording Devices.--
+       [(1) Royalty payments.--Section 1004(a)(3) is amended by 
+     striking ``Librarian of Congress'' each place it appears and 
+     inserting ``Copyright Royalty Judges''.
+       [(2) Entitlement to royalty payments.--Section 1006(c) is 
+     amended by striking ``Librarian of Congress shall convene a 
+     copyright arbitration royalty panel which'' and inserting 
+     ``Copyright Royalty Judges''.
+       [(3) Procedures for distributing royalty payments.--Section 
+     1007 is amended--
+       [(A) in subsection (a), by amending paragraph (1) to read 
+     as follows:
+       [``(1) Filing of claims.--During the first 2 months of each 
+     calendar year, every interested copyright party seeking to 
+     receive royalty payments to which such party is entitled 
+     under section 1006 shall file with the Copyright Royalty 
+     Judges a claim for payments collected during the preceding 
+     year in such form and manner as the Copyright Royalty Judges 
+     shall prescribe by regulation.''; and
+       [(B) by amending subsections (b) and (c) to read as 
+     follows:
+       [``(b) Distribution of Payments in the Absence of a 
+     Dispute.--After the period established for the filing of 
+     claims under subsection (a), in each year, the Copyright 
+     Royalty Judges shall determine whether there exists a 
+     controversy concerning the distribution of royalty payments 
+     under section 1006(c). If the Copyright Royalty Judges 
+     determine that no such controversy exists, the Librarian of 
+     Congress shall, within 30 days after such determination, 
+     authorize the distribution of the royalty payments as set 
+     forth in the agreements regarding the distribution of royalty 
+     payments entered into pursuant to subsection (a). The 
+     Librarian of Congress shall, before such royalty payments are 
+     distributed, deduct the reasonable administrative costs 
+     incurred by the Librarian under this section.
+       [``(c) Resolution of Disputes.--If the Copyright Royalty 
+     Judges find the existence of a controversy, the Copyright 
+     Royalty Judges shall, pursuant to chapter 8 of this title, 
+     conduct a proceeding to determine the distribution of royalty 
+     payments. During the pendency of such a proceeding, the 
+     Copyright Royalty Judges shall withhold from distribution an 
+     amount sufficient to satisfy all claims with respect to which 
+     a controversy exists, but shall, to the extent feasible, 
+     authorize the distribution of any amounts that are not in 
+     controversy. The Librarian of Congress shall, before such 
+     royalty payments are distributed, deduct the reasonable 
+     administrative costs incurred by the Librarian under this 
+     section.''.
+       [(4) Determination of certain disputes.--(A) Section 1010 
+     is amended to read as follows:
+
+     [``Sec. 1010. Determination of certain disputes
+
+       [``(a) Scope of Determination.--Before the date of first 
+     distribution in the United States of a digital audio 
+     recording device or a digital audio interface device, any 
+     party manufacturing, importing, or distributing such device, 
+     and any interested copyright party may mutually agree to 
+     petition the Copyright Royalty Judges to determine whether 
+     such device is subject to section 1002, or the basis on which 
+     royalty payments for such device are to be made under section 
+     1003.
+       [``(b) Initiation of Proceedings.--The parties under 
+     subsection (a) shall file the petition with the Copyright 
+     Royalty Judges requesting the commencement of a proceeding. 
+     Within 2 weeks after receiving such a petition, the Chief 
+     Copyright Royalty Judge shall cause notice to be published in 
+     the Federal Register of the initiation of the proceeding.
+       [``(c) Stay of Judicial Proceedings.--Any civil action 
+     brought under section 1009 against a party to a proceeding 
+     under this section shall, on application of one of the 
+     parties to the proceeding, be stayed until completion of the 
+     proceeding.
+       [``(d) Proceeding.--The Copyright Royalty Judges shall 
+     conduct a proceeding with respect to the matter concerned, in 
+     accordance with such procedures as the Copyright Royalty 
+     Judges may adopt. The Copyright Royalty Judges shall act on 
+     the basis of a fully documented written record. Any party to 
+     the proceeding may submit relevant information and proposals 
+     to the Copyright Royalty Judges. The parties to the 
+     proceeding shall each bear their respective costs of 
+     participation.
+       [``(e) Judicial Review.--Any determination of the Copyright 
+     Royalty Judges under subsection (d) may be appealed, by a 
+     party to the proceeding, in accordance with section 803(d) of 
+     this title. The pendency of an appeal under this subsection 
+     shall not stay the determination of the Copyright Royalty 
+     Judges. If the court modifies the determination of the 
+     Copyright Royalty Judges, the court shall have jurisdiction 
+     to enter its own decision in accordance with its final 
+     judgment. The court may further vacate the determination of 
+     the Copyright Royalty Judges and remand the case for 
+     proceedings as provided in this section.''.
+       [(B) The item relating to section 1010 in the table of 
+     sections for chapter 10 is amended to read as follows:
+
+[``1010. Determination of certain disputes.''.
+
+     [SEC. 6. EFFECTIVE DATE AND TRANSITION PROVISIONS.
+
+       [(a) Effective Date.--This Act and the amendments made by 
+     this Act shall take effect 6 months after the date of the 
+     enactment of this Act, except that the Librarian of Congress 
+     shall appoint interim Copyright Royalty Judges under section 
+     802(d) of title 17, United States Code, as amended by this 
+     Act, within 90 days after such date of enactment to carry out 
+     the functions of the Copyright Royalty Judges under title 17, 
+     United States Code, to the extent that Copyright Royalty 
+     Judges provided for in section 801(a) of title 17, United 
+     States Code, as amended by this Act, have not been appointed 
+     before the end of that 90-day period.
+       [(b) Transition Provisions.--
+       [(1) In general.--Subject to paragraph (2), the amendments 
+     made by this Act shall not affect any proceedings commenced, 
+     petitions filed, or voluntary agreements entered into before 
+     the enactment of this Act under the provisions of title 17, 
+     United States Code, amended by this Act, and pending on such 
+     date of enactment. Such proceedings shall continue, 
+     determinations made in such proceedings, and appeals taken 
+     therefrom, as if this Act had not been enacted, and shall 
+     continue in effect until modified under title 17, United 
+     States Code, as amended by this Act. Such petitions filed and 
+     voluntary agreements entered into shall remain in effect as 
+     if this Act had not been enacted.
+       [(2) Effective periods for certain ratemaking 
+     proceedings.--Notwithstanding paragraph (1), terms and rates 
+     in effect under section 114(f)(2) or 112(e) of title 17, 
+     United States Code, for new subscription services, eligible 
+     nonsubscription services, and services exempt under section 
+     114(d)(1)(C)(iv) of such title for the period 2003 through 
+     2004, and any rates published in the Federal Register under 
+     the authority of the Small Webcaster Settlement Act of 2002 
+     for the years 2003 through 2004, shall be effective until the 
+     first applicable effective date for successor terms and rates 
+     specified in section 804(b)(2) or (3)(A) of title 17, United 
+     States Code, or until such later date as the parties may 
+     agree. Any proceeding commenced before the enactment of this 
+     Act pursuant to section 114(f)(2) and chapter 8 of
+
+[[Page S10496]]
+
+     title 17, United States Code, to adjust or determine such 
+     rates and terms for periods following 2004 shall be 
+     terminated upon the enactment of this Act and shall be null 
+     and void.
+       [(c) Existing Appropriations.--Any funds made available in 
+     an appropriations Act before the date of the enactment of 
+     this Act to carry out chapter 8 of title 17, United States 
+     Code, shall be available to the extent necessary to carry out 
+     this section.]
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Copyright Royalty and 
+     Distribution Reform Act of 2004''.
+
+     SEC. 2. REFERENCE.
+
+       Except as otherwise expressly provided, whenever in this 
+     Act an amendment or repeal is expressed in terms of an 
+     amendment to, or repeal of, a section or other provision, the 
+     reference shall be considered to be made to a section or 
+     other provision of title 17, United States Code.
+
+     SEC. 3. COPYRIGHT ROYALTY JUDGE AND STAFF.
+
+       (a) In General.--Chapter 8 is amended to read as follows:
+
+          ``CHAPTER 8--PROCEEDINGS BY COPYRIGHT ROYALTY JUDGES
+
+``Sec.
+``801. Copyright Royalty Judges; appointment and functions.
+``802. Copyright Royalty Judgeships; staff.
+``803. Proceedings of Copyright Royalty Judges.
+``804. Institution of proceedings.
+``805. General rule for voluntarily negotiated agreements.
+
+     ``Sec. 801. Copyright Royalty Judges; appointment and 
+       functions
+
+       ``(a) Appointment.--Upon the recommendation of the Register 
+     of Copyrights, the Librarian of Congress shall appoint 3 
+     full-time Copyright Royalty Judges, and shall appoint 1 of 
+     the 3 as the Chief Copyright Royalty Judge.
+       ``(b) Functions.--Subject to the provisions of this 
+     chapter, the functions of the Copyright Royalty Judges shall 
+     be as follows:
+       ``(1) To make determinations and adjustments of reasonable 
+     terms and rates of royalty payments as provided in sections 
+     112(e), 114, 115, 116, 118, 119 and 1004. The rates 
+     applicable under sections 114(f)(1)(B), 115, and 116 shall be 
+     calculated to achieve the following objectives:
+       ``(A) To maximize the availability of creative works to the 
+     public.
+       ``(B) To afford the copyright owner a fair return for his 
+     or her creative work and the copyright user a fair income 
+     under existing economic conditions.
+       ``(C) To reflect the relative roles of the copyright owner 
+     and the copyright user in the product made available to the 
+     public with respect to relative creative contribution, 
+     technological contribution, capital investment, cost, risk, 
+     and contribution to the opening of new markets for creative 
+     expression and media for their communication.
+       ``(D) To minimize any disruptive impact on the structure of 
+     the industries involved and on generally prevailing industry 
+     practices.
+       ``(2) To make determinations concerning the adjustment of 
+     the copyright royalty rates under section 111 solely in 
+     accordance with the following provisions:
+       ``(A) The rates established by section 111(d)(1)(B) may be 
+     adjusted to reflect--
+       ``(i) national monetary inflation or deflation; or
+       ``(ii) changes in the average rates charged cable 
+     subscribers for the basic service of providing secondary 
+     transmissions to maintain the real constant dollar level of 
+     the royalty fee per subscriber which existed as of the date 
+     of October 19, 1976,
+
+     except that--
+       ``(I) if the average rates charged cable system subscribers 
+     for the basic service of providing secondary transmissions 
+     are changed so that the average rates exceed national 
+     monetary inflation, no change in the rates established by 
+     section 111(d)(1)(B) shall be permitted; and
+       ``(II) no increase in the royalty fee shall be permitted 
+     based on any reduction in the average number of distant 
+     signal equivalents per subscriber.
+
+     The Copyright Royalty Judges may consider all factors 
+     relating to the maintenance of such level of payments, 
+     including, as an extenuating factor, whether the industry has 
+     been restrained by subscriber rate regulating authorities 
+     from increasing the rates for the basic service of providing 
+     secondary transmissions.
+       ``(B) In the event that the rules and regulations of the 
+     Federal Communications Commission are amended at any time 
+     after April 8, 1976, to permit the carriage by cable systems 
+     of additional television broadcast signals beyond the local 
+     service area of the primary transmitters of such signals, the 
+     royalty rates established by section 111(d)(1)(B) may be 
+     adjusted to insure that the rates for the additional distant 
+     signal equivalents resulting from such carriage are 
+     reasonable in the light of the changes effected by the 
+     amendment to such rules and regulations. In determining the 
+     reasonableness of rates proposed following an amendment of 
+     Federal Communications Commission rules and regulations, the 
+     Copyright Royalty Judges shall consider, among other factors, 
+     the economic impact on copyright owners and users; except 
+     that no adjustment in royalty rates shall be made under this 
+     subparagraph with respect to any distant signal equivalent or 
+     fraction thereof represented by--
+       ``(i) carriage of any signal permitted under the rules and 
+     regulations of the Federal Communications Commission in 
+     effect on April 15, 1976, or the carriage of a signal of the 
+     same type (that is, independent, network, or noncommercial 
+     educational) substituted for such permitted signal; or
+       ``(ii) a television broadcast signal first carried after 
+     April 15, 1976, pursuant to an individual waiver of the rules 
+     and regulations of the Federal Communications Commission, as 
+     such rules and regulations were in effect on April 15, 1976.
+       ``(C) In the event of any change in the rules and 
+     regulations of the Federal Communications Commission with 
+     respect to syndicated and sports program exclusivity after 
+     April 15, 1976, the rates established by section 111(d)(1)(B) 
+     may be adjusted to assure that such rates are reasonable in 
+     light of the changes to such rules and regulations, but any 
+     such adjustment shall apply only to the affected television 
+     broadcast signals carried on those systems affected by the 
+     change.
+       ``(D) The gross receipts limitations established by section 
+     111(d)(1)(C) and (D) shall be adjusted to reflect national 
+     monetary inflation or deflation or changes in the average 
+     rates charged cable system subscribers for the basic service 
+     of providing secondary transmissions to maintain the real 
+     constant dollar value of the exemption provided by such 
+     section, and the royalty rate specified therein shall not be 
+     subject to adjustment.
+       ``(3)(A) To authorize the distribution, under sections 111, 
+     119, and 1007, of those royalty fees collected under sections 
+     111, 119, and 1005, as the case may be, to the extent that 
+     the Copyright Royalty Judges have found that the distribution 
+     of such fees is not subject to controversy.
+       ``(B) In cases where the Copyright Royalty Judges determine 
+     that controversy exists, the Copyright Royalty Judges shall 
+     determine the distribution of such fees, including partial 
+     distributions, in accordance with section 111, 119, or 1007, 
+     as the case may be.
+       ``(C) The Copyright Royalty Judges may make a partial 
+     distribution of such fees during the pendency of the 
+     proceeding under subparagraph (B) if all participants under 
+     section 803(b)(2) in the proceeding that are entitled to 
+     receive those fees that are to be partially distributed--
+       ``(i) agree to such partial distribution;
+       ``(ii) sign an agreement obligating them to return any 
+     excess amounts to the extent necessary to comply with the 
+     final determination on the distribution of the fees made 
+     under subparagraph (B);
+       ``(iii) file the agreement with the Copyright Royalty 
+     Judges; and
+       ``(iv) agree that such funds are available for 
+     distribution.
+       ``(D) The Copyright Royalty Judges and any other officer or 
+     employee acting in good faith in distributing funds under 
+     subparagraph (C) shall not be held liable for the payment of 
+     any excess fees under subparagraph (C). The Copyright Royalty 
+     Judges shall, at the time the final determination is made, 
+     calculate any such excess amounts.
+       ``(4) To accept or reject royalty claims filed under 
+     sections 111, 119, and 1007, on the basis of timeliness or 
+     the failure to establish the basis for a claim.
+       ``(5) To accept or reject rate adjustment petitions as 
+     provided in section 804 and petitions to participate as 
+     provided in section 803(b) (1) and (2).
+       ``(6) To determine the status of a digital audio recording 
+     device or a digital audio interface device under sections 
+     1002 and 1003, as provided in section 1010.
+       ``(7)(A) To adopt as a basis for statutory terms and rates 
+     or as a basis for the distribution of statutory royalty 
+     payments, an agreement concerning such matters reached among 
+     some or all of the participants in a proceeding at any time 
+     during the proceeding, except that--
+       ``(i) the Copyright Royalty Judges shall provide to those 
+     that would be bound by the terms, rates, distribution, or 
+     other determination set by the agreement an opportunity to 
+     comment on the agreement and shall provide to the other 
+     participants in the proceeding under section 803(b)(2) that 
+     would be bound by the terms, rates, distribution, or other 
+     determination set by the agreement an opportunity to comment 
+     on the agreement and object to its adoption as a basis for 
+     statutory terms and rates or as a basis for the distribution 
+     of statutory royalty payments, as the case may be; and
+       ``(ii) the Copyright Royalty Judges may decline to adopt 
+     the agreement as a basis for statutory terms and rates or as 
+     a basis for the distribution of statutory royalty payments, 
+     as the case may be, if any other participant described in 
+     subparagraph (A) objects to the agreement and the Copyright 
+     Royalty Judges conclude, based on the record before them if 
+     one exists, that the agreement does not provide a reasonable 
+     basis for setting statutory terms or rates, or for 
+     distributing the royalty payments, as the case may be.
+       ``(B) License agreements voluntarily negotiated pursuant to 
+     section 112(e)(5), 114(f)(3), 115(c)(3)(E)(i), 116(c), or 
+     118(b) (2) or (3) that do not result in statutory terms and 
+     rates shall not be subject to clauses (i) and (ii) of 
+     subparagraph (A).
+       ``(C) Interested parties may negotiate and agree to, and 
+     the Copyright Royalty Judges may adopt, an agreement that 
+     specifies as terms notice and recordkeeping requirements that 
+     apply in lieu of those that would otherwise apply under 
+     regulations.
+       ``(8) To perform other duties, as assigned by the Register 
+     of Copyrights within the Library of Congress, except as 
+     provided in section 802(g) at times when Copyright Royalty 
+     Judges are not engaged in performing the other duties set 
+     forth in this section.
+       ``(c) Rulings.--As provided in section 802(f)(1), the 
+     Copyright Royalty Judges may make any necessary procedural or 
+     evidentiary rulings in any proceeding under this chapter and 
+     may, before commencing a proceeding under this chapter, make 
+     any such rulings that would apply to the proceedings 
+     conducted by the Copyright Royalty Judges.
+       ``(d) Administrative Support.--The Librarian of Congress 
+     shall provide the Copyright
+
+[[Page S10497]]
+
+     Royalty Judges with the necessary administrative services 
+     related to proceedings under this chapter.
+       ``(e) Location in Library of Congress.--The offices of the 
+     Copyright Royalty Judges and staff shall be in the Library of 
+     Congress.
+
+     ``Sec. 802. Copyright Royalty Judgeships; staff
+
+       ``(a) Qualifications of Copyright Royalty Judges.--
+       ``(1) In general.--Each Copyright Royalty Judge shall be an 
+     attorney who has at least 7 years of legal experience. The 
+     Chief Copyright Royalty Judge shall have at least 5 years of 
+     experience in adjudications, arbitrations, or court trials. 
+     Of the other two Copyright Royalty Judges, one shall have 
+     significant knowledge of copyright law, and the other shall 
+     have significant knowledge of economics. An individual may 
+     serve as a Copyright Royalty Judge only if the individual is 
+     free of any financial conflict of interest under subsection 
+     (h).
+       ``(2) Definition.--In this subsection, the term 
+     `adjudication' has the meaning given that term in section 551 
+     of title 5, but does not include mediation.
+       ``(b) Staff.--The Chief Copyright Royalty Judge shall hire 
+     3 full-time staff members to assist the Copyright Royalty 
+     Judges in performing their functions.
+       ``(c) Terms.--The terms of the Copyright Royalty Judges 
+     shall each be 6 years, except of the individuals first 
+     appointed, the Chief Copyright Royalty Judge shall be 
+     appointed to a term of 6 years, and of the remaining 
+     Copyright Royalty Judges, one shall be appointed to a term of 
+     2 years, and the other shall be appointed to a term of 4 
+     years. An individual serving as a Copyright Royalty Judge may 
+     be reappointed to subsequent terms. The term of a Copyright 
+     Royalty Judge shall begin when the term of the predecessor of 
+     that Copyright Royalty Judge ends. When the term of office of 
+     a Copyright Royalty Judge ends, the individual serving that 
+     term may continue to serve until a successor is selected.
+       ``(d) Vacancies or Incapacity.--
+       ``(1) Vacancies.--If a vacancy should occur in the position 
+     of Copyright Royalty Judge, the Librarian of Congress shall 
+     act expeditiously to fill the vacancy, and may appoint an 
+     interim Copyright Royalty Judge to serve until another 
+     Copyright Royalty Judge is appointed under this section. An 
+     individual appointed to fill the vacancy occurring before the 
+     expiration of the term for which the predecessor of that 
+     individual was appointed shall be appointed for the remainder 
+     of that term.
+       ``(2) Incapacity.--In the case in which a Copyright Royalty 
+     Judge is temporarily unable to perform his or her duties, the 
+     Librarian of Congress may appoint an interim Copyright 
+     Royalty Judge to perform such duties during the period of 
+     such incapacity.
+       ``(e) Compensation.--
+       ``(1) Judges.--The Chief Copyright Royalty Judge shall 
+     receive compensation at the rate of basic pay payable for 
+     level AL-1 for administrative law judges pursuant to section 
+     5372(b) of title 5, and each of the other two Copyright 
+     Royalty Judges shall receive compensation at the rate of 
+     basic pay payable for level AL-2 for administrative law 
+     judges pursuant to such section. The compensation of the 
+     Copyright Royalty Judges shall not be subject to any 
+     regulations adopted by the Office of Personnel Management 
+     pursuant to its authority under section 5376(b)(1) of title 
+     5.
+       ``(2) Staff members.--Of the staff members appointed under 
+     subsection (b)--
+       ``(A) the rate of pay of one staff member shall be not more 
+     than the basic rate of pay payable for level 10 of GS-15 of 
+     the General Schedule;
+       ``(B) the rate of pay of one staff member shall be not less 
+     than the basic rate of pay payable for GS-13 of the General 
+     Schedule and not more than the basic rate of pay payable for 
+     level 10 of GS-14 of such Schedule; and
+       ``(C) the rate of pay for the third staff member shall be 
+     not less than the basic rate of pay payable for GS-8 of the 
+     General Schedule and not more than the basic rate of pay 
+     payable for level 10 of GS-11 of such Schedule.
+       ``(3) Locality pay.--All rates of pay referred to under 
+     this subsection shall include locality pay.
+       ``(f) Independence of Copyright Royalty Judge.--
+       ``(1) In making determinations.--
+       ``(A) In general.--Subject to subparagraph (B), the 
+     Copyright Royalty Judges shall have full independence in 
+     making determinations concerning adjustments and 
+     determinations of copyright royalty rates and terms, the 
+     distribution of copyright royalties, the acceptance or 
+     rejection of royalty claims, rate adjustment petitions, and 
+     petitions to participate, and in issuing other rulings under 
+     this title, except that the Copyright Royalty Judges may 
+     consult with the Register of Copyrights on any matter other 
+     than a question of fact. A Copyright Royalty Judge or Judges, 
+     or by motion to the Copyright Royalty Judge or Judges, any 
+     participant in a proceeding may request a determination of 
+     the resolution by the Register of Copyrights on any material 
+     question of substantive law (not including questions of 
+     procedure before the Copyright Royalty Judges, the ultimate 
+     adjustments and determinations of copyright royalty rates and 
+     terms, the ultimate distribution of copyright royalties, or 
+     the acceptance or rejection of royalty claims, rate 
+     adjustment petitions, or petitions to participate) concerning 
+     an interpretation or construction of those provisions of this 
+     title that are the subject of the proceeding. Any such motion 
+     requesting a written decision by the Register of Copyrights 
+     shall be in writing or on the record, and reasonable 
+     provision shall be made for comment by the participants in 
+     the proceeding in such a way as to minimize duplication and 
+     delay. Except as provided in subparagraph (B), the Register 
+     of Copyrights shall deliver to the Copyright Royalty Judges 
+     his or her decision within 14 days of receipt by the Register 
+     of Copyrights of all of the briefs or comments of the 
+     participants. Such decision shall be in writing and shall be 
+     included by the Copyright Royalty Judges in the record that 
+     accompanies their final determination. If such a decision is 
+     timely delivered to the Register of Copyrights, the Copyright 
+     Royalty Judges shall apply the legal determinations embodied 
+     in the decision of the Register of Copyrights in resolving 
+     material questions of substantive law.
+       ``(B) Novel questions.--(i) In any case in which a novel 
+     question of law concerning an interpretation of those 
+     provisions of this title that are the subject of the 
+     proceeding is presented, the Copyright Royalty Judges shall 
+     request a decision of the Register of Copyrights, in writing, 
+     to resolve such novel question. To the extent practicable, 
+     provision shall be made for comment on such request by the 
+     participants in the proceeding, in such a way as to minimize 
+     duplication and delay. The Register shall transmit his or her 
+     decision to the Copyright Royalty Judges within 30 days of 
+     receipt by the Register of Copyrights of all of the briefs or 
+     comments of the participants. Such decision shall be in 
+     writing and included by the Copyright Royalty Judges in the 
+     record that accompanies their final determination. If such a 
+     decision is timely transmitted, the Copyright Royalty Judges 
+     shall apply the legal determinations embodied in the decision 
+     of the Register of Copyrights in resolving material questions 
+     of substantive law.
+       ``(ii) In clause (i), a `novel question of law' is a 
+     question of law that has not been determined in prior 
+     decisions, determinations, and rulings described in section 
+     803(a).
+       ``(C) Consultation.--Notwithstanding the provisions of 
+     subparagraph (A), the Copyright Royalty Judges shall consult 
+     with the Register of Copyrights with respect to any 
+     determination or ruling that would require that any act be 
+     performed by the Copyright Office, and any such determination 
+     or ruling shall not be binding upon the Register of 
+     Copyrights.
+       ``(D) Sua sponte review of legal conclusions by the 
+     register of copyrights.--The Register of Copyrights may 
+     review for legal error the resolution by the Copyright 
+     Royalty Judges of a material question of substantive law 
+     under this title that underlies or is contained in a final 
+     determination of the Copyright Royalty Judges. If the 
+     Register of Copyrights concludes, after taking into 
+     consideration the views of the participants in the 
+     proceeding, that any resolution reached by the Copyright 
+     Royalty Judges was in material error, the Register of 
+     Copyrights shall issue a written decision correcting such 
+     legal error, which shall be made part of the record of the 
+     proceeding. Additionally, the Register of Copyrights shall 
+     cause to be published in the Federal Register such written 
+     decision together with a specific identification of the legal 
+     conclusion of the Copyright Royalty Judges that is determined 
+     to be erroneous. As to conclusions of substantive law 
+     involving an interpretation of the statutory provisions of 
+     this title, the decision of the Register of Copyrights shall 
+     be binding upon the Copyright Royalty Judges in subsequent 
+     proceedings under this chapter. When a decision has been 
+     rendered pursuant to subsection 802(f)(1)(D), the Register of 
+     Copyrights may, on the basis of and in accordance with such 
+     decision, intervene as of right in any appeal of a final 
+     determination of the Copyright Royalty Judges pursuant to 
+     section 803(d) in the United States Court of Appeals for the 
+     District of Columbia Circuit. If, prior to intervening in 
+     such an appeal, the Register of Copyrights gives notification 
+     and undertakes to consult with the Attorney General with 
+     respect to such intervention, and the Attorney General fails 
+     within reasonable period after receipt of such notification 
+     to intervene in such appeal, the Register of Copyrights may 
+     intervene in such appeal in his or her own name by any 
+     attorney designated by the Register of Copyrights for such 
+     purpose. Intervention by the Register of Copyrights in his or 
+     her own name shall not preclude the Attorney General from 
+     intervening on behalf of the United States in such an appeal 
+     as may be otherwise provided or required by law.
+       ``(E) Effect on judicial review.--Nothing in this section 
+     shall be interpreted to alter the standard applied by a court 
+     in reviewing legal determinations involving an interpretation 
+     or construction of the provisions of this title or to affect 
+     the extent to which any construction or interpretation of the 
+     provisions of this title shall be accorded deference by a 
+     reviewing court.
+       ``(2) Performance appraisals.--
+       ``(A) In general.--Notwithstanding any other provision of 
+     law or any regulation of the Library of Congress, and subject 
+     to subparagraph (B), the Copyright Royalty Judges shall not 
+     receive performance appraisals.
+       ``(B) Relating to sanction or removal.--To the extent that 
+     the Librarian of Congress adopts regulations under subsection 
+     (h) relating to the sanction or removal of a Copyright 
+     Royalty Judge and such regulations require documentation to 
+     establish the cause of such sanction or removal, the 
+     Copyright Royalty Judge may receive an appraisal related 
+     specifically to the cause of the sanction or removal.
+       ``(g) Inconsistent Duties Barred.--No Copyright Royalty 
+     Judge may undertake duties that conflict with his or her 
+     duties and responsibilities as a Copyright Royalty Judge.
+       ``(h) Standards of Conduct.--The Librarian of Congress 
+     shall adopt regulations regarding the standards of conduct, 
+     including financial conflict of interest and restrictions 
+     against ex parte communications, which shall govern the 
+     Copyright Royalty Judges and the proceedings under this 
+     chapter.
+       ``(i) Removal or Sanction.--The Librarian of Congress may 
+     sanction or remove a Copyright Royalty Judge for violation of 
+     the standards of conduct adopted under subsection (h), 
+     misconduct, neglect of duty, or any disqualifying
+
+[[Page S10498]]
+
+     physical or mental disability. Any such sanction or removal 
+     may be made only after notice and opportunity for a hearing, 
+     but the Librarian of Congress may suspend the Copyright 
+     Royalty Judge during the pendency of such hearing. The 
+     Librarian shall appoint an interim Copyright Royalty Judge 
+     during the period of any such suspension.
+
+     ``Sec. 803. Proceedings of Copyright Royalty Judges
+
+       ``(a) Proceedings.--
+       ``(1) In general.--The Copyright Royalty Judges shall act 
+     in accordance with regulations issued by the Copyright 
+     Royalty Judges and the Librarian of Congress, and on the 
+     basis of a written record, prior determinations of the 
+     Copyright Royalty Tribunal, Librarian of Congress, copyright 
+     arbitration royalty panels, the Register of Copyrights, and 
+     the Copyright Royalty Judges (to the extent those 
+     determinations are not inconsistent with a decision of the 
+     Register of Copyrights that was timely delivered pursuant to 
+     subsection 802(f)(1)(D)), under this chapter, and decisions 
+     of the court of appeals under this chapter before, on, or 
+     after the effective date of the Copyright Royalty and 
+     Distribution Reform Act of 2004.
+       ``(2) Judges acting as panel and individually.--The 
+     Copyright Royalty Judges shall preside over hearings in 
+     proceedings under this chapter en banc. The Chief Copyright 
+     Royalty Judge may designate a Copyright Royalty Judge to 
+     preside individually over such collateral and administrative 
+     proceedings, and over such proceedings under paragraphs (1) 
+     through (5) of subsection (b), as the Chief Judge considers 
+     appropriate.
+       ``(3) Determinations.--Final determinations of the 
+     Copyright Royalty Judges in proceedings under this chapter 
+     shall be made by majority vote. A Copyright Royalty Judge 
+     dissenting from the majority on any determination under this 
+     chapter may issue his or her dissenting opinion, which shall 
+     be included with the determination.
+       ``(b) Procedures.--
+       ``(1) Initiation.--
+       ``(A) Call for petitions to participate.--(i) Promptly upon 
+     the filing of a petition for a rate adjustment or upon a 
+     determination made under section 804(a) or as provided under 
+     section 804(b)(8), or by no later than January 5 of a year 
+     specified in section 804 for the commencement of a proceeding 
+     if a petition has not been filed by that date, the Copyright 
+     Royalty Judges shall cause to be published in the Federal 
+     Register notice of commencement of proceedings under this 
+     chapter calling for the filing of petitions to participate in 
+     a proceeding under this chapter for the purpose of making the 
+     relevant determination under section 111, 112, 114, 115, 116, 
+     118, 119, 1004, or 1007, as the case may be.
+       ``(ii) Petitions to participate shall be filed by no later 
+     than 30 days after publication of notice of commencement of a 
+     proceeding, under clause (i), except that the Copyright 
+     Royalty Judges may, for substantial good cause shown and if 
+     there is no prejudice to the participants that have already 
+     filed petitions, accept late petitions to participate at any 
+     time up to the date that is 90 days before the date on which 
+     participants in the proceeding are to file their written 
+     direct statements. Notwithstanding the preceding sentence, 
+     petitioners whose petitions are filed more than 30 days after 
+     publication of notice of commencement of a proceeding are not 
+     eligible to object to a settlement reached during the 
+     voluntary negotiation period under section 803(b)(3), and any 
+     objection filed by such a petitioner shall not be taken into 
+     account by the Copyright Royalty Judges.
+       ``(B) Petitions to participate.--Each petition to 
+     participate in a proceeding shall describe the petitioner's 
+     interest in the subject matter of the proceeding. Parties 
+     with similar interests may file a single petition to 
+     participate.
+       ``(2) Participation in general.--Subject to paragraph (4), 
+     a person may participate in a proceeding under this chapter, 
+     including through the submission of briefs or other 
+     information, only if--
+       ``(A) that person has filed a petition to participate in 
+     accordance with paragraph (1) (either individually or as a 
+     group under paragraph (1)(B)), together with a filing fee of 
+     $150;
+       ``(B) the Copyright Royalty Judges have not determined that 
+     the petition to participate is facially invalid; and
+       ``(C) the Copyright Royalty Judges have not determined, sua 
+     sponte or on the motion of another participant in the 
+     proceeding, that the person lacks a significant interest in 
+     the proceeding.
+       ``(3) Voluntary negotiation period.--
+       ``(A) In general.--Promptly after the date for filing of 
+     petitions to participate in a proceeding, the Copyright 
+     Royalty Judges shall make available to all participants in 
+     the proceeding a list of such participants and shall initiate 
+     a voluntary negotiation period among the participants.
+       ``(B) Length of proceedings.--The voluntary negotiation 
+     period initiated under subparagraph (A) shall be 3 months.
+       ``(C) Determination of subsequent proceedings.--At the 
+     close of the voluntary negotiation proceedings, the Copyright 
+     Royalty Judges shall, if further proceedings under this 
+     chapter are necessary, determine whether and to what extent 
+     paragraphs (4) and (5) will apply to the parties.
+       ``(4) Small claims procedure in distribution proceedings.--
+       ``(A) In general.--If, in a proceeding under this chapter 
+     to determine the distribution of royalties, a participant in 
+     the proceeding asserts a claim in the amount of $10,000 or 
+     less, the Copyright Royalty Judges shall decide the 
+     controversy on the basis of the filing of the written direct 
+     statement by the participant, the response by any opposing 
+     participant, and 1 additional response by each such party. 
+     The participant asserting the claim shall not be required to 
+     pay the filing fee under paragraph (2).
+       ``(B) Bad faith inflation of claim.--If the Copyright 
+     Royalty Judges determine that a participant asserts in bad 
+     faith an amount in controversy in excess of $10,000 for the 
+     purpose of avoiding a determination under the procedure set 
+     forth in subparagraph (A), the Copyright Royalty Judges shall 
+     impose a fine on that participant in an amount not to exceed 
+     the difference between the actual amount distributed and the 
+     amount asserted by the participant.
+       ``(5) Paper proceedings.--The Copyright Royalty Judges in 
+     proceedings under this chapter may decide, sua sponte or upon 
+     motion of a participant, to determine issues on the basis of 
+     the filing of the written direct statement by the 
+     participant, the response by any opposing participant, and 
+     one additional response by each such participant. Prior to 
+     making such decision to proceed on such a paper record only, 
+     the Copyright Royalty Judges shall offer to all parties to 
+     the proceeding the opportunity to comment on the decision. 
+     The procedure under this paragraph--
+       ``(A) shall be applied in cases in which there is no 
+     genuine issue of material fact, there is no need for 
+     evidentiary hearings, and all participants in the proceeding 
+     agree in writing to the procedure; and
+       ``(B) may be applied under such other circumstances as the 
+     Copyright Royalty Judges consider appropriate.
+       ``(6) Regulations.--
+       ``(A) In general.--The Copyright Royalty Judges may issue 
+     regulations to carry out their functions under this title. 
+     All regulations issued by the Copyright Royalty Judges are 
+     subject to the approval of the Librarian of Congress. Not 
+     later than 120 days after Copyright Royalty Judges or interim 
+     Copyright Royalty Judges, as the case may be, are first 
+     appointed after the enactment of the Copyright Royalty and 
+     Distribution Reform Act of 2004, such judges shall issue 
+     regulations to govern proceedings under this chapter.
+       ``(B) Interim regulations.--Until regulations are adopted 
+     under subparagraph (A), the Copyright Royalty Judges shall 
+     apply the regulations in effect under this chapter on the day 
+     before the effective date of the Copyright Royalty and 
+     Distribution Reform Act of 2004, to the extent such 
+     regulations are not inconsistent with this chapter, except 
+     that functions carried out under such regulations by the 
+     Librarian of Congress, the Register of Copyrights, or 
+     copyright arbitration royalty panels that, as of such date of 
+     enactment, are to be carried out by the Copyright Royalty 
+     Judges under this chapter, shall be carried out by the 
+     Copyright Royalty Judges under such regulations.
+       ``(C) Requirements.--Regulations issued under subparagraph 
+     (A) shall include the following:
+       ``(i) The written direct statements of all participants in 
+     a proceeding under paragraph (2) shall be filed by a date 
+     specified by the Copyright Royalty Judges, which may be no 
+     earlier than four months, and no later than five months, 
+     after the end of the voluntary negotiation period under 
+     paragraph (3). Notwithstanding the preceding sentence, the 
+     Copyright Royalty Judges may allow a participant in a 
+     proceeding to file an amended written direct statement based 
+     on new information received during the discovery process, 
+     within 15 days after the end of the discovery period 
+     specified in clause (iii).
+       ``(ii)(I) Following the submission to the Copyright Royalty 
+     Judges of written direct statements by the participants in a 
+     proceeding under paragraph (2), the judges shall meet with 
+     the participants for the purpose of setting a schedule for 
+     conducting and completing discovery. Such schedule shall be 
+     determined by the Copyright Royalty Judges.
+       ``(II) In this chapter, the term `written direct 
+     statements' means witness statements, testimony, and exhibits 
+     to be presented in the proceedings, and such other 
+     information that is necessary to establish terms and rates, 
+     or the distribution of royalty payments, as the case may be, 
+     as set forth in regulations issued by the Copyright Royalty 
+     Judges.
+       ``(iii) Hearsay may be admitted in proceedings under this 
+     chapter to the extent deemed appropriate by the Copyright 
+     Royalty Judges.
+       ``(iv) Discovery in such proceedings shall be permitted for 
+     a period of 60 days, except for discovery ordered by the 
+     Copyright Royalty Judges in connection with the resolution of 
+     motions, orders and disputes pending at the end of such 
+     period.
+       ``(v) Any participant under paragraph (2) in a proceeding 
+     under this chapter to determine royalty rates may request of 
+     an opposing participant nonprivileged documents directly 
+     related to the written direct statement of that participant. 
+     Any objection to such a request shall be resolved by a motion 
+     or request to compel production made to the Copyright Royalty 
+     Judges according to regulations adopted by the Copyright 
+     Royalty Judges. Each motion or request to compel discovery 
+     shall be determined by the Copyright Royalty Judges, or by a 
+     Copyright Royalty Judge when permitted under subsection 
+     (a)(2). Upon such motion, the Copyright Royalty Judges may 
+     order discovery pursuant to regulations established under 
+     this paragraph.
+       ``(vi) Any participant under paragraph (2) in a proceeding 
+     under this chapter to determine royalty rates may, upon a 
+     written motion to the Copyright Royalty Judges, request of an 
+     opposing participant or witness other relevant information 
+     and materials if absent the discovery sought the moving party 
+     would be prejudiced or the Copyright Royalty Judges' 
+     resolution of the proceeding would be substantially impaired. 
+     Absent a showing of substantial good cause or demonstration 
+     of a likelihood of substantial prejudice, no participant in a 
+     proceeding may take more than 3 depositions and propound
+
+[[Page S10499]]
+
+     more than 10 interrogatories in that proceeding. Absent such 
+     a showing, the total number of depositions ordered in such a 
+     proceeding shall not exceed 10, and the total number of 
+     interrogatories shall not exceed 25 in each proceeding. In 
+     determining whether discovery will be granted under this 
+     clause, the Copyright Royalty Judges may consider--
+
+       ``(I) whether the information sought would serve to protect 
+     the integrity of the proceeding, to prevent substantial 
+     prejudice to any participant, or to correct a material 
+     misrepresentation or omission by any participant;
+       ``(II) whether the burden or expense of producing the 
+     requested information or materials outweighs the likely 
+     benefit, taking into account the needs and resources of the 
+     participants, the importance of the issues at stake, and the 
+     probative value of the requested information or materials in 
+     resolving such issues;
+       ``(III) whether the requested information or materials 
+     would be unreasonably cumulative or duplicative, or are 
+     obtainable from another source that is more convenient, less 
+     burdensome, or less expensive; and
+       ``(IV) whether the participant seeking discovery has had 
+     ample opportunity by discovery in the proceeding or by other 
+     means to obtain the information sought.
+
+       ``(vii) The rules and practices in effect on the day before 
+     the effective date of the Copyright Royalty and Distribution 
+     Reform Act of 2004, relating to discovery in proceedings 
+     under this chapter to determine the distribution of royalty 
+     fees, shall continue to apply to such proceedings on and 
+     after such effective date.
+       ``(viii) In proceedings to determine royalty rates, the 
+     Copyright Royalty Judges may issue a subpoena commanding a 
+     participant or witness in a proceeding to determine royalty 
+     rates to appear and give testimony or to produce and permit 
+     inspection of documents or tangible things if the Copyright 
+     Royalty Judges' resolution of the proceeding would be 
+     substantially impaired by the absence of such testimony or 
+     production of documents or tangible things. Such subpoena 
+     shall specify with reasonable particularity the materials to 
+     be produced or the scope and nature of the required 
+     testimony. Nothing in this subparagraph shall preclude the 
+     Copyright Royalty Judges from requesting the production by a 
+     nonparticipant of information or materials relevant to the 
+     resolution by the Copyright Royalty Judges of a material 
+     issue of fact. A Copyright Royalty Judge may not issue a 
+     subpoena under this clause to any person who was a 
+     participant in a proceeding to determine royalty rates and 
+     has negotiated a settlement with respect to those rates.
+       ``(ix) The Copyright Royalty Judges shall order a 
+     settlement conference among the participants in the 
+     proceeding to facilitate the presentation of offers of 
+     settlement among the participants. The settlement conference 
+     shall be held during a 21-day period following the end of the 
+     discovery period and shall take place outside the presence of 
+     the Copyright Royalty Judges.
+       ``(x) No evidence, including exhibits, may be submitted in 
+     the written direct statement of a participant without a 
+     sponsoring witness, except where the Copyright Royalty Judges 
+     have taken official notice, or in the case of incorporation 
+     by reference of past records, or for good cause shown.
+       ``(c) Determination of Copyright Royalty Judges.--
+       ``(1) Timing.--The Copyright Royalty Judges shall issue 
+     their determination in a proceeding not later than 11 months 
+     after the conclusion of the 21-day settlement conference 
+     period under subsection (b)(3)(C)(vi), but, in the case of a 
+     proceeding to determine successors to rates or terms that 
+     expire on a specified date, in no event later than 15 days 
+     before the expiration of the then current statutory rates and 
+     terms.
+       ``(2) Rehearings.--
+       ``(A) In general.--The Copyright Royalty Judges may, in 
+     exceptional cases, upon motion of a participant under 
+     subsection (b)(2), order a rehearing, after the determination 
+     in a proceeding is issued under paragraph (1), on such 
+     matters as the Copyright Royalty Judges determine to be 
+     appropriate.
+       ``(B) Timing for filing motion.--Any motion for a rehearing 
+     under subparagraph (A) may only be filed within 15 days after 
+     the date on which the Copyright Royalty Judges deliver their 
+     initial determination concerning rates and terms to the 
+     participants in the proceeding.
+       ``(C) Participation by opposing party not required.--In any 
+     case in which a rehearing is ordered, any opposing party 
+     shall not be required to participate in the rehearing, except 
+     as provided under subsection (d)(1).
+       ``(D) No negative inference.--No negative inference shall 
+     be drawn from lack of participation in a rehearing.
+       ``(E) Continuity of rates and terms.--(i) If the decision 
+     of the Copyright Royalty Judges on any motion for a rehearing 
+     is not rendered before the expiration of the statutory rates 
+     and terms that were previously in effect, in the case of a 
+     proceeding to determine successors to rates and terms that 
+     expire on a specified date, then--
+       ``(I) the initial determination of the Copyright Royalty 
+     Judges that is the subject of the rehearing motion shall be 
+     effective as of the day following the date on which the rates 
+     and terms that were previously in effect expire; and
+       ``(II) in the case of a proceeding under section 
+     114(f)(1)(C) or 114(f)(2)(C), royalty rates and terms shall, 
+     for purposes of section 114(f)(4)(B), be deemed to have been 
+     set at those rates and terms contained in the initial 
+     determination of the Copyright Royalty Judges that is the 
+     subject of the rehearing motion, as of the date of that 
+     determination.
+       ``(ii) The pendency of a motion for a rehearing under this 
+     paragraph shall not relieve persons obligated to make royalty 
+     payments who would be affected by the determination on that 
+     motion from providing the statements of account and any 
+     reports of use, to the extent required, and paying the 
+     royalties required under the relevant determination or 
+     regulations.
+       ``(iii) Notwithstanding clause (ii), whenever royalties 
+     described in clause (ii) are paid to a person other than the 
+     Copyright Office, the entity designated by the Copyright 
+     Royalty Judges to which such royalties are paid by the 
+     copyright user (and any successor thereto) shall, within 60 
+     days after the motion for rehearing is resolved or, if the 
+     motion is granted, within 60 days after the rehearing is 
+     concluded, return any excess amounts previously paid to the 
+     extent necessary to comply with the final determination of 
+     royalty rates by the Copyright Royalty Judges.
+       ``(3) Contents of determination.--A determination of the 
+     Copyright Royalty Judges shall be supported by the written 
+     record and shall set forth the findings of fact relied on by 
+     the Copyright Royalty Judges. Among other terms adopted in a 
+     determination, the Copyright Royalty Judges may specify 
+     notice and recordkeeping requirements of users of the 
+     copyrights at issue that apply in lieu of those that would 
+     otherwise apply under regulations.
+       ``(4) Continuing jurisdiction.--The Copyright Royalty 
+     Judges may, with the approval of the Register of Copyrights, 
+     issue an amendment to a written determination to correct any 
+     technical or clerical errors in the determination or to 
+     modify the terms, but not the rates, of royalty payments in 
+     response to unforeseen circumstances that would frustrate the 
+     proper implementation of such determination. Such amendment 
+     shall be set forth in a written addendum to the determination 
+     that shall be distributed to the participants of the 
+     proceeding and shall be published in the Federal Register.
+       ``(5) Protective order.--The Copyright Royalty Judges may 
+     issue such orders as may be appropriate to protect 
+     confidential information, including orders excluding 
+     confidential information from the record of the determination 
+     that is published or made available to the public, except 
+     that any terms or rates of royalty payments or distributions 
+     may not be excluded.
+       ``(6) Publication of determination.--The Librarian of 
+     Congress shall cause the determination, and any corrections 
+     thereto, to be published in the Federal Register. The 
+     Librarian of Congress shall also publicize the determination 
+     and corrections in such other manner as the Librarian 
+     considers appropriate, including, but not limited to, 
+     publication on the Internet. The Librarian of Congress shall 
+     also make the determination, corrections, and the 
+     accompanying record available for public inspection and 
+     copying.
+       ``(7) Late payment.--A determination of Copyright Royalty 
+     Judges may include terms with respect to late payment, but in 
+     no way shall such terms prevent the copyright holder from 
+     asserting other rights or remedies provided under this title.
+       ``(d) Judicial Review.--
+       ``(1) Appeal.--Any determination of the Copyright Royalty 
+     Judges under subsection (c) may, within 30 days after the 
+     publication of the determination in the Federal Register, be 
+     appealed, to the United States Court of Appeals for the 
+     District of Columbia Circuit, by any aggrieved participant in 
+     the proceeding under subsection (b)(2) who fully participated 
+     in the proceeding and who would be bound by the 
+     determination. Any party that did not participate in a 
+     rehearing may not raise any issue that was the subject of 
+     that rehearing at any stage of judicial review of the hearing 
+     determination. If no appeal is brought within that 30-day 
+     period, the determination of the Copyright Royalty Judges 
+     shall be final, and the royalty fee or determination with 
+     respect to the distribution of fees, as the case may be, 
+     shall take effect as set forth in paragraph (2).
+       ``(2) Effect of rates.--
+       ``(A) Expiration on specified date.--When this title 
+     provides that the royalty rates and terms that were 
+     previously in effect are to expire on a specified date, any 
+     adjustment or determination by the Copyright Royalty Judges 
+     of successor rates and terms for an ensuing statutory license 
+     period shall be effective as of the day following the date of 
+     expiration of the rates and terms that were previously in 
+     effect, even if the determination of the Copyright Royalty 
+     Judges is rendered on a later date.
+       ``(B) Other cases.--In cases where rates and terms do not 
+     expire on a specified date or have not yet been established, 
+     the Copyright Royalty Judges shall determine the dates that 
+     successor or new rates or terms shall take effect. Except as 
+     otherwise provided in this title, the rates and terms 
+     previously in effect, to the extent applicable, shall remain 
+     in effect until such successor rates and terms become 
+     effective.
+       ``(C) Obligation to make payments.--
+       ``(i) The pendency of an appeal under this subsection shall 
+     not relieve persons obligated to make royalty payments under 
+     section 111, 112, 114, 115, 116, 118, 119, or 1003, who would 
+     be affected by the determination on appeal, from--
+
+       ``(I) providing the statements of account and any report of 
+     use; and
+       ``(II) paying the royalties required under the relevant 
+     determination or regulations.
+
+       ``(ii) Notwithstanding clause (i), whenever royalties 
+     described in clause (i) are paid to a person other than the 
+     Copyright Office, the entity designated by the Copyright 
+     Royalty Judges to which such royalties are paid by the 
+     copyright user (and any successor thereto) shall, within 60 
+     days after the final resolution of the appeal, return any 
+     excess amounts previously paid (and interest thereon, if 
+     ordered pursuant to paragraph (3)) to the extent necessary to 
+     comply with the final determination of royalty rates on 
+     appeal.
+       ``(3) Jurisdiction of court.--If the court, pursuant to 
+     section 706 of title 5, modifies or vacates a determination 
+     of the Copyright Royalty Judges, the court may enter its own 
+     determination with respect to the amount or distribution
+
+[[Page S10500]]
+
+     of royalty fees and costs, and order the repayment of any 
+     excess fees, the payment of any underpaid fees, and the 
+     payment of interest pertaining respectively thereto, in 
+     accordance with its final judgment. The court may also vacate 
+     the determination of the Copyright Royalty Judges and remand 
+     the case to the Copyright Royalty Judges for further 
+     proceedings in accordance with subsection (a).
+       ``(e) Administrative Matters.--
+       ``(1) Deduction of costs of library of congress and 
+     copyright office from filing fees.--
+       ``(A) Deduction from filing fees.--The Librarian of 
+     Congress may, to the extent not otherwise provided under this 
+     title, deduct from the filing fees collected under subsection 
+     (b) for a particular proceeding under this chapter the 
+     reasonable costs incurred by the Librarian of Congress, the 
+     Copyright Office, and the Copyright Royalty Judges in 
+     conducting that proceeding, other than the salaries of the 
+     Copyright Royalty Judges and the 3 staff members appointed 
+     under section 802(b).
+       ``(B) Authorization of appropriations.--There are 
+     authorized to be appropriated such sums as may be necessary 
+     to pay the costs incurred under this chapter not covered by 
+     the filing fees collected under subsection (b). All funds 
+     made available pursuant to this subparagraph shall remain 
+     available until expended.
+       ``(2) Positions required for administration of compulsory 
+     licensing.--Section 307 of the Legislative Branch 
+     Appropriations Act, 1994, shall not apply to employee 
+     positions in the Library of Congress that are required to be 
+     filled in order to carry out section 111, 112, 114, 115, 116, 
+     118, or 119 or chapter 10.
+
+     ``Sec. 804. Institution of proceedings
+
+       ``(a) Filing of Petition.--With respect to proceedings 
+     referred to in paragraphs (1) and (2) of section 801(b) 
+     concerning the determination or adjustment of royalty rates 
+     as provided in sections 111, 112, 114, 115, 116, 118, 119, 
+     and 1004, during the calendar years specified in the schedule 
+     set forth in subsection (b), any owner or user of a 
+     copyrighted work whose royalty rates are specified by this 
+     title, or are established under this chapter before or after 
+     the enactment of the Copyright Royalty and Distribution 
+     Reform Act of 2004, may file a petition with the Copyright 
+     Royalty Judges declaring that the petitioner requests a 
+     determination or adjustment of the rate. The Copyright 
+     Royalty Judges shall make a determination as to whether the 
+     petitioner has such a significant interest in the royalty 
+     rate in which a determination or adjustment is requested. If 
+     the Copyright Royalty Judges determine that the petitioner 
+     has such a significant interest, the Copyright Royalty Judges 
+     shall cause notice of this determination, with the reasons 
+     for such determination, to be published in the Federal 
+     Register, together with the notice of commencement of 
+     proceedings under this chapter. With respect to proceedings 
+     under paragraph (1) of section 801(b) concerning the 
+     determination or adjustment of royalty rates as provided in 
+     sections 112 and 114, during the calendar years specified in 
+     the schedule set forth in subsection (b), the Copyright 
+     Royalty Judges shall cause notice of commencement of 
+     proceedings under this chapter to be published in the Federal 
+     Register as provided in section 803(b)(1)(A).
+       ``(b) Timing of Proceedings.--
+       ``(1) Section 111 proceedings.--(A) A petition described in 
+     subsection (a) to initiate proceedings under section 
+     801(b)(2) concerning the adjustment of royalty rates under 
+     section 111 to which subparagraph (A) or (D) of section 
+     801(b)(2) applies may be filed during the year 2005 and in 
+     each subsequent fifth calendar year.
+       ``(B) In order to initiate proceedings under section 
+     801(b)(2) concerning the adjustment of royalty rates under 
+     section 111 to which subparagraph (B) or (C) of section 
+     801(b)(2) applies, within 12 months after an event described 
+     in either of those subsections, any owner or user of a 
+     copyrighted work whose royalty rates are specified by section 
+     111, or by a rate established under this chapter before or 
+     after the enactment of the Copyright Royalty and Distribution 
+     Reform Act of 2004, may file a petition with the Copyright 
+     Royalty Judges declaring that the petitioner requests an 
+     adjustment of the rate. The Copyright Royalty Judges shall 
+     then proceed as set forth in subsection (a) of this section. 
+     Any change in royalty rates made under this chapter pursuant 
+     to this subparagraph may be reconsidered in the year 2005, 
+     and each fifth calendar year thereafter, in accordance with 
+     the provisions in section 801(b)(3) (B) or (C), as the case 
+     may be. A petition for adjustment of rates under section 
+     11(d)(1)(B) as a result of a change is the rules and 
+     regulations of the Federal Communications Commission shall 
+     set forth the change on which the petition is based.
+       ``(2) Certain section 112 proceedings.--Proceedings under 
+     this chapter shall be commenced in the year 2007 to determine 
+     reasonable terms and rates of royalty payments for the 
+     activities described in section 112(e)(1) relating to the 
+     limitation on exclusive rights specified by section 
+     114(d)(1)(C)(iv), to become effective on January 1, 2009. 
+     Such proceedings shall be repeated in each subsequent fifth 
+     calendar year.
+       ``(3) Section 114 and corresponding 112 proceedings.--
+       ``(A) For eligible nonsubscription services and new 
+     subscription services.--Proceedings under this chapter shall 
+     be commenced as soon as practicable after the effective date 
+     of the Copyright Royalty and Distribution Reform Act of 2004 
+     to determine reasonable terms and rates of royalty payments 
+     under sections 114 and 112 for the activities of eligible 
+     nonsubscription transmission services and new subscription 
+     services, to be effective for the period beginning on January 
+     1, 2006, and ending on December 31, 2010. Such proceedings 
+     shall next be commenced in January 2009 to determine 
+     reasonable terms and rates of royalty payments, to become 
+     effective on January 1, 2011. Thereafter, such proceedings 
+     shall be repeated in each subsequent fifth calendar year.
+       ``(B) For preexisting subscription and satellite digital 
+     audio radio services.--Proceedings under this chapter shall 
+     be commenced in January 2006 to determine reasonable terms 
+     and rates of royalty payments under sections 114 and 112 for 
+     the activities of preexisting subscription services, to be 
+     effective during the period beginning on January 1, 2008, and 
+     ending on December 31, 2012, and preexisting satellite 
+     digital audio radio services, to be effective during the 
+     period beginning on January 1, 2007, and ending on December 
+     31, 2012. Such proceedings shall next be commenced in 2011 to 
+     determine reasonable terms and rates of royalty payments, to 
+     become effective on January 1, 2013. Thereafter, such 
+     proceedings shall be repeated in each subsequent fifth 
+     calendar year.
+       ``(C)(i) Notwithstanding any other provision of this 
+     chapter, this subparagraph shall govern proceedings commenced 
+     pursuant to section 114(f)(1)(C) and 114(f)(2)(C) concerning 
+     new types of services.
+       ``(ii) Not later than 30 days after a petition to determine 
+     rates and terms for a new type of service that is filed by 
+     any copyright owner of sound recordings, or such new type of 
+     service, indicating that such new type of service is or is 
+     about to become operational, the Copyright Royalty Judges 
+     shall issue a notice for a proceeding to determine rates and 
+     terms for such service.
+       ``(iii) The proceeding shall follow the schedule set forth 
+     in such subsections (b), (c), and (d) of section 803, except 
+     that--
+       ``(I) the determination shall be issued by not later than 
+     24 months after the publication of the notice under clause 
+     (ii); and
+       ``(II) the decision shall take effect as provided in 
+     subsections (c)(2) and (d)(2) of section 803 and section 
+     114(f)(4)(B)(ii) and (C).
+       ``(iv) The rates and terms shall remain in effect for the 
+     period set forth in section 114(f)(1)(C) or 114(f)(2)(C), as 
+     the case may be.
+       ``(4) Section 115 proceedings.--A petition described in 
+     subsection (a) to initiate proceedings under section 
+     801(b)(1) concerning the adjustment or determination of 
+     royalty rates as provided in section 115 may be filed in the 
+     year 2006 and in each subsequent fifth calendar year, or at 
+     such other times as the parties have agreed under section 
+     115(c)(3) (B) and (C).
+       ``(5) Section 116 proceedings.--(A) A petition described in 
+     subsection (a) to initiate proceedings under section 801(b) 
+     concerning the determination of royalty rates and terms as 
+     provided in section 116 may be filed at any time within 1 
+     year after negotiated licenses authorized by section 116 are 
+     terminated or expire and are not replaced by subsequent 
+     agreements.
+       ``(B) If a negotiated license authorized by section 116 is 
+     terminated or expires and is not replaced by another such 
+     license agreement which provides permission to use a quantity 
+     of musical works not substantially smaller than the quantity 
+     of such works performed on coin-operated phonorecord players 
+     during the 1-year period ending March 1, 1989, the Copyright 
+     Royalty Judges shall, upon petition filed under paragraph (1) 
+     within 1 year after such termination or expiration, commence 
+     a proceeding to promptly establish an interim royalty rate or 
+     rates for the public performance by means of a coin-operated 
+     phonorecord player of nondramatic musical works embodied in 
+     phonorecords which had been subject to the terminated or 
+     expired negotiated license agreement. Such rate or rates 
+     shall be the same as the last such rate or rates and shall 
+     remain in force until the conclusion of proceedings by the 
+     Copyright Royalty Judges, in accordance with section 803, to 
+     adjust the royalty rates applicable to such works, or until 
+     superseded by a new negotiated license agreement, as provided 
+     in section 116(b).
+       ``(6) Section 118 proceedings.--A petition described in 
+     subsection (a) to initiate proceedings under section 
+     801(b)(1) concerning the determination of reasonable terms 
+     and rates of royalty payments as provided in section 118 may 
+     be filed in the year 2006 and in each subsequent fifth 
+     calendar year.
+       ``(7) Section 1004 proceedings.--A petition described in 
+     subsection (a) to initiate proceedings under section 
+     801(b)(1) concerning the adjustment of reasonable royalty 
+     rates under section 1004 may be filed as provided in section 
+     1004(a)(3).
+       ``(8) Proceedings concerning distribution of royalty 
+     fees.--With respect to proceedings under section 801(b)(3) 
+     concerning the distribution of royalty fees in certain 
+     circumstances under section 111, 119, or 1007, the Copyright 
+     Royalty Judges shall, upon a determination that a controversy 
+     exists concerning such distribution, cause to be published in 
+     the Federal Register notice of commencement of proceedings 
+     under this chapter.
+
+     ``Sec. 805. General rule for voluntarily negotiated 
+       agreements
+
+       ``Any rates or terms under this title that--
+       ``(1) are agreed to by participants to a proceeding under 
+     section 803(b)(3),
+       ``(2) are adopted by the Copyright Royalty Judges as part 
+     of a determination under this chapter, and
+       ``(3) are in effect for a period shorter than would 
+     otherwise apply under a determination pursuant to this 
+     chapter,
+
+     shall remain in effect for such period of time as would 
+     otherwise apply under such determination, except that the 
+     Copyright Royalty Judges shall adjust the rates pursuant to 
+     the voluntary negotiations to reflect national monetary 
+     inflation during the additional period the rates remain in 
+     effect.''.
+       (b) Conforming Amendment.--The table of chapters for title 
+     17, United States Code, is amended by striking the item 
+     relating to chapter 8 and inserting the following:
+
+
+[[Page S10501]]
+
+
+``8. Proceedings by Copyright Royalty Judges.................801''.....
+
+     SEC. 4. DEFINITION.
+
+       Section 101 is amended by inserting after the definition of 
+     ``copies'' the following:
+       ``A `Copyright Royalty Judge' is a Copyright Royalty Judge 
+     appointed under section 802 of this title, and includes any 
+     individual serving as an interim Copyright Royalty Judge 
+     under such section.''.
+
+     SEC. 5. TECHNICAL AMENDMENTS.
+
+       (a) Cable Rates.--Section 111(d) is amended--
+       (1) in paragraph (2), in the second sentence, by striking 
+     ``a copyright arbitration royalty panel'' and inserting ``the 
+     Copyright Royalty Judges.''; and
+       (2) in paragraph (4)--
+       (A) in subparagraph (A), by striking ``Librarian of 
+     Congress'' each place it appears and inserting ``Copyright 
+     Royalty Judges'';
+       (B) in subparagraph (B)--
+       (i) in the first sentence, by striking ``Librarian of 
+     Congress shall, upon the recommendation of the Register of 
+     Copyrights,'' and inserting ``Copyright Royalty Judges 
+     shall'';
+       (ii) in the second sentence, by striking ``Librarian 
+     determines'' and inserting ``Copyright Royalty Judges 
+     determine''; and
+       (iii) in the third sentence--
+
+       (I) by striking ``Librarian'' each place it appears and 
+     inserting ``Copyright Royalty Judges''; and
+       (II) by striking ``convene a copyright arbitration royalty 
+     panel'' and inserting ``conduct a proceeding''; and
+
+       (C) in subparagraph (C), by striking ``Librarian of 
+     Congress'' and inserting ``Copyright Royalty Judges''.
+       (b) Ephemeral Recordings.--Section 112(e) is amended--
+       (1) in paragraph (3)--
+       (A) by amending the first sentence to read as follows: 
+     ``Proceedings under chapter 8 shall determine reasonable 
+     rates and terms of royalty payments for the activities 
+     specified by paragraph (1) during the 5-year periods 
+     beginning on January 1 of the second year following the year 
+     in which the proceedings are to be commenced, or such other 
+     periods as the parties may agree.''; and
+       (B) by striking the second sentence;
+       (C) in the third sentence, by striking ``Librarian of 
+     Congress'' and inserting ``Copyright Royalty Judges''; and
+       (D) in the fourth sentence, by striking ``negotiation'';
+       (2) in paragraph (4)--
+       (A) by amending the first sentence to read as follows: 
+     ``The schedule of reasonable rates and terms determined by 
+     the Copyright Royalty Judges shall, subject to paragraph (5), 
+     be binding on all copyright owners of sound recordings and 
+     transmitting organizations entitled to a statutory license 
+     under this subsection during the 5-year period specified in 
+     paragraph (3), or such other period as the parties may 
+     agree.'';
+       (B) by striking ``copyright arbitration royalty panel'' 
+     each subsequent place it appears and inserting ``Copyright 
+     Royalty Judges'';
+       (C) in the fourth sentence, by striking ``its decision'' 
+     and inserting ``their decision'';
+       (D) in the fifth sentence, by striking ``negotiated as 
+     provided'' and inserting ``described''; and
+       (E) in the last sentence, by striking ``Librarian of 
+     Congress'' and inserting ``Copyright Royalty Judges'';
+       (3) in paragraph (5), by striking ``or decision by the 
+     Librarian of Congress'' and inserting ``, decision by the 
+     Librarian of Congress, or determination by the Copyright 
+     Royalty Judges'';
+       (4) by striking paragraph (6) and redesignating paragraphs 
+     (7), (8), and (9), as paragraphs (6), (7), and (8), 
+     respectively; and
+       (5) in paragraph (6)(A), as so redesignated, by striking 
+     ``Librarian of Congress'' and inserting ``Copyright Royalty 
+     Judges''.
+       (c) Scope of Exclusive Rights in Sound Recordings.--Section 
+     114(f) is amended--
+       (1) in paragraph (1)--
+       (A) in subparagraph (A)--
+       (i) by amending the first sentence to read as follows: 
+     ``Proceedings under chapter 8 shall determine reasonable 
+     rates and terms of royalty payments for subscription 
+     transmissions by preexisting subscription services and 
+     transmissions by preexisting satellite digital audio radio 
+     services specified by subsection (d)(2) during 5-year periods 
+     beginning on January 1 of the second year following the year 
+     in which the proceedings are to be commenced, except where 
+     different transitional periods are provided in section 
+     804(b), or such periods as the parties may agree.'';
+       (ii) in the third sentence, by striking ``Librarian of 
+     Congress'' and inserting ``Copyright Royalty Judges''; and
+       (iii) in the fourth sentence, by striking ``negotiation'';
+       (B) in subparagraph (B)--
+       (i) by amending the first sentence to read as follows: 
+     ``The schedule of reasonable rates and terms determined by 
+     the Copyright Royalty Judges shall, subject to paragraph (3), 
+     be binding on all copyright owners of sound recordings and 
+     entities performing sound recordings affected by this 
+     paragraph during the 5-year period specified in subparagraph 
+     (A), a transitional period provided in section 804(b), or 
+     such other period as the parties may agree.'';
+       (ii) in the second sentence, by striking ``copyright 
+     arbitration royalty panel'' and inserting ``Copyright Royalty 
+     Judges''; and
+       (iii) in the second sentence, by striking ``negotiated as 
+     provided'' and inserting ``described''; and
+       (C) by amending subparagraph (C) to read as follows:
+       ``(C) The procedures under subparagraphs (A) and (B) also 
+     shall be initiated pursuant to a petition filed by any 
+     copyright owners of sound recordings, any preexisting 
+     subscription services, or any preexisting satellite digital 
+     audio radio services indicating that a new type of 
+     subscription digital audio transmission service on which 
+     sound recordings are performed is or is about to become 
+     operational, for the purpose of determining reasonable terms 
+     and rates of royalty payments with respect to such new type 
+     of transmission service for the period beginning with the 
+     inception of such new type of service and ending on the date 
+     on which the royalty rates and terms for subscription digital 
+     audio transmission services most recently determined under 
+     subparagraph (A) or (B) and chapter 8 expire, or such other 
+     period as the parties may agree.'';
+       (2) in paragraph (2)--
+       (A) in subparagraph (A)--
+       (i) by amending the first paragraph to read as follows: 
+     ``Proceedings under chapter 8 shall determine reasonable 
+     rates and terms of royalty payments for subscription 
+     transmissions by preexisting subscription services and 
+     transmissions by preexisting satellite digital audio radio 
+     services specified by subsection (d)(2) during 5-year periods 
+     beginning on January 1 of the second year following the year 
+     in which the proceedings are to be commenced, except where 
+     different transitional periods are provided in section 
+     804(b), or such periods as the parties may agree.'';
+       (ii) in the third sentence, by striking ``Librarian of 
+     Congress'' and inserting ``Copyright Royalty Judges''; and
+       (iii) in the fourth sentence, by striking ``negotiation'';
+       (B) in subparagraph (B)--
+       (i) by amending the first sentence to read as follows: 
+     ``The schedule of reasonable rates and terms determined by 
+     the Copyright Royalty Judges shall, subject to paragraph (3), 
+     be binding on all copyright owners of sound recordings and 
+     entities performing sound recordings affected by this 
+     paragraph during the 5-year period specified in subparagraph 
+     (A), a transitional period provided in section 804(b), or 
+     such other period as the parties may agree.'';
+       (ii) by striking ``copyright arbitration royalty panel'' 
+     each subsequent place it appears and inserting ``Copyright 
+     Royalty Judges''; and
+       (iii) in the last sentence by striking ``negotiated as 
+     provided'' and inserting ``described in''; and
+       (C) by amending subparagraph (C) to read as follows:
+       ``(C) The procedures under subparagraphs (A) and (B) shall 
+     also be initiated pursuant to a petition filed by any 
+     copyright owners of sound recordings or any eligible 
+     nonsubscription service or new subscription service 
+     indicating that a new type of eligible nonsubscription 
+     service or new subscription service on which sound recordings 
+     are performed is or is about to become operational, for the 
+     purpose of determining reasonable terms and rates of royalty 
+     payments with respect to such new type of service for the 
+     period beginning with the inception of such new type of 
+     service and ending on the date on which the royalty rates and 
+     terms for preexisting subscription digital audio transmission 
+     services or preexisting satellite digital radio audio 
+     services, as the case may be, most recently determined under 
+     subparagraph (A) or (B) and chapter 8 expire, or such other 
+     period as the parties may agree.'';
+       (3) in paragraph (3), by striking ``or decision by the 
+     Librarian of Congress'' and inserting ``, decision by the 
+     Librarian of Congress, or determination by the Copyright 
+     Royalty Judges''; and
+       (4) in paragraph (4)--
+       (A) by striking ``Librarian of Congress'' each place it 
+     appears and inserting ``Copyright Royalty Judges''; and
+       (B) by adding after the first sentence ``The notice and 
+     recordkeeping rules in effect on the day before the effective 
+     date of the Copyright Royalty and Distribution Reform Act of 
+     2004 shall remain in effect until new regulations are 
+     promulgated by the Copyright Royalty Judges. If new 
+     regulations are promulgated under this subparagraph, the 
+     Copyright Royalty Judges shall take into account the 
+     substance and effect of the rules in effect on the day before 
+     the effective date of the Copyright Royalty and Distribution 
+     Reform Act of 2004 and shall, to the extent practicable, 
+     avoid significant disruption of the function of the 
+     designated agents that are authorized to collect and 
+     distribute royalty fees as such functions exist on the day 
+     prior to the effective date of this Act.''.
+       (d) Phonorecords of Nondramatic Musical Works.--Section 
+     115(c)(3) is amended--
+       (1) in subparagraph (A)(ii), by striking ``(F)'' and 
+     inserting ``(E)'';
+       (2) in subparagraph (B)--
+       (A) by striking ``under this paragraph'' and inserting 
+     ``under this section''; and
+       (B) by striking ``subparagraphs (B) through (F)'' and 
+     inserting ``this subparagraph and subparagraphs (B) through 
+     (E)'';
+       (3) in subparagraph (C)--
+       (A) by amending the first sentence to read as follows: 
+     ``Proceedings under chapter 8 shall determine reasonable 
+     rates and terms of royalty payments for the activities 
+     specified by this section during periods beginning with the 
+     effective date of such rates and terms, but not earlier than 
+     January 1 of the second year following the year in which the 
+     petition requesting the proceeding is filed, and ending on 
+     the effective date of successor rates and terms, or such 
+     other period as the parties may agree.'';
+       (B) in the third sentence, by striking ``Librarian of 
+     Congress'' and inserting ``Copyright Royalty Judges''; and
+       (C) in the fourth sentence, by striking ``negotiation'';
+       (4) in subparagraph (D)--
+       (A) by amending the first sentence to read as follows: 
+     ``The schedule of reasonable rates and terms determined by 
+     the Copyright Royalty
+
+[[Page S10502]]
+
+     Judges shall, subject to subparagraph (E), be binding on all 
+     copyright owners of nondramatic musical works and persons 
+     entitled to obtain a compulsory license under subsection 
+     (a)(1) during the period specified in subparagraph (C), such 
+     other period as may be determined pursuant to subparagraphs 
+     (B) and (C), or such other period as the parties may 
+     agree.'';
+       (B) in the third sentence, by striking ``copyright 
+     arbitration royalty panel'' and inserting ``Copyright Royalty 
+     Judges''; and
+       (C) in the third sentence, by striking ``negotiated as 
+     provided in subparagraphs (B) and (C)'' and inserting 
+     ``described'';
+       (5) in subparagraph (E)--
+       (A) in clause (i)--
+       (i) in the first sentence, by striking ``Librarian of 
+     Congress'' and inserting ``Librarian of Congress, Copyright 
+     Royalty Judges, or a copyright arbitration royalty panel to 
+     the extent those determinations were accepted by the 
+     Librarian of Congress''; and
+       (ii) in the second sentence, by striking ``(C), (D) or (F) 
+     shall be given effect'' and inserting ``(C) or (D) shall be 
+     given effect as to digital phonorecord deliveries''; and
+       (B) in clause (ii)(I), by striking ``(C), (D) or (F)'' each 
+     place it appears and inserting ``(C) or (D)''; and
+       (6) by striking subparagraph (F) and redesignating 
+     subparagraphs (G) through (L) as subparagraphs (F) through 
+     (K), respectively.
+       (e) Coin-Operated Phonorecord Players.--Section 116 is 
+     amended--
+       (1) in subsection (b), by amending paragraph (2) to read as 
+     follows:
+       ``(2) Chapter 8 proceeding.--Parties not subject to such a 
+     negotiation may have the terms and rates and the division of 
+     fees described in paragraph (1) determined in a proceeding in 
+     accordance with the provisions of chapter 8.''; and
+       (2) in subsection (c)--
+       (A) in the subsection heading, by striking ``Copyright 
+     Arbitration Royalty Panel Determinations'' and inserting 
+     ``Determinations by Copyright Royalty Judges''; and
+       (B) by striking ``a copyright arbitration royalty panel'' 
+     and inserting ``the Copyright Royalty Judges''.
+       (f) Use of Certain Works in Connection With Noncommercial 
+     Broadcasting.--Section 118 is amended--
+       (1) in subsection (b)--
+       (A) in paragraph (1)--
+       (i) in the first sentence, by striking ``Librarian of 
+     Congress'' and inserting ``Copyright Royalty Judges''; and
+       (ii) by striking the second and third sentences;
+       (B) in paragraph (2), by striking ``Librarian of 
+     Congress:'' and all that follows through the end of the 
+     sentence and inserting ``Librarian of Congress, a copyright 
+     arbitration royalty panel, or the Copyright Royalty Judges, 
+     to the extent that they were accepted by the Librarian of 
+     Congress, if copies of such agreements are filed with the 
+     Copyright Royalty Judges within 30 days of execution in 
+     accordance with regulations that the Copyright Royalty Judges 
+     shall issue.''; and
+       (C) in paragraph (3)--
+       (i) in the second sentence--
+
+       (I) by striking ``copyright arbitration royalty panel'' and 
+     inserting ``Copyright Royalty Judges''; and
+
+       (II) by striking ``paragraph (2).'' and inserting 
+     ``paragraph (2) or (3).'';
+
+       (ii) in the last sentence, by striking ```Librarian of 
+     Congress'' and inserting ``Copyright Royalty Judges''; and
+       (iii) by striking ``(3) In'' and all that follows through 
+     the end of the first sentence and inserting the following:
+       ``(3) Voluntary negotiation proceedings initiated pursuant 
+     to a petition filed under section 804(a) for the purpose of 
+     determining a schedule of terms and rates of royalty payments 
+     by public broadcasting entities to copyright owners in works 
+     specified by this subsection and the proportionate division 
+     of fees paid among various copyright owners shall cover the 
+     5-year period beginning on January 1 of the second year 
+     following the year in which the petition is filed. The 
+     parties to each negotiation proceeding shall bear their own 
+     costs.
+       ``(4) In the absence of license agreements negotiated under 
+     paragraph (2) or (3), the Copyright Royalty Judges shall, 
+     pursuant to chapter 8, conduct a proceeding to determine and 
+     publish in the Federal Register a schedule of rates and terms 
+     which, subject to paragraph (2), shall be binding on all 
+     owners of copyright in works specified by this subsection and 
+     public broadcasting entities, regardless of whether such 
+     copyright owners have submitted proposals to the Copyright 
+     Royalty Judges.'';
+       (2) by striking subsection (c) and redesignating 
+     subsections (d) through (g) as subsections (c) through (f), 
+     respectively;
+       (3) in subsection (c), as so redesignated, in the matter 
+     preceding paragraph (1)--
+       (A) by striking ``(b)(2)'' and inserting ``(b)(2) or (3)'';
+       (B) by striking ``(b)(3)'' and inserting ``(b)(4)''; and
+       (C) by striking ``a copyright arbitration royalty panel 
+     under subsection (b)(3)'' and inserting ``the Copyright 
+     Royalty Judges under subsection (b)(3), to the extent that 
+     they were accepted by the Librarian of Congress'';
+       (4) in subsection (d), as so redesignated--
+       (A) by striking ``in the Copyright Office'' and inserting 
+     ``with the Copyright Royalty Judges''; and
+       (B) by striking ``Register of Copyrights shall prescribe'' 
+     and inserting ``Copyright Royalty Judges shall prescribe as 
+     provided in section 803(b)(6)''; and
+       (5) in subsection (f), as so redesignated, by striking 
+     ``(d)'' and inserting ``(c)''.
+       (g) Secondary Transmissions by Satellite Carriers.--Section 
+     119(b) is amended--
+       (1) in paragraph (3), by striking ``Librarian of Congress'' 
+     and inserting ``Copyright Royalty Judges''; and
+       (2) in paragraph (4)--
+       (A) in subparagraph (A), by striking ``Librarian of 
+     Congress'' each place it appears and inserting ``Copyright 
+     Royalty Judges''; and
+       (B) by amending subparagraphs (B) and (C) to read as 
+     follows:
+       ``(B) Determination of controversy; distributions.--After 
+     the first day of August of each year, the Copyright Royalty 
+     Judges shall determine whether there exists a controversy 
+     concerning the distribution of royalty fees. If the Copyright 
+     Royalty Judges determine that no such controversy exists, the 
+     Librarian of Congress shall, after deducting reasonable 
+     administrative costs under this paragraph, distribute such 
+     fees to the copyright owners entitled to receive them, or to 
+     their designated agents. If the Copyright Royalty Judges find 
+     the existence of a controversy, the Copyright Royalty Judges 
+     shall, pursuant to chapter 8 of this title, conduct a 
+     proceeding to determine the distribution of royalty fees.
+       ``(C) Withholding of fees during controversy.--During the 
+     pendency of any proceeding under this subsection, the 
+     Copyright Royalty Judges shall withhold from distribution an 
+     amount sufficient to satisfy all claims with respect to which 
+     a controversy exists, but shall have the discretion to 
+     proceed to distribute any amounts that are not in 
+     controversy.''.
+       (h) Digital Audio Recording Devices.--
+       (1) Royalty payments.--Section 1004(a)(3) is amended by 
+     striking ``Librarian of Congress'' each place it appears and 
+     inserting ``Copyright Royalty Judges''.
+       (2) Entitlement to royalty payments.--Section 1006(c) is 
+     amended by striking ``Librarian of Congress shall convene a 
+     copyright arbitration royalty panel which'' and inserting 
+     ``Copyright Royalty Judges''.
+       (3) Procedures for distributing royalty payments.--Section 
+     1007 is amended--
+       (A) in subsection (a), by amending paragraph (1) to read as 
+     follows:
+       ``(1) Filing of claims.--During the first 2 months of each 
+     calendar year, every interested copyright party seeking to 
+     receive royalty payments to which such party is entitled 
+     under section 1006 shall file with the Copyright Royalty 
+     Judges a claim for payments collected during the preceding 
+     year in such form and manner as the Copyright Royalty Judges 
+     shall prescribe by regulation.''; and
+       (B) by amending subsections (b) and (c) to read as follows:
+       ``(b) Distribution of Payments in the Absence of a 
+     Dispute.--After the period established for the filing of 
+     claims under subsection (a), in each year, the Copyright 
+     Royalty Judges shall determine whether there exists a 
+     controversy concerning the distribution of royalty payments 
+     under section 1006(c). If the Copyright Royalty Judges 
+     determine that no such controversy exists, the Librarian of 
+     Congress shall, within 30 days after such determination, 
+     authorize the distribution of the royalty payments as set 
+     forth in the agreements regarding the distribution of royalty 
+     payments entered into pursuant to subsection (a). The 
+     Librarian of Congress shall, before such royalty payments are 
+     distributed, deduct the reasonable administrative costs 
+     incurred by the Librarian under this section.
+       ``(c) Resolution of Disputes.--If the Copyright Royalty 
+     Judges find the existence of a controversy, the Copyright 
+     Royalty Judges shall, pursuant to chapter 8 of this title, 
+     conduct a proceeding to determine the distribution of royalty 
+     payments. During the pendency of such a proceeding, the 
+     Copyright Royalty Judges shall withhold from distribution an 
+     amount sufficient to satisfy all claims with respect to which 
+     a controversy exists, but shall, to the extent feasible, 
+     authorize the distribution of any amounts that are not in 
+     controversy. The Librarian of Congress shall, before such 
+     royalty payments are distributed, deduct the reasonable 
+     administrative costs incurred by the Librarian under this 
+     section.''.
+       (4) Determination of certain disputes.--(A) Section 1010 is 
+     amended to read as follows:
+
+     ``Sec. 1010. Determination of certain disputes
+
+       ``(a) Scope of Determination.--Before the date of first 
+     distribution in the United States of a digital audio 
+     recording device or a digital audio interface device, any 
+     party manufacturing, importing, or distributing such device, 
+     and any interested copyright party may mutually agree to 
+     petition the Copyright Royalty Judges to determine whether 
+     such device is subject to section 1002, or the basis on which 
+     royalty payments for such device are to be made under section 
+     1003.
+       ``(b) Initiation of Proceedings.--The parties under 
+     subsection (a) shall file the petition with the Copyright 
+     Royalty Judges requesting the commencement of a proceeding. 
+     Within 2 weeks after receiving such a petition, the Chief 
+     Copyright Royalty Judge shall cause notice to be published in 
+     the Federal Register of the initiation of the proceeding.
+       ``(c) Stay of Judicial Proceedings.--Any civil action 
+     brought under section 1009 against a party to a proceeding 
+     under this section shall, on application of one of the 
+     parties to the proceeding, be stayed until completion of the 
+     proceeding.
+       ``(d) Proceeding.--The Copyright Royalty Judges shall 
+     conduct a proceeding with respect to the matter concerned, in 
+     accordance with such procedures as the Copyright Royalty 
+     Judges may adopt. The Copyright Royalty Judges shall act on 
+     the basis of a fully documented written record. Any party to 
+     the proceeding may submit relevant information and proposals 
+     to the Copyright Royalty Judges. The parties to the 
+     proceeding shall each bear their respective costs of 
+     participation.
+       ``(e) Judicial Review.--Any determination of the Copyright 
+     Royalty Judges under subsection
+
+[[Page S10503]]
+
+     (d) may be appealed, by a party to the proceeding, in 
+     accordance with section 803(d) of this title. The pendency of 
+     an appeal under this subsection shall not stay the 
+     determination of the Copyright Royalty Judges. If the court 
+     modifies the determination of the Copyright Royalty Judges, 
+     the court shall have jurisdiction to enter its own decision 
+     in accordance with its final judgment. The court may further 
+     vacate the determination of the Copyright Royalty Judges and 
+     remand the case for proceedings as provided in this 
+     section.''.
+       (B) The item relating to section 1010 in the table of 
+     sections for chapter 10 is amended to read as follows:
+
+``1010. Determination of certain disputes.''.
+
+     SEC. 6. EFFECTIVE DATE AND TRANSITION PROVISIONS.
+
+       (a) Effective Date.--This Act and the amendments made by 
+     this Act shall take effect 6 months after the date of the 
+     enactment of this Act, except that the Librarian of Congress 
+     shall appoint 1 or more interim Copyright Royalty Judges 
+     under section 802(d) of title 17, United States Code, as 
+     amended by this Act, within 90 days after such date of 
+     enactment to carry out the functions of the Copyright Royalty 
+     Judges under title 17, United States Code, to the extent that 
+     Copyright Royalty Judges provided for in section 801(a) of 
+     title 17, United States Code, as amended by this Act, have 
+     not been appointed before the end of that 90-day period.
+       (b) Transition Provisions.--
+       (1) In general.--Subject to paragraphs (2) and (3), the 
+     amendments made by this Act shall not affect any proceedings 
+     commenced, petitions filed, or voluntary agreements entered 
+     into before the enactment of this Act under the provisions of 
+     title 17, United States Code, amended by this Act, and 
+     pending on such date of enactment. Such proceedings shall 
+     continue, determinations made in such proceedings, and 
+     appeals taken therefrom, as if this Act had not been enacted, 
+     and shall continue in effect until modified under title 17, 
+     United States Code, as amended by this Act. Such petitions 
+     filed and voluntary agreements entered into shall remain in 
+     effect as if this Act had not been enacted. For the purposes 
+     of this paragraph, the Librarian of Congress may determine 
+     whether a proceeding has commenced.
+       (2) Pending proceedings.--Notwithstanding paragraph (1), 
+     any proceeding commenced before the enactment of this Act may 
+     be terminated by the Librarian of Congress, with the approval 
+     of the Copyright Royalty Judges. In such cases, the Copyright 
+     Royalty Judges shall initiate a new proceeding in accordance 
+     with regulations adopted pursuant to section 803(b)(6) of 
+     title 17, United States Code.
+       (3) Effective periods for certain ratemaking proceedings.--
+     Notwithstanding paragraph (1), terms and rates in effect 
+     under section 114(f)(2) or 112(e) of title 17, United States 
+     Code, for new subscription services, eligible nonsubscription 
+     services, and services exempt under section 114(d)(1)(C)(iv) 
+     of such title for the period 2003 through 2004, and any rates 
+     published in the Federal Register under the authority of the 
+     Small Webcaster Settlement Act of 2002 for the years 2003 
+     through 2004, shall be effective until the later of the first 
+     applicable effective date for successor terms and rates 
+     specified in section 804(b)(2) or (3)(A) of title 17, United 
+     States Code, or until such later date as the parties may 
+     agree or the Copyright Royalty Judges may establish. If 
+     successor terms and rates have not yet been established by 
+     such date, licensees shall continue to make royalty payments 
+     at the rates and on the terms previously in effect, subject 
+     to retroactive adjustment when successor rates and terms for 
+     such services are established.
+       (c) Existing Appropriations.--Any funds made available in 
+     an appropriations Act before the effective date of this Act 
+     to carry out chapter 8 of title 17, United States Code, shall 
+     be available to the extent necessary to carry out this 
+     section.
+  Mr. HATCH. Mr. President, I am pleased that the Senate is considering 
+the Hatch-Leahy substitute to H.R. 1417, the ``Copyright Royalty and 
+Distribution Reform Act of 2004,'' which provides a much-needed 
+overhaul of the process by which statutory royalty rates are determined 
+and the manner in which the fees paid pursuant to statutory licenses 
+are distributed to copyright holders.
+  The extensive reforms made this bill are important to virtual all the 
+participants in the process, and I hope that my colleagues will consent 
+to move this bill without delay.
+  The measure we are considering today represents a recently-reached 
+compromise which I am hopeful can be enacted without delay.
+  Because the areas of disagreement with H.R. 1417 were relatively 
+narrow in scope, the Hatch-Leahy substitute to H.R. 1417 retains most 
+of the House-passed bill, but does contain a few important changes that 
+are the product of several months of negotiations and discussions 
+between the Hatch and Leahy offices and various stakeholders. The most 
+significant substantive change involves the scope of available 
+discovery in ratemaking proceedings. The changes to the discovery 
+provisions are self-explanatory, so I will not belabor them here.
+  This bill responds to widespread dissatisfaction among the 
+participants in the current system involving Copyright Arbitration 
+Royalty Panels--or ``CARPs''. I will refrain from going into detail 
+about this highly-technical bill--which many would find about as 
+interesting as watching astroturf grow--and will simply express my firm 
+belief that it addresses many of the legitimate concerns expressed by 
+the stakeholders, the members of the House and Senate Judiciary 
+Committees, and the many others that have provided valuable input and 
+that lent us their expertise during the legislative process. I am 
+content simply to refer my colleagues to the comprehensive and detailed 
+committee report drafted by the House if they desire an explanation of 
+the concerns and problems this legislation addresses.
+  While we were not able to reach absolute consensus on a few difficult 
+issues, for the most part this legislation reflects broad agreement on 
+the fundamental changes that are required to make the existing CARP 
+process more efficient, logical, and--some would content--bearable by 
+participants.
+  In conclusion, I would be remiss if I did not publicly recognize that 
+this legislation is the product of some very hard work by our 
+counterparts in the House. Chairman Sensenbrenner, Chairman Smith, and 
+Representative Berman deserve much of the credit for building a near 
+consensus on this bill and for moving it through the House. I commend 
+them for their bicameral, bipartisan approach to this legislation and 
+for the hard work put in by their respective staffs.
+  In particular, I would like to thank Blaine Merritt, David Whitney, 
+and Alec French for their hard work.
+  I would also like to thank Marybeth Peters, the Register of 
+Copyrights, and David O. Carson, the General Counsel of the Copyright 
+Office, for providing invaluable technical assistance to members in 
+both chambers of Congress on this complicated bill.
+  I would be equally remiss if I did not recognize the outstanding 
+efforts of some in the Senate, including Senator Leahy and his staff--
+in particular Susan Davies, Rich Phillips, and Dan Fine--for their 
+efforts on this bill. I also commend Mary Foden and Dave Jones of my 
+staff for their hard work and their efforts to build a consensus around 
+the bill in the Senate.
+  With that, I will urge my colleagues to vote for H.R. 1417 with the 
+Hatch-Leahy substitute.
+  Mr. LEAHY. Mr. President, I am pleased that the Senate is taking up 
+and passing the Copyright Royalty and Distribution Reform Act of 2004. 
+I have been working to reform the copyright royalty arbitration 
+procedures for several years. As early as 2002, I noted in a Judiciary 
+Committee hearing that there was widespread dissatisfaction with the 
+current law.
+  In particular, we heard the testimony of Frank Schliemann of Onion 
+River Radio of Montpelier, VT. Mr. Schliemann noted that many small 
+webcasters could not afford to take part in CARP proceedings, even 
+though their livelihoods would depend on the outcome. We also heard 
+from Billy Strauss, president of Websound, another small webcaster in 
+Brattleboro, VT. Mr. Strauss noted many of the structural problems that 
+plagued the old CARP procedures. In addition, I have been concerned 
+that the current procedures are often hindered by unreasonable delays, 
+and the outcomes subject to manipulation.
+  The Copyright Royalty and Distribution Reform Act responds to these 
+concerns. It replaces arbitrators, who serve for only one CARP 
+procedure and are paid by the parties, with full-time administrative 
+judges. As a result, the financial burden of taking part in a CARP 
+procedure is alleviated. In addition, all parties can rest assured that 
+there will be continuity and stability in the resolution of these 
+proceedings. At the same time, this bill preserves the traditional role 
+of the Register of Copyrights. This bill also resolves longstanding 
+disputes over the availability of discovery. Because discovery is 
+available where it is needed, the copyright royalty judges will have 
+the information necessary to render a correct determination but the 
+costs of discovery will be kept to a minimum.
+  I am pleased to have cosponsored with Senator Hatch the amendment in 
+the nature of a substitute to the House bill. I thank Chairman 
+Sensenbrenner, Chairman Smith, and Congressman Berman for their 
+leadership in this matter. We believe that in
+
+[[Page S10504]]
+
+adopting this version of the House bill, H.R. 1417, we will be able to 
+move to final passage without delay. It is time these important reforms 
+were implemented.
+  Ms. COLLINS. Madam President, I ask unanimous consent that the 
+amendment that is at the desk be agreed to, the committee-reported 
+substitute, as amended, be agreed to, the bill, as amended, be read a 
+third time and passed, the motions to reconsider be laid upon the 
+table, en bloc, and that any statements relating to the bill be printed 
+in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment (No. 3975) was agreed to.
+  (The amendment is printed in today's Record under ``Text of 
+Amendments.'')
+  The committee amendment, in the nature of a substitute, as amended, 
+was agreed to.
+  The bill (H. R. 1417), as amended, was read the third time and 
+passed.
+
+                          ____________________
+````
