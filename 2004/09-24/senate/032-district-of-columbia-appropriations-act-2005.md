@@ -1,0 +1,2235 @@
+---
+granule: CRECB-2004-pt14-Pg19368
+date: 2004-09-24
+edition: CRECB
+section: SENATE
+page: 19368
+---
+
+# DISTRICT OF COLUMBIA APPROPRIATIONS ACT, 2005
+
+```
+             DISTRICT OF COLUMBIA APPROPRIATIONS ACT, 2005
+
+  On Wednesday, September 22, 2004, the Senate passed H.R. 4850, as 
+follows:
+
+                               H.R. 4850
+
+         Resolved, That the bill from the House of Representatives 
+     (H.R. 4850) entitled ``An Act making appropriations for the 
+     government of the District of Columbia and other activities
+
+[[Page 19369]]
+
+     chargeable in whole or in part against the revenues of said 
+     District for the fiscal year ending September 30, 2005, and 
+     for other purposes.'', do pass with the following amendment:
+       Strike out all after the enacting clause and insert:
+
+     That the following sums are appropriated, out of any money in 
+     the Treasury not otherwise appropriated, for the District of 
+     Columbia and related agencies for the fiscal year ending 
+     September 30, 2005, and for other purposes, namely:
+
+                         TITLE I--FEDERAL FUNDS
+
+              Federal Payment for Resident Tuition Support
+
+       For a Federal payment to the District of Columbia, to be 
+     deposited into a dedicated account, for a nationwide program 
+     to be administered by the Mayor, for District of Columbia 
+     resident tuition support, $21,200,000, to remain available 
+     until expended: Provided, That such funds, including any 
+     interest accrued thereon, may be used on behalf of eligible 
+     District of Columbia residents to pay an amount based upon 
+     the difference between in-State and out-of-State tuition at 
+     public institutions of higher education, or to pay up to 
+     $2,500 each year at eligible private institutions of higher 
+     education: Provided further, That the awarding of such funds 
+     may be prioritized on the basis of a resident's academic 
+     merit, the income and need of eligible students and such 
+     other factors as may be authorized: Provided further, That 
+     the District of Columbia government shall maintain a 
+     dedicated account for the Resident Tuition Support Program 
+     that shall consist of the Federal funds appropriated to the 
+     Program in this Act and any subsequent appropriations, any 
+     unobligated balances from prior fiscal years, and any 
+     interest earned in this or any fiscal year: Provided further, 
+     That the account shall be under the control of the District 
+     of Columbia Chief Financial Officer who shall use those funds 
+     solely for the purposes of carrying out the Resident Tuition 
+     Support Program: Provided further, That the Office of the 
+     Chief Financial Officer shall provide a quarterly financial 
+     report to the Committees on Appropriations of the House of 
+     Representatives and Senate for these funds showing, by object 
+     class, the expenditures made and the purpose therefor: 
+     Provided further, That not more than 7 percent of the total 
+     amount appropriated for this program may be used for 
+     administrative expenses.
+
+   Federal Payment for Emergency Planning and Security Costs in the 
+                          District of Columbia
+
+       For necessary expenses, as determined by the Mayor of the 
+     District of Columbia in written consultation with the elected 
+     county or city officials of surrounding jurisdictions, 
+     $15,000,000, to remain available until expended, to reimburse 
+     the District of Columbia for the costs of providing public 
+     safety at events related to the presence of the national 
+     capital in the District of Columbia and for the costs of 
+     providing support to respond to immediate and specific 
+     terrorist threats or attacks in the District of Columbia or 
+     surrounding jurisdictions: Provided, That any amount provided 
+     under this heading shall be available only after notice of 
+     its proposed use has been transmitted by the President to 
+     Congress and such amount has been apportioned pursuant to 
+     chapter 15 of title 31, United States Code.
+
+           Federal Payment to the District of Columbia Courts
+
+       For salaries and expenses for the District of Columbia 
+     Courts, $195,010,000, to be allocated as follows: for the 
+     District of Columbia Court of Appeals, $8,952,000, of which 
+     not to exceed $1,500 is for official reception and 
+     representation expenses; for the District of Columbia 
+     Superior Court, $84,948,000, of which not to exceed $1,500 is 
+     for official reception and representation expenses; for the 
+     District of Columbia Court System, $40,699,000, of which not 
+     to exceed $1,500 is for official reception and representation 
+     expenses; and $60,411,000, to remain available until 
+     September 30, 2005, for capital improvements for District of 
+     Columbia courthouse facilities: Provided, That funds made 
+     available for capital improvements shall be expended 
+     consistent with the General Services Administration master 
+     plan study and building evaluation report: Provided further, 
+     That notwithstanding any other provision of law, a single 
+     contract or related contracts for development and 
+     construction of facilities may be employed which collectively 
+     include the full scope of the project: Provided further, That 
+     the solicitation and contract shall contain the clause 
+     ``availability of funds'' found at 48 CFR 52.232-18: Provided 
+     further, That notwithstanding any other provision of law, all 
+     amounts under this heading shall be apportioned quarterly by 
+     the Office of Management and Budget and obligated and 
+     expended in the same manner as funds appropriated for 
+     salaries and expenses of other Federal agencies, with payroll 
+     and financial services to be provided on a contractual basis 
+     with the General Services Administration (GSA), said services 
+     to include the preparation of monthly financial reports, 
+     copies of which shall be submitted directly by GSA to the 
+     President and to the Committees on Appropriations of the 
+     House of Representatives and Senate, the Committee on 
+     Government Reform of the House of Representatives, and the 
+     Committee on Governmental Affairs of the Senate: Provided 
+     further, That 30 days after providing written notice to the 
+     Committees on Appropriations of the House of Representatives 
+     and Senate, the District of Columbia Courts may reallocate 
+     not more than $1,000,000 of the funds provided under this 
+     heading among the items and entities funded under such 
+     heading for operations, and not more than 4 percent of the 
+     funds provided under this heading for facilities.
+
+            Defender Services in District of Columbia Courts
+
+       For payments authorized under section 11-2604 and section 
+     11-2605, D.C. Official Code (relating to representation 
+     provided under the District of Columbia Criminal Justice 
+     Act), payments for counsel appointed in proceedings in the 
+     Family Court of the Superior Court of the District of 
+     Columbia under chapter 23 of title 16, D.C. Official Code, or 
+     pursuant to contractual agreements to provide guardian ad 
+     litem representation, training, technical assistance and/or 
+     such other services as are necessary to improve the quality 
+     of guardian ad litem representation, payments for counsel 
+     appointed in adoption proceedings under chapter 3 of title 
+     16, D.C. Code, and payments for counsel authorized under 
+     section 21-2060, D.C. Official Code (relating to 
+     representation provided under the District of Columbia 
+     Guardianship, Protective Proceedings, and Durable Power of 
+     Attorney Act of 1986), $34,500,000, to remain available until 
+     expended: Provided, That the funds provided in this Act under 
+     the heading ``Federal Payment to the District of Columbia 
+     Courts'' (other than the $53,011,000 provided under such 
+     heading for capital improvements for District of Columbia 
+     courthouse facilities) may also be used for payments under 
+     this heading: Provided further, That in addition to the funds 
+     provided under this heading, the Joint Committee on Judicial 
+     Administration in the District of Columbia shall use funds 
+     provided in this Act under the heading ``Federal Payment to 
+     the District of Columbia Courts'' (other than the $53,011,000 
+     provided under such heading for capital improvements for 
+     District of Columbia courthouse facilities), to make payments 
+     described under this heading for obligations incurred during 
+     any fiscal year: Provided further, That funds provided under 
+     this heading shall be administered by the Joint Committee on 
+     Judicial Administration in the District of Columbia: Provided 
+     further, That notwithstanding any other provision of law, 
+     this appropriation shall be apportioned quarterly by the 
+     Office of Management and Budget and obligated and expended in 
+     the same manner as funds appropriated for expenses of other 
+     Federal agencies, with payroll and financial services to be 
+     provided on a contractual basis with the General Services 
+     Administration (GSA), said services to include the 
+     preparation of monthly financial reports, copies of which 
+     shall be submitted directly by GSA to the President and to 
+     the Committees on Appropriations of the House of 
+     Representatives and Senate, the Committee on Government 
+     Reform of the House of Representatives, and the Committee on 
+     Governmental Affairs of the Senate.
+
+ Federal Payment to the Court Services and Offender Supervision Agency 
+                      for the District of Columbia
+
+
+                     (including transfer of funds)
+
+       For salaries and expenses, including the transfer and hire 
+     of motor vehicles, of the Court Services and Offender 
+     Supervision Agency for the District of Columbia and the 
+     Public Defender Service for the District of Columbia, as 
+     authorized by the National Capital Revitalization and Self-
+     Government Improvement Act of 1997, $182,490,000, of which 
+     not to exceed $2,000 is for official reception and 
+     representation expenses related to Community Supervision and 
+     Pretrial Services Agency programs; of which not to exceed 
+     $25,000 is for dues and assessments relating to the 
+     implementation of the Court Services and Offender Supervision 
+     Agency Interstate Supervision Act of 2002; of which 
+     $113,343,000 shall be for necessary expenses of Community 
+     Supervision and Sex Offender Registration, to include 
+     expenses relating to the supervision of adults subject to 
+     protection orders or the provision of services for or related 
+     to such persons; of which $39,314,000 shall be available to 
+     the Pretrial Services Agency; and of which $29,833,000 shall 
+     be transferred to the Public Defender Service for the 
+     District of Columbia: Provided, That $1,100,000 shall be to 
+     lower supervision caseload ratios to 25:1 for special 
+     population offenders: Provided further, That $200,000 shall 
+     be to expand monitoring of offenders using global position 
+     system technology: Provided further, That notwithstanding any 
+     other provision of law, all amounts under this heading shall 
+     be apportioned quarterly by the Office of Management and 
+     Budget and obligated and expended in the same manner as funds 
+     appropriated for salaries and expenses of other Federal 
+     agencies: Provided further, That notwithstanding chapter 12 
+     of title 40, United States Code, the Director may acquire by 
+     purchase, lease, condemnation, or donation, and renovate as 
+     necessary, Building Number 17, 1900 Massachusetts Avenue, 
+     Southeast, Washington, District of Columbia to house or 
+     supervise offenders and defendants, with funds made available 
+     for this purpose in Public Law 107-96: Provided further, That 
+     the Director is authorized to accept and use gifts in the 
+     form of in-kind contributions of space and hospitality to 
+     support offender and defendant programs, and equipment and 
+     vocational training services to educate and train offenders 
+     and defendants: Provided further, That the Director shall 
+     keep accurate and detailed records of the acceptance and use 
+     of any gift or donation under the previous proviso, and shall 
+     make such records available for audit and public inspection: 
+     Provided further, That the Court Services and Offender 
+     Supervision Agency Director is authorized to accept and use 
+     reimbursement from the D.C. Government for space and services 
+     provided on a cost reimbursement basis: Provided
+
+[[Page 19370]]
+
+     further, That the Public Defender Service is authorized to 
+     charge fees to cover cost of materials distributed to 
+     attendees of educational events, including conferences, 
+     sponsored by the Public Defender Service, and notwithstanding 
+     31 U.S.C. 3302, said fees shall be credited to the Public 
+     Defender Service account to be available for use without 
+     further appropriation.
+
+ Federal Payment to the District of Columbia Water and Sewer Authority
+
+       For a Federal payment to the District of Columbia Water and 
+     Sewer Authority, $10,000,000, to remain available until 
+     expended, to continue implementation of the Combined Sewer 
+     Overflow Long-Term Plan: Provided, That the District of 
+     Columbia Water and Sewer Authority provides a 100 percent 
+     match for this payment.
+
+        Federal Payment for the Anacostia Waterfront Initiative
+
+       For a Federal payment to the District of Columbia 
+     Department of Transportation, $3,000,000, to remain available 
+     until September 30, 2006, for design and construction of a 
+     continuous pedestrian and bicycle trail system from the 
+     Potomac River to the District's border with Maryland.
+
+      Federal Payment to the Criminal Justice Coordinating Council
+
+       For a Federal payment to the Criminal Justice Coordinating 
+     Council, $1,300,000, to remain available until expended, to 
+     support initiatives related to the coordination of Federal 
+     and local criminal justice resources in the District of 
+     Columbia.
+
+         Federal Payment for the Unified Communications Center
+
+       For a Federal payment to the District of Columbia, 
+     $7,000,000, to remain available until expended, shall be for 
+     the Unified Communications Center.
+
+             Federal Payment for Transportation Assistance
+
+       For a Federal payment to the District of Columbia 
+     Department of Transportation, $5,000,000, of which $1,000,000 
+     shall be allocated to implement a downtown circulator transit 
+     system, and of which $4,000,000 shall be to offset a portion 
+     of the District of Columbia's allocated operating subsidy 
+     payment to the Washington Metropolitan Area Transit 
+     Authority.
+
+    Federal Payment for Foster Care Improvements in the District of 
+                                Columbia
+
+       For a Federal payment to the District of Columbia for 
+     foster care improvements, $5,000,000, to remain available 
+     until expended: Provided, That $3,250,000 shall be for the 
+     Child and Family Services Agency, of which $2,000,000 shall 
+     be for the early intervention program to provide intensive 
+     and immediate services for foster children; of which $750,000 
+     shall be for the emergency support fund to purchase services 
+     or technology necessary to allow children to remain in the 
+     care of an approved and licensed family member; of which 
+     $500,000 shall be for technology upgrades: Provided further, 
+     That $1,250,000 shall be for the Department of Mental Health 
+     to provide all court-ordered or agency-required mental health 
+     screenings, assessments and treatments for children under the 
+     supervision of the Child and Family Services Agency: Provided 
+     further, That $500,000 shall be for the Washington 
+     Metropolitan Council of Governments, to continue a program in 
+     conjunction with the Foster and Adoptive Parents Advocacy 
+     Center, to provide respite care for and recruitment of foster 
+     parents: Provided further, That these Federal funds shall 
+     supplement and not supplant local funds for the purposes 
+     described under this heading.
+
+  Federal Payment to the Office of the Chief Financial Officer of the 
+                          District of Columbia
+
+       For a Federal payment to the Office of the Chief Financial 
+     Officer of the District of Columbia, $32,500,000: Provided, 
+     That these funds shall be available for the projects and in 
+     the amounts specified in the statement of the managers on the 
+     conference report accompanying this Act: Provided further, 
+     That each entity that receives funding under this heading 
+     shall submit to the Office of the Chief Financial Officer of 
+     the District of Columbia and the Committees on Appropriations 
+     of the House of Representatives and Senate a report on the 
+     activities to be carried out with such funds no later than 
+     March 15, 2005.
+
+                 Federal Payment for School Improvement
+
+       For a Federal payment for a School Improvement Program in 
+     the District of Columbia, $40,000,000, to be allocated as 
+     follows: for the District of Columbia Public Schools, 
+     $13,000,000 to improve public school education in the 
+     District of Columbia, $13,000,000 to expand quality public 
+     charter schools in the District of Columbia; for the 
+     Secretary of the Department of Education, $14,000,000 to 
+     provide opportunity scholarships for students in the District 
+     of Columbia in accordance with Public Law 108-199, of which 
+     up to $1,000,000 may be used to administer and fund 
+     assessments: Provided, That of the $13,000,000 for the 
+     District of Columbia Public Schools, $5,000,000 shall be for 
+     a new incentive fund to reward high performing or 
+     significantly improved public schools; $5,000,000 shall be to 
+     support the Transformation School Initiative directed to 
+     schools in need of improvement: Provided further, That of the 
+     remaining amounts, the Superintendent of the District of 
+     Columbia Public Schools shall use such sums as necessary to 
+     contract for management consulting services and implement 
+     recommended reforms: Provided further, That the Comptroller 
+     General shall conduct a financial audit of the District of 
+     Columbia Public Schools: Provided further, That of the 
+     $13,000,000 provided for public charter schools in the 
+     District of Columbia, $4,000,000 shall be for the City Build 
+     Initiative to create neighborhood-based charter schools; 
+     $2,750,000 shall be for the Direct Loan Fund for Charter 
+     Schools; $150,000 shall be for administrative expenses of the 
+     Office of Charter School Financing and Support to expand 
+     outreach and support of charter schools; $100,000 shall be 
+     for the D.C. Public Charter School Association to enhance the 
+     quality of charter schools; $4,000,000 shall be for the 
+     development of an incubator facility for public charter 
+     schools; and $2,000,000 shall be for a new incentive fund to 
+     reward high performing or significantly improved public 
+     charter schools: Provided further, That the District of 
+     Columbia government shall establish a dedicated account for 
+     the Office of Charter School Financing and Support (the 
+     Office) that shall consist of the Federal funds appropriated 
+     in this Act, any subsequent appropriations, any unobligated 
+     balances from prior fiscal years, any additional grants, and 
+     any interest and principal derived from loans made to Charter 
+     Schools, and repayment of dollars utilized to support credit 
+     enhancement earned in this or any fiscal year: Provided 
+     further, That the account shall be under the control of the 
+     District of Columbia Chief Financial Officer who shall use 
+     those funds solely for the purposes of carrying out the 
+     Credit Enhancement Program, Direct Loan Fund Grant Program, 
+     and any other charter school financing under the management 
+     of the Office: Provided further, That in this and subsequent 
+     fiscal years the Office of the Chief Financial Officer shall 
+     conduct an annual audit of the funds expended by the Office 
+     and provide an annual financial report to the Mayor, the 
+     Council of the District of Columbia, the Office of the 
+     District of Columbia Treasurer and the Committees on 
+     Appropriations of the House of Representatives and Senate for 
+     these funds showing, by object class, the expenditures made 
+     and the purpose therefor: Provided further, That not more 
+     than $1,000,000 of the total amount appropriated for this 
+     program may be used for administrative expenses and training 
+     expenses related to the cost of the National Charter School 
+     Conference(s) to be hosted by December 2006; and no more than 
+     5 percent of the funds appropriated for the direct loan fund 
+     may be used for administrative expenses related to the 
+     administration and annual audit of the direct loan, grant, 
+     and credit enhancement programs.
+
+       Federal Payment for Bioterrorism and Forensics Laboratory
+
+       For a Federal payment to the District of Columbia, 
+     $8,000,000, to remain available until September 30, 2006, for 
+     design, planning, and procurement costs associated with the 
+     construction of a bioterrorism and forensics laboratory: 
+     Provided, That the District of Columbia shall provide an 
+     additional $2,300,000 with local funds as a condition of 
+     receiving this payment.
+
+                  TITLE II--DISTRICT OF COLUMBIA FUNDS
+
+                           OPERATING EXPENSES
+
+                          Division of Expenses
+
+       The following amounts are appropriated for the District of 
+     Columbia for the current fiscal year out of the general fund 
+     of the District of Columbia, except as otherwise specifically 
+     provided: Provided, That notwithstanding any other provision 
+     of law, except as provided in section 450A of the District of 
+     Columbia Home Rule Act (D.C. Official Code, sec. 1-204.50a) 
+     and the provisions of this Act, the total amount appropriated 
+     in this Act for operating expenses for the District of 
+     Columbia for fiscal year 2005 under this heading shall not 
+     exceed the lesser of the sum of the total revenues of the 
+     District of Columbia for such fiscal year or $7,206,164,000 
+     (of which $4,215,088,000 shall be from local funds, 
+     $1,762,046,000 shall be from Federal funds, $1,214,843,000 
+     shall be from other funds, and $14,817,000 shall be from 
+     private funds), and an intra-district amount of $435,054,000, 
+     in addition, $186,900,000 from funds previously appropriated 
+     in this Act as Federal payments: Provided further, That this 
+     amount may be increased by proceeds of one-time transactions, 
+     which are expended for emergency or unanticipated operating 
+     or capital needs: Provided further, That such increases shall 
+     be approved by enactment of local District law and shall 
+     comply with all reserve requirements contained in the 
+     District of Columbia Home Rule Act as amended by this Act: 
+     Provided further, That the Chief Financial Officer of the 
+     District of Columbia shall take such steps as are necessary 
+     to assure that the District of Columbia meets these 
+     requirements, including the apportioning by the Chief 
+     Financial Officer of the appropriations and funds made 
+     available to the District during fiscal year 2005, except 
+     that the Chief Financial Officer may not reprogram for 
+     operating expenses any funds derived from bonds, notes, or 
+     other obligations issued for capital projects.
+
+                   Governmental Direction and Support
+
+       Governmental direction and support, $416,069,000 (including 
+     $261,068,000 from local funds, $100,256,000 from Federal 
+     funds, and $54,745,000 from other funds), in addition, 
+     $32,500,000 from funds previously appropriated in this Act 
+     under the heading ``Federal Payment to the Office of the 
+     Chief Financial Officer of the District of Columbia'', 
+     $15,000,000 from funds previously appropriated in this Act 
+     under the heading ``Federal Payment for Emergency Planning 
+     and Security Costs in the District of
+
+[[Page 19371]]
+
+     Columbia'', and $5,000,000 from funds previously appropriated 
+     in this Act under the heading ``Federal Payment for Foster 
+     Care Improvements in the District of Columbia'': Provided, 
+     That not to exceed $9,300 for the Mayor, $9,300 for the 
+     Chairman of the Council of the District of Columbia, $9,300 
+     for the City Administrator, and $9,300 for the Office of the 
+     Chief Financial Officer shall be available from this 
+     appropriation for official reception and representation 
+     expenses: Provided further, That any program fees collected 
+     from the issuance of debt shall be available for the payment 
+     of expenses of the debt management program of the District of 
+     Columbia: Provided further, That no revenues from Federal 
+     sources shall be used to support the operations or activities 
+     of the Statehood Commission and Statehood Compact Commission: 
+     Provided further, That the District of Columbia shall 
+     identify the sources of funding for Admission to Statehood 
+     from its own locally generated revenues: Provided further, 
+     That notwithstanding any other provision of law, or Mayor's 
+     Order 86-45, issued March 18, 1986, the Office of the Chief 
+     Technology Officer's delegated small purchase authority shall 
+     be $500,000: Provided further, That the District of Columbia 
+     government may not require the Office of the Chief Technology 
+     Officer to submit to any other procurement review process, or 
+     to obtain the approval of or be restricted in any manner by 
+     any official or employee of the District of Columbia 
+     government, for purchases that do not exceed $500,000.
+
+                  Economic Development and Regulation
+
+       Economic development and regulation, $334,745,000 
+     (including $55,764,000 from local funds, $93,050,000 from 
+     Federal funds, $185,806,000 from other funds, and $125,000 
+     from private funds), of which $13,000,000 collected by the 
+     District of Columbia in the form of BID tax revenue shall be 
+     paid to the respective BIDs pursuant to the Business 
+     Improvement Districts Act of 1996 (D.C. Law 11-134; D.C. 
+     Official Code, sec. 2-1215.01 et seq.), and the Business 
+     Improvement Districts Amendment Act of 1997 (D.C. Law 12-26; 
+     D.C. Official Code, sec. 2-1215.15 et seq.): Provided, That 
+     such funds are available for acquiring services provided by 
+     the General Services Administration: Provided further, That 
+     Business Improvement Districts shall be exempt from taxes 
+     levied by the District of Columbia: Provided further, That 
+     local funds in the amount of $1,200,000 shall be appropriated 
+     for the Excel Institute.
+
+                       Public Safety and Justice
+
+       Public safety and justice, $798,723,000 (including 
+     $760,849,000 from local funds, $7,899,000 from Federal funds, 
+     $29,966,000 from other funds, and $9,000 from private funds), 
+     in addition, $1,300,000 from funds previously appropriated in 
+     this Act under the heading ``Federal Payment to the Criminal 
+     Justice Coordinating Council'': Provided, That not to exceed 
+     $500,000 shall be available from this appropriation for the 
+     Chief of Police for the prevention and detection of crime: 
+     Provided further, That the Mayor shall reimburse the District 
+     of Columbia National Guard for expenses incurred in 
+     connection with services that are performed in emergencies by 
+     the National Guard in a militia status and are requested by 
+     the Mayor, in amounts that shall be jointly determined and 
+     certified as due and payable for these services by the Mayor 
+     and the Commanding General of the District of Columbia 
+     National Guard: Provided further, That such sums as may be 
+     necessary for reimbursement to the District of Columbia 
+     National Guard under the preceding proviso shall be available 
+     from this appropriation, and the availability of the sums 
+     shall be deemed as constituting payment in advance for 
+     emergency services involved.
+
+                        Public Education System
+
+
+                     (including transfers of funds)
+
+       Public education system, including the development of 
+     national defense education programs, $1,266,424,000 
+     (including $1,058,709,000 from local funds, $194,979,000 from 
+     Federal funds, $8,957,000 from other funds, $3,780,000 from 
+     private funds to be allocated as follows:
+       (1) District of columbia public schools.--$901,944,000 
+     (including $760,494,000 from local funds, $130,450,000 from 
+     Federal funds, $7,330,000 from other funds, $3,670,000 from 
+     private funds, and not to exceed $6,816,000, to remain 
+     available until expended, from the Medicaid and Special 
+     Education Reform Fund established pursuant to the Medicaid 
+     and Special Education Reform Fund Establishment Act of 2002 
+     (D.C. Law 14-190; D.C. Official Code 4-204.51 et seq.)), and 
+     $14,000,000 from funds previously appropriated in this Act 
+     under the heading ``Federal Payment for School Improvement in 
+     the District of Columbia'' shall be available for District of 
+     Columbia Public Schools: Provided, That notwithstanding any 
+     other provision of law, rule, or regulation, the evaluation 
+     process and instruments for evaluating District of Columbia 
+     Public School employees shall be a non-negotiable item for 
+     collective bargaining purposes: Provided further, That this 
+     appropriation shall not be available to subsidize the 
+     education of any nonresident of the District of Columbia at 
+     any District of Columbia public elementary or secondary 
+     school during fiscal year 2005 unless the nonresident pays 
+     tuition to the District of Columbia at a rate that covers 100 
+     percent of the costs incurred by the District of Columbia 
+     that are attributable to the education of the nonresident (as 
+     established by the Superintendent of the District of Columbia 
+     Public Schools): Provided further, That notwithstanding the 
+     amounts otherwise provided under this heading or any other 
+     provision of law, there shall be appropriated to the District 
+     of Columbia Public Schools on July 1, 2005, an amount equal 
+     to 10 percent of the total amount of the local funds provided 
+     for the District of Columbia Public Schools in the proposed 
+     budget of the District of Columbia for fiscal year 2005 (as 
+     submitted to Congress), and the amount of such payment shall 
+     be chargeable against the final amount provided for the 
+     District of Columbia Public Schools under the District of 
+     Columbia Appropriations Act, 2005: Provided further, That not 
+     to exceed $9,300 for the Superintendent of Schools shall be 
+     available from this appropriation for official reception and 
+     representation expenses.
+       (2) Teachers' retirement fund.--$9,200,000 from local funds 
+     shall be available for the Teachers' Retirement Fund.
+       (3) State education office.--$73,104,000 (including 
+     $10,015,000 from local funds, $62,914,000 from Federal funds, 
+     and $176,000 from other funds), in addition, $26,500,000 from 
+     funds previously appropriated in this Act under the heading 
+     ``Federal Payment for Resident Tuition Support'' and 
+     $14,000,000 from funds previously appropriated in this Act 
+     under the heading ``Federal Payment for School Improvement in 
+     the District of Columbia'' shall be available for the State 
+     Education Office: Provided, That of the amounts provided to 
+     the State Education Office, $500,000 from local funds shall 
+     remain available until June 30, 2006 for an audit of the 
+     student enrollment of each District of Columbia Public School 
+     and of each District of Columbia public charter school.
+       (4) District of columbia public charter schools.--
+     $196,802,000 from local funds shall be available for District 
+     of Columbia public charter schools: Provided, That there 
+     shall be quarterly disbursement of funds to the District of 
+     Columbia public charter schools, with the first payment to 
+     occur within 15 days of the beginning of the fiscal year: 
+     Provided further, That if the entirety of this allocation has 
+     not been provided as payments to any public charter schools 
+     currently in operation through the per pupil funding formula, 
+     the funds shall remain available as follows: (A) the first 
+     $3,000,000 shall be deposited in the Credit Enhancement 
+     Revolving Fund established pursuant to section 603(e) of the 
+     Student Loan Marketing Association Reorganization Act of 1996 
+     (Public Law 104-208; 110 Stat. 3009; 20 U.S.C. 1155(e)); and 
+     (B) the balance shall be for public education in accordance 
+     with section 2403(b)(2) of the District of Columbia School 
+     Reform Act of 1995 (D.C. Official Code, sec. 38-
+     1804.03(b)(2)): Provided further, That of the amounts made 
+     available to District of Columbia public charter schools, 
+     $25,000 shall be made available to the Office of the Chief 
+     Financial Officer as authorized by section 2403(b)(6) of the 
+     District of Columbia School Reform Act of 1995 (D.C. Official 
+     Code, sec. 38-1804.03(b)(6)): Provided further, That $660,000 
+     of this amount shall be available to the District of Columbia 
+     Public Charter School Board for administrative costs: 
+     Provided further, That notwithstanding the amounts otherwise 
+     provided under this heading or any other provision of law, 
+     there shall be appropriated to the District of Columbia 
+     public charter schools on July 1, 2005, an amount equal to 25 
+     percent of the total amount of the local funds appropriations 
+     request provided for payments to public charter schools in 
+     the proposed budget of the District of Columbia for fiscal 
+     year 2005 (as submitted to Congress), and the amount of such 
+     payment shall be chargeable against the final amount provided 
+     for such payments under the District of Columbia 
+     Appropriations Act, 2005: Provided further, That 
+     notwithstanding any other provision of law, of the funds 
+     appropriated herein for the District of Columbia Public 
+     Charter Schools, the Chief Financial Officer of the District 
+     of Columbia, in coordination with the District of Columbia 
+     Chartering Authorities for the District of Columbia Public 
+     Charter Schools, shall establish requirements, policies and 
+     procedures for the performance of a single financial audit, 
+     to be performed by one auditing firm selected by the Chief 
+     Financial Officer of the District of Columbia: Provided 
+     further, That beginning in fiscal year 2005, the District of 
+     Columbia Chartering Authorities for the District of Columbia 
+     Public Charter Schools shall implement and follow these 
+     requirements (including, but not limited to, the terms and 
+     conditions), policies and procedures to ensure the completion 
+     of the annual financial single audit of all District of 
+     Columbia Public Charter Schools conducted in accordance 
+     herewith.
+       (5) University of the district of columbia subsidy.--
+     $49,602,000 from local funds shall be available for the 
+     University of the District of Columbia: Provided, That this 
+     appropriation shall not be available to subsidize the 
+     education of nonresidents of the District of Columbia at the 
+     University of the District of Columbia, unless the Board of 
+     Trustees of the University of the District of Columbia 
+     adopts, for the fiscal year ending September 30, 2005, a 
+     tuition rate schedule that will establish the tuition rate 
+     for nonresident students at a level no lower than the 
+     nonresident tuition rate charged at comparable public 
+     institutions of higher education in the metropolitan area: 
+     Provided further, That notwithstanding the amounts otherwise 
+     provided under this heading or any other provision of law, 
+     there shall be appropriated to the University of the District 
+     of Columbia on July 1, 2005, an amount equal to 10 percent of 
+     the total amount of the local funds appropriations request 
+     provided for the University of the District of Columbia in 
+     the proposed budget of the District of Columbia for fiscal 
+     year 2005 (as submitted to Congress), and the amount of such
+
+[[Page 19372]]
+
+     payment shall be chargeable against the final amount provided 
+     for the University of the District of Columbia under the 
+     District of Columbia Appropriations Act, 2005: Provided 
+     further, That not to exceed $9,300 for the President of the 
+     University of the District of Columbia shall be available 
+     from this appropriation for official reception and 
+     representation expenses.
+       (6) District of columbia public libraries.--$30,831,000 
+     (including $28,978,000 from local funds, $1,093,000 from 
+     Federal funds, and $651,000 from other funds) shall be 
+     available for the District of Columbia Public Libraries: 
+     Provided, That not to exceed $7,500 for the Public Librarian 
+     shall be available from this appropriation for official 
+     reception and representation expenses.
+       (7) Commission on the arts and humanities.--$4,941,000 
+     (including $3,618,000 from local funds, $523,000 from Federal 
+     funds, and $800,000 from other funds) shall be available for 
+     the Commission on the Arts and Humanities.
+
+                         Human Support Services
+
+
+                     (including transfer of funds)
+
+       Human support services, $2,533,825,000 (including 
+     $1,165,314,000 from local funds, $1,331,670,000 from Federal 
+     funds, $27,441,000 from other funds, $9,400,000 from private 
+     funds, in addition, $5,000,000 from funds previously 
+     appropriated in this Act under the heading ``Federal Payment 
+     to Foster Care Improvements in the District of Columbia'': 
+     Provided, That $29,600,000 of this appropriation, to remain 
+     available until expended, shall be available solely for 
+     District of Columbia employees' disability compensation: 
+     Provided further, That no less than $8,498,720, to remain 
+     available until expended, shall be deposited in the Addiction 
+     Recovery Fund, established pursuant to section 5 of the 
+     Choice in Drug Treatment Act of 2000 (D.C. Law 13-146; D.C. 
+     Official Code, sec. 7-3004) and used exclusively for the 
+     purpose of the Choice in Drug Treatment program, established 
+     pursuant to section 4 of the Choice in Drug Treatment Act of 
+     2000 (D.C. Law 13-146; D.C. Official Code, sec. 7-3003), of 
+     which $7,500,000 shall be provided from local funds: Provided 
+     further, That none of the $8,498,720 for the Choice in Drug 
+     Treatment program shall be used by the Department of Health's 
+     Addiction Prevention and Recovery Administration to provide 
+     youth residential treatment services or youth outpatient 
+     treatment services: Provided further, That no less than 
+     $2,000,000 shall be available to the Department of Health's 
+     Addiction Prevention and Recovery Administration exclusively 
+     for the purpose of providing youth residential treatment 
+     services: Provided further, That no less than $1,575,416 
+     shall be available to the Department of Health's Addiction 
+     Prevention and Recovery Administration exclusively for the 
+     purpose of providing youth outpatient treatment services, of 
+     which $750,000 shall be made available exclusively to provide 
+     intensive outpatient treatment slots, outpatient treatment 
+     slots, and other program costs for youth in the care of the 
+     Youth Services Administration: Provided further, That no less 
+     than $1,400,000 shall be used by the Department of Health's 
+     Addiction Prevention and Recovery Administration to fund a 
+     Child and Family Services Agency pilot project entitled 
+     Family Treatment Court: Provided further, That $1,200,000 of 
+     local funds, to remain available until expended, shall be 
+     deposited in the Adoption Voucher Fund, established pursuant 
+     to section 3805(a) of the Adoption Voucher Fund Act of 2000, 
+     effective October 19, 2000 (D.C. Law 13-172; D.C. Official 
+     Code, sec. 4-344(a)), to be used exclusively for the purposes 
+     set forth in section 3805(b) of the Adoption Voucher Fund Act 
+     (D.C. Official Code, sec. 4-344(b)): Provided further, That 
+     no less than $300,000 shall be used by the Department of 
+     Health's Environmental Health Administration to operate the 
+     Total Maximum Daily Load program: Provided further, That no 
+     less than $1,268,500 shall be used by the Department of 
+     Health's Environmental Health Administration to operate its 
+     air quality programs, of which no less than $242,000 shall be 
+     used to fund 4 full-time air quality employees: Provided 
+     further, That the Department of Human Services, Youth 
+     Services Administration shall not expend any appropriated 
+     fiscal year 2005 funds until the Mayor has submitted to the 
+     Council by September 30, 2004 a plan, including time lines, 
+     to close the Oak Hill Youth Center at the earliest feasible 
+     date. All of the above proviso amounts in this heading relate 
+     back to and are a subset of the first-referenced 
+     appropriation amount of $2,533,825,000.
+
+                              Public Works
+
+       Public works, including rental of one passenger-carrying 
+     vehicle for use by the Mayor and three passenger-carrying 
+     vehicles for use by the Council of the District of Columbia 
+     and leasing of passenger-carrying vehicles, $331,936,000 
+     (including $312,035,000 from local funds, $4,000,000 from 
+     Federal funds, and $15,901,000 from other funds), in 
+     addition, $5,000,000 from funds previously appropriated in 
+     this Act under the heading ``Federal Payment for 
+     Transportation Assistance'': Provided, That this 
+     appropriation shall not be available for collecting ashes or 
+     miscellaneous refuse from hotels and places of business.
+
+                              Cash Reserve
+
+       For the cumulative cash reserve established pursuant to 
+     section 202(j)(2) of the District of Columbia Financial 
+     Responsibility and Management Assistance Act of 1995 (D.C. 
+     Official Code, sec. 47-392.02(j)(2)), $50,000,000 from local 
+     funds.
+
+                Emergency and Contingency Reserve Funds
+
+       For the emergency reserve fund and the contingency reserve 
+     fund under section 450A of the District of Columbia Home Rule 
+     Act (D.C. Official Code, sec. 1-204.50a), such additional 
+     amounts from the District's general fund balance as are 
+     necessary to meet the balance requirements for funds under 
+     section 450A.
+
+                    Repayment of Loans and Interest
+
+       For payment of principal, interest, and certain fees 
+     directly resulting from borrowing by the District of Columbia 
+     to fund District of Columbia capital projects as authorized 
+     by sections 462, 475, and 490 of the District of Columbia 
+     Home Rule Act (D.C. Official Code, secs. 1-204.62, 1-204.75, 
+     and 1-204.90), $347,700,000 from local funds.
+
+              Payment of Interest on Short-Term Borrowing
+
+       For payment of interest on short-term borrowing, $4,000,000 
+     from local funds.
+
+                     Certificates of Participation
+
+       For principal and interest payments on the District's 
+     Certificates of Participation, issued to finance the ground 
+     lease underlying the building located at One Judiciary 
+     Square, $11,252,000 from local funds.
+
+                       Settlements and Judgments
+
+       For making refunds and for the payment of legal settlements 
+     or judgments that have been entered against the District of 
+     Columbia government, $20,270,000 from local funds: Provided, 
+     That this appropriation shall not be construed as modifying 
+     or affecting the provisions of section 103 of this Act.
+
+                            Wilson Building
+
+       For expenses associated with the John A. Wilson building, 
+     $3,633,000 from local funds.
+
+                         Workforce Investments
+
+       For workforce investments, $38,114,000 from local funds, to 
+     be transferred by the Mayor of the District of Columbia 
+     within the various appropriation headings in this Act for 
+     which employees are properly payable: Provided, That of this 
+     amount $3,548,000 shall remain available until expended to 
+     meet the requirements of the Compensation Agreement Between 
+     the District of Columbia Government Units 1 and 2 Approval 
+     Resolution of 2004, effective February 17, 2004 (Res. 15-459; 
+     51 DCR 2325).
+
+                        Non-Departmental Agency
+
+       To account for anticipated costs that cannot be allocated 
+     to specific agencies during the development of the proposed 
+     budget, $13,946,000 (including $4,000,000 from local funds 
+     and $9,946,000 from other funds) to be transferred by the 
+     Mayor of the District of Columbia within the various 
+     appropriations headings in this Act: Provided, That 
+     $4,000,000 from local funds shall be for anticipated costs 
+     associated with the No Child Left Behind Act.
+
+                         Pay-As-You-Go Capital
+
+       For Pay-As-You-Go Capital funds in lieu of capital 
+     financing, $6,531,000 from local funds, to be transferred to 
+     the Capital Fund, subject to the Criteria for Spending Pay-
+     as-You-Go Funding Amendment Act of 2003 (D.C. Act 15-106): 
+     Provided, That pursuant to this Act, there are authorized to 
+     be transferred from Pay-As-You-Go Capital funds to other 
+     headings of this Act, such sums as may be necessary to carry 
+     out the purposes of this Act.
+
+                  Emergency Planning and Security Fund
+
+       For Emergency Planning and Security Fund, $15,000,000 from 
+     funds previously appropriated in this Act under the heading 
+     ``Federal Payment for Planning and Security Costs in the 
+     District of Columbia''.
+
+                Old Convention Center Demolition Reserve
+
+       For the Old Convention Center Demolition Reserve, such 
+     amounts as may be necessary, not to exceed $11,000,000, from 
+     the District's general fund balance.
+
+                    Tax Increment Financing Program
+
+       For a Tax Increment Financing Program, such amounts as are 
+     necessary to meet the Tax Increment Financing requirements, 
+     not to exceed $9,710,000 from the District's general fund 
+     balance.
+
+                       Pay-As-You-Go Contingency
+
+       For Pay-As-You-Go Contingency Fund, $43,137,000, subject to 
+     the Criteria for Spending Pay-as-You-Go Funding Act of 2004, 
+     approved by the Council of the District of Columbia on 1st 
+     reading, May 14, 2004 (Title I of Bill 15-768), there are 
+     authorized to be transferred from the contingency fund to 
+     certain other headings of this Act as necessary to carry out 
+     the purposes of this Act. Expenditures from the Pay-As-You-Go 
+     Contingency Fund shall be subject to the approval of the 
+     Council by resolution.
+
+             Revised Revenue Estimate Contingency Priority
+
+       If the Chief Financial Officer for the District of Columbia 
+     certifies through a revised revenue estimate that funds are 
+     available from local funds, such available funds shall be 
+     expended as provided in the Contingency for Recordation and 
+     Transfer Tax Reduction and the Office of Property Management 
+     and Library Expenditures Act of 2004, approved by the Council 
+     of the District of Columbia on 1st reading, May 14, 2004 
+     (Bill 15-768), including up to $2,000,000 to the Office of 
+     Property Management, up to $1,200,000 to the District of 
+     Columbia Public Library, up to $256,000 to the D.C. Police 
+     and Firefighters Retirement and Relief Board, and $132,600 
+     for the Police and Fire Clinic.
+
+                       ENTERPRISE AND OTHER FUNDS
+
+                       Water and Sewer Authority
+
+       For operation of the Water and Sewer Authority, 
+     $287,206,000 from other funds, of which
+
+[[Page 19373]]
+
+     $15,180,402 shall be apportioned for repayment of loans and 
+     interest incurred for capital improvement projects and 
+     payable to the District's debt service fund.
+       For construction projects, $371,040,000, to be distributed 
+     as follows: $181,656,000 for the Blue Plains Wastewater 
+     Treatment Plant, $43,800,000 for the sewer program, 
+     $9,118,000 for the stormwater program, $122,627,000 for the 
+     water program, and $13,839,000 for the capital equipment 
+     program; in addition, $10,000,000 from funds previously 
+     appropriated in this Act under the heading ``Federal Payment 
+     to the District of Columbia Water and Sewer Authority'': 
+     Provided, That the requirements and restrictions that are 
+     applicable to general fund capital improvement projects and 
+     set forth in this Act under the Capital Outlay appropriation 
+     account shall apply to projects approved under this 
+     appropriation account.
+
+                          Washington Aqueduct
+
+       For operation of the Washington Aqueduct, $47,972,000 from 
+     other funds.
+
+              Stormwater Permit Compliance Enterprise Fund
+
+        For operation of the Stormwater Permit Compliance 
+     Enterprise Fund, $3,792,000 from other funds.
+
+              Lottery and Charitable Games Enterprise Fund
+
+       For the Lottery and Charitable Games Enterprise Fund, 
+     established by the District of Columbia Appropriation Act, 
+     1982, for the purpose of implementing the Law to Legalize 
+     Lotteries, Daily Numbers Games, and Bingo and Raffles for 
+     Charitable Purposes in the District of Columbia (D.C. Law 3-
+     172; D.C. Official Code, sec. 3-1301 et seq. and sec. 22-1716 
+     et seq.), $247,000,000 from other funds: Provided, That the 
+     District of Columbia shall identify the source of funding for 
+     this appropriation title from the District's own locally 
+     generated revenues: Provided further, That no revenues from 
+     Federal sources shall be used to support the operations or 
+     activities of the Lottery and Charitable Games Control Board: 
+     Provided further, That the Lottery and Charitable Games 
+     Enterprise Fund is hereby authorized to make transfers to the 
+     general fund of the District of Columbia, in excess of this 
+     appropriation, if such funds are available for transfer.
+
+                  Sports and Entertainment Commission
+
+       For the Sports and Entertainment Commission, $7,322,000 
+     from other funds: Provided, That the paragraph under the 
+     heading ``Sports and Entertainment Commission'' in Public Law 
+     108-199 (118 Stat. 125) is amended by striking the term 
+     ``local funds'' and inserting the term ``other funds'' in its 
+     place.
+
+                 District of Columbia Retirement Board
+
+       For the District of Columbia Retirement Board, established 
+     pursuant to section 121 of the District of Columbia 
+     Retirement Reform Act of 1979 (D.C. Official Code, sec. 1-
+     711), $15,277,000 from the earnings of the applicable 
+     retirement funds to pay legal, management, investment, and 
+     other fees and administrative expenses of the District of 
+     Columbia Retirement Board: Provided, That the District of 
+     Columbia Retirement Board shall provide to the Congress and 
+     to the Council of the District of Columbia a quarterly report 
+     of the allocations of charges by fund and of expenditures of 
+     all funds: Provided further, That the District of Columbia 
+     Retirement Board shall provide the Mayor, for transmittal to 
+     the Council of the District of Columbia, an itemized 
+     accounting of the planned use of appropriated funds in time 
+     for each annual budget submission and the actual use of such 
+     funds in time for each annual audited financial report.
+
+              Washington Convention Center Enterprise Fund
+
+       For the Washington Convention Center Enterprise Fund, 
+     $77,176,000 from other funds.
+
+              National Capital Revitalization Corporation
+
+       For the National Capital Revitalization Corporation, 
+     $7,850,000 from other funds.
+
+                 University of the District of Columbia
+
+       For the University of the District of Columbia, $85,102,000 
+     (including, $49,602,000 from local funds previously 
+     appropriated in this Act under the heading ``Public Education 
+     Systems'', $15,192,000 from Federal funds, $19,434,000 from 
+     other funds, and $873,000 from private funds): Provided, That 
+     this appropriation shall not be available to subsidize the 
+     education of nonresidents of the District of Columbia at the 
+     University of the District of Columbia, unless the Board of 
+     Trustees of the University of the District of Columbia 
+     adopts, for the fiscal year ending September 30, 2005, a 
+     tuition rate schedule that will establish the tuition rate 
+     for nonresident students at a level no lower than the 
+     nonresident tuition rate charged at comparable public 
+     institutions of higher education in the metropolitan area.
+
+                     Unemployment Compensation Fund
+
+       For the Unemployment Compensation Fund, $180,000,000 from 
+     other funds.
+
+               District of Columbia Personnel Trust Fund
+
+       For the District of Columbia Personnel Trust Fund, $953,000 
+     from other funds.
+
+             District of Columbia Public Library Trust Fund
+
+       For the District of Columbia Public Library Trust Fund, 
+     $17,000 from other funds: Provided, That $7,000 shall be for 
+     the Theodore W. Noyes Trust Fund: Provided further, That 
+     $10,000 shall be for the Peabody Trust Fund.
+
+                             Capital Outlay
+
+
+                        (including rescissions)
+
+       For construction projects, an increase of $1,087,649,000, 
+     of which $839,897,000 shall be from local funds, $38,542,000 
+     from Highway Trust funds, $37,000,000 from the Rights-of-way 
+     funds, $172,209,000 from Federal funds, and a rescission of 
+     $367,763,000 from local funds appropriated under this heading 
+     in prior fiscal years, for a net amount of $725,886,000, to 
+     remain available until expended; in addition, $7,000,000 from 
+     funds previously appropriated in this Act under the heading 
+     ``Federal Payment for the Unified Communications Center'' and 
+     $3,000,000 from funds previously appropriated in this Act 
+     under the heading ``Federal Payment for the Anacostia 
+     Waterfront Initiative'': Provided, That funds for use of each 
+     capital project implementing agency shall be managed and 
+     controlled in accordance with all procedures and limitations 
+     established under the Financial Management System: Provided 
+     further, That all funds provided by this appropriation title 
+     shall be available only for the specific projects and 
+     purposes intended: Provided further, That the Office of the 
+     Chief Technology Officer of the District of Columbia shall 
+     implement the following information technology projects on 
+     behalf of the District of Columbia Public Schools: Student 
+     Information System (project number T2240), Student 
+     Information System PCS (project number T2241), Enterprise 
+     Resource Planning (project number T2242), E-Rate (project 
+     number T2243), and SETS Expansion PCS (project number T2244).
+
+                     TITLE III--GENERAL PROVISIONS
+
+       Sec. 301. Whenever in this Act, an amount is specified 
+     within an appropriation for particular purposes or objects of 
+     expenditure, such amount, unless otherwise specified, shall 
+     be considered as the maximum amount that may be expended for 
+     said purpose or object rather than an amount set apart 
+     exclusively therefor.
+       Sec. 302. Appropriations in this Act shall be available for 
+     expenses of travel and for the payment of dues of 
+     organizations concerned with the work of the District of 
+     Columbia government, when authorized by the Mayor: Provided, 
+     That in the case of the Council of the District of Columbia, 
+     funds may be expended with the authorization of the Chairman 
+     of the Council.
+       Sec. 303. There are appropriated from the applicable funds 
+     of the District of Columbia such sums as may be necessary for 
+     making refunds and for the payment of legal settlements or 
+     judgments that have been entered against the District of 
+     Columbia government.
+       Sec. 304. No part of any appropriation contained in this 
+     Act shall remain available for obligation beyond the current 
+     fiscal year unless expressly to provided herein.
+       Sec. 305. None of the funds appropriated in this Act shall 
+     be made available to pay the salary of any employee of the 
+     District of Columbia government whose name, title, grade, and 
+     salary are not available for inspection by the Committees on 
+     Appropriations of the House of Representatives and Senate, 
+     the Committee on Government Reform of the House of 
+     Representatives, the Committee on Governmental Affairs of the 
+     Senate, and the Council of the District of Columbia, or their 
+     duly authorized representative.
+       Sec. 306. None of the Federal funds provided in this Act 
+     may be used for publicity or propaganda purposes or 
+     implementation of any policy including boycott designed to 
+     support or defeat legislation pending before Congress or any 
+     State legislature.
+       Sec. 307. (a) None of the Federal funds provided in this 
+     Act may be used to carry out lobbying activities on any 
+     matter.
+       (b) Nothing in this section may be construed to prohibit 
+     any elected official from advocating with respect to any 
+     issue.
+       Sec. 308. (a) None of the funds provided under this Act to 
+     the agencies funded by this Act, both Federal and District 
+     government agencies, that remain available for obligation or 
+     expenditure in fiscal year 2005, or provided from any 
+     accounts in the Treasury of the United States derived by the 
+     collection of fees available to the agencies funded by this 
+     Act, shall be available for obligation or expenditures for an 
+     agency through a reprogramming of funds which--
+       (1) creates new programs;
+       (2) eliminates a program, project, or responsibility 
+     center;
+       (3) establishes or changes allocations specifically denied, 
+     limited or increased under this Act;
+       (4) increases funds or personnel by any means for any 
+     program, project, or responsibility center for which funds 
+     have been denied or restricted;
+       (5) reestablishes any program or project previously 
+     deferred through reprogramming;
+       (6) augments any existing program, project, or 
+     responsibility center through a reprogramming of funds in 
+     excess of $1,000,000 or 10 percent, whichever is less; or
+       (7) increases by 20 percent or more personnel assigned to a 
+     specific program, project or responsibility center, unless 
+     the Committee on Appropriations of the House of 
+     Representatives and Senate are notified in writing 15 days in 
+     advance of the reprogramming.
+       (b) None of the local funds contained in this Act may be 
+     available for obligation or expenditure for an agency through 
+     a transfer of any local funds in excess of $1,000,000 from 
+     one appropriation heading to another unless the Committees on 
+     Appropriations of the House of Representatives and Senate are 
+     notified in writing 15 days in advance of the transfer, 
+     except that in no event may the amount of any funds 
+     transferred exceed 4 percent of the local funds in the 
+     appropriations.
+
+[[Page 19374]]
+
+       Sec. 309. Consistent with the provisions of section 1301(a) 
+     of title 31, United States Code, appropriations under this 
+     Act shall be applied only to the objects for which the 
+     appropriations were made except as otherwise provided by law.
+       Sec. 310. Notwithstanding any other provisions of law, the 
+     provisions of the District of Columbia Government 
+     Comprehensive Merit Personnel Act of 1978 (D.C. Law 2-139; 
+     D.C. Official Code, sec. 1-601.01 et seq.), enacted pursuant 
+     to section 422(3) of the District of Columbia Home Rule Act 
+     (D.C. Official Code, sec. 1-204l.22(3)), shall apply with 
+     respect to the compensation of District of Columbia 
+     employees: Provided, That for pay purposes, employees of the 
+     District of Columbia government shall not be subject to the 
+     provisions of title 5, United States Code.
+       Sec. 311. No later than 30 days after the end of the first 
+     quarter of fiscal year 2005, the Mayor of the District of 
+     Columbia shall submit to the Council of the District of 
+     Columbia and the Committees on Appropriations of the House of 
+     Representatives and Senate the new fiscal year 2005 revenue 
+     estimates as of the end of such quarter. These estimates 
+     shall be used in the budget request for fiscal year 2005. The 
+     officially revised estimates at midyear shall be used for the 
+     midyear report.
+       Sec. 312. No sole source contract with the District of 
+     Columbia government or any agency thereof may be renewed or 
+     extended without opening that contract to the competitive 
+     bidding process as set forth in section 303 of the District 
+     of Columbia Procurement Practices Act of 1985 (D.C. Law 6-85; 
+     D.C. Official Code, sec. 2-303.03), except that the District 
+     of Columbia government or any agency thereof may renew or 
+     extend sole source contracts for which competition is not 
+     feasible or practical, but only if the determination as to 
+     whether to invoke the competitive bidding process has been 
+     made in accordance with duly promulgated rules and procedures 
+     and has been reviewed and certified by the Chief Financial 
+     Officer of the District of Columbia.
+       Sec. 313. None of the Federal funds provided in this Act 
+     may be used by the District of Columbia to provide for 
+     salaries, expenses, or other costs associated with the 
+     offices of United States Senator or United States 
+     Representative under section 4(d) of the District of Columbia 
+     Statehood Constitutional Convention Initiatives of 1979 (D.C. 
+     Law 3-171; D.C. Official Code, sec. 1-123).
+       Sec. 314. None of the funds appropriated under this Act 
+     shall be expended for any abortion except where the life of 
+     the mother would be endangered if the fetus were carried to 
+     term or where the pregnancy is the result of an act of rape 
+     or incest.
+       Sec. 315. None of the Federal funds made available in this 
+     Act may be used to implement or enforce the Health Care 
+     Benefits Expansion Act of 1992 (D.C. Law 9-114; D.C. Official 
+     Code, sec. 32-701 et seq.) or to otherwise implement or 
+     enforce any system of registration of unmarried, cohabiting 
+     couples, including but not limited to registration for the 
+     purpose of extending employment, health, or governmental 
+     benefits to such couples on the same basis that such benefits 
+     are extended to legally married couples.
+       Sec. 316. (a) Notwithstanding any other provision of this 
+     Act, the Mayor, in consultation with the Chief Financial 
+     Officer of the District of Columbia may accept, obligate, and 
+     expend Federal, private, and other grants received by the 
+     District government that are not reflected in the amounts 
+     appropriated in this Act.
+       (b)(1) No such Federal, private, or other grant may be 
+     accepted, obligated, or expended pursuant to subsection (a) 
+     until--
+       (A) the Chief Financial Officer of the District of Columbia 
+     submits to the Council a report setting forth detailed 
+     information regarding such grant; and
+       (B) the Council has reviewed and approved the acceptance, 
+     obligation, and expenditure of such grant.
+       (2) For purposes of paragraph (1)(B), the Council shall be 
+     deemed to have reviewed and approved the acceptance, 
+     obligation, and expenditure of a grant if--
+       (A) no written notice of disapproval is filed with the 
+     Secretary of the Council within 14 calendar days of the 
+     receipt of the report from the Chief Financial Officer under 
+     paragraph (1)(A); or
+       (B) if such a notice of disapproval is filed within such 
+     deadline, the Council does not by resolution disapprove the 
+     acceptance, obligation, or expenditure of the grant within 30 
+     calendar days of the initial receipt of the report from the 
+     Chief Financial Officer under paragraph (1)(A).
+       (c) No amount may be obligated or expended from the general 
+     fund or other funds of the District of Columbia government in 
+     anticipation of the approval or receipt of a grant under 
+     subsection (b)(2) or in anticipation of the approval or 
+     receipt of a Federal, private, or other grant not subject to 
+     such subsection.
+       (d) The Chief Financial Officer of the District of Columbia 
+     may adjust the budget for Federal, private, and other grants 
+     received by the District government reflected in the amounts 
+     appropriated in this Act, or approved and received under 
+     subsection (b)(2) to reflect a change in the actual amount of 
+     the grant.
+       (e) The Chief Financial Officer of the District of Columbia 
+     shall prepare a quarterly report setting forth detailed 
+     information regarding all Federal, private, and other grants 
+     subject to this section. Each such report shall be submitted 
+     to the Council of the District of Columbia and to the 
+     Committees on Appropriations of the House of Representatives 
+     and Senate not later than 15 days after the end of the 
+     quarter covered by the report.
+       Sec. 317. (a) Except as otherwise provided in this section, 
+     none of the funds made available by this Act or by any other 
+     Act may be used to provide any officer or employee of the 
+     District of Columbia with an official vehicle unless the 
+     officer or employee uses the vehicle only in the performance 
+     of the officer's or employee's official duties. For purposes 
+     of this paragraph, the term ``official duties'' does not 
+     include travel between the officer's or employee's residence 
+     and workplace, except in the case of--
+       (1) an officer or employee of the Metropolitan Police 
+     Department who resides in the District of Columbia or is 
+     otherwise designated by the Chief of the Department;
+       (2) an officer or employee of the District of Columbia Fire 
+     and Emergency Medical Services Department who resides in the 
+     District of Columbia and is on call 24 hours a day or is 
+     otherwise designated by the Fire Chief;
+       (3) the Mayor of the District of Columbia; and
+       (4) the Chairman of the Council of the District of 
+     Columbia.
+       (b) The Chief Financial Officer of the District of Columbia 
+     shall submit by March 1, 2005, an inventory, as of September 
+     30, 2004, of all vehicles owned, leased or operated by the 
+     District of Columbia government. The inventory shall include, 
+     but not be limited to, the department to which the vehicle is 
+     assigned; the year and make of the vehicle; the acquisition 
+     date and cost; the general condition of the vehicle; annual 
+     operating and maintenance costs; current mileage; and whether 
+     the vehicle is allowed to be taken home by a District officer 
+     or employee and if so, the officer or employee's title and 
+     resident location.
+       Sec. 318. None of the funds contained in this Act may be 
+     used for purposes of the annual independent audit of the 
+     District of Columbia government for fiscal year 2005 unless--
+       (1) the audit is conducted by the Inspector General of the 
+     District of Columbia, in coordination with the Chief 
+     Financial Officer of the District of Columbia, pursuant to 
+     section 208(a)(4) of the District of Columbia Procurement 
+     Practices Act of 1985 (D.C. Official Code, sec. 2-302.8); and
+       (2) the audit includes as a basic financial statement a 
+     comparison of audited actual year-end results with the 
+     revenues submitted in the budget document for such year and 
+     the appropriations enacted into law for such year using the 
+     format, terminology, and classifications contained in the law 
+     making the appropriations for the year and its legislative 
+     history.
+       Sec. 319. (a) None of the Federal funds contained in this 
+     Act may be used by the District of Columbia Corporation 
+     Counsel or any other officer or entity of the District 
+     government to provide assistance for any petition drive or 
+     civil action which seeks to require Congress to provide for 
+     voting representation in Congress for the District of 
+     Columbia.
+       (b) Nothing in this section bars the District of Columbia 
+     Corporation Counsel from reviewing or commenting on briefs in 
+     private lawsuits, or from consulting with officials of the 
+     District government regarding such lawsuits.
+       Sec. 320. (a) None of the Federal funds contained in this 
+     Act may be used for any program of distributing sterile 
+     needles or syringes for the hypodermic injection of any 
+     illegal drug.
+       (b) Any individual or entity who receives any funds 
+     contained in this Act and who carries out any program 
+     described in subsection (a) shall account for all funds used 
+     for such program separately from any funds contained in this 
+     Act.
+       Sec. 321. None of the funds contained in this Act may be 
+     used after the expiration of the 60-day period that begins on 
+     the date of the enactment of this Act to pay the salary of 
+     any chief financial officer of any office of the District of 
+     Columbia government (including any independent agency of the 
+     District of Columbia) who has not filed a certification with 
+     the Mayor and the Chief Financial Officer of the District of 
+     Columbia that the officer understands the duties and 
+     restrictions applicable to the officer and the officer's 
+     agency as a result of this Act (and the amendments made by 
+     this Act), including any duty to prepare a report requested 
+     either in the Act or in any of the reports accompanying the 
+     Act and the deadline by which each report must be submitted. 
+     The Chief Financial Officer of the District of Columbia shall 
+     provide to the Committees on Appropriations of the House of 
+     Representatives and Senate by the 10th day after the end of 
+     each quarter a summary list showing each report, the due 
+     date, and the date submitted to the Committees.
+       Sec. 322. (a) None of the funds contained in this Act may 
+     be used to enact or carry out any law, rule, or regulation to 
+     legalize or otherwise reduce penalties associated with the 
+     possession, use, or distribution of any schedule I substance 
+     under the Controlled Substances Act (21 U.S.C. 802) or any 
+     tetrahydrocannabinols derivative.
+       (b) The Legalization of Marijuana for Medical Treatment 
+     Initiative of 1998, also known as Initiative 59, approved by 
+     the electors of the District of Columbia on November 3, 1998, 
+     shall not take effect.
+       Sec. 323. Nothing in this Act may be construed to prevent 
+     the Council or Mayor of the District of Columbia from 
+     addressing the issue of the provision of contraceptive 
+     coverage by health insurance plans, but it is the intent of 
+     Congress that any legislation enacted on such issue should 
+     include a ``conscience clause'' which provides exceptions for 
+     religious beliefs and moral convictions.
+       Sec. 324. The Mayor of the District of Columbia shall 
+     submit to the Committees on Appropriations of the House of 
+     Representatives and
+
+[[Page 19375]]
+
+     Senate, the Committee on Government Reform of the House of 
+     Representatives, and the Committee on Governmental Affairs of 
+     the Senate quarterly reports addressing--
+       (1) crime, including the homicide rate, implementation of 
+     community policing, the number of police officers on local 
+     beats, and the closing down of open-air drug markets;
+       (2) access to substance and alcohol abuse treatment, 
+     including the number of treatment slots, the number of people 
+     served, the number of people on waiting lists, and the 
+     effectiveness of treatment programs;
+       (3) management of parolees and pre-trial violent offenders, 
+     including the number of halfway houses escapes and steps 
+     taken to improve monitoring and supervision of halfway house 
+     residents to reduce the number of escapes to be provided in 
+     consultation with the Court Services and Offender Supervision 
+     Agency for the District of Columbia;
+       (4) education, including access to special education 
+     services and student achievement to be provided in 
+     consultation with the District of Columbia Public Schools and 
+     the District of Columbia public charter schools;
+       (5) improvement in basic District services, including rat 
+     control and abatement;
+       (6) application for and management of Federal grants, 
+     including the number and type of grants for which the 
+     District was eligible but failed to apply and the number and 
+     type of grants awarded to the District but for which the 
+     District failed to spend the amounts received; and
+       (7) indicators of child well-being.
+       Sec. 325. (a) No later than 30 calendar days after the date 
+     of the enactment of this Act, the Chief Financial Officer of 
+     the District of Columbia shall submit to the appropriate 
+     committees of Congress, the Mayor, and the Council of the 
+     District of Columbia a revised appropriated funds operating 
+     budget in the format of the budget that the District of 
+     Columbia government submitted pursuant to section 442 of the 
+     District of Columbia Home Rule Act (D.C. Official Code, sec. 
+     1-204.42), for all agencies of the District of Columbia 
+     government for fiscal year 2004 that is in the total amount 
+     of the approved appropriation and that realigns all budgeted 
+     data for personal services and other-than-personal-services, 
+     respectively, with anticipated actual expenditures.
+       (b) Applicability.--This provision shall apply only to an 
+     agency where the Chief Financial Officer of the District of 
+     Columbia certifies that a reallocation is required to address 
+     unanticipated changes in program requirements.
+       Sec. 326. None of the funds contained in this Act may be 
+     used to issue, administer, or enforce any order by the 
+     District of Columbia Commission on Human Rights relating to 
+     docket numbers 93-030-(PA) and 93-031-(PA).
+       Sec. 327. Notwithstanding any other law, the District of 
+     Columbia Courts shall transfer to the general treasury of the 
+     District of Columbia all fines levied and collected by the 
+     Courts under section 10(b)(1) and (2) of the District of 
+     Columbia Traffic Act (D.C. Official Code, sec. 50- 
+     2201.05(b)(1) and (2)). The transferred funds shall remain 
+     available until expended and shall be used by the Office of 
+     the Corporation Counsel for enforcement and prosecution of 
+     District traffic alcohol laws in accordance with section 
+     10(b)(3) of the District of Columbia Traffic Act (D.C. 
+     Official Code, sec. 50-2201.05(b)(3)).
+       Sec. 328. None of the funds contained in this Act may be 
+     made available to pay--
+       (1) the fees of an attorney who represents a party in an 
+     action or an attorney who defends an action, including an 
+     administrative proceeding, brought against the District of 
+     Columbia Public Schools under the Individuals with 
+     Disabilities Education Act (20 U.S.C. 1400 et seq.) in excess 
+     of $4,000 for that action; or
+       (2) the fees of an attorney or firm whom the Chief 
+     Financial Officer of the District of Columbia determines to 
+     have a pecuniary interest, either through an attorney, 
+     officer or employee of the firm, in any special education 
+     diagnostic services, schools, or other special education 
+     service providers.
+       Sec. 329. The Chief Financial Officer of the District of 
+     Columbia shall require attorneys in special education cases 
+     brought under the Individuals with Disabilities Act (IDEA) in 
+     the District of Columbia to certify in writing that the 
+     attorney or representative rendered any and all services for 
+     which they receive awards, including those received under a 
+     settlement agreement or as part of an administrative 
+     proceeding, under the IDEA from the District of Columbia: 
+     Provided, That as part of the certification, the Chief 
+     Financial Officer of the District of Columbia shall require 
+     all attorneys in IDEA cases to disclose any financial, 
+     corporate, legal, memberships on boards of directors, or 
+     other relationships with any special education diagnostic 
+     services, schools, or other special education service 
+     providers to which the attorneys have referred any clients as 
+     part of this certification: Provided further, That the Chief 
+     Financial Officer shall prepare and submit quarterly reports 
+     to the Committees on Appropriations of the House of 
+     Representatives and Senate on the certification of and the 
+     amount paid by the government of the District of Columbia, 
+     including the District of Columbia Public Schools, to 
+     attorneys in cases brought under IDEA: Provided further, That 
+     the Inspector General of the District of Columbia may conduct 
+     investigations to determine the accuracy of the 
+     certifications.
+       Sec. 330. Section 401(a) and (b) of Chapter 4 of Public Law 
+     106-554 is hereby amended by striking paragraph (5).
+       Sec. 331. Sections 11-1701(b)(5), 11-1704(b), 11-1723(b), 
+     11-2102(a)(2), and the second and third sentences of Section 
+     11-1724, of the District of Columbia Official Code, are 
+     hereby repealed.
+       Sec. 332. Section 11-1728 of the District of Columbia 
+     Official Code, is amended to read as follows:
+
+     ``SEC. 11-1728. RECRUITMENT AND TRAINING OF PERSONNEL AND 
+                   TRAVEL.
+
+       ``(a) The Executive Officer shall be responsible for 
+     recruiting such qualified personnel as may be necessary for 
+     the District of Columbia Courts and for providing in-service 
+     training for court personnel.
+       ``(b) Travel under Federal supply schedules is authorized 
+     for the travel of court personnel on official business. The 
+     joint committee shall prescribe such requirements, conditions 
+     and restrictions for such travel as it considers appropriate, 
+     and shall include policies and procedures for preventing 
+     abuses of that travel authority.''.
+       Sec. 333. Section 450A of the District of Columbia Home 
+     Rule Act, approved December 24, 1973 (87 Stat. 803; D.C. 
+     Official Code, sec. 1-204.50a), is amended as follows:
+       (1) Subsection (a) is amended as follows:
+       (A) Paragraph (1) is amended to read as follows:
+       ``(1) In general.--There is established an emergency cash 
+     reserve fund (`emergency reserve fund') as an interest-
+     bearing account (separate from other accounts in the General 
+     Fund) into which the Mayor shall make a deposit in cash not 
+     later than October 1 of each fiscal year of such an amount as 
+     may be required to maintain a balance in the fund of at least 
+     2 percent of the operating expenditures as defined in 
+     paragraph (2) of this subsection or such amount as may be 
+     required for deposit in a fiscal year in which the District 
+     is replenishing the emergency reserve fund pursuant to 
+     subsection (a)(7).''.
+       (B) Paragraph (2) is amended to read as follows:
+       ``(2) In general.--For the purpose of this subsection, 
+     operating expenditures is defined as the amount reported in 
+     the District of Columbia's Comprehensive Annual Financial 
+     Report for the fiscal year immediately preceding the current 
+     fiscal year as the actual operating expenditure from local 
+     funds, less such amounts that are attributed to debt service 
+     payments for which a separate reserve fund is already 
+     established under this Act.''.
+       (C) Paragraph (7) is amended to read as follows:
+       ``(7) Replenishment.--The District of Columbia shall 
+     appropriate sufficient funds each fiscal year in the budget 
+     process to replenish any amounts allocated from the emergency 
+     reserve fund during the preceding fiscal years so that not 
+     less than 50 percent of any amount allocated in the preceding 
+     fiscal year or the amount necessary to restore the emergency 
+     reserve fund to the 2 percent required balance, whichever is 
+     less, is replenished by the end of the first fiscal year 
+     following each such allocation and 100 percent of the amount 
+     allocated or the amount necessary to restore the emergency 
+     reserve fund to the 2 percent required balance, whichever is 
+     less, is replenished by the end of the second fiscal year 
+     following each such allocation.''.
+       (2) Subsection (b) is amended as follows:
+       (A) Paragraph (1) is amended to read as follows:
+       ``(1) In general.--There is established a contingency cash 
+     reserve fund (`contingency reserve fund') as an interest-
+     bearing account, separate from other accounts in the General 
+     Fund, into which the Mayor shall make a deposit in cash not 
+     later than October 1 of each fiscal year of such amount as 
+     may be required to maintain a balance in the fund of at least 
+     4 percent of the operating expenditures as defined in 
+     paragraph (2) of this subsection or such amount as may be 
+     required for deposit in a fiscal year in which the District 
+     is replenishing the emergency reserve fund pursuant to 
+     subsection (b)(6).''.
+       (B) Paragraph (2) is amended to read as follows:
+       ``(2) In general.--For the purpose of this subsection, 
+     operating expenditures is defined as the amount reported in 
+     the District of Columbia's Comprehensive Annual Financial 
+     Report for the fiscal year immediately preceding the current 
+     fiscal year as the actual operating expenditure from local 
+     funds, less such amounts that are attributed to debt service 
+     payments for which a separate reserve fund is already 
+     established under this Act.''.
+       (C) Paragraph (6) is amended to read as follows:
+       ``(6) Replenishment.--The District of Columbia shall 
+     appropriate sufficient funds each fiscal year in the budget 
+     process to replenish any amounts allocated from the 
+     contingency reserve fund during the preceding fiscal years so 
+     that not less than 50 percent of any amount allocated in the 
+     preceding fiscal year or the amount necessary to restore the 
+     contingency reserve fund to the 4 percent required balance, 
+     whichever is less, is replenished by the end of the first 
+     fiscal year following each such allocation and 100 percent of 
+     the amount allocated or the amount necessary to restore the 
+     contingency reserve fund to the 4 percent required balance, 
+     whichever is less, is replenished by the end of the second 
+     fiscal year following each such allocation.''.
+       Sec. 334. For fiscal year 2005, the Chief Financial Officer 
+     shall re-calculate the emergency and contingency cash reserve 
+     funds amount established by Section 450A of the District of 
+     Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 
+     803; D.C. Official Code, sec. 1-204.50a), as amended by this 
+     Act and is authorized to transfer funds between the emergency 
+     and contingency cash reserve funds to reach the required 
+     percentages: Provided, That for fiscal year 2005, the Chief 
+     Financial Officer may
+
+[[Page 19376]]
+
+     transfer funds from the emergency and contingency cash 
+     reserve funds to the general fund of the District of Columbia 
+     to the extent that such funds are not necessary to meet the 
+     requirements established for each fund: Provided further, 
+     That the Chief Financial Officer may not transfer funds from 
+     the emergency or the contingency reserve funds to the extent 
+     that such a transfer would lower the fiscal year 2005 total 
+     percentage below 7 percent of operating expenditures, as 
+     amended by this Act.
+       Sec. 335. Section 6 of the Policemen and Firemen's 
+     Retirement and Disability Act, approved August 21, 1957 
+     (Public Law 85-157; 71 Stat. 399; D.C. Official Code Sec. 5-
+     732) is amended by striking the phrase ``of this chapter, to 
+     the extent that such benefit payments exceed the deductions 
+     from the salaries of federal employees for credit to the 
+     revenues of the District of Columbia.'' and inserting the 
+     phrase ``of this chapter and to reimburse the District of 
+     Columbia for the administrative costs associated with making 
+     such benefit payments for credit to the revenues of the 
+     District of Columbia: Provided, That benefit payment 
+     reimbursement shall only be to the extent that such benefit 
+     payments exceed the deductions from the salaries of federal 
+     employees.'' in its place.
+        Sec. 336. Notwithstanding any other provision of this Act, 
+     there is hereby appropriated for the Office of the Inspector 
+     General such amounts in local funds, as are consistent with 
+     the annual estimates for the expenditures and appropriations 
+     necessary for the operation of the Office of the Inspector 
+     General as prepared by the Inspector General and submitted to 
+     the Mayor and forwarded to the Council pursuant to D.C. 
+     Official Code 2-302.08(a)(2)(A) for fiscal year 2005: 
+     Provided, That the Office of the Chief Financial Officer 
+     shall take such steps as are necessary to implement the 
+     provisions of this subsection.
+       Sec. 337. The authority which the Chief Financial Officer 
+     of the District of Columbia exercised with respect to 
+     personnel, procurement, and the preparation of fiscal impact 
+     statements during a control period (as defined in Public Law 
+     104-8) shall remain in effect through September 30, 2005.
+       Sec. 338. The paragraph under the heading ``Federal Payment 
+     for Incentives for Adoption of Children'' in Public Law 106-
+     113, approved November 29, 1999 (113 Stat. 1501), is amended 
+     to add the following proviso: ``: Provided further, That the 
+     funds provided under this heading for the establishment of a 
+     scholarship fund for District of Columbia children of 
+     adoptive families, and District of Columbia children without 
+     parents due to the September 11, 2001 terrorist attack to be 
+     used for post high school education and training, once 
+     obligated by the District to establish the scholarship fund, 
+     shall remain obligated and be retained by the District for 25 
+     years from the date of obligation to allow for any individual 
+     who is within the class of persons to be assisted by this 
+     provision to reach post high school and to present 
+     expenditures to be extinguished by the fund''.
+       Sec. 339. Authority of OPCSFS. (a) Section 161(3)(E)(i) of 
+     Public Law 106-522 shall be amended to include a new section 
+     known as (E)(i)(IV) to establish regulations for 
+     administering lease guarantees through the credit enhancement 
+     fund to public charter schools in the District of Columbia.
+       (b) The first sentence of section 143 of the District of 
+     Columbia Appropriations Act of 2003 (Public Law 108-7, 117 
+     STAT. 130) approved April 20, 2003 is amended by striking the 
+     phrase, ``under the authority of the Department of Banking 
+     and Financial Institutions'' and inserting ``under the 
+     authority of the Mayor'' in its place.
+       Sec. 340. Process for Filing Charter Petitions. D.C. Code 
+     Sec. 38-1802.01 is amended by adding a new section (e) as 
+     follows--
+       ``(e) A petition to establish a public charter school in 
+     the District of Columbia, or to convert a District of 
+     Columbia public school or an existing private or independent 
+     school, is a public document.''.
+       Sec. 341. Amendments to Charter School Law. (a) Process for 
+     Filing Charter Petitions.--Section 2201 of the District of 
+     Columbia School Reform Act of 1995 (D.C. Code 38-1802.01) is 
+     amended--
+       (1) in subsection (a)(3)(B), by striking ``two-thirds'' and 
+     inserting ``51 percent''; and
+       (2) in subsection (b)(3)(B), by striking ``two-thirds'' and 
+     inserting ``51 percent''.
+       (b) Employees.--Section 2207 of the District of Columbia 
+     School Reform Act of 1995 (D.C. Code 38-1802.07) is amended 
+     by adding at the end the following:
+       ``(d) Teachers Remaining at Converted Public Charter 
+     Schools.--A teacher employed at a District of Columbia public 
+     school that converts to a public charter school under section 
+     2201 shall have the option of remaining at the charter school 
+     during the school's first year of operation after receiving 
+     an extended leave of absence under subsection (a)(1). After 
+     this 1-year period, the teacher may continue to be employed 
+     at the public charter school, at the sole discretion of the 
+     public charter school, or shall maintain current status 
+     within the District of Columbia public school system.''.
+       (c) Public School Services to Public Charter Schools.--
+     Section 2209(b) of the District of Columbia School Reform Act 
+     of 1995 (D.C. Code 38-1802.09(b)) is amended--
+       (1) in paragraph (1)--
+       (A) by amending subparagraph (A) to read as follows:
+       ``(A) In general.--Notwithstanding any other provision of 
+     law, regulation, or order relating to the disposition of a 
+     facility or property described in subparagraph (B), or to the 
+     disposition of any property of the District of Columbia, the 
+     Mayor and the District of Columbia government shall give a 
+     right of first offer, which right shall be annually 
+     reinstated with respect to any facility or property not 
+     previously disposed of, or under contract to be disposed of, 
+     to an eligible applicant whose petition to establish a public 
+     charter school has been conditionally approved under section 
+     2203(d)(2), or a Board of Trustees, with respect to the 
+     purchase, lease, transfer, or use of a facility or property 
+     described in subparagraph (B).'';
+       (B) by amending subparagraph (B)(iii) to read as follows:
+       ``(iii) With respect to which--
+
+       ``(I) the Board of Education has transferred jurisdiction 
+     to the Mayor and over which the Mayor has jurisdiction on the 
+     effective date of this subclause; or
+       ``(II) over which the Mayor or any successor agency gains 
+     jurisdiction after the effective date of this subclause.''; 
+     and
+
+       (C) by adding at the end the following:
+       ``(C) Terms of purchase or lease.--The terms of purchase or 
+     lease of a facility or property described in subparagraph (B) 
+     shall--
+       ``(i) be negotiated by the Mayor;
+       ``(ii) include rent or an acquisition price, as applicable, 
+     that is at least 25 percent less than the appraised value of 
+     the property (based on use of the property for school 
+     purposes); and
+       ``(iii) include a lease period, if the property is to be 
+     leased, of not less than 25 years, and renewable for 
+     additional 25-year periods as long as the eligible applicant 
+     or Board of Trustees maintains its charter.''; and
+       (2) in paragraph (2)(A), by striking ``preference'' and 
+     inserting ``a right to first offer''; and
+       (3) by adding at the end the following:
+       ``(3) Conversion public charter schools.--Any District of 
+     Columbia public school that was approved to become a 
+     conversion public charter school under section 2201 before 
+     the effective date of this subsection or is approved to 
+     become a conversion public charter school after the effective 
+     date of this subsection, shall have the right to exclusively 
+     occupy the facilities the school occupied as a District of 
+     Columbia public school under a lease for a period of not less 
+     than 25 years, renewable for additional 25-year periods as 
+     long as the school maintains its charter at the non-profit 
+     rate, or if there is no non-profit rate, at 25 percent less 
+     than the fair market rate for school use.''.
+       Sec. 342. Annual Report to Congress. Section 2211 of the 
+     School Reform Act of 1995 (D.C. Code 38-1802.11) shall be 
+     amended by:
+       (1) adding the following new subparagraph at the end of 
+     section 2211(a)(1):
+       ``(D) Shall ensure that each public charter school complies 
+     with the annual reporting requirement of subsection 38-
+     1802.04(b)(11) of this Act, including submission of the 
+     audited financial statement required by sub-subsection 
+     (B)(ix) of that section.''; and
+       (2) adding the following before the period at the end of 
+     subparagraph (d): ``(10) details of major Board actions; (11) 
+     major findings from school reviews of academic, financial, 
+     and compliance with health and safety standards and resulting 
+     Board action or recommendations; (12) details of the fifth 
+     year review process and outcomes; (13) summary of annual 
+     financial audits of all charter schools, including (a) the 
+     number of schools that failed to timely submit the audited 
+     financial statement required by that section; (b) the number 
+     of schools whose audits revealed a failure to follow required 
+     accounting practices or other material deficiencies; and (c) 
+     the steps taken by the authority to ensure that deficiencies 
+     found by the audits are rectified; (14) number of schools 
+     which have required intervention by authorizing board to 
+     address any academic or operational issue; (15) what 
+     recommendations an authorizing board has made to correct 
+     identified deficiencies''.
+       Sec. 343. Lease to District of Columbia. (a) Lease.--
+       (1) In general.--Not later than 90 days after the date of 
+     enactment of this Act, subject to subsection (b), the 
+     Secretary of the Interior (referred to in this section as the 
+     ``Secretary'') shall lease to the government of the District 
+     of Columbia, without consideration, the property described in 
+     paragraph (2).
+       (2) Property.--The property referred to in paragraph (1) 
+     is--
+       (A) the National Park Service land in Anacostia Park, the 
+     boundaries of which are the Anacostia River to the west, 
+     Watts Branch to the south, Kenilworth Aquatic Gardens to the 
+     north, and Anacostia Avenue to the east (US Reservations 325 
+     and 343, Section G); and
+       (B) the community center under the jurisdiction of the 
+     District of Columbia known as the ``Kenilworth Parkside 
+     Community Center''.
+       (b) Conditions of Lease.--
+       (1) Term.--The lease under subsection (a)(1) shall be for a 
+     period of 50 years.
+       (2) Transfer of title.--The lease under subsection (a)(1) 
+     shall be subject to such terms and conditions, to be included 
+     in the lease, as are necessary to ensure that the property 
+     leased under that subsection--
+       (A) may be subleased by the District of Columbia to any 
+     public entity or private not-for-profit corporation under a 
+     public process; and
+       (B) is used only for the provision of public recreational 
+     facilities, open space, or public outdoor recreational 
+     opportunities.
+       (C) Nothing in the Act precludes the District of Columbia 
+     from entering into a sublease for all or part of the property 
+     with a public not-for-profit entity for the management or 
+     maintenance of the property.
+
+[[Page 19377]]
+
+       (3) Termination.--
+       (A) In general.--The lease under subsection (a)(1) shall 
+     terminate if--
+       (i) any term or condition of the lease described in 
+     paragraph (2) is violated, as determined by the Secretary; 
+     and
+       (ii) the violation is not corrected by the date that is 90 
+     days after the date on which the Mayor of the District of 
+     Columbia receives from the Secretary a written notice of the 
+     violation.
+       (B) Determination of correction.--A violation of a term or 
+     condition of the lease under subsection (a)(1) shall be 
+     determined to have been corrected under subparagraph (A)(ii) 
+     if, after notification of the violation, the District of 
+     Columbia and the Secretary enter into an agreement that the 
+     Secretary considers to be adequate to ensure that the 
+     property leased will be used in a manner consistent with 
+     paragraph (2).
+       (4) Prohibition of civil actions.--No person may bring a 
+     civil action relating to a violation any term or condition of 
+     the lease described in paragraph (2) before the date that is 
+     90 days after the person notifies the Mayor of the District 
+     of Columbia of the alleged violation (including the intent of 
+     the person to bring a civil action for termination of the 
+     lease under paragraph (3)).
+       (5) Removal of structures; rehabilitation.--The lease under 
+     subsection (a)(1) shall be subject to the condition that, in 
+     the event of a termination of the lease under paragraph (3), 
+     the District of Columbia shall bear the cost of removing 
+     structures on, or rehabilitating, the property leased.
+       (6) Administration of property.--If the lease under 
+     subsection (a)(1) is terminated under paragraph (3), the 
+     property covered by the lease shall be administered by the 
+     Secretary as a unit of the National Park System in the 
+     District of Columbia in accordance with--
+       (A) the Act of August 25, 1916 (commonly known as the 
+     ``National Park Service Organic Act'') (16 U.S.C. 1 et seq.); 
+     and
+       (B) other laws (including regulations) generally applicable 
+     to units of the National Park System.
+       Sec. 344. Biennial Evaluation of Charter School Authorizing 
+     Boards. (a) Biennial management evaluation of the District of 
+     Columbia Chartering Authorities for the District of Columbia 
+     Public Charter Schools shall be conducted by the Comptroller 
+     General of the United States.
+       (b) Evaluation shall include the following:
+       (1) Establish standards to assess each authorizer's 
+     procedures and oversight quality;
+       (2) Identify gaps in oversight and recommendations;
+       (3) Review processes of charter school applications;
+       (4) Extent of ongoing monitoring, technical assistance, and 
+     sanctions provided to schools;
+       (5) Compliance with annual reporting requirements;
+       (6) Actual budget expenditures for the preceding two fiscal 
+     years;
+       (7) Comparison of budget expenditures with mandated 
+     responsibilities;
+       (8) Alignment with best practices; and
+       (9) Quality and timeliness of meeting Section 2211(d) of 
+     the School Reform Act of 1995 (D.C. Code 38-1802.11(d)), as 
+     amended.
+       (c) Initial Interim Report to Congress.--The Government 
+     Accountability Office shall submit to the Committees on 
+     Appropriations of the House of Representatives and Senate, no 
+     later than May 1, 2005, a baseline report on the performance 
+     of each authorizer in meeting the requirements of the School 
+     Reform Act of 1995.
+       (d) Hereafter Section 2214(f) of Public Law 104-143 (D.C. 
+     Code 38-1802.14(f)), shall apply to the District of Columbia 
+     Board of Education Charter Schools Office.
+       Sec. 345. Clarifying Operations of Public Charter School 
+     Board. Section 2214 of the School Reform Act of 1995 (Public 
+     Law 104-134; D.C. Code 38-1802.14), is amended--
+       (1) by striking subsection (f) and inserting the following:
+       ``(f) Audit.--The Board shall maintain its accounts 
+     according to Generally Accepted Accounting Principles for 
+     Not-for-Profit Organizations. The Board shall provide for an 
+     audit of the financial statements of the Board by an 
+     independent certified public accountant in accordance with 
+     Government auditing standards for financial audits issued by 
+     the Comptroller General of the United States. The findings 
+     and recommendations of any such audit shall be forwarded to 
+     the Mayor, the District of Columbia Council, the appropriate 
+     congressional committees, and the Office of the Chief 
+     Financial Officer.''; and
+       (2) adding at the end the following:
+       ``(h) Contracting and Procurement.--The Board shall have 
+     the authority to solicit, award, and execute contracts 
+     independently of the Office of Contracting and Procurement 
+     and the Chief Procurement Officer. Nothing in chapter 3 of 
+     title 2 of the District of Columbia Code shall affect the 
+     authority of the Board under this subsection.''.
+       This Act may be cited as the ``District of Columbia 
+     Appropriations Act, 2005''.
+
+                                S. 2781
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Comprehensive Peace in Sudan 
+     Act of 2004''.
+
+     SEC. 2. DEFINITIONS.
+
+       In this Act:
+       (1) Appropriate congressional committees.--The term 
+     ``appropriate congressional committees'' means the Committee 
+     on Foreign Relations of the Senate and the Committee on 
+     International Relations of the House of Representatives.
+       (2) JEM.--The term ``JEM'' means the Justice and Equality 
+     Movement.
+       (3) SLA.--The term ``SLA'' means the Sudanese Liberation 
+     Army.
+       (4) SPLM.--The term ``SPLM'' means the Sudan People's 
+     Liberation Movement.
+
+     SEC. 3. FINDINGS.
+
+       Congress makes the following findings:
+       (1) A comprehensive peace agreement for Sudan, as 
+     envisioned in the Sudan Peace Act (50 U.S.C. 1701 note), and 
+     in the Machakos Protocol of 2002, is in jeopardy.
+       (2) Since 1989, the Government of Sudan has repeatedly 
+     engaged in and sponsored orchestrated campaigns of attacking 
+     and dislocating targeted civilian populations, disrupting 
+     their ability to sustain themselves, and subsequently 
+     restricting assistance to those displaced in a coordinated 
+     policy of ethnic cleansing that is most recently evident in 
+     the Darfur region of Sudan.
+       (3) In response to 2 decades of civil conflict in Sudan, 
+     the United States has helped to establish an internationally 
+     supported peace process to promote a negotiated settlement to 
+     the war that has resulted in a framework peace agreement, the 
+     Nairobi Declaration on the Final Phase of Peace in the Sudan 
+     signed June 5, 2004.
+       (4) At the same time that the Government of Sudan was 
+     negotiating for a final countrywide peace, enumerated in the 
+     Nairobi Declaration on the Final Phase of Peace in the Sudan, 
+     it refused to engage in any meaningful discussion with regard 
+     to its ongoing campaign of ethnic cleansing in the region of 
+     Darfur.
+       (5) It was not until the international community expressed 
+     its outrage, through high level visits by Secretary of State 
+     Colin Powell and others, and through United Nations Security 
+     Council Resolution 1556 of July 30, 2004, that the Government 
+     of Sudan agreed to attend talks to bring peace to the Darfur 
+     region.
+       (6) The Government of the United States, in both the 
+     executive branch and Congress, have concluded that genocide 
+     has been committed and may still be occurring in Darfur, and 
+     that the Government of Sudan and the Janjaweed bear 
+     responsibility for the genocide.
+       (7) The United Nations High Commissioner for Human Rights 
+     has identified massive human rights violations in Darfur 
+     perpetrated by the Government of Sudan and the Janjaweed, 
+     which the Commissioner stated may constitute war crimes or 
+     crimes against humanity.
+       (8) Evidence collected by international observers in the 
+     Darfur region between February 2003 and September 2004 
+     indicate a coordinated effort to target African Sudanese 
+     civilians in a scorched earth policy, from both air and 
+     ground, that has destroyed African Sudanese villages, killing 
+     and driving away its people, while Arab Sudanese villages 
+     have been left unscathed.
+       (9) As a result of this coordinated campaign, which 
+     Congress and the executive branch have declared to be 
+     genocide, reports indicate tens of thousands of African 
+     Sudanese civilians killed, the systematic rape of thousands 
+     of women and girls, the destruction of hundreds of Fur, 
+     Masalit, and Zaghawa villages and other ethnically African 
+     populations, including the poisoning of their wells and the 
+     plunder of crops and cattle upon which they sustain 
+     themselves.
+       (10) According to the United Nations High Commissioner for 
+     Refugees, 1,400,000 people have been displaced in the Darfur 
+     region of Sudan, of whom over 200,000 have been forced to 
+     flee to Chad as refugees.
+       (11) The Government of Sudan conducted aerial attack 
+     missions and deadly raids across the international border 
+     between Sudan and Chad in an illegal effort to pursue 
+     Sudanese civilians seeking refuge in Chad.
+       (12) In addition to the thousands of violent deaths 
+     directly caused by ongoing Sudanese military and government 
+     sponsored Janjaweed attacks in the Darfur region, the 
+     Government of Sudan has restricted humanitarian and human 
+     rights workers' access to the Darfur area, primarily through 
+     bureaucratic and administrative obstruction, in an attempt to 
+     inflict the most devastating harm on those displaced from 
+     their villages and homes without any means of sustenance or 
+     shelter.
+       (13) The Government of Sudan's continued support for the 
+     Janjaweed and their obstruction of the delivery of food, 
+     shelter, and medical care to the Darfur region is estimated 
+     by the World Health Organization to be resulting in up to 
+     10,000 deaths per month and, should current conditions 
+     persist, is projected to escalate to thousands of deaths each 
+     day by December 2004.
+       (14) The Government of Chad served an important role in 
+     facilitating the Darfur humanitarian cease-fire (the 
+     N'Djamena Agreement dated April 8, 2004) for the Darfur 
+     region between the Government of Sudan and the 2 opposition 
+     rebel groups in Darfur (the JEM and the SLA) although both 
+     sides have violated it repeatedly.
+       (15) The people of Chad have responded courageously to the 
+     plight of over 200,000 Darfur refugees by providing 
+     assistance to them even though such assistance has adversely 
+     affected their own means of livelihood.
+
+[[Page 19378]]
+
+       (16) The cooperation and inclusion of all Sudanese is 
+     essential to the establishment of peace and security 
+     throughout all of Sudan.
+       (17) The African Union has demonstrated renewed vigor in 
+     regional affairs through its willingness to respond to the 
+     crisis in Darfur, by convening talks between the parties and 
+     deploying several hundred monitors and security forces to the 
+     region, as well as by recognizing the need for a far larger 
+     force with a broader mandate.
+       (18) Despite the threat of international action expressed 
+     through United Nations Security Council Resolution 1556 of 
+     July 30, 2004, the Government of Sudan continues to obstruct 
+     and prevent efforts to reverse the catastrophic consequences 
+     that loom over Darfur.
+
+     SEC. 4. SENSE OF CONGRESS REGARDING THE CONFLICT IN DARFUR, 
+                   SUDAN.
+
+       (a) Sudan Peace Act.--It is the sense of Congress that the 
+     Sudan Peace Act (50 U.S.C. 1701 note) remains relevant and 
+     should be extended to include the Darfur region of Sudan.
+       (b) Actions To Address the Conflict.--It is the sense of 
+     Congress that--
+       (1) a legitimate countrywide peace in Sudan will only be 
+     possible if the Agreed Principles of Part A of the Machakos 
+     Protocol of 2002, confirmed by the Nairobi Declaration on the 
+     Final Phase of Peace in the Sudan signed June 5, 2004, 
+     negotiated with the SPLM, apply to all of Sudan and to all of 
+     the people of Sudan, including the Darfur region;
+       (2) the parties to the N'Djamena Agreement (the Government 
+     of Sudan, the SLA, and the JEM) must meet their obligations 
+     under that Agreement to allow safe and immediate access of 
+     all humanitarian assistance throughout the Darfur region and 
+     must expedite the conclusion of a political agreement to end 
+     the genocide and conflict in Darfur;
+       (3) the United States should continue to provide 
+     humanitarian assistance to the areas of Sudan to which the 
+     United States has access and, at the same time, develop a 
+     plan similar to that described in section 10 of the Sudan 
+     Peace Act to provide assistance to the areas of Sudan to 
+     which United States access has been obstructed or denied;
+       (4) the international community, including African, Arab, 
+     and Muslim nations, should immediately provide resources 
+     necessary to save the lives of hundreds of thousands of 
+     individuals at risk as a result of the Darfur crisis;
+       (5) the United States Ambassador-at-Large for War Crimes 
+     should travel to Chad and the Darfur region immediately to 
+     investigate war crimes and crimes against humanity to develop 
+     a more accurate understanding of the situation on the ground 
+     and to better inform the report required in section 11(b) of 
+     the Sudan Peace Act;
+       (6) the United States and the international community 
+     should--
+       (A) provide all necessary assistance to deploy and sustain 
+     an African Union Force of at least 4,200 personnel to the 
+     Darfur region; and
+       (B) work to increase the authorized level and expand the 
+     mandate of such forces commensurate with the gravity and 
+     scope of the problem in a region the size of France;
+       (7) the President, acting through the Secretary of State 
+     and the Permanent Representative of the United States to the 
+     United Nations, should ensure that Sudan fulfills its 
+     obligations under United Nations Security Council Resolutions 
+     1556 (July 30, 2004) and 1564 (September 18, 2004);
+       (8) sanctions should be imposed on the assets and 
+     activities of those Sudanese Government officials and other 
+     individuals that are involved in carrying out the atrocities 
+     in the Darfur region;
+       (9) the Government of the United States should not 
+     normalize relations with Sudan, including through the lifting 
+     of any sanctions, until the Government of Sudan agrees to, 
+     and takes demonstrable steps to implement, peace agreements 
+     for all areas of Sudan, including Darfur; and
+       (10) Presidential Proclamation 6958 issued November 22, 
+     1996, which suspends entry into the United States of members 
+     of the Government of Sudan, officials of that Government, and 
+     members of the Sudanese Armed Forces, should continue to 
+     remain in effect and be strictly enforced.
+
+     SEC. 5. AMENDMENTS TO THE SUDAN PEACE ACT.
+
+       (a) Assistance for the Crisis in Darfur and for 
+     Comprehensive Peace in Sudan.--
+       (1) In general.--The Sudan Peace Act (50 U.S.C. 1701 note) 
+     is amended by adding at the end the following new section:
+
+     ``SEC. 12. ASSISTANCE FOR THE CRISIS IN DARFUR AND FOR 
+                   COMPREHENSIVE PEACE IN SUDAN.
+
+       ``(a) Authorization of Appropriations.--
+       ``(1) Humanitarian assistance.--There is authorized to be 
+     appropriated to the President for assistance to address the 
+     humanitarian and human rights crisis in the Darfur region and 
+     its impact on eastern Chad, pursuant to the authority in 
+     section 491 of the Foreign Assistance Act of 1961 (22 U.S.C. 
+     2292), $200,000,000 for fiscal year 2005, in addition to any 
+     other funds otherwise available for such purpose.
+       ``(2) Additional assistance.--Subject to the requirements 
+     of this section, there is authorized to be appropriated to 
+     the President, for development and humanitarian assistance 
+     for Sudan upon the conclusion of a permanent, just, and 
+     equitable peace agreement between the Government of Sudan and 
+     the SPLM, $100,000,000 for fiscal year 2005, in addition to 
+     any other funds otherwise available for such purpose.
+       ``(3) Availability.--Amounts appropriated pursuant to the 
+     authorization of appropriations under paragraph (1) or (2) 
+     are authorized to remain available until expended, 
+     notwithstanding any other provision of law other than the 
+     provisions of this section.
+       ``(b) Requirement for Certification.--The assistance 
+     authorized under subsection (a)(2) may be provided--
+       ``(1) to the regions administered by the Government of 
+     Sudan, in accordance with the peace agreement described in 
+     subsection (a)(2), only if the President submits the 
+     certification described in subsection (c); and
+       ``(2) to the regions administered by the SPLM, in 
+     accordance with the peace agreement described in subsection 
+     (a)(2), only if the President submits the certification 
+     described in subsection (d).
+       ``(c) Certification with Regard to Actions of the 
+     Government of Sudan.--The certification referred to in 
+     subsection (b)(1) is a certification submitted by the 
+     President to the appropriate congressional committees that--
+       ``(1) the Government of Sudan is taking demonstrable steps 
+     to--
+       ``(A) ensure that the armed forces of Sudan and any 
+     associated militias are not attacking civilians or 
+     obstructing human rights monitors or the provision of 
+     humanitarian assistance;
+       ``(B) demobilize and disarm militias supported or created 
+     by the Government of Sudan;
+       ``(C) allow full and unfettered access for the provision of 
+     humanitarian assistance to all regions of Sudan, including 
+     Darfur; and
+       ``(D) cooperate fully with the African Union, the United 
+     Nations, and all other observer, monitoring, and protection 
+     missions mandated to operate in Sudan; and
+       ``(2) the Government of Sudan is complying with the 
+     provisions of the peace agreement described in subsection 
+     (a)(2).
+       ``(d) Certification With Regard to SPLM's Compliance With a 
+     Peace Agreement.--The certification referred to in subsection 
+     (b)(2) is a certification submitted by the President to the 
+     appropriate congressional committees that the SPLM is 
+     complying with the provisions of the peace agreement 
+     described in subsection (a)(2).
+       ``(e) Suspension of Assistance.--If, on a date after the 
+     President submits a certification described in subsection (c) 
+     or (d), the President determines that either the Government 
+     of Sudan or the SPLM has ceased taking the actions described 
+     in the applicable subsection, the President shall immediately 
+     suspend the provision of any assistance made available as a 
+     result of such certification until the date on which the 
+     President certifies that such entity has resumed taking such 
+     actions.''.
+       (2) Conforming amendment.--Section 3 of the Sudan Peace Act 
+     (50 U.S.C. 1701 note) is amended by adding at the end the 
+     following new paragraph:
+       ``(4) SPLM.--The term `SPLM' means the Sudan People's 
+     Liberation Movement.''.
+       (b) Reporting Requirement.--Section 8 of the Sudan Peace 
+     Act (50 U.S.C. 1701 note) is amended in the first sentence by 
+     striking ``Sudan.'' and inserting ``Sudan, including the 
+     conflict in the Darfur region.''.
+
+     SEC. 6. OTHER RESTRICTIONS.
+
+       (a) Blocking of Assets.--On the date that is 120 days after 
+     the date of enactment of this Act, if the President has not 
+     submitted the certification described in subsection (c)(1) of 
+     section 12 of the Sudan Peace Act, as added by section 5, the 
+     President shall, consistent with the authorities granted in 
+     the International Emergency Economic Powers Act (50 U.S.C. 
+     1701 et seq.), block the assets of appropriate senior 
+     officials of the Government of Sudan.
+       (b) Continuation of Restrictions.--Restrictions against the 
+     Government of Sudan that were imposed pursuant to title III 
+     and sections 508, 512, and 527 of the Foreign Operations, 
+     Export Financing, and Related Programs Appropriations Act, 
+     2004 (Division D of Public Law 108-199; 118 Stat. 143) or any 
+     other similar provision of law may not be lifted pursuant to 
+     such provisions of law unless the President also makes the 
+     certification described in subsection (c) of section 12 of 
+     the Sudan Peace Act, as added by section 5.
+
+     SEC. 7. REQUIREMENT FOR REPORT.
+
+       (a) Requirement.--Not later than 60 days after the date of 
+     enactment of this Act, the President shall submit to the 
+     appropriate congressional committees a report on the planned 
+     United States response to a comprehensive peace agreement for 
+     Sudan.
+       (b) Content.--The report required by subsection (a) shall 
+     include--
+       (1) a description of the United States response to a 
+     modified peace process between the Government of Sudan and 
+     the SPLM that would account for the implementation of a peace 
+     in all regions of Sudan, in particular Darfur; and
+       (2) a contingency plan for extraordinary humanitarian 
+     assistance should the Government of Sudan continue to 
+     obstruct or delay
+
+[[Page 19379]]
+
+     the international humanitarian response to the crisis in 
+     Darfur.
+       (c) Form of Report.--The report required by subsection (a) 
+     may be submitted in classified form.
+
+     SEC. 8. TECHNICAL CORRECTION.
+
+       Section 12 of the International Organizations Immunities 
+     Act (22 U.S.C. 288f-2) is amended by striking ``Organization 
+     of African Unity'' and inserting ``African Union''.
+
+                            S. Con. Res. 119
+
+       Whereas suicide is one of the most disruptive and tragic 
+     events a family and a community can experience, and it occurs 
+     at a national rate of 30,000 suicides annually;
+       Whereas suicide is the fastest growing cause of death among 
+     youths and the second leading cause of death among college 
+     students;
+       Whereas suicide kills youths 6 to 9 times more often than 
+     homicide;
+       Whereas research shows that 95 percent of all suicides are 
+     preventable;
+       Whereas research shows that the prevention of suicide must 
+     be recognized as a national priority;
+       Whereas community awareness and education will encourage 
+     the development of strategies to prevent suicide;
+       Whereas during the 105th Congress, both the Senate and the 
+     House of Representatives unanimously agreed to resolutions 
+     recognizing suicide as a national problem and declaring 
+     suicide prevention programs to be a national priority (Senate 
+     Resolution 84, 105th Congress, agreed to May 6, 1997, and 
+     House of Representatives Resolution 212, 105th Congress, 
+     agreed to October 9, 1998);
+       Whereas the yellow ribbon is rapidly becoming recognized 
+     internationally as the symbol for the awareness and 
+     prevention of suicide, and it is recognized and used by 
+     suicide prevention groups, crisis centers, schools, churches, 
+     youth centers, hospitals, counselors, teachers, parents, and 
+     especially youth themselves; and
+       Whereas the week beginning September 19, 2004, should be 
+     recognized as Yellow Ribbon Suicide Awareness and Prevention 
+     Week: Now, therefore, be it
+       Resolved by the Senate (the House of Representatives 
+     concurring), That Congress--
+       (1) recognizes that the need to increase awareness about 
+     and prevent suicide is a compelling national priority;
+       (2) reaffirms the commitment of Congress to the priorities 
+     expressed by the 105th Congress, in Senate Resolution 84 and 
+     House Resolution 212, to continue to recognize suicide 
+     prevention as a national priority; and
+       (3) encourages Americans, communities, and the Nation to 
+     work to increase awareness about and prevent suicide.
+
+                          ____________________
+```
