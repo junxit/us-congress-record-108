@@ -1,0 +1,90 @@
+---
+granule: CRECB-2004-pt8-Pg10388
+date: 2004-05-19
+edition: CRECB
+section: SENATE
+page: 10388
+---
+
+# HARPERS FERRY NATIONAL HISTORICAL PARK BOUNDARY REVISION ACT OF 2003
+
+```
+  HARPERS FERRY NATIONAL HISTORICAL PARK BOUNDARY REVISION ACT OF 2003
+
+  The bill (S. 1576) to revise the boundary of Harpers Ferry National 
+Historical Park, and for other purposes, was considered, ordered to be 
+engrossed for a third reading, read the third time and passed; as 
+follows:
+
+                                S. 1576
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Harpers Ferry National 
+     Historical Park Boundary Revision Act of 2003''.
+
+     SEC. 2. HARPERS FERRY NATIONAL HISTORICAL PARK.
+
+       The first section of the Act of June 30, 1944 (58 Stat. 
+     645, chapter 328; 16 U.S.C. 450bb), is amended to read as 
+     follows:
+
+     ``SECTION 1. HARPERS FERRY NATIONAL HISTORICAL PARK.
+
+       ``(a) In General.--To carry out the purposes of this Act, 
+     the Secretary of the Interior (referred to in this Act as the 
+     `Secretary') is authorized to acquire, by purchase from a 
+     willing seller with donated or appropriated funds, by 
+     donation, or by exchange, land or an interest in land within 
+     the boundaries as generally depicted on the map entitled 
+     `Boundary Map, Harpers Ferry National Historical Park', 
+     numbered 385-80,021A, and dated April 1979.
+       ``(b) Bradley and Ruth Nash Addition.--The Secretary is 
+     authorized to acquire, by donation only, approximately 27 
+     acres of land or interests in land that are outside the 
+     boundary of the Harpers Ferry National Historical Park and 
+     generally depicted on the map entitled `Proposed Bradley and 
+     Ruth Nash Addition--Harpers Ferry National Historical Park', 
+     numbered 385-80056, and dated April 1, 1989.
+       ``(c) Boundary Expansion.--
+       ``(1) In general.--The Secretary is authorized to acquire, 
+     by purchase from a willing seller with donated or 
+     appropriated funds, by donation, or by exchange, land or an 
+     interest in land within the area depicted as `Private Lands' 
+     on the map entitled `Harpers Ferry National Historical Park 
+     Proposed Boundary Expansion,' numbered 385/80,126, and dated 
+     July 14, 2003.
+       ``(2) Administration.--The Secretary shall--
+       ``(A) transfer to the National Park Service for inclusion 
+     in the Harpers Ferry National Historical Park (referred to in 
+     this Act as the `Park') the land depicted on the map referred 
+     to in paragraph (1) as `U.S. Fish and Wildlife Service Lands' 
+     and revise the boundary of the Park accordingly; and
+       ``(B) revise the boundary of the Park to include the land 
+     depicted on the map referred to in paragraph (1) as 
+     `Appalachian NST' and exclude that land from the boundary of 
+     the Appalachian National Scenic Trail.
+       ``(d) Maximum Number of Acres.--The number of acres of the 
+     Park shall not exceed 3,745.
+       ``(e) Maps.--The maps referred to in this section shall be 
+     on file and available for public inspection in the 
+     appropriate offices of the National Park Service.
+       ``(f) Acquired Land.--Land or an interest in land acquired 
+     under this section shall become a part of the Park, subject 
+     to the laws (including regulations) applicable to the Park.
+       ``(g) Authorization of Appropriations.--There are 
+     authorized to be appropriated such sums as are necessary to 
+     carry out this section.''.
+
+     SEC. 3. CONFORMING AMENDMENTS.
+
+       Sections 2 and 3 of the Act of June 30, 1944 (58 Stat. 646, 
+     chapter 328; 16 U.S.C. 450bb-1, 450bb-2), are amended by 
+     striking ``Secretary of the Interior'' each place it appears 
+     and inserting ``Secretary''.
+
+                          ____________________
+```
