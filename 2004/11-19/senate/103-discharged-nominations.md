@@ -1,0 +1,26 @@
+---
+granule: CRECB-2004-pt18-Pg24285-2
+date: 2004-11-19
+edition: CRECB
+section: SENATE
+page: 24285
+---
+
+# DISCHARGED NOMINATIONS
+
+```
+                         DISCHARGED NOMINATIONS
+
+  The Senate Committee on Foreign Relations was discharged from further 
+consideration of the following nominations and the nominations were 
+placed on the Executive Calendar:
+
+       FOREIGN SERVICE NOMINATIONS BEGINNING WITH RALPH L. BOYCE, 
+     JR. AND ENDING WITH ROBERT J. WHIGHAM, WHICH NOMINATIONS WERE 
+     RECEIVED BY THE SENATE AND APPEARED IN THE CONGRESSIONAL 
+     RECORD ON OCTOBER 7, 2004.
+       FOREIGN SERVICE NOMINATIONS BEGINNING WITH ROBERT M. CLAY 
+     AND ENDING WITH MARCIA L. NORMAN, WHICH NOMINATIONS WERE 
+     RECEIVED BY THE SENATE AND APPEARED IN THE CONGRESSIONAL 
+     RECORD ON OCTOBER 7, 2004.
+```
