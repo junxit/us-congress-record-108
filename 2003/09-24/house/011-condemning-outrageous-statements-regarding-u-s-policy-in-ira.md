@@ -1,0 +1,39 @@
+---
+granule: CRECB-2003-pt17-Pg22814-12
+date: 2003-09-24
+edition: CRECB
+section: HOUSE
+page: 22814
+---
+
+# CONDEMNING OUTRAGEOUS STATEMENTS REGARDING U.S. POLICY IN IRAQ
+
+```
+     CONDEMNING OUTRAGEOUS STATEMENTS REGARDING U.S. POLICY IN IRAQ
+
+  (Ms. GINNY BROWN-WAITE of Florida asked and was given permission to
+
+[[Page 22815]]
+
+address the House for 1 minute and to revise and extend her remarks.)
+  Ms. GINNY BROWN-WAITE of Florida. Mr. Speaker, as I am sure you know 
+by now, last week the war in Iraq was called ``a fraud made up in Texas 
+to give Republicans a political boost.''
+  I am sure that our military, who are putting their lives on the line 
+for this war, do not appreciate this characterization of their mission.
+  Yesterday I visited Walter Reed Hospital. I spoke with our military 
+who were wounded and with their family members. To a person, they 
+support what we are doing in Iraq. They firmly believe that it is in 
+the benefit of not only this country, but certainly the Iraqi people.
+  However, we should be outraged at what was said. We should be 
+outraged that the statements were based not on facts, but on 
+disinformation.
+  Mr. Speaker, misinformation is mistaken information. However, 
+disinformation is just plain lying, and that is a shame.
+  It is for this reason that I stand before this body to condemn these 
+outrageous statements. They remind us all of the value that some people 
+in this country place on political gain and the lengths that they are 
+willing to go to to achieve it.
+
+                          ____________________
+```
