@@ -1,0 +1,26 @@
+---
+granule: CRECB-2004-pt10-Pg13575-3
+date: 2004-06-23
+edition: CRECB
+section: SENATE
+page: 13575
+---
+
+# ENROLLED BILL SIGNED
+
+```
+                          ENROLLED BILL SIGNED
+
+  At 6:03 p.m., a message from the House of Representatives, delivered 
+by Mr. Hays, one of its reading clerks, announced that the Speaker has 
+signed the following enrolled bill:
+
+       H.R. 4589. An act to reauthorize the Temporary Assistance 
+     for Needy Families block grant program through September 30, 
+     2004, and for other purposes.
+
+  The enrolled bill was signed subsequently by the President pro 
+tempore (Mr. Stevens).
+
+                          ____________________
+```
