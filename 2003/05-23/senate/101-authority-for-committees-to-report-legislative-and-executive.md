@@ -1,0 +1,24 @@
+---
+granule: CREC-2003-05-23-pt1-PgS7173-4
+date: 2003-05-23
+edition: CREC
+section: SENATE
+page: S7173
+citation: 149 Cong. Rec. S7173
+---
+
+# AUTHORITY FOR COMMITTEES TO REPORT LEGISLATIVE AND EXECUTIVE MATTERS
+
+**Speaking:** Frist, William H. (F000439) [R-TN]
+
+```
+  AUTHORITY FOR COMMITTEES TO REPORT LEGISLATIVE AND EXECUTIVE MATTERS
+
+  Mr. FRIST. Mr. President, I ask unanimous consent that, 
+notwithstanding the recess or adjournment of the Senate, committees be 
+authorized to report legislative and executive matters on Thursday, May 
+29, 2003, from 10 a.m. to 12 noon.
+  The PRESIDENT pro tempore. Without objection, it is so ordered.
+
+                          ____________________
+```
