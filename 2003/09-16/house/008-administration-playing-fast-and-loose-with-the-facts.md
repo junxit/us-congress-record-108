@@ -1,0 +1,215 @@
+---
+granule: CREC-2003-09-16-pt1-PgH8224-3
+date: 2003-09-16
+edition: CREC
+section: HOUSE
+page: H8224
+citation: 149 Cong. Rec. H8224
+---
+
+# ADMINISTRATION PLAYING FAST AND LOOSE WITH THE FACTS
+
+**Speaking:** McGovern, James P. (M000312) [D-MA]
+
+```
+          ADMINISTRATION PLAYING FAST AND LOOSE WITH THE FACTS
+
+  The SPEAKER pro tempore (Mr. Boozman). Pursuant to the order of the 
+House of January 7, 2003, the gentleman from Massachusetts (Mr.
+
+[[Page H8225]]
+
+McGovern) is recognized during morning hour debates for 5 minutes.
+  Mr. McGOVERN. Mr. Speaker, it is becoming increasingly and 
+disturbingly clear that the Bush administration is not being truthful 
+with the American people. From the economy to the environment to the 
+war in Iraq, too often members of the administration play fast and 
+loose with the facts.
+  They said their massive tax cuts for the wealthy would produce 
+thousands of new jobs. In fact, we have lost not thousands but millions 
+of jobs.
+  They pledged that no child would be left behind, when, in fact, their 
+education budget fails to live up to its promises and many children are 
+being left behind.
+  They say there is no real evidence of global warming when, in fact, 
+the vast majority of the scientific evidence disagrees, and it is 
+absolutely stunning to see how hostile this administration is to our 
+precious environment.
+  On foreign policy it is even worse. For example, in a television 
+interview over the weekend, Vice President Cheney rejected suggestions 
+from Democrats, Republicans and people around the world that perhaps a 
+different approach is needed in Iraq. The Vice President insisted that 
+the administration's Iraq policy is a rousing success, but after 
+hundreds of American casualties, billions of American taxpayer dollars, 
+zero weapons of mass destruction and facing a long-term occupation of 
+Iraq, that does not seem like the definition of a rousing success.
+  Before the war, the administration said it would cost between $50 and 
+$100 billion. Mr. Speaker, we now know that the cost of the war in Iraq 
+is at $166 billion and counting.
+  According to the Washington Post, the Vice President pointed to 
+Iraq's prewar possession of 500 tons of uranium as evidence of their 
+reconstituted, to use his word, nuclear program. The reality is the 
+material was low-grade uranium that could not be used for weapons 
+without sophisticated processing that Iraq could not do.
+  Perhaps most disturbingly, the Vice President and other members of 
+this administration continue to cloud the issue regarding the link 
+between Iraq and the terrible tragedy of September 11.
+  The Vice President on Sunday insisted that the relationship between 
+Iraq and al Qaeda ``involved training, for example, on biological and 
+chemical weapons, that al Qaeda sent personnel to Baghdad to get 
+trained on the systems.''
+  According to a report in today's Boston Globe, however, those claims 
+are based on the hearsay of a terrorist, have never been verified, 
+cannot be proven, and are questionable at best, and Mr. Speaker, I 
+would put the full story of the Boston Globe in the Record at this 
+point.
+
+                        [From the Boston Globe]
+
+                  Cheney Link of Iraq, 9/11 Challenged
+
+         (By Anne E. Kornblut and Bryan Bender, Sept. 16, 2003)
+
+       Washington.--Vice President Dick Cheney, anxious to defend 
+     the White House foreign policy amid ongoing violence in Iraq, 
+     stunned intelligence analysts and even members of his own 
+     administration this week by failing to dismiss a widely 
+     discredited claim: that Saddam Hussein might have played a 
+     role in the Sept. 11 attacks.
+       Evidence of a connection, if any exists, has never been 
+     made public. Details that Cheney cited to make the case that 
+     the Iraqi dictator had ties to Al Qaeda have been dismissed 
+     by the CIA as having no basis, according to analysts and 
+     officials. Even before the war in Iraq, most Bush officials 
+     did not explicitly state and Iraq had a part in the attack on 
+     the United States two years ago.
+       But Cheney left that possibility wide open in a nationally 
+     televised interview two days ago, claiming that the 
+     administration is learning ``more and more'' about 
+     connections between Al Qaeda and Iraq before the Sept. 11 
+     attacks. The statement surprised some analysts and officials 
+     who have reviewed intelligence reports from Iraq.
+       Democrats sharply attacked him for exaggerating the threat 
+     Iraq posed before the war.
+       ``There is no credible evidence that Saddam Hussein had 
+     anything to do with 9/11,'' Senator Bob Graham, a Democrat 
+     running for president, said in an interview last night. 
+     ``There was no such relationship.''
+       A senior foreign policy adviser to Howard Dean, the 
+     Democratic front-runner, said it is ``totally inappropriate 
+     for the vice president to continue making these allegations 
+     without bringing forward'' any proof.
+       Cheney and his representatives declined to comment on the 
+     vice president's statements. But the comments also surprised 
+     some in the intelligence community who are already 
+     simmering over the way the administration utilized 
+     intelligence reports to strengthen the case for the war 
+     last winter.
+       Vincent Cannistraro, a former CIA counterterrorism 
+     specialist, said that Cheney's ``willingness to use 
+     speculation and conjecture as facts in public presentations 
+     is appalling. It's astounding.''
+       In particular, current intelligence officials reiterated 
+     yesterday that a reported Prague visit in April 2001 between 
+     Sept. 11 hijacker Mohamed Atta and an Iraqi agent had been 
+     discounted by the CIA, which sent former agency Director 
+     James R. Woolsey to investigate the claim. Woolsey did not 
+     find any evidence to confirm the report, officials said, and 
+     President Bush did not include it in the case for war in his 
+     State of the Union address last January.
+       But Cheney, on NBC's ``Meet the Press,'' cited the report 
+     of the meeting as possible evidence of an Iraq-Al Qaeda link 
+     and said it was neither confirmed nor discredited, saying.
+       ``We've never been able to develop any more of that yet, 
+     either in terms of confirming it or discrediting it. We just 
+     don't know.''
+       Multiple intelligence officials said that the Prague 
+     meeting, purported to be between Atta and senior Iraqi 
+     intelligence officer Ahmed Khalil Ibrahim Samir al-Ani, was 
+     dismissed almost immediately after it was reported by Czech 
+     officials in the aftermath of Sept. 11 and has since been 
+     discredited further.
+       The CIA reported to Congress last year that it could not 
+     substantiate the claim, while American records indicate Atta 
+     was in Virginia Beach, Va., at the time, the officials said 
+     yesterday. Indeed, two intelligence officials said yesterday 
+     that Ani himself, now in U.S. custody, has also refuted the 
+     report. The Czech government has also distanced itself from 
+     its original claim.
+       A senior defense official with access to high-level 
+     intelligence reports expressed confusion yesterday over the 
+     vice president's decision to reair charges that have been 
+     dropped by almost everyone else. ``There isn't any new 
+     intelligence that would precipitate anything like this,'' the 
+     official said, speaking on condition he not be named.
+       Nonetheless, 60 percent of Americans believe that Hussein 
+     probably had a part in attacking the United States, according 
+     to a recent Washington Post poll. And Democratic senators 
+     have charged that the White House is fanning the 
+     misperception by mentioning Hussein and the Sept. 11 attacks 
+     in ways that suggest a link.
+       Bush administration officials insisted yesterday that they 
+     are learning more about various Iraqi connections with Al 
+     Qaeda. They said there is evidence suggesting a meeting took 
+     place between the head of Iraqi intelligence and Osama bin 
+     Laden in Sudan in the mid-1990s; another purported meeting 
+     was said to take place in Afghanistan, and during it Iraqi 
+     officials offered to provide chemical and biological weapons 
+     training, according to officials who have read transcripts of 
+     interrogations with Al Qaeda detainees.
+       But there is no evidence proving the Iraqi regime knew 
+     about or took part in the Sept. 11 attacks, the Bush 
+     officials said.
+       Former senator Max Cleland, who is a member of the national 
+     commission investigating the attacks, said yesterday that 
+     classified documents he has reviewed on the subject weaken, 
+     rather than strengthen, administration assertions that 
+     Hussein's regime may have been allied with Al Qaeda.
+       ``The vice president trying to justify some connection is 
+     ludicrous,'' he said.
+       Nonetheless, Cheney, in the ``Meet the Press'' interview 
+     Sunday, insisted that the United States is learning more 
+     about the links between Al Qaeda and Hussein.
+       ``We learn more and more that there was a relationship 
+     between Iraq and Al Qaeda that stretched back through most of 
+     the decade of the '90s,'' Cheney said, ``that it involved 
+     training, for example, on [biological and chemical weapons], 
+     that Al Qaeda sent personnel to Baghdad to get trained on the 
+     systems.''
+       The claims are based on a prewar allegation by a ``senior 
+     terrorist operative,'' who said he overheard an Al Qaeda 
+     agent speak of a mission to seek biological or chemical 
+     weapons training in Iraq, according to Secretary of State 
+     Colin Powell's statement to the United Nations in February.
+       But intelligence specialists told the Glove last August 
+     that they have never confirmed that the training took place, 
+     or identified where it could have taken place. ``The general 
+     public just doesn't have any independent way of weighing what 
+     is said,'' Cannistraro, the former CIA counterterrorism 
+     specialist, said. ``If you repeat it enough times . . . then 
+     people become convinced it's the truth.''
+
+  Mr. McGOVERN. Before the war, we were told that Iraq possessed 
+stockpiles of chemical and biological weapons. Today, the 
+administration is singing a very different tune. They now talk about 
+Iraq ``maintaining the capability to develop'' those weapons. 
+Maintaining the capability to develop? Is that what passes for proof in 
+the Bush administration?
+  There are those who occasionally attempt to give straight answers. 
+Larry Lindsay gave an accurate prediction of how much the war would 
+cost. He got
+
+[[Page H8226]]
+
+fired. General Shinseki told the truth about how many troops would be 
+needed in Iraq. He has been replaced.
+  In the Bush administration, it seems loyalty to the party line is 
+more important than candor.
+  Mr. Speaker, we are talking about important issues here, issues of 
+war and peace, life and death. The American people deserve to know the 
+truth. They deserve straight talk, not some intentionally muddied 
+rationale created for political purposes. They deserve a lot better 
+than they are getting from this administration.
+
+                          ____________________
+```
