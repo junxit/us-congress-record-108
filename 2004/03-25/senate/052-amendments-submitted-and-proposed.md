@@ -1,0 +1,24 @@
+---
+granule: CRECB-2004-pt4-Pg5247
+date: 2004-03-25
+edition: CRECB
+section: SENATE
+page: 5247
+---
+
+# AMENDMENTS SUBMITTED AND PROPOSED
+
+```
+                   AMENDMENTS SUBMITTED AND PROPOSED
+
+       SA 2936. Mr. LEVIN submitted an amendment intended to be 
+     proposed by him to the bill S. 1637, to amend the Internal 
+     Revenue Code of 1986 to comply with the World Trade 
+     Organization rulings on the FSC/ETI benefit in a manner that 
+     preserves jobs and production activities in the United 
+     States, to reform and simplify the international taxation 
+     rules of the United States, and for other purposes; which was 
+     ordered to lie on the table.
+
+                          ____________________
+```
