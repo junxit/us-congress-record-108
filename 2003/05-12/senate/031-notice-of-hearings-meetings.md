@@ -1,0 +1,25 @@
+---
+granule: CRECB-2003-pt8-Pg11191
+date: 2003-05-12
+edition: CRECB
+section: SENATE
+page: 11191
+---
+
+# NOTICE OF HEARINGS/MEETINGS
+
+```
+                      NOTICE OF HEARINGS/MEETINGS
+
+
+           committee on agriculture, nutrition, and forestry
+
+  Mr. COCHRAN. Mr. President, I announce that the Committee on 
+Agriculture, Nutrition, and Forestry will conduct a hearing on May 15, 
+2003 in SR-328A at 11:30 a.m. The purpose of this hearing will be to 
+review the nominations of Glenn Klippenstein, Julia Bartling, and 
+Lowell Junkins to be a member of the Board of Directors of the Federal 
+Agricultural Mortgage Corporation.
+
+                          ____________________
+```
