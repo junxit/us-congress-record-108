@@ -1,0 +1,22 @@
+---
+granule: CRECB-2004-pt3-Pg3883
+date: 2004-03-10
+edition: CRECB
+section: HOUSE
+page: 3883
+---
+
+# APPOINTMENT AS MEMBER TO NATIONAL PRISON RAPE REDUCTION COMMISSION
+
+```
+   APPOINTMENT AS MEMBER TO NATIONAL PRISON RAPE REDUCTION COMMISSION
+
+  The SPEAKER pro tempore. Pursuant to section 7(b)(1) of the Prison 
+Rape Elimination Act of 2003 (42 U.S.C. 15606), and the order of the 
+House of December 8, 2003, the Chair announces the Speaker's 
+appointment of the following member on the part of the House to the 
+National Prison Rape Reduction Commission:
+  Mr. Pat Nolan, Leesburg, Virginia
+
+                          ____________________
+```
