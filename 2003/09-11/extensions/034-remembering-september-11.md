@@ -1,0 +1,60 @@
+---
+granule: CREC-2003-09-11-pt1-PgE1776
+date: 2003-09-11
+edition: CREC
+section: EXTENSIONS
+page: E1776
+citation: 149 Cong. Rec. E1776
+---
+
+# REMEMBERING SEPTEMBER 11
+
+**Speaking:** Harman, Jane (H000213) [D-CA]
+
+```
+[[Page E1776]]
+                        REMEMBERING SEPTEMBER 11
+
+                                 ______
+                                 
+
+                            HON. JANE HARMAN
+
+                             of california
+
+                    in the house of representatives
+
+                      Thursday, September 11, 2003
+
+  Ms. HARMAN. Mr. Speaker, the passage of time will not fade from our 
+memories the horror we witnessed 2 years ago today.
+  Nor will it diminish our feelings of sadness for those who lost their 
+lives at the World Trade Center, the Pentagon, and in a remote field in 
+western Pennsylvania.
+  For California's South Bay, where LAX--the destination of three of 
+the four hijacked planes--is located, four of my constituents were 
+killed.
+  We remember these individuals and comfort their families: Anna Alison 
+of Torrance, Chandler ``Chad'' Keller of Manhattan Beach, Stanley Hall 
+of Rancho Palos Verdes, and John Wenckus of Torrance.
+  We also remember several other individuals who worked in the 36th 
+district but lived elsewhere. Their coworkers remember them fondly: 
+Ruben Ornedo, who worked at Boeing, and Peter Gay, who worked for 
+Raytheon Electronics and commuted to El Segundo weekly from the east 
+coast
+  Mr. Speaker, since September 11, we have taken concerted action to 
+defeat terrorism. Brave members of our Armed Forces and intelligence 
+communities are working to bring the perpetrators of those terrorist 
+attacks to justice.
+  But we have much still to do.
+  And however difficult that task, we are inspired by the heroism of 
+the first responders who gave their lives that day--by the thousands 
+who are prepared to do the same should another attack occur--and by the 
+memories of so many people who died.
+  As we mark this anniversary, to paraphrase Tennyson, America will 
+``strive . . . seek . . . find . . . and not yield'' in the face of 
+this new threat.
+  Indeed, America will prevail.
+
+                          ____________________
+```
