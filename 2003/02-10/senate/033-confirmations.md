@@ -1,0 +1,25 @@
+---
+granule: CRECB-2003-pt2-Pg2699-4
+date: 2003-02-10
+edition: CRECB
+section: SENATE
+page: 2699
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate February 4, 2003:
+
+
+                             THE JUDICIARY
+
+       JOHN R. ADAMS, OF OHIO, TO BE UNITED STATES DISTRICT JUDGE 
+     FOR THE NORTHERN DISTRICT OF OHIO.
+       S. JAMES OTERO, OF CALIFORNIA, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE CENTRAL DISTRICT OF CALIFORNIA.
+       ROBERT A. JUNELL, OF TEXAS, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE WESTERN DISTRICT OF TEXAS.
+```
