@@ -1,0 +1,44 @@
+---
+granule: CRECB-2003-pt16-Pg22473-6
+date: 2003-09-18
+edition: CRECB
+section: SENATE
+page: 22473
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate September 18, 2003:
+
+
+                         DEPARTMENT OF JUSTICE
+
+       KENNETH M. KARAS, OF NEW YORK, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE SOUTHERN DISTRICT OF NEW YORK, VICE ALLEN G. 
+     SCHWARTZ, DECEASED.
+
+[[Page 22474]]
+
+
+
+
+                      DEPARTMENT OF TRANSPORTATION
+
+       KIRK VAN TINE, OF VIRGINIA, TO BE DEPUTY SECRETARY OF 
+     TRANSPORTATION, VICE MICHAEL P. JACKSON, RESIGNED.
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED WHITE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                           To be vice admiral
+
+REAR ADM. DAVID C. NICHOLS JR.
+```
