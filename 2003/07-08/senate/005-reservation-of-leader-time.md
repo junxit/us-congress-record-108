@@ -1,0 +1,18 @@
+---
+granule: CRECB-2003-pt13-Pg17065-6
+date: 2003-07-08
+edition: CRECB
+section: SENATE
+page: 17065
+---
+
+# RESERVATION OF LEADER TIME
+
+```
+                       RESERVATION OF LEADER TIME
+
+  The PRESIDENT pro tempore. Under the previous order, leadership time 
+is reserved.
+
+                          ____________________
+```
