@@ -1,0 +1,21 @@
+---
+granule: CREC-2003-11-04-pt1-PgH10242
+date: 2003-11-04
+edition: CREC
+section: HOUSE
+page: H10242
+citation: 149 Cong. Rec. H10242
+---
+
+# AFTER RECESS
+
+```
+[[Page H10242]]
+                              {time}  1400
+                              AFTER RECESS
+
+  The recess having expired, the House was called to order by the 
+Speaker pro tempore (Mr. Hefley) at 2 p.m.
+
+                          ____________________
+```
