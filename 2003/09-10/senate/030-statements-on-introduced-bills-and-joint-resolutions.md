@@ -1,0 +1,374 @@
+---
+granule: CRECB-2003-pt16-Pg21688
+date: 2003-09-10
+edition: CRECB
+section: SENATE
+page: 21688
+---
+
+# STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+```
+          STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+      By Mr. SPECTER:
+  S. 1604. A bill to increase criminal penalties relating to terrorist 
+murders, deny Federal benefits to terrorists, and for other purposes; 
+to the Committee on the Judiciary.
+  Mr. SPECTER. Mr. President, I ask unanimous consent that the text of 
+the bill be printed in the Record.
+  There being no objection, the bill was ordered to be printed in the 
+Record, as follows:
+
+                                S. 1604
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Terrorist Penalties 
+     Enhancement Act of 2003''.
+
+     SEC. 2. PENALTIES FOR TERRORIST MURDERS.
+
+       (a) In General.--Chapter 113B of title 18, United States 
+     Code, is amended by adding at the end the following:
+
+     ``Sec. 2339D. Terrorist offenses resulting in death
+
+       ``(a) Penalty.--A person who, in the course of committing a 
+     terrorist offense, engages in conduct that results in the 
+     death of a person, shall be punished by death or imprisoned 
+     for any term of years or for life.
+       ``(b) Terrorist Offense Defined.--In this section, the term 
+     `terrorist offense' means--
+       ``(1) international or domestic terrorism as defined in 
+     section 2331;
+       ``(2) a Federal crime of terrorism as defined in section 
+     2332b(g);
+       ``(3) an offense under this chapter;
+       ``(4) section 175, 175b, 229, or 831 of this title;
+       ``(5) section 236 of the Atomic Energy Act of 1954 (42 
+     U.S.C. 2284); or
+       ``(6) an attempt or conspiracy to commit an offense 
+     described in paragraph (1), (2), (3), (4), or (5).''.
+       (b) Chapter Analysis.--The chapter analysis of chapter 113B 
+     of title 18, United States Code, is amended by inserting at 
+     the end the following:
+
+``2339D. Terrorist offenses resulting in death.''.
+       (c) Aggravating Factors.--
+       (1) In general.--Section 3591(a)(1) of title 18, United 
+     States Code, is amended by striking ``or section 2381'' and 
+     inserting ``2339D, or 2381''.
+
+[[Page 21689]]
+
+       (2) Conforming amendment.--Section 3592(b) of title 18, 
+     United States Code, is amended--
+       (A) in the heading, by striking ``and treason'' and 
+     inserting ``, treason, and terrorism''; and
+       (B) in paragraph (1)--
+       (i) in the heading, by striking ``or treason'' and 
+     inserting ``, treason, or terrorism''; and
+       (ii) by striking ``or treason'' and inserting ``, treason, 
+     or terrorism''.
+
+     SEC. 3. DENIAL OF FEDERAL BENEFITS TO TERRORISTS.
+
+       (a) In General.--Chapter 113B of title 18, United States 
+     Code, is amended by adding at the end the following:
+
+     ``Sec. 2339E. Denial of Federal benefits to terrorists
+
+       ``(a) In General.--Any individual who is convicted of a 
+     Federal crime of terrorism (as defined in section 2332b(g)) 
+     shall, as provided by the court on motion of the Government, 
+     be ineligible for any or all Federal benefits for any term of 
+     years or for life.
+       ``(b) Federal Benefit Defined.--As used in this section, 
+     `Federal benefit' has the meaning given that term in section 
+     421(d) of the Controlled Substances Act (21 U.S.C. 
+     862(d)).''.
+       (b) Chapter Analysis.--The chapter analysis of chapter 113B 
+     of title 18, United States Code, is amended by inserting at 
+     the end the following:
+
+``2339E. Denial of Federal benefits to terrorists.''.
+                                 ______
+                                 
+      By Mr. GRAHAM of Florida (for himself and Mr. Reid):
+  S. 1605. A bill to authorize major medical facility projects for the 
+Department of Veterans Affairs in connection with the Capital Asset 
+Realignment for Enhanced Services initiative and to satisfy Department 
+of Veterans Affairs requirements on natural disasters, and for other 
+purposes; to the Committee on Veterans' Affairs.
+
+  Mr. GRAHAM. Mr. President, I rise today to introduce legislation that 
+would authorize the construction of new veterans' hospitals in east-
+central Florida and Las Vegas, NV. In addition, the legislation would 
+enable the Department of Veterans Affairs, VA, Medical Center in San 
+Juan, Puerto Rico, to sustain operations in the event of a natural 
+disaster, such as an earthquake.
+  For years now, VA has been under a sort of moratorium for new 
+construction projects. This was due to the capital asset realignment 
+for enhanced services, CARES, process, which is designed to examine 
+VA's infrastructure and try to realign it to better meet the projected 
+needs of veterans. Many here in Congress were understandably reluctant 
+to invest any valuable dollars in a facility that may ultimately be 
+slated for downsizing.
+  However, the CARES process is now nearing its end. The CARES 
+Commission is in the process of reviewing the national draft plan 
+developed by the Under Secretary for Health, and Commissioners will 
+make their recommendations to the Secretary by the end of November. The 
+Secretary will then make his final decisions on what plans will be 
+implemented by the end of the year.
+  Included in the national draft plan were two major construction 
+initiatives: a new hospital and clinic in Las Vegas, NV, and a new 
+facility in east-central Florida. In light of the fact that these two 
+projects are the only new hospitals included in the draft plan, and 
+that the great need in both of these areas has been well documented, 
+the sooner we can get these facilities up and running, the better.
+  Veterans living in east-central Florida are in dire need of a full-
+fledged VA hospital. One VA report found that since 1996, ``the Central 
+Florida market sustained the greatest workload expansion of the entire 
+VA system--105 percent.'' Other VA studies have deemed Orlando as ``the 
+logical choice for infrastructure investment for all major Inpatient 
+and Outpatient categories.'' The decision about where to place a new VA 
+hospital in this region falls to VA, but I encourage Secretary Principi 
+to carefully study all the options to ensure that the most appropriate 
+location is chosen.
+  Las Vegas, in Clark County, NV, was recognized by VA as, `` . . . one 
+of the fastest growing markets in the U.S.'' VA also acknowledges that 
+there is a gap in long-term care accessibility in this area, and that 
+contracting in the community is not a viable option as there are 
+quality of care issues with the region's private sector facilities. Why 
+should we wait to authorize projects whose necessity is broadly 
+recognized by veterans and VA alike?
+  This legislation would also authorize $30 million for the San Juan VA 
+Medical Center to undertake much needed upgrading in order to ensure 
+that patient safety is not unnecessarily jeopardized in the event of an 
+earthquake. The money would be used to bring the facility in line with 
+the CD-54 natural disasters directive, enabling vital services to 
+continue to be provided for 7 to 10 days after a disaster. Services 
+that would be reinforced by this project are primarily utilities, which 
+in some cases provide lifesaving support to patients.
+  In 1991, the San Juan VA Medical Center was deemed seismically 
+unsound, and other structural deficiencies were uncovered as well. 
+Although the Carribean is not normally thought of as a seismic ``hot 
+spot,'' the islands are mountainous and severe earthquakes do occur 
+there every few decades. The supposed unlikelihood of such an event is 
+no reason to not have contingency operations should something actually 
+occur. Patient safety is not something that can be gambled with in this 
+manner. It is important that we supply the San Juan VA Medical Center 
+with the additional resources it needs to make sure that no patient has 
+to go without life support in the event of a natural disaster. I was 
+disappointed that the San Juan upgrading project was not included in 
+VA's draft plan, but regardless, I do believe we have an obligation to 
+make these needed repairs.
+  Finally, I would like to recognize the efforts of my friend Senator 
+Reid in this initiative, who is also facing a rapidly growing veteran 
+population in his home State of Nevada. Additionally, I want to thank 
+Representative Corrine Brown of the Orlando area, Representative 
+Shelley Berkley of Las Vegas, and Representative Anibal Acevedo-Vila of 
+Puerto Rico, who have all been very helpful in developing a companion 
+bill in the House.
+  I urge my colleagues to join us in this effort for our Nation's 
+veterans.
+  I ask unanimous consent that the text of the bill be printed in the 
+Record.
+  There being no objection, the bill was ordered to be printed in the 
+Record, as follows:
+
+                                S. 1605
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. AUTHORIZATION OF MAJOR MEDICAL FACILITY PROJECTS.
+
+       The Secretary of Veterans Affairs may carry out the 
+     following major medical facility projects, with each project 
+     to be carried out in an amount not to exceed the amount 
+     specified for that project:
+       (1) Construction of a health care facility at a location in 
+     East Central Florida selected by the Secretary, as part of 
+     the Capital Asset Realignment for Enhanced Services (CARES) 
+     initiative, $170,000,000.
+       (2) Improvements of the Department of Veterans Affairs 
+     Medical Center in San Juan, Puerto Rico, in order to bring 
+     that facility into compliance with the CD-54 Natural 
+     Disasters Directive, $30,000,000.
+       (3) Construction of a health care facility in Las Vegas, 
+     Nevada, as part of the Capital Asset Realignment for Enhanced 
+     Services initiative, $250,000,000.
+
+     SEC. 2. AUTHORIZATION OF APPROPRIATIONS.
+
+       (a) In General.--There are authorized to be appropriated 
+     for the Secretary of Veterans Affairs for fiscal year 2004 
+     for the Construction, Major Projects, account, a total of 
+     $450,000,000 for the projects authorized in section 1.
+       (b) Limitation.--The projects authorized in section 1 may 
+     only be carried out using--
+       (1) funds appropriated for fiscal year 2004 pursuant to the 
+     authorization of appropriations in subsection (a);
+       (2) funds appropriated for Construction, Major Projects, 
+     for a fiscal year before fiscal year 2004 that remain 
+     available for obligation; and
+       (3) funds appropriated for Construction, Major Projects, 
+     for fiscal year 2004 for a category of activity not specific 
+     to a project.
+                                  ____
+
+  Mr. REID. Mr. President, I join with my colleague, Senator Graham of 
+Florida, to introduce legislation that authorizes funding for a new 
+veterans' hospital, outpatient clinic and senior center in Southern 
+Nevada. Nevada is now the third most popular retirement
+
+[[Page 21690]]
+
+State in the Nation. And many of the retirees who make their homes in 
+Nevada are veterans who served our country with courage and honor.
+  More than 240,000 veterans live in Nevada, and more than one-third of 
+Nevada's residents over age 65 have worn the uniform of the United 
+States. Veterans are the cornerstone of our economy. They are also our 
+neighbors, our family members and our friends.
+  As we welcome these veterans, we must also ensure that they can get 
+the services they need--especially medical care. Our veterans put their 
+lives on the line for our freedom. They deserve the best health care in 
+the world. But we have been struggling to keep up with our fast-growing 
+population of veterans.
+  Across the Nation, more than 110,000 veterans have waited more than 6 
+months for their first medical appointment with the VA. There have been 
+some backlogs in booming areas like Las Vegas, which has the highest 
+growth rate in the Nation. This new facility should ease some of these 
+delays and result in improved care for our veterans.
+  I was pleased to learn recently from VA Secretary Anthony Principi 
+that he endorsed the building of a new hospital in southern Nevada. 
+This bill, which was made possible by the strong leadership of Senator 
+Graham of Florida, would authorize $250 million to build this sorely 
+needed facility.
+  I realize that we have many urgent priorities today, and our 
+resources are not unlimited. But this is a matter of national security. 
+We have soldiers in the desert of Iraq today who volunteered to risk 
+their lives protecting our freedom. They willingly put their lives on 
+the line for us. In return, we make certain promises to them. One of 
+those promises is that they will receive quality health care when they 
+come home. We must keep this promise to our troops.
+  Right now, I am sorry to say, we are not keeping that promise to the 
+Nation's veterans. This bill will help steer us onto the right course, 
+and begin to correct that injustice for the veterans in Southern 
+Nevada.
+  I urge your support of this legislation.
+                                 ______
+                                 
+      By Mr. KYL:
+  S. 1606. A bill to strengthen and enhance public safety through 
+pretrial detention and postrelease supervision of terrorists, and for 
+other purposes; to the Committee on the Judiciary.
+  Mr. KYL. Mr. President, I rise today to introduce the ``Pretrial 
+Detention and Lifetime Supervision of Terrorists Act of 2003,'' 
+legislation that will fill continuing gaps in the laws that our police 
+and prosecutors use to protect our Nation from terrorism.
+  Under current Federal law, defendants accused of certain crimes--such 
+as drug crimes carrying a potential sentence of ten years or more--are 
+presumptively denied pretrial release. This provision of current law, 
+however, does not apply to terrorists.
+  The legislation that I have introduced today would fix this 
+oversight, by amending the criminal code to presumptively deny pre-
+trial release to persons charged with terrorist activity. The 
+presumption would apply to Federal crimes of terrorism, as enumerated 
+in the criminal code, if the Attorney General certifies that the 
+offense, by its nature and context, appears to be intended to 
+intimidate or coerce a civilian population, to influence the policy of 
+a government by intimidation or coercion, or to affect the conduct of a 
+government by mass destruction, assassination, or kidnapping, or an 
+offense involved in or related to domestic or international terrorism.
+  Extending the presumption in current law to terrorist offenses is 
+justified by the unparalleled magnitude of the threat posed to our 
+Nation by acts of terrorism. Terrorists are at least as much of a 
+threat as drug dealers--and should also be subject to a presumption of 
+pre-trial detention.
+  The bill that I have introduced today also would broaden the list of 
+offenses that render a convicted terrorist eligible for lifetime 
+supervision subsequent to his release from prison. Currently law allows 
+lifetime post-release supervision for terrorist offenses only if they 
+result in or create a foreseeable risk of death or serious injury. This 
+limitation could prevent the imposition of adequate supervision periods 
+for persons convicted of non-violent terrorist offenses, such as a 
+computer attack on the United States that results in tens of billions 
+of dollars of economic damage. It could also limit supervision for 
+persons who provide the essential financial or other material support 
+for terrorist acts, but who do not themselves directly engage in 
+violent terrorist acts.
+  The continuing danger posed to our Nation's security by such persons 
+may be no less than that posed by the direct perpetrators of terrorist 
+violence. The courts should be afforded the same degree of discretion 
+in prescribing postrelease supervision for these terrorists as for 
+others.
+  For this reason, the bill introduced today eliminates the 
+foreseeable-risk-of-injury requirement and allows lifetime supervision 
+for all offenses in the standard list of crimes likely to be committed 
+by terrorists and their supporters. This reform reflects the continuing 
+danger posed by convicted terrorists after their completion of a term 
+of imprisonment. It recognizes that even those terrorists not directly 
+involved in the use of violence may continue to harbor a commitment to 
+terrorist goals and methods that will not dissipate within a few years 
+of release.
+  I look forward to the Senate's consideration of these common-sense 
+reforms to our Nation's anti-terror laws.
+  Mr. President, I ask unanimous consent that the text of the bill be 
+printed in the Record.
+  There being no objection, the bill was ordered to be printed in the 
+Record, as follows:
+
+                                S. 1606
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Pretrial Detention and 
+     Lifetime Supervision of Terrorists Act of 2003''.
+
+     SEC. 2. PRESUMPTION FOR PRETRIAL DETENTION IN CASES INVOLVING 
+                   TERRORISM.
+
+       Section 3142 of title 18, United States Code, is amended--
+       (1) in the flush language at the end of subsection (e) by--
+       (A) striking ``or'' before ``the Maritime''; and
+       (B) striking ``or'' before ``2332b''; and
+       (C) inserting before the period at the end the following: 
+     ``, or an offense listed in section 2332b(g)(5)(B) of title 
+     18 of the United States Code, if the Attorney General 
+     certifies that the offense appears by its nature or context 
+     to be intended to intimidate or coerce a civilian population, 
+     to influence the policy of a government by intimidation or 
+     coercion, or to affect the conduct of a government by mass 
+     destruction, assassination, or kidnaping, or an offense 
+     involved in or related to domestic or international terrorism 
+     as defined in section 2331 of title 18 of the United States 
+     Code''; and
+       (2) in subsections (f)(1)(A) and (g)(1), by inserting after 
+     ``violence'' the following: ``or an offense listed in section 
+     2332b(g)(5)(B) of title 18 of the United States Code, if the 
+     Attorney General certifies that the offense appears by its 
+     nature or context to be intended to intimidate or coerce a 
+     civilian population, to influence the policy of a government 
+     by intimidation or coercion, or to affect the conduct of a 
+     government by mass destruction, assassination, or kidnaping, 
+     or an offense involved in or related to domestic or 
+     international terrorism as defined in section 2331 of title 
+     18 of the United States Code''.
+
+     SEC. 3. POSTRELEASE SUPERVISION OF TERRORISTS.
+
+       Section 3583(j) of title 18, United States Code, is amended 
+     by striking ``, the commission'' and all that follows through 
+     ``person,''.
+
+                          ____________________
+```
