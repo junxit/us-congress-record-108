@@ -1,0 +1,150 @@
+---
+granule: CREC-2004-02-05-pt1-PgS650-2
+date: 2004-02-05
+edition: CREC
+section: SENATE
+page: S650
+citation: 150 Cong. Rec. S650
+---
+
+# Introductory Statement on S. 2051
+
+**Speaking:** Cantwell, Maria (C000127) [D-WA]
+
+**Measures:** S. 2051
+
+```
+      By Ms. CANTWELL:
+  S. 2051. A bill to promote food safety and to protect the animal feed 
+supply from bovine spongiform encephalopathy; to the Committee on 
+Agriculture, Nutrition, and Forestry.
+  Ms. CANTWELL. Mr. President, I ask unanimous consent that the text of 
+the bill be printed in the Record.
+  There being no objection, the bill was ordered to be printed in the 
+Record, as follows:
+
+                                S. 2051
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Animal Feed Protection Act 
+     of 2004''.
+
+     SEC. 2. DEFINITIONS.
+
+       In this Act:
+       (1) BSE.--The term ``BSE'' means bovine spongiform 
+     encephalopathy.
+       (2) Covered article.--
+       (A) In general.--The term ``covered article'' means--
+       (i) feed for an animal;
+       (ii) a nutritional supplement for an animal;
+       (iii) medicine for an animal; and
+       (iv) any other article of a kind that is ordinarily 
+     ingested, implanted, or otherwise taken into an animal.
+       (B) Exclusions.--The term ``covered article'' does not 
+     include--
+       (i) an unprocessed agricultural commodity that is readily 
+     identifiable as nonanimal in origin, such as a vegetable, 
+     grain, or nut;
+       (ii) an article described in subparagraph (A) that, based 
+     on compelling scientific evidence, the Secretary determines 
+     does not pose a risk of transmitting prion disease; or
+       (iii) an article regulated by the Secretary that, as 
+     determined by the Secretary--
+
+       (I) poses a minimal risk of carrying prion disease; and
+       (II) is necessary to protect animal health or public 
+     health.
+
+       (3) Specified risk material.--
+       (A) In general.--The term ``specified risk material'' 
+     means--
+       (i) the skull, brain, trigeminal ganglia, eyes, tonsils, 
+     spinal cord, vertebral column, or dorsal root ganglia of--
+
+       (I) cattle and bison 30 months of age and older; or
+       (II) sheep, goats, deer, and elk 12 months of age and 
+     older;
+
+       (ii) the intestinal tract of a ruminant of any age; and
+       (iii) any other material of a ruminant that may carry a 
+     prion disease, as determined by the Secretary, based on 
+     scientifically credible research.
+       (B) Modification.--The Secretary shall conduct an annual 
+     review of scientific research and may modify the definition 
+     of specified risk material based on scientifically credible 
+     research (including the conduct of ante-mortem and post-
+     mortem tests certified by the Secretary of Agriculture).
+       (4) Secretary.--The term ``Secretary'' means the Secretary 
+     of Health and Human Services.
+
+     SEC. 3. PROTECTION OF ANIMAL FEED AND PUBLIC HEALTH.
+
+       It shall be unlawful for any person to introduce into 
+     interstate or foreign commerce a covered article if the 
+     covered article contains--
+       (1)(A) specified risk material from a ruminant; or
+       (B) any material from a ruminant that--
+       (i) was in any foreign country at a time at which there was 
+     a risk of transmission of BSE in the country, as determined 
+     by the Secretary of Agriculture; and
+       (ii) may contain specified risk material from a ruminant; 
+     or
+       (2) any material from a ruminant exhibiting signs of a 
+     neurological disease.
+
+     SEC. 4. ENFORCEMENT.
+
+       (a) Cooperation.--The Secretary and the heads of other 
+     Federal agencies, as appropriate, shall cooperate with the 
+     Attorney General in enforcing this Act.
+       (b) Due Process.--Any person subject to enforcement action 
+     under this section shall have the opportunity for an informal 
+     hearing on the enforcement action as soon as practicable 
+     after, but not later than 10 days after, the enforcement 
+     action is taken.
+       (c) Remedies.--In addition to any remedies available under 
+     other provisions of law, the head of a Federal agency may 
+     enforce this Act by--
+       (1) seizing and destroying an article that is introduced 
+     into interstate or foreign commerce in violation of this Act; 
+     or
+       (2) issuing an order requiring any person that introduces 
+     an article into interstate or foreign commerce in violation 
+     of this Act--
+       (A) to cease the violation;
+       (B)(i) to recall any article that is sold; and
+       (ii) to refund the purchase price to the purchaser;
+       (C) to destroy the article or forfeit the article to the 
+     United States for destruction; or
+       (D) to cease operations at the facility at which the 
+     article is produced until the head of the appropriate Federal 
+     agency determines that the operations are no longer in 
+     violation of this Act.
+       (d) Civil and Monetary Penalties.--The Secretary is 
+     directed to promulgate regulations on the appropriate level 
+     of civil and monetary penalties necessary to carry out the 
+     provisions of this Act, within 180 days following enactment 
+     of this Act.
+
+     SEC. 5. TRAINING STANDARDS.
+
+       The Secretary, in consultation with the Secretary of 
+     Agriculture, shall issue training standards to industry for 
+     the removal of specified risk materials.
+
+     SEC. 6. AUTHORIZATION OF APPROPRIATIONS.
+
+       There is authorized to be appropriated $5,000,000 to carry 
+     out this Act.
+
+     SEC. 7. EFFECTIVE DATE.
+
+       This Act takes effect on the date that is 180 days after 
+     the date of enactment of this Act.
+                                 ______
+```
