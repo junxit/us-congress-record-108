@@ -1,0 +1,44 @@
+---
+granule: CRECB-2004-pt9-Pg12345-5
+date: 2004-06-15
+edition: CRECB
+section: HOUSE
+page: 12345
+---
+
+# COMMUNICATION FROM THE HONORABLE WALLY HERGER, MEMBER OF CONGRESS
+
+```
+                              {time}  1630
+   COMMUNICATION FROM THE HONORABLE WALLY HERGER, MEMBER OF CONGRESS
+
+  The SPEAKER pro tempore (Mrs. Biggert) laid before the House the 
+following communication from the Honorable Wally Herger, Member of 
+Congress:
+
+
+[[Page 12346]]
+
+
+                                    Congress of the United States,
+
+
+                                     House of Representatives,
+
+                                    Washington, DC, June 15, 2004.
+     Hon. J. Dennis Hastert,
+     Speaker, House of Representatives,
+     Washington, DC.
+       Dear Mr. Speaker: This is to notify you formally, pursuant 
+     to Rule VIII of the Rules of the House of Representatives, 
+     that I have been served with a civil subpoena for documents 
+     issued by the Trinity County Superior Court.
+       After consultation with the Office of General Counsel, I 
+     have determined that partial compliance is consistent with 
+     the privileges and precedents of the House.
+           Sincerely,
+                                                     Wally Herger,
+     Member of Congress
+
+                          ____________________
+```
