@@ -1,0 +1,30 @@
+---
+granule: CREC-2004-09-07-pt1-PgH6726
+date: 2004-09-07
+edition: CREC
+section: HOUSE
+page: H6726
+citation: 150 Cong. Rec. H6726
+---
+
+# PERSONAL EXPLANATION
+
+**Speaking:** Renzi, Rick (R000574) [R-AZ]
+
+**Measures:** H.R. 4381, H.R. 4556
+
+```
+                          PERSONAL EXPLANATION
+
+  Mr. RENZI. Mr. Speaker, on Tuesday September 7, 2004, I was attending 
+a funeral and missed the day's votes. Had I been present, I would have 
+voted as follows:
+  (1) On motion to suspend the rules and pass H.R. 4381--Harvey and 
+Bernice Jones Post Office Building Designation Act, I would have voted 
+``yea.''
+  (2) On motion to suspend the rules and pass H.R. 4556--General 
+William Carey Lee Post Office Building Designation Act, I would have 
+voted ``yea.''
+
+                          ____________________
+```
