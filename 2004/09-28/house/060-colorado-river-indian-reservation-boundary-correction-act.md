@@ -1,0 +1,230 @@
+---
+granule: CRECB-2004-pt14-Pg19694
+date: 2004-09-28
+edition: CRECB
+section: HOUSE
+page: 19694
+---
+
+# COLORADO RIVER INDIAN RESERVATION BOUNDARY CORRECTION ACT
+
+```
+       COLORADO RIVER INDIAN RESERVATION BOUNDARY CORRECTION ACT
+
+  Mr. RADANOVICH. Madam Speaker, I move to suspend the rules and pass 
+the bill (H.R. 2941) to correct the south boundary of the Colorado 
+River Indian Reservation in Arizona, and for other purposes, as 
+amended.
+  The Clerk read as follows:
+
+                               H.R. 2941
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE, FINDINGS, PURPOSES.
+
+       (a) Short Title.--This Act may be cited as the ``Colorado 
+     River Indian Reservation Boundary Correction Act''.
+       (b) Findings.--Congress finds the following:
+       (1) The Act of March 3, 1865, created the Colorado River 
+     Indian Reservation (hereinafter ``Reservation'') along the 
+     Colorado River in Arizona and California for the ``Indians of 
+     said river and its tributaries''.
+       (2) In 1873 and 1874, President Grant issued Executive 
+     Orders to expand the Reservation southward and to secure its 
+     southern boundary at a clearly recognizable geographic 
+     location in order to forestall non-Indian encroachment and 
+     conflicts with the Indians of the Reservation.
+       (3) In 1875, Mr. Chandler Robbins surveyed the Reservation 
+     (hereinafter ``the Robbins Survey'') and delineated its new 
+     southern boundary, which included approximately 16,000 
+     additional acres (hereinafter ``the La Paz lands''), as part 
+     of the Reservation.
+       (4) On May 15, 1876, President Grant issued an Executive 
+     Order that established the Reservation's boundaries as those 
+     delineated by the Robbins Survey.
+       (5) In 1907, as a result of increasingly frequent 
+     trespasses by miners and cattle and at the request of the 
+     Bureau of Indian Affairs, the General Land Office of the 
+     United States provided for a resurvey of the southern and 
+     southeastern areas of the Reservation.
+       (6) In 1914, the General Land Office accepted and approved 
+     a resurvey of the Reservation conducted by Mr. Guy Harrington 
+     in 1912 (hereinafter the ``Harrington Resurvey'') which 
+     confirmed the boundaries that were delineated by the Robbins 
+     Survey and established by Executive Order in 1876.
+       (7) On November 19, 1915, the Secretary of the Interior 
+     reversed the decision of the General Land Office to accept 
+     the Harrington Resurvey, and upon his recommendation on 
+     November 22, 1915, President Wilson issued Executive Order 
+     No. 2273 ``. . . to correct the error in location said 
+     southern boundary line . . .''--and thus effectively excluded 
+     the La Paz from the Reservation.
+       (8) Historical evidence compiled by the Department of the 
+     Interior supports the conclusion that the reason given by the 
+     Secretary in recommending that the President issue the 1915 
+     Executive Order--``to correct an error in locating the 
+     southern boundary''--was itself in error and that the La Paz 
+     lands should not have been excluded from the Reservation.
+       (9) The La Paz lands continue to hold cultural and 
+     historical significance, as well as economic development 
+     potential, for the Colorado River Indian tribes, who have 
+     consistently sought to have such lands restored to their 
+     Reservation.
+       (c) Purposes.--The purposes of this Act are:
+       (1) To correct the south boundary of the Reservation by 
+     reestablishing such boundary as it was delineated by the 
+     Robbins Survey and affirmed by the Harrington Resurvey.
+       (2) To restore the La Paz lands to the Reservation, subject 
+     to valid existing rights under Federal law and to provide for 
+     continued reasonable public access for recreational purposes.
+       (3) To provide for the Secretary of the Interior to review 
+     and ensure that the corrected Reservation boundary is 
+     resurveyed and marked in conformance with the public system 
+     of surveys extended over such lands.
+
+     SEC. 2. BOUNDARY CORRECTION, RESTORATION, DESCRIPTION.
+
+       (a) Boundary.--The boundaries of the Colorado River Indian 
+     Reservation are hereby declared to include those boundaries 
+     as were delineated by the Robbins Survey, affirmed by the 
+     Harrington Survey, and described as follows: The 
+     approximately 15,375 acres of Federal land described as 
+     ``Lands Identified for Transfer to Colorado River Indian 
+     Tribes'' on the map prepared by the Bureau of Land Management 
+     entitled ``H.R. 2981, Colorado River Indian Reservation 
+     Boundary Correction Act, and dated May 14, 2004'', 
+     (hereinafter referred to as the ``Map'')
+       (b) Map.--The Map shall be available for review at the 
+     Bureau of Land Management.
+       (c) Restoration.--Subject to valid existing rights under 
+     Federal law, all right, title, and interest of the United 
+     States to those lands within the boundaries declared in 
+     subsection (a) that were excluded from the Colorado River 
+     Indian Reservation pursuant to Executive Order No. 2273 
+     (November 22, 1915) are hereby restored to the Reservation 
+     and shall be held in trust by the United States on behalf of 
+     the Colorado River Indian Tribes.
+       (d) Exclusion.--Excluded from the lands restored to trust 
+     status on behalf of the Colorado River Indian Tribes that are 
+     described in subsection (a) are 2 parcels of Arizona State 
+     Lands identified on the Map as ``State Lands'' and totaling 
+     320 acres and 520 acres.
+
+     SEC. 3. RESURVEY AND MARKING.
+
+       The Secretary of the Interior shall ensure that the 
+     boundary for the restored lands described in section 2(a) is 
+     surveyed and clearly marked in conformance with the public 
+     system of surveys extended over such lands.
+
+     SEC. 4. WATER RIGHTS.
+
+       The restored lands described in section 2(a) and shown on 
+     the Map shall have no Federal reserve water rights to surface 
+     water or ground water from any source.
+
+     SEC. 5. PUBLIC ACCESS.
+
+       Continued access to the restored lands described in section 
+     (2)(a) for hunting and other existing recreational purposes 
+     shall remain available to the public under reasonable rules 
+     and regulations promulgated by the Colorado River Indian 
+     Tribes.
+
+     SEC. 6. ECONOMIC ACTIVITY.
+
+       (a) In General.--The restored lands described in section 
+     (2)(a) shall be subject to all rights-of-way, easements, 
+     leases, and mining claims existing on the date of the 
+     enactment of this Act. The United States reserves the right 
+     to continue all Reclamation projects, including the right to 
+     access and remove mineral materials for Colorado River 
+     maintenance on the restored lands described in section 
+     (2)(a).
+       (b) Additional Rights-of-way.--Notwithstanding any other 
+     provision of law, the Secretary, in consultation with the 
+     Tribe, shall grant additional rights-of-way, expansions, or 
+     renewals of existing rights-of-way for roads, utilities, and 
+     other accommodations to adjoining landowners or existing 
+     right-of-way holders, or their successors and assigns, if--
+       (1) the proposed right-of-way is necessary to the needs of 
+     the applicant;
+       (2) the proposed right-of-way acquisition will not cause 
+     significant and substantial harm to the Colorado River Indian 
+     Tribes; and
+       (3) the proposed right-of-way complies with the procedures 
+     in part 169 of title 25, Code of Federal Regulations 
+     consistent with this subsection and other generally 
+     applicable Federal laws unrelated to the acquisition of 
+     interests on trust lands, except that section 169.3 of those 
+     regulations shall not be applicable to expansions or renewals 
+     of existing rights-of-way for roads and utilities.
+       (c) Fees.--The fees charged for the renewal of any valid 
+     lease, easement, or right-of-way subject to this section 
+     shall not be greater than the current Federal rate for such a 
+     lease, easement, or right-of-way at the time of renewal if 
+     the holder has been in substantial compliance with all terms 
+     of the lease, easement, or right-of-way.
+
+     SEC. 7. GAMING.
+
+       Land taken into trust under this Act shall neither be 
+     considered to have been taken into trust for gaming nor be 
+     used for gaming (as that term is used in the Indian Gaming 
+     Regulatory Act (25 U.S.C. 2701 et seq.)).
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+California (Mr. Radanovich) and the gentleman from Arizona (Mr. 
+Grijalva) each will control 20 minutes.
+  The Chair recognizes the gentleman from California (Mr. Radanovich).
+  Mr. RADANOVICH. Madam Speaker, I yield myself such time as I may 
+consume.
+  H.R. 2941, which is sponsored by the gentleman from Arizona (Mr. 
+Grijalva), would restore about 16,000 acres of public lands in Arizona 
+to the Colorado River Indian Reservation. Passage of this bill takes us 
+one step closer to righting an historic injustice to the Colorado River 
+Indian Tribes.
+  I urge passage of the bill, and I will now allow the author to 
+further explain the bill.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. GRIJALVA. Madam Speaker, I yield myself such time as I may 
+consume.
+  Madam Speaker, the Colorado River Indian Reservation Boundary 
+Correction Act, as amended, will correct a longstanding injustice. In 
+the early part of the 20th century, nearly 16,000 acres of land was 
+stripped from the Colorado River Indian Tribes' reservation in response 
+to heavy lobbying from a
+
+[[Page 19695]]
+
+private mining company that wanted to open up a silver mine in the 
+lands.
+  The Tribes were never provided with an opportunity to challenge the 
+decision, nor were they ever compensated for the loss their lands. 
+Subsequent reviews by the Department of Interior concluded that the 
+lands were inappropriately removed from the reservation and should be 
+returned to the Tribes.
+  This legislation does just that. Almost 90 years after the removal of 
+the land, as amended, it would return that land to the reservation for 
+the possibility of economic development, sacred and cultural importance 
+to the Tribes. And it just strikes me that it is a very fitting bill. 
+Just 1 week ago after the opening of the National Museum of the 
+American Indian, which honors the indigenous people of this continent, 
+this bill also honors our agreements and commitments to the native 
+peoples of this land.
+  I wish to thank all my colleagues and the leadership within the 
+Committee on Resources and the staff for making this bill a priority 
+for passage this session.
+  Madam Speaker, I yield back the balance of my time.
+  Mr. RADANOVICH. Madam Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from California (Mr. Radanovich) that the House suspend the 
+rules and pass the bill, H.R. 2941, as amended.
+  The question was taken; and (two-thirds having voted in favor 
+thereof) the rules were suspended and the bill, as amended, was passed.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
