@@ -1,0 +1,23 @@
+---
+granule: CRECB-2003-pt14-Pg18557-5
+date: 2003-07-17
+edition: CRECB
+section: SENATE
+page: 18557
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive Nominations Confirmed by the Senate July 17, 2003:
+
+
+                             THE JUDICIARY
+
+       ALLYSON K. DUNCAN, OF NORTH CAROLINA, TO BE UNITED STATES 
+     CIRCUIT JUDGE FOR THE FOURTH CIRCUIT.
+       LOUISE W. FLANAGAN, OF NORTH CAROLINA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE EASTERN DISTRICT OF NORTH CAROLINA.
+```
