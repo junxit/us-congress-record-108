@@ -1,0 +1,35 @@
+---
+granule: CRECB-2003-pt10-Pg14100-3
+date: 2003-06-09
+edition: CRECB
+section: SENATE
+page: 14100
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate June 9, 2003:
+
+
+                             THE JUDICIARY
+
+       ROBERT CLIVE JONES, OF NEVADA, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE DISTRICT OF NEVADA, VICE DAVID W. HAGEN, 
+     RETIRING.
+       PHILLIP S. FIGA, OF COLORADO, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE DISTRICT OF COLORADO, VICE RICHARD P. MATSCH, 
+     RETIRING.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       JACK LANDMAN GOLDSMITH III, OF VIRGINIA, TO BE AN ASSISTANT 
+     ATTORNEY GENERAL, VICE JAY S. BYBEE, RESIGNED.
+       CHRISTOPHER A. WRAY, OF GEORGIA, TO BE AN ASSISTANT 
+     ATTORNEY GENERAL, VICE MICHAEL CHERTOFF.
+
+                          ____________________
+```
